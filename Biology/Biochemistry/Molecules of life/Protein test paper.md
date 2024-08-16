@@ -1,0 +1,2 @@
+- Dip the test paper strip into a liquid sample (in spot tile) and remove it immediately.
+- There will be a distinctive colour change that depends on the colour chart.

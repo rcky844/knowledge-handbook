@@ -1,0 +1,5 @@
+- **Substance tested**: Glucose
+- **Procedure**:
+	- Dip the test paper strip into a liquid sample and remove it immediately.
+- **Positive results**:
+	- There will be a distinctive colour change that depends on the colour chart.

@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "Assets",
+  "userIgnoreFilters": [
+    "Assets/"
+  ]
+}

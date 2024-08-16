@@ -1,0 +1,6 @@
+Changelogs for the Biology section
+
+[Import from Biology_Concepts.odt]
+- By Aug 15, 2024: 3 - 7, 25, 30 - 33, 35 - 38
+- By Aug 16, 2024: 8 - 21, 26
+  Note that Mitochondrion is not yet added because it is a part of Respiration (P.10)
