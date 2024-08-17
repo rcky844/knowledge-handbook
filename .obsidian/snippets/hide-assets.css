@@ -1,5 +1,7 @@
 div[data-path$='Biology/Assets'],
-div[data-path$='Biology/Assets'] + div.nav-folder-children
+div[data-path$='Biology/Assets'] + div.nav-folder-children,
+div[data-path$='Chemistry/Assets'],
+div[data-path$='Chemistry/Assets'] + div.nav-folder-children
 {
     display: none;
 }

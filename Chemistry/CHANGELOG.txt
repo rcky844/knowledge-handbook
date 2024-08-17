@@ -1,0 +1,4 @@
+Changelogs for the Chemistry section
+
+[Import from Chemistry_Concepts.odt]
+- By Aug 17, 2024: 4 (partially)
