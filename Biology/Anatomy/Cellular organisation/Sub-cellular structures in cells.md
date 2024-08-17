@@ -44,6 +44,5 @@ Chloroplast > Mitochondrion > Endoplasmic reticulum > Ribosome
 | Number of cells | Unicellular | Multicellular / Unicellular |
 | Cell wall | Not made of cellulose | Made up of cellulose (in plants) |
 | Examples | Bacteria | Animals, plants, fungi |
-![[bacteria_structure.webp|420]]
-- Some eukaryotes have slimy capsule outside the cell wall to provide extra protection.
 
+Some prokaryotes (e.g. [[Types of pathogens#Bacteria|bacteria]]) have slimy capsule outside the cell wall to provide extra protection.

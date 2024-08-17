@@ -1,3 +1,5 @@
+![[List article!]]
+
 1. [[Diffusion]]
    Net movement of particles from a region of higher concentration to a region of lower concentration (i.e. down a concentration gradient). No membrane needed.
 
