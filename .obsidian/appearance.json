@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "default"
+    "default",
+    "hide-assets"
   ],
   "interfaceFontFamily": "Trebuchet MS",
   "textFontFamily": "Trebuchet MS"
