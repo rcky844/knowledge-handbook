@@ -1,9 +1,10 @@
-**Mitotic cell division** involves mitosis (division of the nucleus) and [[Cytokinesis]] (division of the cytoplasm) to form two daughter cells. Each daughter cells are genetically identical to each other and to the parent cell, as they receive a copy of every chromosome of the parent cell.
+**Mitotic cell division** involves mitosis (division of the nucleus) and [[cytokinesis]] (division of the cytoplasm) to form two daughter cells. Each daughter cells are genetically identical to each other and to the parent cell, as they receive a copy of every chromosome of the parent cell.
 
 #### Stages of mitosis
 ##### Prophase
 ![[mitosis_prophase.webp|300]]
-- Replicated DNA coils up tightly into chromosomes. Each [[chromosome]] is visible as two sister chromatids attached at the centromere.
+- Replicated DNA coils up tightly into chromosomes.
+  Each [[chromosome]] is visible as two sister chromatids attached at the centromere.
 - The nuclear membrane breaks down.
 - Spindle fibres start to form.
 
@@ -24,13 +25,16 @@
 - A nuclear membrane forms around each group of daughter chromosomes. This is followed by [[Cytokinesis]], forming two diploid daughter cells.
 
 
+<hr>
+
 #### Changes during mitotic cell division
 ![[mitosis_graph.webp|400]]
 
-|   Chromosome   | Interphase | Prophase | Metaphase | Anaphase | Telophase | Cytokinesis |
+|                | Interphase | Prophase | Metaphase | Anaphase | Telophase | Cytokinesis |
 | :------------: | :--------: | :------: | :-------: | :------: | :-------: | :---------: |
 | **Chromatid**  |     0      |    4n    |    4n     |    0     |     0     |      0      |
 | **DNA / Cell** |  2n → 4n   |    4n    |    4n     |    4n    |    4n     |   4n → 2n   |
+Chromosome number ⤴
 
 #### Significance of mitotic cell division
 The two daughter cells formed by mitotic cell division are genetically identical to the parent cell and have the same function. The following is a list of significant reasons for this:
