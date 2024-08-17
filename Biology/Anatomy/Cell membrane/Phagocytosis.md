@@ -8,4 +8,6 @@ During the process, the cell membrane folds in to form a pit and extends out to 
 
 #### Importance
 - Helps with body defence against diseases in white blood cells (phagocytes).
+  See "[[Phagocytosis (body defence)]]"
+
 - As a means of feeding used by some unicellular organisms (e.g. *Amoeba*).
