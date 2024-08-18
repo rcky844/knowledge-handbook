@@ -8,5 +8,6 @@ Changelogs for the Biology section
   Independent assortment is not held but missing stuff from real genetics
   Random fusion of gametes at fertilisation ack as above
   Please replace bacteria link to the one about Biodiversity when completed
-- By Aug, 18, 2024: 183 - 187, 189
+- By Aug, 18, 2024: 183 - 187, 189, 192 - 195
   Diabetes mellitus has to wait for other sections
+  Missing thymus gland
