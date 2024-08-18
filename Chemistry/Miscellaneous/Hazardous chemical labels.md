@@ -50,3 +50,7 @@
 - Halogens
 - Dilute acids
 - Dilute alkalis
+
+##### Safety precautions
+- Perform the experiment in a fume cupboard. (e.g. CO, Cl<sub>2</sub>)
+- Wear safety gloves and safety goggles.
