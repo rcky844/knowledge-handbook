@@ -36,8 +36,9 @@
 	- Used in the synthesis of lipid hormones.
 	- Needed for making vitamin D.
 
-### Tests
+#### Tests
 - [[Grease spot test]]
+- [[Lipid test with ethanol]]
 
 #### See also
 - [[Lipids (Photosynthesis)]]

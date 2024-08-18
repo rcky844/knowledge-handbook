@@ -1,14 +1,6 @@
-![[grease_spot_test.avif]]
-
-- Mix the food sample with **4 cm<sup>3</sup> of ethanol** and shake
-- Allow time for the sample to dissolve in the ethanol
-- Strain the ethanol solution into another test tube
-- Add the ethanol solution to an equal volume of **cold distilled water (4 cm<sup>3</sup>)**
-
-- A positive test will show a **cloudy emulsion** forming
-
-<hr>
-
-#### Textbook says:
-
-- Lipids leave a translucent spot on filter paper, which disappears when immersed in an organic solvent.
+- **Substance tested**: Lipids
+- **Procedure**:
+	- Add a drop of the sample to a piece of filter paper.
+	- Treat it with an organic solvent and observe against light.
+- **Positive results**:
+	- Lipids leave a translucent spot on filter paper, which disappears when immersed in an organic solvent.

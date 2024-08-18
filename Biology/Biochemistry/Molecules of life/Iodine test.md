@@ -2,6 +2,6 @@
 
 - **Substance tested**: Starch
 - **Procedure**:
-	- Add the iodine solution into the sample.
+	- Add a few drops of iodine solution into the sample.
 - **Positive results**:
 	- Iodine solution turns from brown to blue-black.

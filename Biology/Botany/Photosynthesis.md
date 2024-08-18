@@ -1,4 +1,4 @@
-**Photosynthesis** is the process by which plants and other autotrophs (e.g. algae) use energy from sunlight (light energy) to convert carbon dioxide and water to carbohydrates (e.g. glucose) as food and releasing oxygen as a by-product.
+**Photosynthesis** is the process by which plants and other [[Heterotrophs and autotrophs#Autotrophs|autotrophs]] (e.g. algae) use energy from sunlight (light energy) to convert carbon dioxide and water to carbohydrates (e.g. glucose) as food and releasing oxygen as a by-product.
 
 ![[photosynthesis_abstract.webp|360]]
 
