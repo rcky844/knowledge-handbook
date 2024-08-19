@@ -1,5 +1,3 @@
-![[List article!]]
-
 **Digestion** is a process by which large food molecules are broken down into smaller, soluble molecules. It begins in the mouth cavity, and continues in the stomach and the small intestine.
 
 **Absorption** occurs in the small intestine and the large intestine.
