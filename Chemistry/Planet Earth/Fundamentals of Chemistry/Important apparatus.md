@@ -1,6 +1,6 @@
 | ![[test_tube.webp\|100]] | ![[evaporating_dish.webp\|100]] | ![[beaker.webp\|100]] |
-| :----------------------: | :-----------------------------: | :--------------: |
-| Test tube / Boiling tube |        Evaporating dish         |      Beaker      |
+| :----------------------: | :-----------------------------: | :-------------------: |
+| Test tube / Boiling tube |        Evaporating dish         |        Beaker         |
 
 | ![[tripod.webp\|100]] | ![[crucible.webp\|100]] | ![[stand_clamp.webp\|100]] |
 | :-------------------: | :---------------------: | :------------------------: |
