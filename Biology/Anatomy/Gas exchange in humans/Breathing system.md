@@ -10,6 +10,7 @@ nostril → nasal cavity → pharynx → larynx → trachea → bronchus → bro
 2. [[Pharynx and larynx]]
 3. [[Trachea, bronchi and bronchioles]]
 4. [[Lungs and associated structures]]
+5. [[Air sacs]]
 
 #### Processes
 1. [[Gas exchange in the air sacs]]

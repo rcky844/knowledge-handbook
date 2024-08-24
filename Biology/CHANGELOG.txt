@@ -13,4 +13,5 @@ Changelogs for the Biology section
   Missing thymus gland
   Need to compare information about food tests
 - By Aug 19, 2024: 58 - 63
-- By Aug 24, 2024: 64 - 68
+- By Aug 24, 2024: 64 - 69
+  Checks on the final notes needed, also need more commentary on the graphs
