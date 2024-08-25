@@ -1,11 +1,11 @@
-**Meiotic cell division** involves meiosis (division of the nucleus) and [[cytokinesis]] (division of the cytoplasm) to form four genetically different, haploid daughter cells. This occurs in gamete-producing cells in reproductive organs.
+**Meiotic cell division** involves meiosis (division of the nucleus) and [[Cytokinesis]] (division of the cytoplasm) to form four genetically different, haploid daughter cells. This occurs in gamete-producing cells in reproductive organs.
 
 #### Stages of meiosis
 ##### First meiotic cell division (meiosis I): homologous chromosomes separate
 ###### Prophase I
 ![[meiosis_prophase_i.webp|300]]
 - Replicated DNA coils tightly into chromosomes.
-  Each [[chromosome]] is visible as two sister chromatids.
+  Each [[Chromosome]] is visible as two sister chromatids.
 - Homologous chromosome pair up.
 - The chromatids of the homologous pair may exchange segments with each other by [[Crossing over]].
 - The nuclear membrane breaks down.
@@ -38,13 +38,13 @@
 
 ###### Anaphase II
 ![[meiosis_anaphase_ii.webp|300]]
-- The spindle fibres shorten and pull the sister chromatids of each [[chromosome]] apart, moving them towards opposite poles of the cell.
+- The spindle fibres shorten and pull the sister chromatids of each [[Chromosome]] apart, moving them towards opposite poles of the cell.
 - The separated chromatids are now called daughter chromosomes.
 
 ###### Telophase II
 ![[meiosis_telophase_ii.webp|300]]
 - The spindle fibres break down.
-- A nuclear membrane forms around each group of daughter chromosomes. This is followed by [[cytokinesis]], four haploid daughter cells are formed.
+- A nuclear membrane forms around each group of daughter chromosomes. This is followed by [[Cytokinesis]], four haploid daughter cells are formed.
 	- Each cell contains one member of each homologous pair and only half the chromosomes of the parent cell and are genetically different.
 - The chromosomes loosen to become chromatin again.
 

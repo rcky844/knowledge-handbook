@@ -5,7 +5,7 @@ It is normally visible under a light microscope only during the metaphase of cel
 #### Role in cell division
 ![[chromosome_cartoonish.webp|250]]
 
-In [[interphase]], each chromosome is duplicated (DNA is replicated). When the cell is about to divide at the beginning of [[nuclear division]] (prophase), the [[Interphase#Under light microscope|chromatin]] coils tightly into a chromosome. Each [[chromosome]] is visible as a X-shaped structure made up of two chromatids joined together at the centromere. The joined copies are now referred to as sister chromatids (as they are identical copies of each other).
+In [[Interphase]], each chromosome is duplicated (DNA is replicated). When the cell is about to divide at the beginning of [[Nuclear division]] (prophase), the [[Interphase#Under light microscope|chromatin]] coils tightly into a chromosome. Each [[Chromosome]] is visible as a X-shaped structure made up of two chromatids joined together at the centromere. The joined copies are now referred to as sister chromatids (as they are identical copies of each other).
 
 During cell division, genetic information is carried by DNA (deoxyribonucleic acid) to be passed from a parent cell to the daughter cells.
 

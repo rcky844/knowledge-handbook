@@ -1,10 +1,10 @@
-**Mitotic cell division** involves mitosis (division of the nucleus) and [[cytokinesis]] (division of the cytoplasm) to form two daughter cells. Each daughter cells are genetically identical to each other and to the parent cell, as they receive a copy of every chromosome of the parent cell.
+**Mitotic cell division** involves mitosis (division of the nucleus) and [[Cytokinesis]] (division of the cytoplasm) to form two daughter cells. Each daughter cells are genetically identical to each other and to the parent cell, as they receive a copy of every chromosome of the parent cell.
 
 #### Stages of mitosis
 ##### Prophase
 ![[mitosis_prophase.webp|300]]
 - Replicated DNA coils up tightly into chromosomes.
-  Each [[chromosome]] is visible as two sister chromatids attached at the centromere.
+  Each [[Chromosome]] is visible as two sister chromatids attached at the centromere.
 - The nuclear membrane breaks down.
 - Spindle fibres start to form.
 
