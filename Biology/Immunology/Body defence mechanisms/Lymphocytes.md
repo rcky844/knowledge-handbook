@@ -1,3 +1,5 @@
+*See also: [[White blood cells]]*
+
 **Lymphocytes** are cells responsible for identifying foreign antigens and producing an immune response.
 
 After becoming mature, lymphocytes circulate in the blood and lymph, or are stored in lymph glands and other lymphatic organs.
@@ -9,14 +11,13 @@ When an antigen of a pathogen binds to a lymphocyte with the matching receptor, 
 #### Types of lymphocytes
 The diagram below shows the major types of lymphocytes:
 ![[lymphocytes_types.webp|450]]
-- **B cells**: Produced and mature in the [[bone marrow]], mainly involved with [[Antibiodies|antibody]] production.
+- **B cells**: Produced and mature in the [[bone marrow]], mainly involved with [[Antibodies|antibody]] production.
 - **T cells**: Produced in the bone marrow but mature in the [[thymus gland]], responsible for producing cell-mediated immune response. (relies mainly on actions of white blood cells)
 
 ##### B cells
 When a B cell becomes activated, it divides repeatedly to form many identical cells, and differentiating into two different types of cells:
 - **Plasma cells**: Secrete [[antibodies]] into blood, tissue fluid and lymph to act against the invading pathogen. Responsible for humoral immunity.
 - **Memory B cells**: Memorise the pathogen, allowing for a quicker immune response if the same antigen enters the body again.
-
 ##### T cells
 There are three major types of T cells:
 - **Helper T cells**: Helps coordinate the immune response. When it becomes activated, it releases chemicals called [[lymphokines]].

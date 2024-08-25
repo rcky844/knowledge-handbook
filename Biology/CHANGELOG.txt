@@ -2,16 +2,27 @@ Changelogs for the Biology section
 
 [Import from Biology_Concepts.odt]
 - By Aug 15, 2024: 3 - 7, 25, 30 - 33, 35 - 38
+
 - By Aug 16, 2024: 8 - 21, 26
   Note that Mitochondrion is not yet added because it is a part of Respiration (P.10)
+
 - By Aug 17, 2024: 22 - 24, 27 - 29, 175 - 182, 190 - 191
   Independent assortment is not held but missing stuff from real genetics
   Random fusion of gametes at fertilisation ack as above
   Please replace bacteria link to the one about Biodiversity when completed
+
 - By Aug 18, 2024: 53 - 57, 183 - 187, 189, 192 - 195
   Diabetes mellitus has to wait for other sections
   Missing thymus gland
   Need to compare information about food tests
+
 - By Aug 19, 2024: 58 - 63
+
 - By Aug 24, 2024: 64 - 69
   Checks on the final notes needed, also need more commentary on the graphs
+
+- By Aug 25, 2024: 70 - 82
+  Please checkout the Aristo textbook related to this section for stuff related to
+  mode of transport (?), could be referenced at the questions.
+
+  Info about lymph nodes on the immune system is needed.

@@ -2,7 +2,7 @@
 ![[assimilation_route.avif|450]]
 After entering the bloodstream in the small intestine, monosaccharides, amino acids and other water-soluble food substances are transported to the liver by blood through the hepatic portal vein.
 
-The liver may store or process food molecules, it returns to the bloodstream through the hepatic vein when released from the liver. Lipids absorbed from the small intestine are transported by the lymph in the [[lymphatic system]] and empties into blood vessels near the heart.
+The liver may store or process food molecules, it returns to the bloodstream through the hepatic vein when released from the liver. Lipids absorbed from the small intestine are transported by the lymph in the [[Lymphatic system]] and empties into blood vessels near the heart.
 
 All absorbed food molecules finally enter the bloodstream and are transported to different parts of the body for [[respiration]] to release energy or storage.
 
