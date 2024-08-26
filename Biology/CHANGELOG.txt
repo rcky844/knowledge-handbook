@@ -26,3 +26,12 @@ Changelogs for the Biology section
   mode of transport (?), could be referenced at the questions.
 
   Info about lymph nodes on the immune system is needed.
+
+- By Aug 26, 2024: 83 - 101
+  Please confirm the "This is called fertilization" phrase in both flowering plants
+  and humans sexual reproduction.
+
+  Please consider the genetic composition of placenta tissues, and its property as
+  a lung for the fetus.
+
+  Some description for "Birth control methods" is skipped.

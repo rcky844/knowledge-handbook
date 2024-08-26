@@ -20,3 +20,6 @@ Vegetative parts of plants form storage organs underground, swollen with food re
 
 - **Spore formation in fungi** (e.g. Bread mould)
   Reproduces by forming spores which can be carried over long distances by wind and will develop into a new fungus under suitable conditions.
+
+#### See also
+- [[Significance of asexual and sexual reproduction in flowering plants]]
