@@ -18,6 +18,7 @@ Organisms remove wastes produced by metabolic reactions occurring in their bodie
 	- Excreted as resin.
 
 ##### Sensitivity (Irritability)
+*Main article: [[Irritability]]*
 Organisms can detect stimuli and produce appropriate responses accordingly.
 - **Animals**: Have sensory organs to detect and muscular systems to respond to stimuli.
 - **Plants**: Detect and grow towards light and water.

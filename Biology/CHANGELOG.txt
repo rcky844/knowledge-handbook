@@ -36,6 +36,6 @@ Changelogs for the Biology section
 
   Some description for "Birth control methods" is skipped.
 
-- By Aug 27, 2024: 37 - 47
+- By Aug 27, 2024: 37 - 47, 110 - 112
   Guard cells fact check needed, also need to validate old comments
   Check light intensity x sunlight claim
