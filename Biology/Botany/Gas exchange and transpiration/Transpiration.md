@@ -70,3 +70,7 @@ When light is not available for [[photosynthesis]] or the plant becomes [[Water 
 
 **Distribution of stomata**
 The upper epidermis usually has fewer stomata than the lower epidermis. This is because the upper surface of the leaves is directly lit by sunlight and its temperature will be higher. Having fewer stomata on the upper epidermis reduces the transpiration rate of the leaves.
+
+#### See also
+- [[Transport of substances]]
+- [[Support in plants]]
