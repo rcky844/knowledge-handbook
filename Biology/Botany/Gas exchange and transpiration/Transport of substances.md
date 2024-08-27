@@ -51,7 +51,7 @@ The **translocation of organic nutrients** takes place through the phloem.
 
 ##### Ringing experiment
 > **TODO**: This part is currently in consideration for addition for the following reason:
-> *The experiment could be used to demonstrate the position of the vasculat tissues.*
+> *The experiment could be used to demonstrate the position of the vascular tissues.*
 
 #### See also
 - [[Nutrition in plants]]
