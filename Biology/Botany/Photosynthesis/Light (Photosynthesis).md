@@ -43,7 +43,7 @@ Note that:
 
 1. When there is no light, no photosynthesis takes place.
 
-2. At low light intensities, the light intensity (a limiting factor) limits the rate of photosynthesis. As the light intensity increases, more energy is supplied to the [[photochemical reactions]] and stomata open wider to allow carbon dioxide (a substrate for [[carbon fixation]]) to diffuse into the leaves. Therefore, the rate of photosynthesis increases.
+2. At low light intensities, the light intensity (a limiting factor) limits the rate of photosynthesis. As the light intensity increases, more energy is supplied to the [[Photochemical reactions]] and stomata open wider to allow carbon dioxide (a substrate for [[Carbon fixation]]) to diffuse into the leaves. Therefore, the rate of photosynthesis increases.
 
 3. At a certain light intensity, photosynthesis reaches its maximum rate (saturation point).
    The light intensity at the saturation point is called optimum light intensity.
