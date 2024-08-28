@@ -39,3 +39,5 @@ Changelogs for the Biology section
 - By Aug 27, 2024: 37 - 47, 110 - 112
   Guard cells fact check needed, also need to validate old comments
   Check light intensity x sunlight claim
+
+- By Aug 28, 2024: 113 - 117
