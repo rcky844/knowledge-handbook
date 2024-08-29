@@ -97,10 +97,53 @@ Image formed on the blind spot is not visible because it has no photoreceptors t
 
 #### Eye defects
 ##### Short sight
+![[short_sight.webp|150]]
 **Short sight** is a defect that causes a person see near objects more clearly than distant objects. It occurs when either the <u>eyeball is too long</u> or that the <u>lens is too thick</u>, or a combination of both.
 
+> **Note**:
+> - People with severe short sight have a higher risk for retinal detachment. This happens as the eyeball continues to lengthen, pulling the retina away from the choroid.
+> - Since retina contains light sensitive cells and obtains nutrients / oxygen from choroid, light sensitive cells will die and light falling on retina cannot be detected, no nerve impulse can be produced. Therefore, vision is impaired.
+
+**Effects**:
+- Light rays from nearby objects focus correctly.
+  ![[short_sight_nearby.webp|280]]
+
+- Light rays from distant objects are focused in front of the retina, resulting in a blurred image on the retina.
+  ![[short_sight_distant.webp|280]]
+
+**Correction method**:
+- By wearing glasses containing concave (diverging) lenses.
+- Light rays from distant objects are diverged before entering the eyes, allowing the image to be bright back into focus on the retina.
+  ![[short_sight_corr.webp|280]]
+
 ##### Long sight
+![[long_sight.webp|150]]
 **Long sight** is a defect that causes a person see distant objects more clearly than near objects. It occurs when either the <u>eyeball is too short</u> or that the <u>lens is too thin</u>, or a combination of both.
 
+**Effects**:
+- Light rays from near objects are focused behind the retina, resulting in a blurred image on the retina.
+  ![[long_sight_near.webp|280]]
+
+- Light rays from distant objects focus correctly.
+  ![[long_sight_distant.webp|280]]
+
+**Correction method**:
+- By wearing glasses containing convex (converging) lenses.
+- Light rays from near objects are converged before entering the eyes, a sharp image is formed on the retina.
+  ![[long_sight_corr.webp|280]]
+
 ##### Colour blindness
-**Colour blindness** is caused by the poor functioning or a deficiency of one or more types of cone cells.
+![[color_blindness.webp|400]]
+**Colour blindness** is an inability to distinguish some or all colours. It is caused by the poor functioning or a deficiency of one or more types of cone cells. Colour blindness is an inherited eye defect. In rare cases, it can be caused by damage to the retina or the brain.
+
+Red-green colour blindness is the most common type of colour blindness in humans, the person would not be able to distinguish red and green because of poor functioning or deficiency of red or green cone cells. Total colour blindness is rare in humans.
+
+There is currently no cure for colour blindness, but colour-blind people generally live a normal life. Mild forms of colour blindness are often not recognized by the person concerned.
+
+Colour blindness can be detected using test cards:
+![[color_blind_test.webp]]
+
+Although there are no correction methods, there are aids available to improve the vision. Below lists some examples:
+- Wear glasses with special filter lenses to help one see more accurately.
+- Mobile phone applications that help colour-blind people see colours using the camera of their smartphones.
+

@@ -41,3 +41,5 @@ Changelogs for the Biology section
   Check light intensity x sunlight claim
 
 - By Aug 28, 2024: 113 - 117
+
+- By Aug 29, 2024: 118 - 119
