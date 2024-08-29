@@ -23,3 +23,4 @@ Receptors convert stimuli into <u>nerve impulses</u> that travel along a nerve t
 - [[Human eye]]
 - [[Human ear]]
 - [[Phototropic response]]
+- [[Coordination]]
