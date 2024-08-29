@@ -17,3 +17,6 @@ The human nervous system can be divided into two parts:
 2. [[Central nervous system]] (CNS)
 3. [[Reflex actions]]
 4. [[Voluntary actions]]
+
+#### See also
+- [[Comparing nervous coordination and hormonal coordination]]
