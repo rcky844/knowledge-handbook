@@ -70,4 +70,4 @@ The chemical produced by the tip passes down the shaded side of the coleoptile.
 ![[auxins_exp5.webp|600]]
 
 **Conclusions**:
-Unilateral light had caused an uneven distribution of the chemical ([[auxins]]) and the shaded side had a higher concentration of the chemical.
+Unilateral light had caused an uneven distribution of the chemical ([[Auxins]]) and the shaded side had a higher concentration of the chemical.

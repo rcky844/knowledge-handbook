@@ -22,4 +22,4 @@ Receptors convert stimuli into <u>nerve impulses</u> that travel along a nerve t
 #### Examples
 - [[Human eye]]
 - [[Human ear]]
-- [[Phototropic response in plants]]
+- [[Phototropic response]]

@@ -1,6 +1,6 @@
 *See also: [[Auxins]]*
 
-**Phototropism** is the directional growth movement of a plant part in response to unilateral light. It is controlled by [[auxins]].
+**Phototropism** is the directional growth movement of a plant part in response to unilateral light. It is controlled by [[Auxins]].
 
 |                     |                                             Shoots                                              |                              Roots                              |
 | :-----------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
