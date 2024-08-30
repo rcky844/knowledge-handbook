@@ -4,4 +4,4 @@
 In humans, coordination is carried out by two body systems:
 - [[Nervous system]]: Responsible for nervous coordination.
 - [[Endocrine system]]: Responsible for hormonal coordination.
-	- *See also: [[homeostasis]]*
+	- *See also: [[Homeostasis]]*
