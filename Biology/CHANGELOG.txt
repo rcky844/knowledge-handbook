@@ -45,6 +45,6 @@ Changelogs for the Biology section
 - By Aug 29, 2024: 118 - 138
   Consider processing 'Consider updating' comment at P.121
 
-- By Aug 29, 2024: 139 - 150
+- By Aug 29, 2024: 102 - 109, 139 - 150
   Consider processing 'May want rework' comment at P.148
   TODO for Diabetes mellitus – failure in blood glucose regulation

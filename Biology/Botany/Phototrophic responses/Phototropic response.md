@@ -6,3 +6,5 @@
 | :-----------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | **Growth response** |                            Towards light<br>(positive phototropism)                             |           Away from light<br>(negative phototropism)            |
 |  **Significance**   | Brings the leaves to face the light source to obtain maximum amount of light for photosynthesis | Enables the roots to grow downwards into the soil for anchorage |
+#### See also
+- [[Growth and development]]

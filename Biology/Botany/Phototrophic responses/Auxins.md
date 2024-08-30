@@ -1,6 +1,6 @@
 **Auxins** are a group of plant hormones produced in the apical meristem at the tip of shoots and roots. They are transported to the regions of elongation, stimulating the cells to elongate and hence promote growth.
 
-#### Mechanisms of phototrophic responses in shoots and roots
+#### Mechanisms of phototropic responses in shoots and roots
 When the plant is illuminated from all directions:
 ![[phototrophic_all.webp|500]]
 - Auxins are produced in the shoot tip and root tip.
