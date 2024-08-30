@@ -30,3 +30,4 @@ Below lists some examples of endocrine glands:
 
 #### See also
 - [[Comparing nervous coordination and hormonal coordination]]
+- [[Homeostasis]]

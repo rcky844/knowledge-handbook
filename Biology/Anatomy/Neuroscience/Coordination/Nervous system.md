@@ -13,7 +13,7 @@ The human nervous system can be divided into two parts:
 	- **Spinal nerves** arise from the spinal cord, linking the spinal cord with receptors and effectors in the rest of the body.
 
 #### Sections
-1. [[Nerounes]]
+1. [[Neurones]]
 2. [[Central nervous system]] (CNS)
 3. [[Reflex actions]]
 4. [[Voluntary actions]]

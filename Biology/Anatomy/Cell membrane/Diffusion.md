@@ -1,12 +1,12 @@
 ![[diffusion_diagram.webp|450]]
 In **diffusion**, molecules will move down a conc. gradient from a region of higher conc. to a region of lower conc. until they are evenly distributed (achieved [[equilibrium]]). The process takes place passively and depends on kinetic energy. The rate of diffusion is directly proportional to the concentration gradient.
 
-Diffusion is used mostly for the movement of gases in biology (e.g. [[gas exchange]] in [[lungs]]).
+Diffusion is used mostly for the movement of gases in biology (e.g. [[Gas exchange in the air sacs|gas exchange|]] in [[Lungs and associated structures|lungs]]).
 It doesn't require energy from respiration, nor does it require a membrane.
 
 #### Across a membrane
 - Small and non-polar molecules (e.g. oxygen, carbon dioxide) diffuse directly through the bilayer down a conc. gradient without using ATP from respiration in the cell.
-- Polar molecules (e.g. [[amino acids]], [[Carbohydrates#Monosaccharides|glucose]]) diffuse through [[Membrane proteins|channel proteins or carrier proteins]] without using energy from respiration in the cell in a process called facilitated diffusion.
+- Polar molecules (e.g. [[Proteins|amino acids]], [[Carbohydrates#Monosaccharides|glucose]]) diffuse through [[Membrane proteins|channel proteins or carrier proteins]] without using energy from respiration in the cell in a process called facilitated diffusion.
 
 #### Importance to organisms
 - Useful substances (e.g. oxygen, nutrients in extracellular fluid) can diffuse into the cells.

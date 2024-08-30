@@ -3,7 +3,7 @@ The **lungs** are two spongy, pinkish organs close to the heart in the thoracic 
 
 #### Structures to protect the lungs and aid breathing
 ![[lungs_protection1.avif|400]]
-As the lungs contain no muscles and are not able to expand or contract on their own. Instead, breathing is brought about by the movements of intercostal muscles (rib cage) and the diaphragm.
+As the lungs contain no muscles and are not able to expand or contract on their own. Instead, breathing is brought about by the movements of intercostal muscles ([[Human skeleton#Rib cage|rib cage]]) and the diaphragm.
 
 The lungs are surrounded and protected by the rib cage, which is formed by 12 pairs of ribs, the sternum and the vertebral column. The intercostal muscles lie between them.
 
