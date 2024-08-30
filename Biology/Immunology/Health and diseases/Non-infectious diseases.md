@@ -7,7 +7,6 @@ These diseases can be related to lifestyle, as some risk factors can increase th
 2. [[Cardiovascular diseases]]
 3. [[Diabetes mellitus]]
 
-
 #### Risk factors
 - **Biological risk factors**: Ageing, family history, gender, genetics
 - **Environmental risk factors**: Presence of certain chemicals in the environment

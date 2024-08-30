@@ -60,7 +60,7 @@ In humans, it operates with interactions of three components:
 > The lungs and the heart receive signals from the brain to change the breathing rate and heart rate when necessary.
 
 ##### Glucose level in the blood
-Main article: [[]]
+Main article: [[Blood glucose levels and regulation]]
 
 - **Importance** **for keeping the parameter stable**:
   Provides a sufficient supply of glucose for cells to carry out respiration in order to obtain energy.
