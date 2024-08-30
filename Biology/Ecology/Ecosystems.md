@@ -3,26 +3,32 @@
 1. [[Levels of organization]]
 
 2. Concept of ecosystem
-	- [[Characteristics of ecosystem|Characteristics]]
+	- [[Characteristics of ecosystem]]
 	- [[Major types of ecosystems]]
 
 3. Components of an ecosystem
-	- Abiotic factors
+	- [[Abiotic factors]]
 	- Biotic community
-		- Habitat and niche
-		- Species diversity
-		- Relationships between organisms (symbiosis)
-		- Ecological succession
+		- [[Habitat and niche]]
+		- [[Species diversity]]
+		- [[Relationships between organisms]] (symbiosis)
+		- [[Ecological succession]]
+
+---
 
 4. Energy flow
-	- Source of energy
-	- Energy flow
-	- Ecological pyramids
+	- [[Source of energy]]
+	- [[Energy flow between different trophic levels]]
+	- [[Ecological pyramids]]
 
 5. Material cycling
-	- Carbon Cycle
-	- Nitrogen Cycle
+	- [[Carbon Cycle]]
+	- [[Nitrogen Cycle]]
 
-6. Conservation of ecosystem
+→ [[Summary for energy flow and material cycling]]
 
-7. Study of a local habitat
+---
+
+6. [[Conservation of ecosystem]]
+
+7. [[Study of a local habitat]]
