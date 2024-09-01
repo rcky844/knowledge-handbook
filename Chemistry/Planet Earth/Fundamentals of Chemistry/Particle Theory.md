@@ -32,3 +32,11 @@ Change of states is an example of physical change.
 - Melting, evaporation and sublimation are all <u>endothermic</u> reactions, as these types of state changes <u>increase the temperature</u>.
 - Freezing, condensation and deposition are all <u>exothermic</u> reactions, as these types of state changes <u>decrease the temperature</u>.
 
+##### Relationship between temperature and physical states
+Take water as an example:
+![[temp_phystate.webp]]
+
+At any temperature $x$°C, the following conditions are true:
+- If (s): $x$ < m.p.
+- If (ℓ): b.p. > $x$ > m.p.
+- If (g): $x$ > b.p.
