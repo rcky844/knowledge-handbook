@@ -20,6 +20,7 @@
 - Heavy metals (e.g. Lead, Mercury)
 - Lead compounds
 - Tetrachloromethane
+- Dioxin, Nicotine
 
 #### Explosive
 ![[label_explosive.webp|100]]

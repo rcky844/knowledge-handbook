@@ -1,6 +1,6 @@
 Matter is anything that has a <u>mass</u> and <u>occupies space</u>. It can be classified into pure substance and mixture.
 
-![[substances_clasidia.webp|400]]
+![[substances_clasidia.webp|300]]
 
 > **Note**:
 > Comparing pure substances and mixture, pure substances would have sharp physical properties (such as boiling point and melting point) while mixtures do not.
@@ -14,7 +14,7 @@ Matter is anything that has a <u>mass</u> and <u>occupies space</u>. It can be c
 - Distilled water (H<sub>2</sub>O)
 
 ##### Elements
-**Elements** are substances which cannot be broken down into anything simpler by chemical methods. Substances that can be broken down into simpler substances by electricity, for example, is not an element.
+**Elements** are substances which <u>cannot be broken down into anything simpler by chemical methods</u>. Substances that can be broken down into simpler substances by electricity, for example, are not elements.
 
 **Examples**:
 - Carbon (C)
@@ -22,7 +22,7 @@ Matter is anything that has a <u>mass</u> and <u>occupies space</u>. It can be c
 - Copper (Cu)
 
 ##### Compounds
-**Compounds** are substances composed of two or more elements chemically joined together. They can be broken down into simpler substances by chemical methods.
+**Compounds** are substances composed of <u>two or more elements chemically joined together</u>. They can be broken down into simpler substances by chemical methods.
 
 **Examples**:
 - Sodium chloride (NaCl)
@@ -30,7 +30,7 @@ Matter is anything that has a <u>mass</u> and <u>occupies space</u>. It can be c
 - Ammonia (NH<sub>3</sub>)
 
 #### Mixtures
-**Mixtures** consists of <u>two or more pure substances</u> which are <u>not chemically joined together</u>. Different pure substances in mixtures can be separated by a physical method.
+**Mixtures** consists of <u>two or more pure substances</u> which are <u>not chemically joined together</u>. Different pure substances in mixtures can be <u>separated by a physical method</u>.
 
 **Examples**:
 - Soda water (CO<sub>2</sub> and H<sub>2</sub>O)

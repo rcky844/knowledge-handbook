@@ -5,4 +5,6 @@ Changelogs for the Chemistry section
 - By Aug 18, 2024: 4 - 6
 
 [Important from HKDSE Chemistry project]
-- By Aug 19, 2024: Topic I P.6-7
+- By Aug 19, 2024: Topic I P.6 - 7
+- By Aug 31, 2024: Topic I P.10 - 11, 13 - 16, 18 - 21
+- By Sep 01, 2024: Topic I P.25 - 31

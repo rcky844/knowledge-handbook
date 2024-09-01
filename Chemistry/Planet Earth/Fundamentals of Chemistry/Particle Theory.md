@@ -29,6 +29,6 @@ Change of states is an example of physical change.
 
 ![[state_change.webp|350]]
 
-- Melting, evaporation and sublimation are all <u>endothermic</u> reactions, as these types of state changes increase the temperature.
-- Freezing, condensation and deposition are all <u>exothermic</u> reactions, as these types of state changes decrease the temperature.
+- Melting, evaporation and sublimation are all <u>endothermic</u> reactions, as these types of state changes <u>increase the temperature</u>.
+- Freezing, condensation and deposition are all <u>exothermic</u> reactions, as these types of state changes <u>decrease the temperature</u>.
 
