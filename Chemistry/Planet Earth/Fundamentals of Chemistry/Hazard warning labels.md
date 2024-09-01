@@ -1,5 +1,5 @@
 #### Corrosive
-![[label_corrosive.webp]]
+![[label_corrosive.webp|100]]
 
 **Examples**
 - Concentrated acid (e.g. HCl, H<sub>2</sub>SO<sub>4</sub>, HNO<sub>3</sub>)
@@ -10,7 +10,7 @@
 - Halogens
 
 #### Toxic
-![[label_toxic.webp]]
+![[label_toxic.webp|100]]
 
 **Examples**
 - Methanol
@@ -22,7 +22,7 @@
 - Tetrachloromethane
 
 #### Explosive
-![[label_explosive.webp]]
+![[label_explosive.webp|100]]
 
 **Examples**
 - Ammonium nitrate (NH<sub>4</sub>NO<sub>3</sub>)
@@ -30,7 +30,7 @@
 - Hydrogen (H<sub>2</sub>)
 
 #### Flammable (Inflammable)
-![[label_flammable.webp]]
+![[label_flammable.webp|100]]
 
 **Examples**
 - Methanol, ethanol
@@ -40,7 +40,7 @@
 	- LPG and town gas
 
 #### Oxidizing
-![[label_oxidizing.webp]]
+![[label_oxidizing.webp|100]]
 
 **Examples**
 - Nitric acid
@@ -49,7 +49,7 @@
 - Oxygen (at high pressure)
 
 #### Irritant
- ![[bold_cross.webp|100]] ![[label_irritant.webp]]
+![[label_irritant.webp|100]]
 
 **Examples**
 - Halogens
@@ -57,7 +57,7 @@
 - Dilute alkalis
 
 #### Harmful
-![[bold_cross.webp|100]]
+![[label_harmful.webp|100]]
 
 **Examples**
 - Trichloromethane (CHCl<sub>3</sub>)
