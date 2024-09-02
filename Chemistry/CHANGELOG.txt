@@ -3,9 +3,10 @@ Changelogs for the Chemistry section
 [Import from Chemistry_Concepts.odt]
 - By Aug 17, 2024: 4 (partially)
 - By Aug 18, 2024: 4 - 6
+This has been partially cancelled as it has been combined with Import from HKDSE Chemistry project
 
-[Important from HKDSE Chemistry project]
+[Import from HKDSE Chemistry project]
 - By Aug 19, 2024: Topic I P.6 - 7
 - By Aug 31, 2024: Topic I P.10 - 11, 13 - 16, 18 - 21
 - By Sep 01, 2024: Topic I P.25 - 32, 34 - 40, 42
-- By Sep 02, 2024: Topic I P.41 - 42
+- By Sep 02, 2024: Topic I P.41, 44, 46 - 50

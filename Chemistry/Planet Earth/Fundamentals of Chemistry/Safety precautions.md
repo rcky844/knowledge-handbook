@@ -1,0 +1,2 @@
+- Perform the experiment in a fume cupboard. (e.g. $\ce{CO}$, **$\ce{Cl2}$)
+- Wear safety gloves and safety goggles.

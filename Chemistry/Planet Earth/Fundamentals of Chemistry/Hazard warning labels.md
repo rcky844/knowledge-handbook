@@ -70,7 +70,3 @@
 - Benzene ($\ce{C6H6}$)
 - Asbestos ($\ce{Mg7Si8O22(OH)2}$)
 - Beryllium ($\ce{Be}$)
-
-##### Safety precautions
-- Perform the experiment in a fume cupboard. (e.g. $\ce{CO}$, **$\ce{Cl2}$)
-- Wear safety gloves and safety goggles.
