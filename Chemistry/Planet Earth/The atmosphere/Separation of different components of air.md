@@ -16,11 +16,11 @@ Different components in air have different boiling points, they can be separated
 	- The liquefied air is pumped into the bottom of a fractionating column <u>with the bottom warmer than its top</u>.
 	- <u>When the temperature is higher than the boiling point of the component, the component would become gas and start vaporising up the column.</u>
 
-|   Fraction (component)   | Boiling point (°C) |
-| :----------------------: | :----------------: |
-| Nitrogen (N<sub>2</sub>) |        -196        |
-|        Argon (Ar)        |        -186        |
-|  Oxygen (O<sub>2</sub>)  |        -183        |
+| Fraction (component) | Boiling point (°C) |
+| :------------------: | :----------------: |
+| Nitrogen ($\ce{N2}$) |        -196        |
+|  Argon ($\ce{Ar}$)   |        -186        |
+|  Oxygen ($\ce{O2}$)  |        -183        |
 Table showing the boiling points of common air components ⤴️
 
 - Nitrogen and argon vaporise and rises up the tower, oxygen remains as liquid and is collected.

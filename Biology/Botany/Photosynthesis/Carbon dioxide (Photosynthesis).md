@@ -22,11 +22,11 @@
 #### Experiment
 ![[photosynthesis_light_rate_exp.webp|450]]
 The experimental procedure can be similar to that in [[Light (Photosynthesis)#Experiment]].
-Instead, the concentration of NaHCO<sub>3</sub> solution varies.
+Instead, the concentration of $\ce{NaHCO3}$ solution varies.
 
 Note that:
 - **Dependent variable**: Rate of photosynthesis *(volume of gas collected per unit time)*
-- **Independent variable**: CO<sub>2</sub> concentration *(concentration of NaHCO<sub>3</sub> solution)
+- **Independent variable**: $\ce{CO2}$ concentration *(concentration of $\ce{NaHCO3}$ solution)
 - **Control variables**: Temperature, Light intensity *(distance of light from the Hydrilla plant)*
 
 ##### Graphs

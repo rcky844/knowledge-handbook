@@ -37,7 +37,7 @@ carbon dioxide + water  $\xrightarrow[\text{by chlorophyll}]{\text{light energy 
 6 <span style="color:red">CO<sub>2</sub></span> + 6 <span style="color:lightblue">H<sub>2</sub>O</span>  $\xrightarrow[\text{by chlorophyll}]{\text{light energy captured}}$  <span style="color:red">C<sub>6</sub></span><span style="color:lightblue">H<sub>12</sub></span><span style="color:red">O<sub>6</sub></span> + 6 <span style="color:lightblue">O<sub>2</sub></span>
 
 - **Be aware of the sources for the products produced!**
-  e.g. glucose is formed from both CO<sub>2</sub> and H<sub>2</sub>O / oxygen came formed from the water.
+  e.g. glucose is formed from both $\ce{CO2}$ and $\ce{H2O}$ / oxygen came formed from the water.
 
 #### Requirements (+ Experiments)
 - [[Light (Photosynthesis)|Light]]

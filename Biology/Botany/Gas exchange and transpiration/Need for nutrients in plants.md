@@ -1,34 +1,34 @@
 The elements needed by plants are classified into two groups:
 - **Major elements (macronutrients)**
-  They are used to <u>make organic compounds</u>, e.g. nitrogen (N), phosphorus (P), magnesium (Mg), potassium (K), calcium (Ca), Sulphur (S).
+  They are used to <u>make organic compounds</u>, e.g. nitrogen ($\ce{N}$), phosphorus ($\ce{P}$), magnesium ($\ce{Mg}$), potassium ($\ce{K}$), calcium ($\ce{Ca}$), Sulphur ($\ce{S}$).
 
 - **Trace elements (micronutrients)**
-  They are used for <u>regulating metabolism</u>, e.g. iron (Fe), zinc (Zn), copper (Cu), manganese (Mn).
+  They are used for <u>regulating metabolism</u>, e.g. iron ($\ce{Fe}$), zinc ($\ce{Zn}$), copper ($\ce{Cu}$), manganese ($\ce{Mn}$).
 
 Below lists the details of some elements:
-**Nitrogen (N<sub>2</sub>)**
-- **Ion absorbed by plants**: Nitrate (NO<sub>3</sub><sup>-</sup>) / Ammonium (NH<sub>4</sub><sup>+</sup>)
+**Nitrogen ($\ce{N2}$)**
+- **Ion absorbed by plants**: Nitrate ($\ce{NO3-}$) / Ammonium ($\ce{NH4+}$)
 - **Main functions**: Synthesis of amino acids, nucleic acids, chlorophyll
 - **Deficiency diseases**:
 	- Poor growth
 	- Chlorosis (Yellow leaves)
 
-**Phosphorus (P)**
-- **Ion absorbed by plants**: Phosphate (PO<sub>4</sub><sup>3-</sup>)
+**Phosphorus ($\ce{P}$)**
+- **Ion absorbed by plants**: Phosphate ($\ce{PO4^3-}$)
 - **Main functions**: Component of nucleic acids, ATP, cell membranes
 - **Deficiency diseases**:
 	- Poor growth of roots
 	- Purple patches on leaves
 
- **Magnesium (Mg)**
- - **Ion absorbed by plants**: Magnesium (Mg<sup>2+</sup>)
+ **Magnesium ($\ce{Mg}$)**
+ - **Ion absorbed by plants**: Magnesium ($\ce{Mg^2+}$)
  - **Main functions**: Synthesis of chlorophyll
  - **Deficiency diseases**:
 	 - Poor growth
 	 - Chlorosis (Yellow leaves)
 
-**Potassium (K)**
-- **Ion absorbed by plants**: Potassium (K<sup>+</sup>)
+**Potassium ($\ce{K}$)**
+- **Ion absorbed by plants**: Potassium ($\ce{K+}$)
 - **Main functions**: For photosynthesis and transport of substances
 - **Deficiency diseases**:
 	- Poor growth of flowers and fruits

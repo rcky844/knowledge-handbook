@@ -1,4 +1,4 @@
-#### Calcium (Ca<sup>2+</sup>)
+#### Calcium ($\ce{Ca^2+}$)
 
 - **Food sources**
   milk, cheese, yogurt, sardines, almonds, green vegetables
@@ -11,7 +11,7 @@
 	- Rickets (affects bone development in children)
 	- Osteoporosis (weakens bones in adults)
 
-#### Iron (Fe<sup>2+</sup>)
+#### Iron ($\ce{Fe^2+}$)
 
 - **Food souces**
   liver, beef, eggs, green leafy vegetables

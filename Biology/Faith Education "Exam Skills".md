@@ -25,14 +25,14 @@ Asthma is a respiratory disease. When it attacks, structure Y constricts and the
 	- **2 ways to the answer, only 1 is absolutely required**
 	- However, breathing out is better for this question (removal of carbon dioxide)
 - Identifying details:
-	- Effect of asthema → Rate of removal of CO<sub>2</sub> (**State the effect! (Not stated in the question)** - lower)
+	- Effect of asthema → Rate of removal of $\ce{CO2}$ (**State the effect! (Not stated in the question)** - lower)
 ## Detailed processes
 - Recall the "breathing difficulty" {breathing in / **breathing out**}
 - **Volume of expired air?** Any change?
-- How will the **amount of CO<sub>2</sub> removed from air sacs** to atmosphere **change**?
-- How will the **concentration of CO<sub>2</sub> inside the air sacs change**?
-- What will be the **concentration gradient of CO<sub>2</sub>** between the alveolar air and the blood? (**diffusion** as transport process!)
-- So, the **rate of CO<sub>2</sub> removal from the blood** will become...
+- How will the **amount of $\ce{CO2}$ removed from air sacs** to atmosphere **change**?
+- How will the **concentration of $\ce{CO2}$ inside the air sacs change**?
+- What will be the **concentration gradient of $\ce{CO2}$** between the alveolar air and the blood? (**diffusion** as transport process!)
+- So, the **rate of $\ce{CO2}$ removal from the blood** will become...
 
 ![[261f87c00db2ab8d358f6005a7ce9a92.webp|420]]
 

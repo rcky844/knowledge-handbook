@@ -13,4 +13,4 @@ During [[photosynthesis]], the size of stomata becomes larger, more carbon dioxi
 	- Net uptake of carbon dioxide and net release of oxygen.
 
 - **D**: Maximum photosynthesis, photosynthesis > respiration
-	- Factors other than light intensity (e.g. CO<sub>2</sub> concentration) is in short supply and limits the rate of photosynthesis.
+	- Factors other than light intensity (e.g. $\ce{CO2}$ concentration) is in short supply and limits the rate of photosynthesis.

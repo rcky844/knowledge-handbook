@@ -31,24 +31,24 @@
 8. Plot a graph of the rate of photosynthesis against light intensities (See the graph below).
 
 This experimental procedure is also used in [[Carbon dioxide (Photosynthesis)#Experiment]].
-Instead, the concentration of NaHCO<sub>3</sub> solution varies.
+Instead, the concentration of $\ce{NaHCO3}$ solution varies.
 
 Note that:
 - **Dependent variable**: Rate of photosynthesis *(volume of gas collected per unit time)*
 - **Independent variable**: Light intensity *(distance of light from the Hydrilla plant)*
-- **Control variables**: Temperature, CO<sub>2</sub> concentration *(concentration of NaHCO<sub>3</sub> solution)*
+- **Control variables**: Temperature, $\ce{CO2}$ concentration *(concentration of $\ce{NaHCO3}$ solution)*
 
 ##### Graphs
 ![[photosynthesis_light_rateg.webp|380]]
 
 1. When there is no light, no photosynthesis takes place.
 
-2. At low light intensities, the light intensity (a limiting factor) limits the rate of photosynthesis. As the light intensity increases, more energy is supplied to the [[Photochemical reactions]] and stomata open wider to allow carbon dioxide (a substrate for [[Carbon fixation]]) to diffuse into the leaves. Therefore, the rate of photosynthesis increases.
+2. At low light intensities, the light intensity (a limiting factor) limits the rate of photosynthesis. As the light intensity increases, more energy is supplied to the [[photochemical reactions]] and stomata open wider to allow carbon dioxide (a substrate for [[carbon fixation]]) to diffuse into the leaves. Therefore, the rate of photosynthesis increases.
 
 3. At a certain light intensity, photosynthesis reaches its maximum rate (saturation point).
    The light intensity at the saturation point is called optimum light intensity.
 
-4. After the saturation point, further increases in light intensity have no effect on the rate of photosynthesis. Another factor (e.g. CO<sub>2</sub> concentration or temperature) now limits the rate of photosynthesis.
+4. After the saturation point, further increases in light intensity have no effect on the rate of photosynthesis. Another factor (e.g. $\ce{CO2}$ concentration or temperature) now limits the rate of photosynthesis.
 
 Note that:
 - At low to moderate light intensities (before reaching the saturation point), the rate of photosynthesis increases with an increase in light intensity.

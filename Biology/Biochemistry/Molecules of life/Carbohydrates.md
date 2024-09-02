@@ -1,5 +1,5 @@
 - **Components**: Carbon, hydrogen and oxygen (H:O = 2:1)
-- **General formula**: C<sub>x</sub>(H<sub>2</sub>O)<sub>y</sub>
+- **General formula**: $\ce{C_x(H2O)_y}$
 
 ##### Monosaccharides
 - **Characteristics**: As building blocks for larger molecules.

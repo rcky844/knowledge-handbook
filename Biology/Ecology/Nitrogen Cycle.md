@@ -9,13 +9,13 @@
    - Decomposers (e.g. putrefying bacteria and fungi) break down organic waste and dead bodies of organisms and convert the nitrogen to ammonium compounds.
    
    **Nitrification**
-   - Nitrifying bacteria in the soil convert ammonium compounds to nitrites (NO<sub>2</sub><sup>-</sup>) and to nitrates (NO<sub>3</sub><sup>-</sup>).
+   - Nitrifying bacteria in the soil convert ammonium compounds to nitrites ($\ce{NO2-}$) and to nitrates ($\ce{NO3-}$).
    
    ![[carbon_cycle.s2.webp|660]]
 <br>
 3. **Lightning**
-   - Nitrogen in the atmosphere combine with oxygen to form nitrogen oxides (NO<sub>x</sub>).
-   - The oxides dissolve in rain water and form nitrates (NO<sub>3</sub><sup>-</sup>) in the soil.
+   - Nitrogen in the atmosphere combine with oxygen to form nitrogen oxides ($\ce{NO_x}$).
+   - The oxides dissolve in rain water and form nitrates ($\ce{NO3-}$) in the soil.
    
    ![[carbon_cycle.s3.webp|400]]
 <br>
@@ -28,7 +28,7 @@
    ![[carbon_cycle.s4.webp|660]]
 
 #### Removing nitrogen from the soil
-5. Producers (plants) take up nitrogen, mainly in the form of nitrates (NO<sub>3</sub><sup>-</sup>), from the soil to make proteins and other nitrogenous compounds.
+5. Producers (plants) take up nitrogen, mainly in the form of nitrates ($\ce{NO3-}$), from the soil to make proteins and other nitrogenous compounds.
 <br>
 6. **Denitrification**
    - Under anaerobic conditions, denitrifying bacteria in the soil convert nitrates to nitrogen gas.

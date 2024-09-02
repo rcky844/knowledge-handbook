@@ -39,5 +39,5 @@ The **chemical properties** of a substance are properties that can observed or m
 #### Iron sulphur experiment
 Iron powder has magnetic property. When iron is mixed with sulphur powder, no particular chemical reaction occurs and no new substances are formed. The mixing process is a physical change. When a magnet is placed near the iron powder, it would try to stick on the magnet and follow its movement.
 
-However, when the iron is heated with sulphur, the heat provided triggers a chemical reaction to form a new substance (FeS). The nature of iron has been changed, it can no longer exhibit the magnetic property.
+However, when the iron is heated with sulphur, the heat provided triggers a chemical reaction to form a new substance ($\ce{FeS}$). The nature of iron has been changed, it can no longer exhibit the magnetic property.
 

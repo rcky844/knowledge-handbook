@@ -1,4 +1,4 @@
-**The ocean** contains sea water, which is a water solution consisting of 3.5% by mass of dissolved salts (e.g. NaCl, MgCl<sub>2</sub>, Na<sub>2</sub>SO<sub>4</sub>, CaCl<sub>2</sub>). The main solid dissolved is NaCl (common salt).
+**The ocean** contains sea water, which is a water solution consisting of 3.5% by mass of dissolved salts (e.g. $\ce{NaCl}$, $\ce{MgCl2}$, $\ce{Na2SO4}$, $\ce{CaCl2}$). The main solid dissolved is $\ce{NaCl}$ (common salt).
 
 Some oceans or bodies of water have differing amounts of dissolved salts. For example, the sea water in the Dead Sea has an unusually high salt content (27%), enabling one to float effortlessly.
 
