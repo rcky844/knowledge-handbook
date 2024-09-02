@@ -20,7 +20,7 @@
 	- [[Electrolysis of sea water]]
 4. [[Rocks and minerals]]
 	- [[Calcium carbonate and its reactions]]
-5. Analytical Tests
+5. Preliminary analytical tests
 	- [[Test for hydrogen gas]]
 	- [[Test for oxygen gas]]
 	- [[Test for carbon dioxide gas]]
