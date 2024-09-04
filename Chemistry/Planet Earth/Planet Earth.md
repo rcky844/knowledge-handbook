@@ -4,6 +4,7 @@
 1. Fundamentals of Chemistry
 	- The laboratory
 		- [[Important apparatus]]
+		- [[Collection of gases]]
 		- [[Hazard warning labels]]
 		- [[Safety precautions]]
 	- [[Chemical and physical changes and properties]]
