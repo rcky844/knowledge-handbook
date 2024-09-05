@@ -1,7 +1,7 @@
 **Acidified silver nitrate test** is a chemical test for halide ions. It is used for the preliminary test for halogens such as chloride, bromide and iodine ions.
 
 > **Note**:
-> - Fluoride ions are not able to be tested as it does not form insoluble precipirate with silver ion.
+> - Fluoride ions are not able to be tested as it does not form insoluble precipitate with silver ion.
 > - Astatine is radioactive and "any macroscopic specimen would be immediately vaporized by the heat of its radioactivity".
 
 #### Procedure
