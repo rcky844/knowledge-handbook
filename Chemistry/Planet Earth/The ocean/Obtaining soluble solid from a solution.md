@@ -14,7 +14,7 @@ Sea water contain dissolved salts, they can be obtained by the methods stated be
 2. The powder of dissolved salt is obtained when most of the solvent has evaporated.
 
 #### Crystallization
-**Crystallization** is a <u>physical process</u> that involves incomplete evaporation. A solution is first heated until it is saturated and let to cool down for crystals to form. Crystals obtained via this method are highly pure, they can be classified as pure substances.
+**Crystallization** is a <u>physical process</u> that involves incomplete evaporation. A solution is first heated until it is <u>saturated</u> and let to cool down for crystals to form. Crystals obtained via this method are highly pure, they can be classified as pure substances.
 
 1. Heat the solution to remove some solvent by evaporation until the solution becomes saturated.
    
@@ -22,7 +22,7 @@ Sea water contain dissolved salts, they can be obtained by the methods stated be
     - Dip a glass rod into the solution and take it out. The solution is saturated if solid forms on the rod when it cools down.
     - Add solute (e.g. salts) into the solution. The solution is saturated when the solute can no longer dissolve.
 
-2. Allow cooling of the hot saturated solution. Crystallization will start since some solute can no longer dissolve in the solution.
+2. Allow cooling of the hot saturated solution. Crystallization will start as some solute can no longer dissolve in the solution.
    
    The solution can either be cooled rapidly or slowly. However:
     - **Rapid cooling** provides <u>less time</u> to allow the crystallizing solute to form larger crystals, which leads to the formation of <u>crumble crystals</u> instead.

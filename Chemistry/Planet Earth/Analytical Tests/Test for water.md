@@ -6,6 +6,6 @@
 #### Anhydrous copper(II) sulphate ($\ce{CuSO4 (s)}$)
 ![[cuso4_test.avif|520]]
 **Test description**:
-↪️ Water turns the dry cobalt(II) chloride paper <u>from blue to pink</u>.
+↪️ Water turns the anhydrous copper(II) sulphate paper <u>from white to blue</u>.
 
 **Reaction**: $\ce{CuSO4 (s) + 5H2O (ℓ) -> CuSO4 . 5H2O (s)}$

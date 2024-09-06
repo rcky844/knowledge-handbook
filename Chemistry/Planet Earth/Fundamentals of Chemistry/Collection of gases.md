@@ -32,5 +32,5 @@ One of the most versatile gas collection method.
 
 **Conditions**:
 - Gases with not enough pressure cannot be collected.
-- Experimental condition requires strong heating cannot be collected, as a higher pressure may be created.
+- Experimental condition requiring strong heating cannot be collected, as a higher pressure may be created.
 

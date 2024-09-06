@@ -1,4 +1,4 @@
-![[electrolysis_sea_water.webp|380]]
+![[electrolysis_sea_water.webp|350]]
 **Electrolysis of sea water** would pass electricity through sea water to rearrange the constituent elements to make other useful substances.
 
 When electricity is passed through sea water, chemical reactions are forced to occur.

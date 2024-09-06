@@ -5,12 +5,12 @@ Limestone is one of the most common types of rock found in Earth’s crust. It i
 - Limestone
 - Marble
 
- - **Formation of chalk in the Earth's crust**:
-   Chalk is formed from the skeletons and shells of animals containing calcium carbonate when their dead remains sink to the seabed, the action of heat and pressure will gradually turn the dead remains into chalk. Earth movements such as earthquake will bring these layers of chalk to the Earth's surface.
+ **Formation of chalk in the Earth's crust**:
+ Chalk is formed from the skeletons and shells of animals containing calcium carbonate when their dead remains sink to the seabed, the action of heat and pressure will gradually turn the dead remains into chalk. Earth movements such as earthquake will bring these layers of chalk to the Earth's surface.
 
-- **Differences in strength between chalk, limestone and marble**:
-  Higher pressure and heat cause chalk to turn into much harder limestone. Even higher pressure and heat would turn limestone into marble.
-  ↪️ Strength: marble > limestone > chalk
+**Differences in strength between chalk, limestone and marble**:
+Higher pressure and heat cause chalk to turn into much harder limestone. Even higher pressure and heat would turn limestone into marble.
+↪️ Strength: marble > limestone > chalk
 
 #### Chemical reactions of calcium carbonate
 ![[caco3_cycle.svg]]
@@ -31,11 +31,11 @@ Limestone is one of the most common types of rock found in Earth’s crust. It i
 
 - **Step 4**: Addition of excess carbon dioxide to limewater
   *See also: [[Test for carbon dioxide gas]]*
-  Passing carbon dioxide gas into limewater turns it from colourless to milky due to the formation of insoluble calcium carbonate.
+  Passing carbon dioxide gas into limewater turns it <u>from colourless to milky</u> due to the formation of insoluble calcium carbonate.
   ↪️ $\ce{Ca(OH)2 (aq) + CO2 (g) -> CaCO3 (s) + H2O (ℓ)}$
 
 #### Additional chemical reactions
-- When <u>excess carbon dioxide is passed into limewater</u>, the solution turns from milky to colourless due to the formation of water soluble calcium hydrogencarbonate ($\ce{Ca(HCO3)2 (aq)}$).
+- When <u><span style="color: skyblue">excess</span> carbon dioxide is passed into limewater</u>, the solution turns <u>from milky to colourless</u> due to the formation of water soluble calcium hydrogencarbonate ($\ce{Ca(HCO3)2 (aq)}$).
   ↪️ $\ce{CaCO3 (s) + H2O (ℓ) + CO2 (g) -> Ca(HCO3)2 (aq)}$
 
 - Calcium can also react with carbonic acid ($\ce{H2CO3}$) to form calcium hydrogencarbonate ($\ce{Ca(HCO3)2 (aq)}$).

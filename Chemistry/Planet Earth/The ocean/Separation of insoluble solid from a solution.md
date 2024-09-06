@@ -19,5 +19,5 @@ The liquid that passes through and drops to the container is called <span style=
 2. Wait for a period of time until all the liquid flows into the beaker through the filter paper. The addition of the liquid can be repeated.
 
 > **Note**:
-> Do not add a very large amount of liquid at once, otherwise there might be overflow.
+> Do not add a very large amount of liquid at once, otherwise it may cause an overflow.
 

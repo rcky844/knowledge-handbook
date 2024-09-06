@@ -11,7 +11,7 @@
 	  ↪️ $\ce{SO3^2- (aq) + 2H+ (aq) -> SO2 (g) + H2O (ℓ)}$
 
 > **Note**:
-> Result if sample is not acidified:
+> Possible results if sample is not acidified:
 > ↪️ $\ce{CO3^2- (aq) + 2Ag+ (aq) -> Ag2CO3 (s)}$
 > ↪️ $\ce{SO3^2- (aq) + 2Ag+ (aq) -> Ag2SO3 (s)}$
 > 
