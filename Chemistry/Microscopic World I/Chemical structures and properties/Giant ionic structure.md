@@ -32,3 +32,30 @@ Ionic compounds can conduct electricity when it is in aqueous or molten states (
 
 #### Solubility in aqueous and organic solvents
 Ionic compounds are usually soluble in aqueous solvent (e.g. $\ce{NaCl}$, $\ce{CaCl2}$, $\ce{MgSO4}$), some ionic compounds are insoluble (e.g. $\ce{PbCl2}$, $\ce{Fe(OH)2}$, $\ce{AgCl}$).
+- Ionic compounds are soluble in water as the ionic bonds between the ions and the intermolecular force (hydrogen bond) between water molecules are of comparable strength.
+- Ionic compounds are insoluble in organic solvents as the ionic bonds between the ions and the intermolecular force (van der Waals' force) between molecules in organic solvent are not of comparable strength.
+
+#### Colour of ions in aqueous solution
+Most ions are colourless, those with colours are listed below.
+
+| Chemical formula | Colour |
+| :--: | :--: |
+| $\ce{Fe^2+}$ | pale green |
+| $\ce{Fe^3+}$ | yellow or brown |
+| $\ce{Cu^2+}$ | blue or green |
+| $\ce{Co^2+}$ | pink |
+| $\ce{Cr^3+}$ | green |
+| $\ce{Ni^2+}$ | green |
+| $\ce{CrO4^2-}$ | yellow |
+| $\ce{Cr2O7^2-}$ | orange |
+| $\ce{Mn^2+}$ | very pale pink |
+| $\ce{MnO4-}$ | purple |
+#### Migration of ions
+*See also: [[Electrolysis]]*
+Negative ions are attracted to positive ions. By passing electricity through ionic compounds, cations move towards the negative electrode, while anions move towards the positive electrodes.
+
+![[migration_moist_paper.webp|450]]
+Migration experiment using $\ce{KMnO4}$ in moist paste ⤴️
+
+![[migration_gel.webp|350]]
+Migration experiment using $CuCr2O7$ in gel ⤴️
