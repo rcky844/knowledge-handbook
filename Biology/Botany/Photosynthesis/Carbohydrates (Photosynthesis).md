@@ -17,13 +17,9 @@
 An iodine test can be performed on a leaf to find out whether it contains starch. The presence of starch indicates that photosynthesis has occurred.
 
 1. Obtain the leaf from a plant that has been exposed to bright light for several hours.
-
 2. Put the leaf in a beaker of boiling water for about a minute to break down the cell membrane and allow the iodine solution to enter the cells later. This kills the leaf cells and stops metabolic reactions.
-
-3. Transfer the leaf into a test tube containing alcohol, then place it in a beaker containing hot water. The alcohol dissolves chlorophyll and allow it to diffuse out of the leaf, decolourizing the leaf.
-
+3. Transfer the leaf into a test tube containing alcohol, then place it in a beaker containing hot water. The alcohol <span style="color: skyblue">dissolves chlorophyll</span> and allow it to diffuse out of the leaf, decolourizing the leaf.
 4. Remove it from the tube and dip it in hot water for a few second to soften the leaf.
-
 5. Spread the leaf on a white tile and add a few drops of iodine solution onto it.
    ![[leaf_iodlne_test.webp|240]]
 

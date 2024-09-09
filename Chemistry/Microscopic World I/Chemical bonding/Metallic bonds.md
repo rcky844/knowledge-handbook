@@ -10,5 +10,15 @@ The atoms of metals are closely packed together. The outermost shell electron of
 > **Note**:
 > There are no anions formed in an metallic bond, only cations.
 
+#### Reactivity of metals
+> **Note**:
+> The information below is mostly exclusive to Group I and Group II metals.
+
+- **The reactivity of the metals increases down the group.**
+  Since the strength of metallic bond in the metals decreases down the group, the tendency of the metal to lose the outermost shell electrons increases down the group.
+
+- **The reactivity of the metals decreases from Group I to Group II.**
+  Since the strength of metallic bonds in the metals decreases from Group I to Group II, the tendency of the metal to lose the outermost shell electrons decreases from Group I to Group II.
+
 #### See also
 - [[Giant metallic structure]]

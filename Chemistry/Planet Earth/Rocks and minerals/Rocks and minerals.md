@@ -16,4 +16,4 @@ Most metals exist as the form of compound in nature, they are found in <span sty
 |    Gold ore    |         Gold (Au) (**free element**)         |        Gold        |
 #### See also
 - [[Calcium carbonate and its reactions]]
-- [[Properties, occurrence and extraction of metals]] (from [[Metals]])
+- [[Extraction of metals]] (from [[Metals]])

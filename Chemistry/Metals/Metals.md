@@ -1,7 +1,11 @@
 ![[List article!]]
 
 #### Sections
-1. [[Properties, occurrence and extraction of metals]]
+1. [[Extraction of metals]]
 2. [[Reactivity of metals]]
 3. [[Corrosion of metals]]
-4. [[Protection to prevent corrosion of metals]]
+4. [[Protection of metals]]
+
+#### See also
+- [[Rocks and minerals]]
+- [[Giant metallic structure]]

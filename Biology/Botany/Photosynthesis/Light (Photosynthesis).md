@@ -14,6 +14,9 @@
 - [[Photochemical reactions#Light absorption and electron transport]]
   Chlorophyll molecule in the thylakoid membrane absorbs light energy, causing electrons to be excited to higher energy levels.
 
+- [[Photochemical reactions#Photolysis of water]]
+  Some of the light energy absorbed by chlorophyll is used to split water molecules into hydrogen and oxygen.
+
 
 <hr>
 

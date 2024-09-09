@@ -1,12 +1,12 @@
 **Group VII elements** are <span style="color: violet">halogens</span>, all non-metals. They all have the same number of outermost shell electrons: 7.
 
 #### Physical properties of the first four halogens
-| Element | State at r.t.p. | Colour of pure halogen | Colour in aqueous solution | Colour in organic solution |
-| :--: | :--: | :--: | :--: | :--: |
-| Flourine | gas | pale yellow | / | / |
-| Chlorine | gas | greenish yellow | pale yellow-green | pale yellow-green |
-| Bromine | liquid | reddish brown | yellow-brown | reddish brown |
-| Iodine | solid | dark purple | orange-brown | purple |
+| Element  | State at r.t.p. | Colour of pure halogen | Colour in aqueous solution | Colour in organic solution |
+| :------: | :-------------: | :--------------------: | :------------------------: | :------------------------: |
+| Flourine |       gas       |      pale yellow       |             /              |             /              |
+| Chlorine |       gas       |    greenish yellow     |     pale yellow-green      |     pale yellow-green      |
+| Bromine  |     liquid      |     reddish brown      |        yellow-brown        |       reddish brown        |
+|  Iodine  |      solid      |      dark purple       |        orange-brown        |           purple           |
 
 #### Similarities of Group VII halogens
 1. They are all toxic and smelly.
