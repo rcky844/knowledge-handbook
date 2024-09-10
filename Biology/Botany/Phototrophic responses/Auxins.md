@@ -24,10 +24,11 @@ For example, in the following graph:
 
 #### Discovery of auxins
 ![[auxins_coleoptile.webp|500]]
-- Phototropism was investigated using coleoptiles in the past to find out how they are able to detect light and respond to it.
-- A coleoptile is a protective sheath that covers the first leaf of a monocotyledonous seedling as the young shoot emerges from the soil.
+Phototropism was investigated using **coleoptiles** in the past to find out how they are able to detect light and respond to it.
 
-Coleoptiles are suitable for experiments because:
+A **coleoptile** is a protective sheath that covers the first leaf of a monocotyledonous seedling as the young shoot emerges from the soil.
+
+**Coleoptiles** are suitable for experiments because:
 - They are fast-growing.
 - They are easy to handle.
 - They have a simple structure for easy observation.

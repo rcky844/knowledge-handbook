@@ -11,4 +11,4 @@ By the end of interphase, the cell has doubled (2x) its amount of <u>DNA</u>, an
 
 #### Under light microscope
 During this stage when the cell is not dividing, the chromosomes cannot be seen with a light microscope because they appear as <u>long and fine threads of chromatin</u>.
-![[interphase_chromatin.webp|300]]
+![[interphase_chromatin.webp|400]]

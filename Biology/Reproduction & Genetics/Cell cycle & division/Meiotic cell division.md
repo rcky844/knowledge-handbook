@@ -1,28 +1,28 @@
-**Meiotic cell division** involves meiosis (division of the nucleus) and [[Cytokinesis]] (division of the cytoplasm) to form four genetically different, haploid daughter cells. This occurs in gamete-producing cells in reproductive organs.
+**Meiotic cell division** involves meiosis (division of the nucleus) and [[cytokinesis]] (division of the cytoplasm) to form <u>four genetically different, haploid daughter cells</u>. This occurs in <u>gamete-producing cells in reproductive organs</u>.
 
 #### Stages of meiosis
 ##### First meiotic cell division (meiosis I): homologous chromosomes separate
 ###### Prophase I
 ![[meiosis_prophase_i.webp|300]]
 - Replicated DNA coils tightly into chromosomes.
-  Each [[Chromosome]] is visible as two sister chromatids.
-- Homologous chromosome pair up.
-- The chromatids of the homologous pair may exchange segments with each other by [[Crossing over]].
-- The nuclear membrane breaks down.
+  Each [[chromosome]] is visible as two sister chromatids.
+- **Homologous chromosome** pair up.
+- The **chromatids** of the homologous pair may exchange segments with each other by [[crossing over]].
+- The **nuclear membrane** breaks down.
 
 ###### Metaphase I
 ![[meiosis_metaphase_i.webp|300]]
-- Homologous pairs line up along the equatorial plane.
-- The spindle fibres attach to the chromosomes at the centromeres.
+- **Homologous pairs** line up along the equatorial plane.
+- The **spindle fibres** attach to the chromosomes at the centromeres.
 
 ###### Anaphase I
 ![[meiosis_anaphase_i.webp|300]]
-- The spindle fibres shorten and pull the two chromosomes of each homologous pair apart to opposite poles of the cell.
+- The **spindle fibres** shorten and pull the two chromosomes of each homologous pair apart to opposite poles of the cell.
 
 ###### Telophase I
 ![[meiosis_telophase_i.webp|300]]
-- The spindle fibres break down.
-- A nuclear membrane forms around each group of chromosomes. This is followed by cytokinesis, forming two haploid daughter cells.
+- The **spindle fibres** break down.
+- A **nuclear membrane** forms around each group of chromosomes. This is followed by [[cytokinesis]], forming <u>two haploid daughter cells</u>.
 	- In some organisms, the nuclear membrane re-forms and the chromosomes decondense, although in others, this step is skipped since cells will soon go through another round of division in meiosis II.
 
 ##### Second meiotic cell division (meiosis II): sister chromatids separate
