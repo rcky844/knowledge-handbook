@@ -1,0 +1,1 @@
+**Le Chatelier's principle** states that when the conditions of an equilibrium system are changed (disturbed), the equilibrium position will shift to reduce the change.
