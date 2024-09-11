@@ -3,7 +3,7 @@
 The metabolic activities include:
 - Synthesis of proteins
 - Synthesis of new organelles
-- Replication of DNA (duplication of chromosomes)
+- [[Process of DNA replication|Replication of DNA]] (duplication of [[Chromosome|chromosomes]])
 
 By the end of interphase, the cell has doubled (2x) its amount of <u>DNA</u>, and is large enough to divide.
 

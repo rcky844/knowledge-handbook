@@ -78,4 +78,5 @@ Chromosome number (Meiosis II) ⤴
    Below are a few possible explanations:
    - [[Independent assortment]] (or random segregation)
    - [[Crossing over]]
-   - [[Random fusion of gametes at fertilisation]]
+   - Random fusion of gametes at fertilisation
+   ↪️ See also: [[Mendel's laws of inheritance#Mendal's laws]]
