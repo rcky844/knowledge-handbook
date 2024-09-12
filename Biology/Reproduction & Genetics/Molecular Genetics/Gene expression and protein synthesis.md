@@ -1,54 +1,73 @@
 **Messenger RNA** (mRNA) carries the genetic code to the cytoplasm to direct [[Proteins|protein]] synthesis. The synthesis occurs in two stages.
 
+> **Note**:
+> Production of proteins occurs in the cytoplasm.
+
 #### Transcription
-**Transcription** is the synthesis of mRNA using part of the nucleus DNA as a template.
+**Transcription** is the <u>synthesis of mRNA</u> using part of the nucleus DNA as a template.
+
+**Terms used in describing the process**:
+- **Template strand**: The DNA strand to be transcribed.
+- **Coding strand**: The DNA strand that is not transcribed, it is identical to the mRNA.
 
 ##### Process
 1. **Unwinding of DNA double helix**
-	- An enzyme called RNA polymerase binds to a region of the DNA near the beginning of the gene to be transcribed.
-	- The [[hydrogen bonds]] holding the two DNA strands of the double helix breaks. A section of the DNA double helix unwinds, exposing the bases of each DNA strand.
-	- The **template strand** is the DNA strand that is transcribed. It acts as the template for synthesizing mRNA.
-	- The **coding strand** is the DNA strand that is not transcribed.
+	- An enzyme called <span style="color:skyblue">RNA polymerase</span> binds to a region of the DNA near the <u>beginning of the gene</u>.
+	- The [[hydrogen bonds]] between the nitrogenous bases of the two DNA strands of the double helix <u>breaks</u>.
+	- A section of the DNA double helix <u>unwinds</u>.
+	- The RNA polymerase makes use of one DNA strand as a <u>template (template strand)</u>.
 
 2. **Pairing of RNA nucleotides with complementary bases**
-	- RNA polymerase moves along the template strand, free RNA nucleotides pair with the exposed bases following the rules of [[DNA, chromosomes and genes|complementary base pairing]]. The enzyme catalyses the joining of adjacent RNA nucleotides to form an mRNA strand.
-	- The base sequence of mRNA is complementary and identical to both the template strand and the coding strand, except it has the base uracil (U) instead of thymine (T).
+	- Exposed nitrogenous bases of the DNA attract and form [[hydrogen bonds]] with their <u>complementary and free</u> <span style="color: skyblue">RNA nucleotides</span> in the <u>presence of RNA polymerase</u>. (see [[DNA, chromosomes and genes|complementary base pairing]])
+	- RNA polymerase moves along the template strand, the above process is <u>repeated</u> until the RNA polymerase <u>reaches the end of the gene</u>. A long messenger RNA is formed.
+
+> **Note**:
+> The base sequence of mRNA is <u>identical to the coding strand</u> and complementary to the template strand, except it has the <u>base uracil (U) instead of thymine (T)</u>.
 
 3. **Rewinding of DNA strands**
-	- RNA polymerase separates from the DNA and releases the mRNA when it reaches ttWhen the end of the gene.
-	- The DNA rewinds to reform the double helix.
+	- RNA polymerase <u>separates from the DNA and releases the mRNA</u>.
+	- The mRNA produced by transcription then <u>leaves the nucleus through nuclear pores</u> and enter the <u>cytoplasm</u>. It then rests on a ribosome (free or ER-bounded).
+	- The <u>DNA rewinds</u> to reform the double helix.
 
-Every triplet code on the DNA template strand is transcribed into a complementary sequence on the mRNA, called a codon.
-
-The mRNA produced by transcription then leaves the nucleus through nuclear pores and enter the cytoplasm.
+//TODO images
 
 #### Translation
-**Translation** leads to the synthesis of a polypeptide. It requires an amino acid sequence determined by the series of codons on the mRNA. This process occurs at [[ribosomes]] in the [[cytoplasm]].
+**Translation** leads to the synthesis of a polypeptide. It requires an amino acid sequence determined by the series of codons on the mRNA. This process occurs at [[ribosomes]].
 
 ##### Role of transfer RNA
-**Transfer RNA (tRNA)** molecules act as carries of amino acids, bringing specific amino acids to the [[ribosomes]]. There are different tRNA molecules in the cytoplasm.
+**Transfer RNA (tRNA)** molecules are <u>carriers of amino acids</u>, bringing specific amino acids to the [[ribosomes]]. There are different tRNA molecules in the cytoplasm.
 
-- At one end of the tRNA molecule is a binding site for a specific amino acid.
-- At the other end of the tRNA molecule is a sequence of three unpaired bases (anticodon). It can pair with complementary mRNA codon.
+- At one end of the tRNA molecule is a <u>binding site for a specific amino acid</u>.
+- At the other end of the tRNA molecule is a <u>sequence of three unpaired bases (anticodon - complementary to codons of mRNA)</u>. It can pair with complementary mRNA codon.
+
+> **Note**:
+> **tRNA** is a <u>single-stranded molecule</u> twisted into the shape of a clover leaf. <u>It is made in the nucleus through transcription and then moves out to the cytoplasm.</u>
 
 //TODO images
 
 ##### Synthesizing a polypeptide
-1. **Molecule of mRNA binds to ribosome**
-	- A tRNA carrying the first amino acid binds to the start codon on the mRNA.
-	- The tRNA has a complementary anticodon with the mRNA. //TODO chk
+*Pre-context: [[Genetic code]]*
+↪️ Some triplet codes serve as 'start signal' or 'stop signals' for protein synthesis.
+(Start: AUG; End: UAA / UAG / UGA)
 
-2. 
+- First, molecule of mRNA binds to a [[Ribosomes|ribosome]]. tRNA in the cytoplasm complementary to the codons <u>binds to the start codon on the mRNA</u>, carrying amino acid.
+- Then, another tRNA carrying another amino acid binds to the next codon with its complementary anticodon. The <span style="color: skyblue">amino acids</span> are joined together by <span style="color: lightgreen">peptide bonds</span>.
+- The process repeats, the ribosome moving one codon further along the mRNA. The proceeding tRNAs will be <u>released to pick up another amino acid</u>.
+- The ribosome continue to mover until it reaches a <u>stop codon</u> on the mRNA. The mRNA and the polypeptide will be released, translation is complete.
+
+> **Note**:
+> - mRNA provides <u>two sites (codons) for amino acids</u>. Therefore, a tRNA will separate from the mRNA when another codon is to be translated and there are not enough sites for binding tRNA.
+> - There is <u>no corresponding tRNA for the stop codon</u>.
 
 //TODO images
 
 ##### Assembling a protein
-The polypeptide produced by translation then coils and folds to form a protein.
-- Some proteins consists of more than one polypeptide.
-- The amino acid sequence of each polypeptide determines the three-dimensional structure (conformation) of the protein molecule.
+The polypeptide produced by translation then <u>coils</u> and <u>folds</u> to form a protein.
+- <u>Some proteins consists of more than one polypeptide.</u>
+- The <u>amino acid sequence</u> of each polypeptide determines the <u>three-dimensional structure (conformation)</u> of the protein molecule.
 
 **Different fates of proteins**:
-- Proteins made on free ribosomes in the cytoplasm stay in the cell and will be used within it. They may be enzymes that catalyse chemical reactions in the cell.
-- Proteins made on ribosomes attach to the rough ER are either embedded in the cell membrane (e.g. channel proteins, carrier proteins and receptor proteins) or exported out of the cell (e.g. digestive enzymes, hormones and antibodies).
+- Proteins made on **free ribosomes** in the cytoplasm <u>stay in the cell</u> and will be used within it (e.g. enzymes).
+- Proteins made on **ribosomes attach to the rough ER** are either <u>embedded in the cell membrane</u> (e.g. channel proteins, carrier proteins and receptor proteins) or <u>exported out of the cell</u> (e.g. digestive enzymes, hormones and antibodies).
 
 

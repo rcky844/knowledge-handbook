@@ -39,9 +39,12 @@ A **gene** is a short length of DNA in a [[chromosome]].
 ##### Locus and alleles
 **Locus** is the position of a particular gene on a chromosome.
 
-**Allele** is a pair of genes that is located on a locus of two homologous chromosomes. The pair controls one characteristic / trait of an organism. It is the alternative form of the gene.
+**Allele** is a pair of genes that is located on a locus of two homologous chromosomes. The pair controls one characteristic / trait of an organism.
 - **Homozygous** refers to having two identical alleles (e.g. $RR$, $rr$).
 - **Heterozygous** refers to having two different alleles (e.g. $Rr$).
+
+> **Note**:
+> Allele is the alternative form of the gene. However, it only applies to homologous chromosomes.
 
 ##### Common terms for genetics
 - **Genotype** is the <span style="color: lightgreen">genetic composition</span> (combination of alleles) of a characteristic (e.g. $RR$, $rr$, $Rr$).

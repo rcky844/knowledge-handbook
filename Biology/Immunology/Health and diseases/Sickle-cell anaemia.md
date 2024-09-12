@@ -1,0 +1,1 @@
+**Sickle-cell anaemia** is a genetic disorder of the blood. It is caused by a substitution of one base in the gene coding 

@@ -46,13 +46,13 @@ To deduce the dominant allele, find a pair of <u>parents with the same phenotype
 ![[deduction_white.webp|280]]
 
 **Principles for deduction**:
-- The genotype of the the offspring results in the phenotype expressed.
-- All genes are inherited from the offsprings' parents.
+- The <u>genotype</u> of the the offspring results in the <u>phenotype</u> expressed.
+- All <u>genes</u> are <u>inherited from the offsprings' parents</u>.
 
 **Deduction**:
-- Offspring D is white in colour, then it posses white colour allele.
-- This white colour allele is inherited from one of its parents, A or B.
-- Either A or B should posses a white colour allele.
-- However, A and B are all red in colour, that means they all also posses red colour allele.
-- So A or B should be heterozygous, and since red colour allele express in this condition, red colour allele is dominant.
+- Offspring D is white in colour, then it <u>posses white colour allele</u>.
+- This white colour allele is <u>inherited from one of its parents, A or B</u>.
+- <u>Either A or B should posses a white colour allele.</u>
+- However, A and B are all <u>red in colour</u>, that means they all also <u>posses red colour allele</u>.
+- So A or B should be <u>heterozygous</u>, and since red colour allele express in this condition, red colour allele is dominant.
 
