@@ -6,7 +6,7 @@
 2. [[Mendel's laws of inheritance]]
 	- [[Diagrams for inheritance]]
 	- [[Test cross]]
-1. [[Inheritance in humans]]
-2. [[Variations in characteristics]]
+3. [[Inheritance in humans]]
+4. [[Variations in characteristics]]
 
 //TODO pedigree
