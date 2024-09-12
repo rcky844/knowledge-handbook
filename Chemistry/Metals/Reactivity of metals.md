@@ -20,7 +20,7 @@ Metals react with oxygen, steam, liquid water, acids and they have displacement 
 | Magnesium | - burn with bright white flame<br>- white powder is formed | $\ce{2Mg(s) + O2 (g) -> 2MgO (s)}$ |
 | Aluminium | - burn with white sparks<br>- white powder is formed | $\ce{4Al(s) + 3O2 (g) -> 2Al2O3 (s)}$ |
 | Zinc | - burn to form a powder, yellow when hot, white when cold | $\ce{2Zn (s) + O2 (g) -> 2ZnO (s)}$ |
-| Iron | - burn with yellow sparks, a black powder is formed | $\ce{3Fe (s) + 2O2 (g) -> Fe3O4 (s)}$ |
+| Iron | - burn with yellow sparks<br>- black powder is formed | $\ce{3Fe (s) + 2O2 (g) -> Fe3O4 (s)}$ |
 | Lead | - form a powder, orange when hot, yellow when cold | $\ce{2Pb (s) + O2 (g) -> 2PbO (s)}$ |
 | Copper | - form a black power (on surface) | $\ce{2Cu (s) + O2 (g) -> 2CuO (s)}$ |
 | Mercury | - form a red powder (on surface) | $\ce{2Hg (ℓ) + O2 (g) -> 2HgO (s)}$ |
