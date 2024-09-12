@@ -3,6 +3,7 @@
 #### Sections
 ##### Fossil Fuels and Carbon Compounds
 1. [[Hydrocarbons from fossil fuels]]
+	- [[Combustion]]
 2. [[Homologous series, structural formulae and naming of carbon compounds]]
 3. [[Alkanes and alkenes]]
 4. [[Addition polymers]]
