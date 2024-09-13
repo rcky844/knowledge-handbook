@@ -21,7 +21,7 @@
 	  
 	Alkanes
 	- [[Substitution reaction#Alkanes]]
-	- [[Catalytic cracking]]
+	- [[Cracking]]
 	
 	Alkenes
 	- [[Addition reaction]]
@@ -37,8 +37,5 @@
 	- [[Condensation reaction]]
 	- [[Acid / alkaline hydrolysis]]
 
-6. [[Inter-conversions of carbon compounds]]
-	- 
-
-7. [[Important organic substances]]
+6. [[Important organic substances]]
 	- [[Addition polymers]]

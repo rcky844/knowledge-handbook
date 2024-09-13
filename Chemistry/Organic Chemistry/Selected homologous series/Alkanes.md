@@ -15,5 +15,5 @@ Alkanes are chemically unreative / inert, and has reactions with acids, alkalis 
 - This is because they do not have a functional group, and are non-polar molecules.
 - A higher number of carbon atoms would result in a lower rate of reaction.
 
-**Reactions**: [[Combustion]], [[Substitution reaction#With halogen|Substitution reaction]], [[Catalytic cracking]]
+**Reactions**: [[Combustion]], [[Substitution reaction#Reaction with halogens|Substitution reaction]], [[Cracking]]
 
