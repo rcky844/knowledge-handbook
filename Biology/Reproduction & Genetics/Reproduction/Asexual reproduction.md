@@ -14,12 +14,6 @@ Vegetative parts of plants form storage organs underground, swollen with food re
 2. [[Examples of vegetative propagation|Examples]]
 3. [[Artificial vegetative propagation]]
 
-##### Others
-- **Budding in yeast and *Hydra***
-  The parent develops an outgrowth (bud), which grows larger and eventually breaks off as an offspring that is smaller than the parent, but is genetically identical to the parent.
-
-- **Spore formation in fungi** (e.g. Bread mould)
-  Reproduces by forming spores which can be carried over long distances by wind and will develop into a new fungus under suitable conditions.
-
 #### See also
 - [[Significance of asexual and sexual reproduction in flowering plants]]
+- [[Fungi#Reproduction of fungi]]

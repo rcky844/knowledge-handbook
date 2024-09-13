@@ -16,12 +16,13 @@ Substitution or inversion of bases does not cause a reading frame shift, but cha
 
 - **Codon codes for the same amino acid** (silent mutation)
   Amino acid sequence remains the same.
+  ↪️ See also: [[Genetic code]] (*Degenerate code*)
 
 - **Codon codes for a different amino acid**
-  Amino acid sequence is changed, the polypeptide may fold into a protein with a <u>different conformation</u>. The protein produced may not function properly.
+  Amino acid sequence is changed, the polypeptide may fold into a protein with a <u>different conformation</u>, the protein may not function properly.
 
 - **Codon changes the amino acid to a stop codon**
-  Translation comes to a stop prematurely. The polypeptide produced will be shorter than normal and probably cannot function.
+  Translation comes to a stop prematurely. The polypeptide produced will be <u>shorter than normal</u> and probably cannot function.
 
 ##### Disorders
 - [[Sickle-cell anaemia]]
@@ -64,5 +65,32 @@ Examples of mutagens ⤴️
 - Ultraviolet (UV) radiation changes the structure of DNA and interfere with DNA replication. Ionizing radiation (e.g. X-rays and gamma rays) can damage DNA molecules directly, or they can ionize other molecules (e.g. water) to form free radicals. Free radicals are highly reactive, and can cause DNA damage and give rise to mutations.
 
 #### Effects of mutations
-//TODO import
+##### Cell type
+**Occurring in somatic cells**:
+- Not passed on to the offspring.
+- Only daughter cells derived from the mutated cells are affected.
+
+**Occurring in gametes or gamete-producing cells**:
+- Passed on to the offspring.
+- Mutated DNA occurs in every cell of the offspring.
+
+##### Harmful effects to organism
+- Gene mutation can result in a change in the conformation and function of the protein. Many genetic disorders are caused by improper function of proteins.
+- Mutations that result in a significant loss of genetic material (e.g. deletion of a segment of a chromosome) are most likely lethal.
+
+##### Neutral effects to organism
+The gene mutation may cause no change in the phenotype:
+- If the mutation occurs in a non-coding region of the DNA (it does not code for proteins).
+- If the mutation is a silent mutation, the triplet codes still code for the same amino acids, the sequence of amino acids is unchanged.
+- If the change of amino acids do not change the shape of the protein sufficiently, it can still function properly.
+- If the mutated allele is recessive to the normal allele and is not expressed in the heterozygous solution.
+
+> **Note**:
+> - The majority of mutations are neutral.
+> - If a mutation does cause a change in the phenotype, but the change gives no particular advantage or disadvantage to the organisms, then the effect is also regarded as neutral.
+
+##### Beneficial effects to organism
+Mutations provide a source of genetic variations, and may give rise to new characteristics that help organisms become better adapted to a particular environment.
+
+Well-adapted organisms have a better chance to survive and reproduce, they pass on their genes to the next generation. This is natural selection and the mechanism of evolution.
 

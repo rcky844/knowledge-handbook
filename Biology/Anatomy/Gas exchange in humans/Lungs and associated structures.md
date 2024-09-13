@@ -1,4 +1,4 @@
-![[lungs.avif]]\
+![[lungs.avif]]
 The **lungs** are two spongy, pinkish organs close to the heart in the thoracic cavity. The [[Trachea, bronchi and bronchioles#Bronchioles|bronchioles]] end in clusters of air sacs inside of the lungs.
 
 #### Structures to protect the lungs and aid breathing
