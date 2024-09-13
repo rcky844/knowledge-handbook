@@ -25,6 +25,7 @@ Direct [[Combustion|combustion]] of petroleum is wasteful as it also contains ma
 
 **Fractional distillation of petroleum** separates the petroleum into fractions by physical method. It makes use of the <u>different molecular sizes and boiling points</u> of hydrocarbon fractions.
 
+//TODO import
 ##### Demand of petroleum fractions
 - **Smaller molecule hydrocarbons** make better fuels as they are more volatile, more flammable and burn with a less sooty flame.
 

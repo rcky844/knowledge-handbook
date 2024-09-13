@@ -26,13 +26,13 @@ In tube D:
 #### Chemistry of rusting
 *See also: [[Redox Reactions, Chemical Cells and Electrolysis]]*
 
-Upon rusting, iron would turn to rust. Rust is hydrated iron(III) oxide: $\ce{Fe2O3 . nH2O (s)}$.
+Upon rusting, iron would turn to rust. Rust is hydrated iron(III) oxide: $\ce{Fe2O3 . nH2O (s)}$
 
 The overall chemical equation for rusting is:
 $\ce{4Fe (s) + 3O2 (g) + 2nH2O (ℓ) -> 2Fe2O3 . nH2O (s)}$
 
 > **Note**:
-> Rusting is a redox reaction.
+> Rusting is a [[Redox Reactions, Chemical Cells and Electrolysis|redox reaction]].
 
 ##### Reaction of iron
 Iron undergoes oxidation and loses electrons:

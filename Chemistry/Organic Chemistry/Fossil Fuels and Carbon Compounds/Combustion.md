@@ -38,7 +38,7 @@ $\ce{C_x H_y + (x+{y\over4})O2 -> xCO_2 + {y\over2}H2O}$
 ##### Catalytic converters
 **Catalytic converters** are installed to vehicles to reduce the amount of pollutants ($\ce{NO_x}$, $\ce{CO}$, unburnt hydrocarbons and soot / suspended particulates) in the exhaust.
 
-They contain <u>catalysts (Pt / Pd)</u> to speed up the rate of reaction.
+They contain <span style="color: skyblue">catalysts (Pt / Pd)</span> to <span style="color: lightgreen">speed up the rate of reaction</span>.
 - Leaded fuels should not be used with catalytic converters, as it would <u>'poison' the catalyst</u>.
 - Catalytic converters are shaped like a <span style="color: lightgreen">honeycomb / beehive</span>, this is to <u>increase the surface area for reaction</u>.
 

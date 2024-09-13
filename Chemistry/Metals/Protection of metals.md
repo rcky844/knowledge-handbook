@@ -39,7 +39,7 @@ In **tin-plating**, the iron surface is <u>completely</u> coated by tin. Tin pre
 Chromium and copper are commonly used as plating metals as they give a shiny appearance. However, this method is expensive.
 
 #### Sacrificial protection
-By attaching a more reactive metal (e.g. zinc), the more reactive metal loses electrons more readily than iron. Therefore, iron will not lose electrons and will not rust.
+By <u>attaching a more reactive metal (e.g. zinc)</u>, the more reactive metal loses electrons more readily than iron. Therefore, iron will not lose electrons and will not rust.
 
 The blocks of metal used in protecting iron needs to be replaced from time to time.
 
@@ -51,19 +51,17 @@ The blocks of metal used in protecting iron needs to be replaced from time to ti
   Some underground water pipes are made of iron. Magnesium blocks are attached to the underground pipelines to prevent iron from rusting.
 
 #### Galvanization
-**Galvanization** is zinc-plating. It involves in plating / coating a zinc layer completely onto an iron made object.
-- When the zinc layer is complete, it prevents the iron from contacting the water and oxygen in air to prevent rusting.
-- When the zinc layer is scratched off, zinc loses electrons more readily than iron to prevent rusting.
+**Galvanization** is <u>zinc-plating</u>, zinc loses electrons more readily than iron to prevent rusting.
 
 #### Alloying
 An alloy is made by mixing other elements (e.g. carbon and chromium) with iron in a mixture. The other elements will react more readily than iron / form protective (oxide) layer.
 
-Stainless steel is an alloy of iron made by mixing iron with specific amounts of carbon, chromium and nickel.
+Stainless steel is an alloy of iron made by mixing iron with specific amounts of <u>carbon, chromium and nickel</u>.
 
 However, this method is the most expensive method.
 
 #### Cathodic protection
 The negative terminal of a battery or power supply is connected to the iron object, providing electrons to the object and preventing the formation of $\ce{Fe^2+}$ ions.
 
-This makes the iron a cathode in an electrolytic cell.
+This makes the <u>iron</u> a <u>cathode</u> in an <u>electrolytic cell</u>.
 
