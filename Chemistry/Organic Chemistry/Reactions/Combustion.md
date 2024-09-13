@@ -29,10 +29,35 @@ $\ce{C_x H_y + (x+{y\over4})O2 -> xCO_2 + {y\over2}H2O}$
   Town gas contains flammable (hydrocarbons) and explosive substances ($\ce{H2}$).
 
 ##### Global warming
-//TODO import
+**Example**: HKCEE 2006 Q6(c)(i)
+Greenhouse gases (e.g. $\ce{CO2}$, $\ce{CH4}$, $\ce{H2O}$) can trap heat which is reradiated from the Earth, creating greenhouse effect to keep the atmosphere warm for life to sustain on Earth, but excessive amounts traps too much heat and causes global warming.
+
+> **Note**:
+> $\ce{CO2}$ is from the combustion of fossil fuels, where as $\ce{CH4}$ from the decaying of the remains of rice paddies / cattle.
+
+**Negative effects**:
+- **Melting of polar ice sheets**: Results in a rise in sea levels and endangers low land areas.
+- **Climate change**: Increases extreme weather conditions.
+- Endangers wildlife
+
+**Remedial measures** ($\ce{CO2}$):
+- Burn less fossil fuels and use alternative energy sources (e.g. nuclear energy, wind energy, solar energy, HEP, etc.) to generate electricity. 
+- Use $\ce{H2}$ as fuel ([[hydrogen-oxygen fuel cell]]) in cars.
+- Stop deforestation and plant more trees.
+- Prevent & put out forest fires.
+
+**Remedial measures** ($\ce{CH4}$):
+- Collect it from biomass and used as a fuel (it is part of refinery gas).
+
+> **Note**:
+> - Nuclear energy is not a form of renewable energy.
+> - However, large amounts of energy can be produced from a nuclear reactor.
+> - Nuclear waste can be difficult to process and handle.
 
 ##### Oil spillages
-//TODO import
+- Some components of oil is toxic to marine life.
+- The layer of oil blocks oxygen supply of marine life.
+- Oil is flammable, releasing mass amounts of pollutants to air.
 
 #### Solutions for pollution
 ##### Catalytic converters
@@ -56,5 +81,14 @@ They contain <span style="color: skyblue">catalysts (Pt / Pd)</span> to <span st
 **Harmless products produced**: $\ce{N2}$, $\ce{H2O}$, $\ce{CO2}$
 
 ##### Scrubbers
-**Scrubbers** involve the use of $\ce{CaO}$ or $\ce{CaCl2}$ to remove $\ce{SO2(g)}$.
+**Scrubbers** involve the use of $\ce{CaO}$ or $\ce{Ca(OH)2}$ to remove $\ce{SO2(g)}$.
+
+**Reactions**:
+- $\ce{SO2 (g) + CaO (s) -> CaSO3(s)}$
+- $\ce{SO2 (g) + Ca(OH)2 (s) -> CaSO3(s) + H2O (ℓ)}$
+
+##### Electronic precipitators
+**Electronic precipitators** are installed in power plants to <u>reduce the emission of suspended particulates only</u>, which are generally large in size.
+
+Dirty gases pass through a strong electric field where the particulates would be charged. The charged particulates are then collected on plates of opposite charges.
 
