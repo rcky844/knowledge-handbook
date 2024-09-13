@@ -6,7 +6,7 @@
 > **Light microscope**: Only high power
 > **Reproduction**: Asexual, by [[Asexual reproduction#Binary fission in bacteria|binary fission]]
 
-**Eubacteria** are unicellular prokaryotes. They have <u>no true nucleus</u> or other <u>membrane-bound organelles</u>. They can come in many shapes — spherical, rod-shaped or spiral.
+**Eubacteria** is a kingdom consisting of unicellular prokaryotes. They have <u>no true nucleus</u> or other <u>membrane-bound organelles</u>. They can come in many shapes — spherical, rod-shaped or spiral.
 
 ![[bacteria_structure.webp|400]]
 

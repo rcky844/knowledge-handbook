@@ -4,7 +4,7 @@
 > **Cell type**: Unicellular / Multicellular, Eukaryotes
 > **Reproduction**: Asexual
 
-**Fungi** are eukaryotes. They can be unicellular (e.g. mushroom, bread mould) or multicellular (e.g. yeast).
+**Fungi** is a kingdom consisting of eukaryotes. They can be unicellular (e.g. mushroom, bread mould) or multicellular (e.g. yeast).
 
 They have a <u>cell wall</u> made of <span style="color: skyblue">chitin</span> (a nitrogen containing polysaccharide). They have no chlorophyll and cannot produce their own food.
 

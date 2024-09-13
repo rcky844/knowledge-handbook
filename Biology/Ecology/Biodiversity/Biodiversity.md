@@ -9,4 +9,4 @@ The place where an organism lives is called a <u>habitat</u>. Organisms need to 
 #### Sections
 1. [[Linnaeus’s classification and naming system]]
 2. [[Six kingdoms]]
-3. 
+3. [[Dichotomous keys]]
