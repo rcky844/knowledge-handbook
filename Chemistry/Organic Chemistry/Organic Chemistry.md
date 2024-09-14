@@ -12,30 +12,29 @@
 
 3. [[Selected homologous series]]
 	- [[Alkanes]]
+	- [[Haloalkanes]]
 	- [[Alkenes]]
+	- [[Alkanol]] (alcohol)
+	- [[Alkanoic acid]]
+	- [[Aldehyde & Ketone]]
+	- [[Ester]]
+	- [[Unsubstituted amide]]
+	- [[Primary amides]]
 
 4. [[Isomerism]]
 
 5. Typical reactions of various functional groups
 	- [[Combustion]]
-	  
-	Alkanes
-	- [[Substitution reaction#Alkanes]]
+	- [[Substitution reaction]]
 	- [[Cracking]]
-	
-	Alkenes
 	- [[Addition reaction]]
 	- [[Addition polymerization]]
-	
-	Alcohols
-	- [[Substitution reaction#Alcohols]]
 	- [[Dehydration of alcohol]]
 	- [[Oxidation and reduction of carbon compounds]]
 	- [[Esterification]]
-	
-	Amides / Esters
-	- [[Condensation reaction]]
-	- [[Acid / alkaline hydrolysis]]
+	- [[Condensation polymerization]]
+	- [[Amide formation]]
+	- [[Hydrolysis]]
 
-6. [[Important organic substances]]
+6. Important organic substances
 	- [[Addition polymers]]

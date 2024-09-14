@@ -1,5 +1,6 @@
 > **Alkanes**
 > ━━━━━━━━━━
+> **Suffix**: -an(e)
 > **General formula**: $\ce{C_n H_{2n+2}}$
 > **Sources**: Fractional distillation of petroleum
 

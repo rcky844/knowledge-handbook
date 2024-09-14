@@ -26,3 +26,7 @@
 > alkene → haloalkane
 > ━━━━━━━━━━
 > **Reagent**: $\ce{HX}$ (X: $\ce{F}$ / $\ce{Cl}$ / $\ce{Br}$ /$\ce{I}$)
+
+**Markovnikov's rule**:
+When a molecule of $\ce{HX}$ is added to an alkene, the hydrogen atom is added to the carbon atom of the carbon-carbon double bond that <u>already carries the larger number of hydrogen atoms</u>.
+![[markovnikov_rule.webp|450]]

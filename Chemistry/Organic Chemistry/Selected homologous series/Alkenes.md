@@ -1,5 +1,9 @@
+![[c_c_double_bond.webp]]
+Carbon-carbon double bond
+
 > **Alkenes**
 > ━━━━━━━━━━
+> **Suffix**: -en(e)
 > **General formula**: $\ce{C_n H_{2n}}$
 > **Sources**: Cracking of crude oil
 
