@@ -1,5 +1,5 @@
 **Variations** are the <u>differences in characteristic</u> among individuals of the <u>same species</u>.
-\
+
 #### Types of variations
 ##### Discontinuous variations
 **Discontinuous variations** is a type of variation that has a <u>few distinct phenotypes</u> and <u>no intermediate forms</u>.
