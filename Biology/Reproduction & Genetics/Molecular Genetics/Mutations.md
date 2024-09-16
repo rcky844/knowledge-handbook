@@ -1,4 +1,4 @@
-A **mutation** is a <u>sudden and permanent</u> change in the DNA of an organism. Mutations can be classified into two types.
+A **mutation** is a <span style="color: lightgreen">sudden and permanent change</span> in the DNA / gene / chromosome of an organism. Mutations can be classified into two types.
 
 #### Gene mutations
 A **gene mutation** is a <u>change in the base sequence of DNA</u> in a gene.

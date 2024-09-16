@@ -10,7 +10,7 @@
   ↪️ See also: [[DNA, chromosomes and genes#Common terms for genetics]]
 
 - **Law of Segregation** (Third law of inheritance)
-  During the production of gametes, two copies of each hereditary factor segregate so that offspring acquire one factor from each parent when the gametes re-unite randomly during fertilization.
+  During the production of gametes, two copies of each hereditary factor segregate so that <u>offspring acquire one factor from each parent</u> when the gametes re-unite randomly <u>during fertilization</u>.
   ↪️ See also: [[Meiotic cell division#Significance of meiotic cell division]]
 
 - **Law of Independent Assortment** (Second law of inheritance)
