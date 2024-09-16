@@ -3,7 +3,7 @@
 > **Note**:
 > Production of proteins occurs in the cytoplasm.
 
-##### Role of transfer RNA
+#### Role of transfer RNA
 **Transfer RNA (tRNA)** molecules are <u>carriers of amino acids</u>, bringing specific amino acids to the [[ribosomes]]. There are different tRNA molecules in the cytoplasm.
 
 - At one end of the tRNA molecule is a <u>binding site for a specific amino acid</u>.
@@ -14,7 +14,7 @@
 
 //TODO images
 
-##### Synthesis of a polypeptide
+#### Synthesis of a polypeptide
 *Pre-context: [[Genetic code]]*
 ↪️ Some triplet codes serve as 'start signal' or 'stop signals' for protein synthesis.
 (Start: AUG; End: UAA / UAG / UGA)
@@ -30,7 +30,7 @@
 
 //TODO images
 
-##### Assembling a protein
+#### Assembling a protein
 The polypeptide produced by translation then <u>coils</u> and <u>folds</u> to form a protein.
 - <u>Some proteins consists of more than one polypeptide.</u>
 - The <u>amino acid sequence</u> of each polypeptide determines the <u>three-dimensional structure (conformation)</u> of the protein molecule.

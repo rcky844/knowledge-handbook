@@ -4,7 +4,7 @@
 - **Template strand**: The DNA strand to be transcribed.
 - **Coding strand**: The DNA strand that is not transcribed, it is identical to the mRNA.
 
-##### Process
+#### Process
 1. **Unwinding of the double helix of DNA**
 		- The <span style="color:skyblue">RNA polymerase</span> binds to a region of the DNA near the <u>beginning of the gene</u>.
 	- The [[hydrogen bonds]] between the nitrogenous bases of the two DNA strands of the double helix <u>breaks</u>.
