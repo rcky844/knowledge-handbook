@@ -15,6 +15,8 @@ Most fungi are <span style="color: skyblue">sarophytes</span>, which feed on dea
 Some fungi are <span style="color: skyblue">parasites</span> that may cause [[Types of pathogens#Fungi|diseases]].
 
 #### Reproduction of fungi
+*See also: [[Asexual reproduction]]*
+
 - **Budding in yeast and *Hydra***
   The parent develops an outgrowth (bud), which grows larger and eventually breaks off as an offspring that is smaller than the parent, but is genetically identical to the parent.
 
