@@ -18,8 +18,8 @@
   cereals, soya beans
 
 - **Functions**
-	- For the formation of red blood cells
-	- For respiration
+	- For the <u>formation of red blood cells</u>
+	- For <u>respiration</u>
 
 - **Deficiency symptoms / diseases**
 	- Fatigue
@@ -32,9 +32,9 @@
   fruits, green vegetables
 
 - **Functions**
-	- For the formation and repair of connective tissues
-	- Helps heal wounds
-	- Maintains healthy gums, teeth and skin
+	- For the <u>formation and repair of connective tissues</u>
+	- Helps <u>heal wounds</u>
+	- <u>Maintains healthy gums, teeth and skin</u>
 
 - **Deficiency symptoms / diseases**
 	- Scurvy (leads to anaemia, exhaustion, spontaneous bleeding, limb pain, swelling)
@@ -44,8 +44,9 @@
 - **Food sources**
   liver, fish-liver oil, milk, cheese, egg yolk
 
-- **Functions**
-	- Helps the absorption of calcium and phosphate ions from the intestine
+- **Function**
+  Helps the absorption of calcium and phosphate ions from the intestine.
+  ↪️ For <u>bone formation / development</u>
 
 - **Deficiency symptoms / diseases**
 	- Rickets (affects bone development in children)
@@ -56,8 +57,8 @@
 - **Food sources**
   nuts, cereals
 
-- **Functions**
-	- Protects cells against damage by free radicals
+- **Function**
+  Protects cells against damage by <u>free radicals</u>
 
 - **Deficiency symptoms / diseases**
 	- Anaemia due to excessive breakdown of red blood cells
@@ -69,7 +70,7 @@
   green leafy vegetables
 
 - **Functions**
-	- Essential for blood clotting
+  Essential for <u>blood clotting</u>
 
 - **Deficiency symptoms / diseases**
 	- Bleeding in the gums

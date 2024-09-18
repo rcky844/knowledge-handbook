@@ -4,8 +4,8 @@
   milk, cheese, yogurt, sardines, almonds, green vegetables
 
 - **Functions**
-	- For the formation of bones and teeths
-	- For blood clotting and muscle contraction
+	- For the <u>formation of bones and teeths</u>
+	- For <u>blood clotting</u> and <u>muscle contraction</u>
 
 - **Deficiency symptoms / diseases**
 	- Rickets (affects bone development in children)
@@ -17,7 +17,7 @@
   liver, beef, eggs, green leafy vegetables
 
 - **Functions**
-	- For the formation of haemoglobin
+  For the <u>formation of haemoglobin</u>
 
 - **Deficiency symptoms / diseases**
 	- Anaemia (lack enough healthy red blood cells)

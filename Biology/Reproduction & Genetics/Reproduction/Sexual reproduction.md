@@ -6,6 +6,3 @@ Currently in the Knowledge Handbook, there are two major types of sexual reprodu
 
 - [[Sexual reproduction in flowering plants]]
 - [[Sexual reproduction in humans]]
-
-#### See also
-- [[Significance of asexual and sexual reproduction in flowering plants]]

@@ -1,10 +1,10 @@
 ![[fertilization_flower.webp|500]]
 
-1. When a pollen grain reaches a stigma, it is stimulated by the sugary solution on the stigma to develop a <u>pollen tube</u>.
-2. The pollen tube secretes enzymes to digest tissues of the style and the ovary, bringing the male gamete towards the ovule through the micropyle.
+1. When a pollen grain reaches a stigma, it is stimulated by the sugary solution on the stigma to develop a <span style="color: skyblue">pollen tube</span>.
+2. The pollen tube <u>secretes enzymes to digest tissues of the style and the ovary</u>, bringing the male gamete towards the ovule through the micropyle.
 3. The male gamete is released into the ovule and fuses with the female gamete, forming a zygote.
 
-![[fertilization_flower_extra.webp|200]]
+![[fertilization_flower_extra.webp|240]]
 
 #### Fate of various parts of a flower after fertilization
 - **Ovary**: Swells and develops into a fruit.
