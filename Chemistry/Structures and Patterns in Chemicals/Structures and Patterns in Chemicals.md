@@ -21,7 +21,7 @@
 7. [[Comparing boiling points and melting points]]
 
 #### Microscopic World II
-1. [[Simple molecular substances with non-octet structures]]
+1. [[Non-octet structures]]
 2. [[Shapes of simple molecules]]
 3. [[Polarity of bonds and molecules]]
 4. [[Intermolecular forces]]
