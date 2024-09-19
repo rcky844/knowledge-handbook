@@ -19,9 +19,9 @@ The group number of an element is equal to the number of <u>outermost shell elec
 The atoms of elements in the same period have the same number of occupied electron shells.
 
 Moving across the Periodic Table from left to right, some patterns can be observed.
-*See also: [[Patterns in the Chemical World]]*
-- The elements change from metal to metalloid to non-metal across a period.
+- Elements change from metal to metalloid (semi-metal) to non-metal across a period.
 - Melting points of elements of elements increase then decrease across a period.
+↪️ These patterns are referred to as [[Periodicity]].
 
 #### Duplet / octet rule
 All noble gases are chemically inert and chemically stable as they have a fully occupied outermost shell electron shell.

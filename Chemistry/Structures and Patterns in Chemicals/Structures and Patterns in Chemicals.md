@@ -1,6 +1,6 @@
 ![[List article!]]
 
-#### Sections
+#### Microscopic World I
 1. [[Elements and their classifications]]
 2. [[Atomic structure]]
 3. [[Relative isotopic mass and relative atomic mass]]
@@ -19,3 +19,14 @@
 	- [[Giant covalent structure]]
 	- [[Simple molecular structure]]
 7. [[Comparing boiling points and melting points]]
+
+#### Microscopic World II
+1. [[Simple molecular substances with non-octet structures]]
+2. [[Shapes of simple molecules]]
+3. [[Polarity of bonds and molecules]]
+4. [[Intermolecular forces]]
+
+#### Patterns in the Chemical World
+1. [[Periodicity]] - Periodic trends
+2. [[Oxides of elements]]
+3. [[Transition metals]]
