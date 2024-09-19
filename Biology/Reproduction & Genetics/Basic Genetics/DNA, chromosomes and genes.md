@@ -17,7 +17,7 @@ Each DNA molecules wraps around special proteins and coils up to form chromatin.
 ##### Significance for storage of genetic information
 - DNA is a large molecule made up of a huge number of nucleotides, it can **store a very large amount of genetic information**.
 
-- DNA molecule is **stable**. The sugar of one nucleotide and the phosphate group of the net are joined together by <u>strong</u> [[covalent bonds]], forming a strong sugar-phosphate backbone. The [[hydrogen bonds]] between the bases of the two stands of DNA hold the two strands together and stabilize the helical structure.
+- DNA molecule is **stable**. The sugar of one nucleotide and the phosphate group of the net are joined together by <u>strong</u> [[Covalent bonds]], forming a strong sugar-phosphate backbone. The [[hydrogen bonds]] between the bases of the two stands of DNA hold the two strands together and stabilize the helical structure.
 
 - **Complementary base pairing** enables DNA to **replicate** (make an **exact** copy of itself) every time a cell divides, so that genetic information is passed on to new cells.
 
