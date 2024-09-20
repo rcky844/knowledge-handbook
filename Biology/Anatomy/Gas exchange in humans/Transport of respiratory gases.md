@@ -1,6 +1,6 @@
 #### Oxygen
 ##### Methods
-- Transported in the blood and carried by [[Red blood cells]] (>98%)
+- Transported in the blood and carried by [[red blood cells]] (>98%)
 - Transported as dissolved oxygen in blood plasma. (<2%)
 
 ##### Processes

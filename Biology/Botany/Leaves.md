@@ -4,8 +4,8 @@
 *See also: [[Gas exchange in plants]], [[Photosynthesis]]*
 
 ##### Leaf blade
-- **Broad and flat**: Provide a large surface area for gas exchange, and absorbing light for photosynthesis.
-- **Thin**: Shorten the diffusion distance for gases to reach the mesophyll cells, as well as allowing light to reach photosynthetic cells easily.
+- **Broad**: Provide a <u>large surface area for gas exchange</u>, and absorbing light for photosynthesis.
+- **Flat and thin**: <u>Shorten the diffusion distance for gases to reach the mesophyll cells</u> (between internal and external environment), as well as allowing light to reach photosynthetic cells easily.
 
 ##### Epidermis
 - **Closely packed cells**: Protect the inner tissues of the leaf from mechanical damage and infections.

@@ -10,6 +10,6 @@ It can also help regulate [[Homeostasis#Body temperature|body temperature]].
 
 Nasal hairs in the nasal cavity can filter large dust particles from incoming air to stop them from entering the respiratory tract.
 
-Epithelial cells lining the respiratory tract are closely-packed. They form a physical barrier to prevent pathogens from entering body tissues.
+Epithelial cells lining the respiratory tract are <span style="color: lightgreen">closely-packed</span>. They form a physical barrier to prevent pathogens from entering body tissues.
 
 Mucus-secreting cells also lining the respiratory tract produces mucus to trap pathogens and dust particles from the incoming air. The mucus is then swept by cilia of ciliated epithelium for removal.

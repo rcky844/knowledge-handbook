@@ -1,3 +1,5 @@
+**Gas exchange** in plants rely on passive ventilation (diffusion only).
+
 #### In leaves
 ##### Into the leaf
 1. Gases in the surroundings diffuse down their concentration gradients into the air spaces through the stomata.
