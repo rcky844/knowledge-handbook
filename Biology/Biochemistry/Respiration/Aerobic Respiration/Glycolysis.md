@@ -7,6 +7,9 @@
 - Net gain of 2 ATP
 - 2 NADH (reduced NAD)
 
+> **Note**:
+> - There are two pyruvate molecules produced per glucose molecule, everything needs to be multiplied by 2 when thinking about what happens to a single glucose molecule in aerobic respiration.
+
 ![[glycolysis.avif|600]]
 
 1. **Phosphorylation**

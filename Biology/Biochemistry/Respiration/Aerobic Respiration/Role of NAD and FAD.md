@@ -1,4 +1,4 @@
-**Coenzymes NAD and FAD** transfer the hydrogen atoms (hydrogen ions and electrons) from the different stages of respiration to the electron transport chain on the inner mitochondrial membrane, the site where hydrogen is removed from the coenzymes (oxidised).
+**Coenzymes NAD and FAD** <u>transfer</u> the hydrogen atoms (<u>hydrogen ions and electrons</u>) from the different stages of respiration to the electron transport chain on the inner mitochondrial membrane (in the form of $\ce{NADH}$ and $\ce{FADH2}$), the site where hydrogen is removed from the coenzymes (oxidised).
 
 Hydrogen ions and electrons are important in the electron transport chain at the end of respiration as they play a role in the synthesis of ATP.
 ↪️ See also: [[Oxidative phosphorylation]]

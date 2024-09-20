@@ -7,9 +7,12 @@ When <u>oxygen is available</u>, pyruvate will enter the <span style="color: sky
 - As pyruvate moves across the double membrane of the mitochondria via [[active transport]], it requires a transport protein and a small amount of ATP.
 
 **Overall products** (per glucose molecule):
-- Acetyl coenzyme A (acetyl-CoA)
+- 2 Acetyl coenzyme A (acetyl-CoA)
 - 2 Carbon dioxide ($\ce{CO2}$)
 - 2 Reduced NAD ($\ce{NADH}$)
+
+> **Note**:
+> - There are two pyruvate molecules produced per glucose molecule, everything needs to be multiplied by 2 when thinking about what happens to a single glucose molecule in aerobic respiration.
 
 ![[link_reaction.avif|550]]
 
@@ -24,7 +27,3 @@ When <u>oxygen is available</u>, pyruvate will enter the <span style="color: sky
 
 2. **Combination with coenzyme A**
    The acetyl group combines with coenzyme A to form acetyl-CoA. It acts as a carrier to transfer the acetyl group to the [[Krebs cycle]].
-
-> **Note**:
-> - There are two pyruvate molecules produced per glucose molecule, everything needs to be multiplied by 2 when thinking about what happens to a single glucose molecule in aerobic respiration.
-> - Two acetyl-CoA are formed for each glucose molecule undergoing [[glycolysis]].
