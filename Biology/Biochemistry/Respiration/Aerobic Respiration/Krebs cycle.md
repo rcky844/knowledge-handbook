@@ -1,4 +1,4 @@
-The **Krebs cycle** is a cyclic series of enzyme-controlled reactions that take place in the mitochondrial matrix.
+	The **Krebs cycle** is a cyclic series of enzyme-controlled reactions that take place in the mitochondrial matrix.
 
 **Overall products** (per glucose molecule):
 - Coenzyme A (CoA) → reused!
@@ -10,7 +10,7 @@ The **Krebs cycle** is a cyclic series of enzyme-controlled reactions that take 
 > **Note**:
 > - There are two pyruvate molecules produced per glucose molecule, everything needs to be multiplied by 2 when thinking about what happens to a single glucose molecule in aerobic respiration.
 
-![[kerbs_cycle.avif|500]]
+![[krebs_cycle.avif|500]]
 
 > **Note**:
 > Spelling oxaloacetate or citrate is not required.
