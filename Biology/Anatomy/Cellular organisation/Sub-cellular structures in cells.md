@@ -12,7 +12,7 @@
 3. [[Nucleus]]
 4. [[Ribosomes]]
 5. [[Endoplasmic reticulum]] (ER)
-6. [[Mitochondrion]]
+6. [[Mitochondria]]
 7. [[Vacuole]]
 8. [[Cell wall]]
 9. [[Chloroplast]]

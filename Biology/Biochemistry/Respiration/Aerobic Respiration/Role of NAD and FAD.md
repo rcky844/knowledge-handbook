@@ -1,0 +1,17 @@
+**Coenzymes NAD and FAD** transfer the hydrogen atoms (hydrogen ions and electrons) from the different stages of respiration to the electron transport chain on the inner mitochondrial membrane, the site where hydrogen is removed from the coenzymes (oxidised).
+
+Hydrogen ions and electrons are important in the electron transport chain at the end of respiration as they play a role in the synthesis of ATP.
+↪️ See also: [[Oxidative phosphorylation]]
+
+#### Sources
+**Reduced NAD**:
+- 2 x 1 = 2 from [[Glycolysis]]
+- 2 x 1 = 2 from the [[Link Reaction]]
+- 2 x 3 = 6 from the [[Krebs cycle]]
+
+**Reduced FAD**:
+- 2 x 1 = 2 from the [[Krebs cycle]]
+
+> **Note**:
+> At all stages there is a doubling (2x) of reduced NAD and FAD. This is because one glucose molecule is split in two in [[glycolysis]] and so these reactions occur twice per single molecule of glucose.
+
