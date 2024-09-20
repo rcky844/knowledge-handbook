@@ -16,4 +16,7 @@
 > Therefore, limewater test is only a preliminary test but not a specified test for carbon dioxide gas.
 
 #### Alternative tests
-- Hydrogencarbonate indicator
+##### Hydrogencarbonate indicator
+- It is red when carbon dioxide levels are at normal air levels.
+- An increase in carbon dioxide changes it to yellow.
+- A decrease in carbon dioxide changes it to purple.
