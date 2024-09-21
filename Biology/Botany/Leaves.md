@@ -42,7 +42,7 @@
 
 
 #### Differences of leaves in different plants
-*See also: [[Process of gas exchange]]*
+*See also: [[Process of gas exchange (plants)]]*
 
 > **FIXME**: The descriptions below may focus heavily on the example of plants.
 
