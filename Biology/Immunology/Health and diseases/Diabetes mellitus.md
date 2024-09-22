@@ -15,10 +15,10 @@
   The decrease in water potential of the blood stimulates the 'thirst centre' in the brain, making the person thirsty.
 
 #### Types of diabetes
-- **Diabetes Type I**
+- **Diabetes Type I** (insulin-dependent diabetes)
   The pancreas does not secrete enough insulin.
 
-- **Diabetes Type II**
+- **Diabetes Type II** (non-insulin-dependent diabetes)
   The body cells do not respond to insulin.
 
 #### Comparison with normal people
