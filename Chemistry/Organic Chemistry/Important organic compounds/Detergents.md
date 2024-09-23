@@ -53,7 +53,7 @@ $\ce{CH3(CH2)11 SO3- Na+}$
 
 ##### Biodegradability
 Whether detergents are biodegradable <u>does not depend on the source of their hydrocarbon</u>, but its structure.
-		↪️ <u>A detergent is biodegradable when there is no branched chains in its structure.</u>
+↪️ <u>A detergent is biodegradable when there is no branched chains in its structure.</u>
 
 #### Manufacturing of detergents
 ##### Soapy detergents
