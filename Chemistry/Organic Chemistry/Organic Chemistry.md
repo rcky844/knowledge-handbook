@@ -43,3 +43,5 @@
 	- [[Detergents]] — cleansing agent
 		- [[Lipids#Triglycerides]] - raw material for production of soapy detergents
 	- [[Condensation polymerization|Condensation polymers]]
+		- [[Carbohydrates]] / [[Condensation & Hydrolysis]]
+		- [[Proteins]]

@@ -1,3 +1,4 @@
+**Carbohydrates** act as important sources of <u>energy</u> and <u>structural material</u> in organisms.
 - **Components**: Carbon, hydrogen and oxygen (H:O = 2:1)
 - **General formula**: $\ce{C_x(H2O)_y}$
 
@@ -31,10 +32,19 @@
 	- <u>Starch</u>: As energy reserves in plants
 	- <u>Cellulose</u>: Main component of cell walls in plants
 
-### Tests
+#### Chemistry
+*See also: [[Condensation polymerization]]*
+
+| ![[glucose.webp\|200]] | ![[fructose.webp\|200]] |
+| :--: | :--: |
+| Glucose | Fructose |
+- As they have the same molecular formula and functional group, they are [[Isomerism#Position isomerism|position isomers]].
+
+#### Tests
 - [[Benedict's test]]
 - [[Iodine test]]
 - [[Glucose test strip]]
 
-### See also
+#### See also
 - [[Carbohydrates (Photosynthesis)]]
+- [[Condensation & Hydrolysis]]

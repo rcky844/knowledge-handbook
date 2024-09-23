@@ -6,7 +6,7 @@
 - Varying sequences and length of dipeptides and polypeptides are formed when amino acids join together by condensation.
 - The different sequences give rise to protein molecules with different shapes (conformation) to serve different functions.
 
-### Functions & examples
+#### Functions & examples
 - **Component of cellular structures**:
 	- Proteins are important for the growth and repair of body tissues.
 	- e.g. cytoplasm, cell membrane, etc.
@@ -17,5 +17,9 @@
 	- **Hormones**: Involved in regulating metabolic processes in the body
 - **Source of energy**: Used when the human body is short of carbohydrates and lipids
 
-### Tests
+#### Peptide linkage (amide linkage)
+*See also: [[Condensation polymerization#Polyamide]]*
+![[protein_condensation.webp|600]]
+
+#### Tests
 - [[Protein test paper]]
