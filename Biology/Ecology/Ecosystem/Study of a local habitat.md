@@ -34,20 +34,51 @@ A transect is laid on the study site <u>along a physical gradient</u> (e.g. from
 A transect is laid on the study site and quadrats are placed continuously along the transect. Alternatively, quadrats can be placed along the transects at fixed intervals. The position of the quadrats and the organisms within the quadrats are recorded.
 
 ![[belt_transect1.webp|600]]
+- (a): Quadrats placed along a transect continuously
+- (b): Quadrats placed along a transect at fixed intervals
+
+> **Note**:
+> The data collected through this method may then be tabulated for further analysis.
 
 **Kite diagrams** can be drawn to show the distribution of organisms along the transect.
 
 //TODO images
 
+##### Processing of data
+###### Percentage frequency
+**Percentage frequency** is used to find the probability of a species occurring in a quadrat. This is useful for species that is <u>difficult to count</u> (e.g. grasses), and provides information on the <u>general distribution of the species</u> present.
+
+**Formula**:
+$\pu{\% frequency} = {\pu{number of quadrats in which the species occurs}\over\pu{total number of quadrats}} \times 100\%$
+
+###### Density
+**Density** measures the number of individuals per a specific area of land. This is useful for species that are <u>easy to count and not too numerous</u>.
+
+**Formula**:
+$\pu{absolute density} = {\pu{number of individuals of the species in the quadrat}\over\pu{area of the quadrat}}$
+$\pu{relative density} = {\pu{number of individuals of the species in the quadrat}\over\pu{number of individuals of all species in the quadrat}} \times 100\%$
+
+> **Note**:
+> If some individuals are half inside the quadrat, those on two sides of the quadrats are counted as being in, while those on the other two sides are counted as being out.
+
+###### Percentage cover
+**Percentage cover** is an estimate of the area within a quadrat that a species covers. It is useful for species that are <u>particularly abundant or difficult to count individually</u> (e.g. mosses, algae).
+
+**Formula**:
+$\pu{\% cover} = {\pu{area of quadrat covered by the species}\over\pu{total area of the quadrat}} \times 100\%$
+
 #### Measuring abiotic factors
-Different instruments for collecting abiotic factors can be used:
-- A light meter
-- A data logger with a temperature sensor
-- An anemometer for measuring wind speed
-- A thermohygrometer for measuring relative humidity
-- A refractometer for measuring the salinity of water samples
-- A dissolved oxygen meter
-- pH paper and pH meter
+| Abiotic factor | Instrument / Tool |
+| :--: | :--: |
+| Light intensity | Light meter (lux) |
+| pH | pH meter / pH paper |
+| Wind speed | Anemometer |
+| Temperature | Thermometer |
+| Oxygen | Dissolved oxygen meter |
+| Relative humidity | Thermohygeometer |
+| Salinity | Refractometer (for water samples) |
+
+- Data loggers can be used to collect data in conjunction with these instruments on abiotic data for ecological studies.
 
 <!-- Consider importing diagrams for reference after HKDSE 2024 -->
 
