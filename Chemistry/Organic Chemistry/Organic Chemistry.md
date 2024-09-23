@@ -29,6 +29,7 @@
 	- [[Cracking]]
 	- [[Addition reaction]]
 	- [[Addition polymerization]]
+	- [[Condensation polymerization]] (Condensation reaction)
 	- [[Dehydration of alcohol]]
 	- [[Oxidation and reduction of carbon compounds]]
 	- [[Esterification]]
@@ -38,5 +39,6 @@
 
 6. Important organic substances
 	- [[Addition polymerization|Addition polymers]]
-	- 
-		
+	- [[Aspirin]] — pain killer
+	- [[Detergents]] — cleansing agent
+	- [[Condensation polymerization|Condensation polymers]]

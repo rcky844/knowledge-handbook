@@ -1,12 +1,16 @@
 *Pre-context: [[Polymerization]]*
 
-**Addition polymerization** is a reaction in which <u>monomer molecules</u> join together repeatedly to form polymer molecules, <u>without the elimination of small molecules</u> (e.g. $\ce{H2O}$, $\ce{HCl}$).
+**Addition polymerization** is a reaction in which <u>monomer molecules</u> join together repeatedly to form polymer molecules, <u>without the elimination of small molecules</u>.
 
 #### Representations of addition polymers
 ![[addition_polymers.webp|350]]
 
 #### Reaction
 ![[addition_polymers_reaction.webp|400]]
+**Conditions**:
+- High temperature
+- High pressure
+- In the presence of a catalyst
 
 #### Examples of addition polymers
 
