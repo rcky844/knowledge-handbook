@@ -18,7 +18,7 @@
 
 ##### Alternatives
 **Paracetamol**:
-![[aspirin.webp|250]]
+![[paracetomal.webp|250]]
 
 #### Solubility of Aspirin
 For aspirin to work, it must dissolve inside the stomach acid before it gets into the bloodstream. However, aspirin is relatively non-polar and only slightly soluble in water.
