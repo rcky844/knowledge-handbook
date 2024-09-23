@@ -20,7 +20,7 @@ In ecological pyramids, the producer always occupies the bottom of the pyramid. 
 
 - <span style="color: lightgreen">Exceptional cases</span>
   ![[py_of_num_exp.webp|200]]
-  This pyramid is inverted. The producer is much larger than the consumer, and so the producer can support many consumers.
+  This pyramid is inverted. <u>The producer has a much higher biomass than the consumer, and so the producer can support many consumers.</u>
 
 #### Pyramid of biomass
 **Pyramid of biomass** shows the total mass of organisms (often [[Growth parameters#Dry mass|dry mass]]) at each trophic level in a given area at one time.

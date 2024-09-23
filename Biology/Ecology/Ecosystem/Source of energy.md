@@ -2,6 +2,9 @@ The Sun provides an external source of energy for many ecosystem, which is captu
 
 Energy is released through respiration, but some of the energy is lost as heat. Energy is also lost through [[excretion]] (in urea), [[Large intestine#Egestion|egestion]] (in faeces) and as uneaten body parts (e.g. bones) when the organism dies.
 
+> **Note**:
+> There is no cycling of energy in an ecosystem. Energy lost cannot be recycled by the ecosystem.
+
 #### Food chains
 Consider an example: grass → grasshopper → sparrow (where → means eaten by)
 - The food chain represents the direction of energy and material flow from one organism to the next.
@@ -23,7 +26,7 @@ Consider an example: grass → grasshopper → sparrow (where → means eaten by
 	- Organisms that obtain nutrients and energy by breaking down the wastes or dead bodies of producers and consumers.
 	- They secrete enzymes onto dead material to break down organic matter into inorganic nutrients.
 	- They may not always be shown in food chains, but play important roles in material cycling, returning nutrients to the environment for reuse by producers.
-	- **Examples**: saprophytes – fungi, bacteria
+	- **Examples**: <u>saprophytes – fungi, bacteria</u>
 
 #### Food webs
 ![[food_webs.webp|380]]

@@ -5,7 +5,8 @@ Wildlife is being overexploited by humans in the field of:
 - **Medicines** — Hunting of rhino for their horns
 - **Decorative products** — Hunting of elephants for their tusks for making ivory products
 
-This may result in extinction of the species.
+This may result in extinction of the species, and an increase in the population of its prey.
+↪️ HKCEE 2005 P1 Q5
 
 ##### Destruction of habitats
 ###### Deforestation

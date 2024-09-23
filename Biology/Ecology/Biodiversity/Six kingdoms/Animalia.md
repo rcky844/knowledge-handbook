@@ -37,6 +37,7 @@ Classification of animals ⤴️
 
 ##### Amphibians
 **Characteristics**:
+- They have <span style="color: lightgreen">smooth / naked</span> <span style="color: skyblue">skin</span>.
 - Most begin life in water as <span style="color: skyblue">larvae</span> (or <span style="color: skyblue">tadpoles</span>) and then live on land as adults.
 - Tadpoles use <u>grills for gas exchange</u>, adult amphibians use <u>lungs and skin surface for gas exchange</u>.
 - Most adults amphibians have four limbs.

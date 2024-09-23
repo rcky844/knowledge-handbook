@@ -5,7 +5,8 @@ The pancreas detect changes in blood glucose levels and control the secretion of
 #### Insulin
 **Insulin** is a protein hormone that has the following functions:
 - Stimulates <span style="color: skyblue">liver cells</span> to <span style="color: lightgreen">convert <u>more</u> glucose to glycogen</span>
-- Stimulates <span style="color: skyblue">body cells</span> to <span style="color: lightgreen">take up <u>more</u> glucose from the blood</span>
+- Stimulates <span style="color: skyblue">body cells and liver cells</span> to <span style="color: lightgreen">take up <u>more</u> glucose from the blood</span>
+- Increases [[respiration]] in cells to <span style="color: lightgreen">consume glucose</span>
 - <span style="color: lightgreen">Inhibits the secretion of glucagon</span>
 
 Overall, <u>insulin causes blood glucose level to decrease.</u>

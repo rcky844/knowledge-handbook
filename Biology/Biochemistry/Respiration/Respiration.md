@@ -22,3 +22,6 @@ $\ce{glucose + oxygen ->[enzymes] carbon dioxide + water + energy (ATP and heat)
 2. [[Aerobic respiration]]
 3. [[Anaerobic respiration]]
 4. [[Comparing aerobic and anaerobic respiration]]
+
+#### See also
+- [[Photosynthesis]] — the synthesis of glucose with light and carbon dioxide

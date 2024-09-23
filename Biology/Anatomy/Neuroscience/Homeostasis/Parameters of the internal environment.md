@@ -50,7 +50,7 @@
 - Maintains a stable water potential of blood and tissue fluid.
 
 **Effects of extreme conditions**:
-- Glucose is the main respiratory substrate, inadequate supply affects respiration of cells.
+- Glucose is the main respiratory substrate, inadequate supply affects respiration of cells. This can result in dizziness or even death, as the brain does not have enough glucose supply.
 - Glucose is soluble in water and affects the water potential of the blood. Differences in water potential of blood or tissue fluid surrounding the cells determine the net movement of water into and out of the cells by [[osmosis]].
 
 > **Note**:

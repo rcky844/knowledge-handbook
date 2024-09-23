@@ -1,6 +1,6 @@
-**Photochemical reactions**, also called **light reactions**, are reactions driven by light energy that take place in the thylakoids of chloroplasts in plants. It is the first stage of photosynthesis.
+**Photochemical reactions**, also called **light reactions**, are reactions driven by light energy that take place in the thylakoids of [[Chloroplast|chloroplasts]] in plants. It is the first stage of [[photosynthesis]].
 
-In the reaction, light energy is absorbed by chlorophyll and converted to chemical energy in the form of ATP and NADPH. Water is split, releasing oxygen as a by-product.
+In the reaction, light energy is absorbed by [[chlorophyll]] and converted to chemical energy in the form of ATP and NADPH. Water is split, releasing oxygen as a by-product.
 
 ##### Light absorption and electron transport
 ![[photosynthesis_photochem_s1.webp|360]]
@@ -36,5 +36,5 @@ In the reaction, light energy is absorbed by chlorophyll and converted to chemic
 Light energy is converted to chemical energy in the form of ATP and NADPH, with the release of oxygen as a by-product of photosynthesis.
 
 ##### Uses of products in carbon fixation
-- ATP will provide energy to drive the reactions of [[Carbon fixation]].
-- NADPH will act as a reducing agent, providing reducing power by donating hydrogen in [[Carbon fixation]].
+- ATP will provide energy to drive the reactions of [[carbon fixation]].
+- NADPH will act as a reducing agent, providing reducing power by donating hydrogen in [[carbon fixation]].

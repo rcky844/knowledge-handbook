@@ -17,11 +17,12 @@
 ---
 
 4. Energy flow
+	- [[Feeding behaviours of organisms]]
 	- [[Source of energy]]
 	- [[Energy flow between different trophic levels]]
 	- [[Ecological pyramids]]
 
-5. Material cycling
+6. Material cycling
 	- [[Carbon Cycle]]
 	- [[Nitrogen Cycle]]
 

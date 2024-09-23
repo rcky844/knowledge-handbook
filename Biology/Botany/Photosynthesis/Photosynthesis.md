@@ -63,3 +63,5 @@ To study the effects of different factors on the rate of photosynthesis, we can 
 - The rate of formation of products (e.g. oxygen and carbohydrates)
 - The rate of use of raw materials (e.g. carbon dioxide)
 
+#### See also
+- [[Respiration]] — the oxidative breakdown of glucose to release energy

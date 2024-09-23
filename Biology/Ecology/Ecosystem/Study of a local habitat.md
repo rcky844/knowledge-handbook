@@ -1,0 +1,53 @@
+**Sampling and collecting data on abiotic factors** can be used to discover the [[Species diversity|distribution and abundance of organisms]] in the habitat.
+
+#### Sampling
+**Sampling** is used to count the number of organisms in a small area to estimate the total number of organisms.
+
+##### Quadrats
+**Quadrats** are used in randomly sampling for determining the species abundance.
+
+They are placed randomly on different locations within the area being studied. The number of different kinds of organism in each quadrat is counted and recorded, and a mean value is calculated. The greater the number of quadrat counts, the more reliable the estimate of the number of organisms will be.
+
+**Requirements for using quadrats**:
+- They are only suitable for sampling plants, immobile or slow-moving animals.
+- The size of the quadrat used depends on the size of the organisms being counted. A larger quadrat is used for larger organisms so that it encloses a reasonable number of individuals.
+- If used alone, it is only suitable for uniform habitats (e.g. grassland).
+
+##### Transects
+**Transects** are used in systematic sampling to study habitats where sme form of gradual change (transition) in populations takes place.
+
+###### Line transect
+**Line transecting** can be used to estimate the <u>range of distribution of species in a habitat</u>.
+
+A transect is laid on the study site <u>along a physical gradient</u> (e.g. from upper shore towards lower shore of a wetland). Organisms that touch the transect are identified and recorded.
+
+![[line_transect1.webp|600]]
+
+![[line_transect2.webp|600]]
+
+> **Note**:
+> Line transecting does not estimate the abundance of the organisms.
+
+###### Belt transect
+**Belt transecting** can be used to estimate both the <u>distribution and abundance of species in a habitat</u>.
+
+A transect is laid on the study site and quadrats are placed continuously along the transect. Alternatively, quadrats can be placed along the transects at fixed intervals. The position of the quadrats and the organisms within the quadrats are recorded.
+
+![[belt_transect1.webp|600]]
+
+**Kite diagrams** can be drawn to show the distribution of organisms along the transect.
+
+//TODO images
+
+#### Measuring abiotic factors
+Different instruments for collecting abiotic factors can be used:
+- A light meter
+- A data logger with a temperature sensor
+- An anemometer for measuring wind speed
+- A thermohygrometer for measuring relative humidity
+- A refractometer for measuring the salinity of water samples
+- A dissolved oxygen meter
+- pH paper and pH meter
+
+<!-- Consider importing diagrams for reference after HKDSE 2024 -->
+
