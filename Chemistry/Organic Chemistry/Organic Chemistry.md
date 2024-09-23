@@ -41,4 +41,5 @@
 	- [[Addition polymerization|Addition polymers]]
 	- [[Aspirin]] — pain killer
 	- [[Detergents]] — cleansing agent
+		- [[Lipids#Triglycerides]] - raw material for production of soapy detergents
 	- [[Condensation polymerization|Condensation polymers]]

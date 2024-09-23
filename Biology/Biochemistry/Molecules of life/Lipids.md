@@ -2,9 +2,10 @@
 - **Solubility**: Insoluble in water, but soluble in organic solvents.
 
 ##### Triglycerides
-![[triglycerides.webp|120]]
+![[triglycerides.webp|120]] 
 - **Structure**:
   Formed by condensation of one glycerol and three fatty acid molecules, which may be the same or different.
+  ![[triglycerides_chem.webp|180]]
 
 - **Functions**: As energy reserves in organisms.
 	- Subcutaneous fat as an insulating layer to reduce heat loss.
