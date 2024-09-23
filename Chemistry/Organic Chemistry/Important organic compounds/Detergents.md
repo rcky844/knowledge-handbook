@@ -14,8 +14,7 @@ Water is commonly used to clean substances by washing away dirt on clothes or ot
    Water has a high surface tension due to its extensive intermolecular hydrogen bonds, causing the water molecules to always hold into a drop. This slows the wetting of fabric surfaces and inhibits the cleansing process.
 
 2. **Inability to dissolve and remove grease** (water + oil)
-   When grease would b￼￼Types and formation
-ind to dirt particles on a surface, water cannot remove the grease and dirt. This is because grease is insoluble in water.
+   When grease would bind to dirt particles on a surface, water cannot remove the grease and dirt. This is because grease is insoluble in water.
 
 To enhance the cleansing ability of water, detergent acts as two agents:
 - Wetting agent (water only)
@@ -54,9 +53,7 @@ $\ce{CH3(CH2)11 SO3- Na+}$
 
 ##### Biodegradability
 Whether detergents are biodegradable <u>does not depend on the source of their hydrocarbon</u>, but its structure.
-↪️ <u>A detergent is biodegradable when there is no branched chains in its structure.</u>
-
----
+		↪️ <u>A detergent is biodegradable when there is no branched chains in its structure.</u>
 
 #### Manufacturing of detergents
 ##### Soapy detergents
