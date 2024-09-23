@@ -35,6 +35,9 @@ Consider the reaction: $\ce{Mg + 2HCl → MgCl2 + H2}$
 - The <u>number of reactant particles in a unit volume increases</u> when the concentration is increased.
 - The <u>collision frequency</u> and hence the <u>effective collision increases</u>.
 
+##### Total volume of reaction mixture
+
+
 #### Surface area of solid reactant
 
 
