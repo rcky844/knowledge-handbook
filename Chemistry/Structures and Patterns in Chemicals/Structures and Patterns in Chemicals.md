@@ -24,7 +24,11 @@
 1. [[Non-octet structures]]
 2. [[Shapes of simple molecules]]
 3. [[Polarity of bonds and molecules]]
-4. [[Intermolecular forces]]
+4. Intermolecular forces
+	- [[Van der Waals' forces]]
+	- [[Hydrogen bonds]]
+		- [[Solubility and miscibility]]
+	- [[Molecular crystals]]
 
 #### Patterns in the Chemical World
 1. [[Periodicity]] - Periodic trends

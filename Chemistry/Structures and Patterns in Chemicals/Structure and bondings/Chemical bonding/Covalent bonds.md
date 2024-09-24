@@ -50,12 +50,12 @@ The **hydronium ion** is formed in the acid base reaction: $\ce{H+ + H2O -> H3O+
 **Example**: 2013 HKDSE LQ Q2
 $\ce{BF3}$ reacts with $\ce{NH3}$ to give $\ce{F3BNH2}$. Describe the bond formation between $\ce{BF3}$ and $\ce{NH3}$.
 - In $\ce{BF3}$, there is a vacant site of the outermost electron shell in $\ce{B}$ atom.
-- By accepting the lone pair electrons from $\ce{N}$ in $\ce{NH3}$, $\ce{B}$ in $\ce{BF3}$ attains a stable electronic configuration like neon / a stable octet electronic configuration.
+- By accepting the lone pair electrons from $\ce{N}$ in $\ce{NH3}$, $\ce{B}$ in $\ce{BF3}$ attains a stable electronic configuration of a noble gas / a stable octet electronic configuration.
 
 **Example**: 2017 HKDSE LQ Q3
 Describe the formation of dative covalent bond using $\ce{H3O+}$ as example.
 - There is a vacant site of the outermost electron shell in $\ce{H+}$ ion.
-- By accepting the lone pair electrons from $\ce{O}$ in $\ce{H2O}$, $\ce{H+}$ attains a stable electronic configuration like helium / a stable <u>duplet</u> electronic configuration.
+- By accepting the lone pair electrons from $\ce{O}$ in $\ce{H2O}$, $\ce{H+}$ attains a stable electronic configuration of a noble gas / a stable <u>duplet</u> electronic configuration.
 
 > **Note**:
 > Similar to demand / supply:

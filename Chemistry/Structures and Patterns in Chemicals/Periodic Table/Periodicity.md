@@ -41,11 +41,5 @@ Across a period, elements on different groups show different bondings and struct
 	- They are all non-metals with [[simple molecular structure]].
 	- There is no delocalised electrons in their structure.
 
-#### Electronegativity of elements
-![[variations_electronegativity.webp]]
-
-> **Note**:
-> Electronegativity is a chemical property.
-
-- Note that Group 0 elements are chemically inert, this explains their low electronegativity.
-
+#### See also
+- [[Polarity of bonds and molecules#Electronegativity]]
