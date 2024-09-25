@@ -1,3 +1,5 @@
+*Pre-context: [[Effective collisions]]*
+
 **Activation energy** is the <u>minimum amount of energy possessed by the reactant particles in order for a reaction to occur</u>. It is the <u>energy barrier</u> that the reactant particles have to overcome before a reaction can occur.
 
 #### Energy profile

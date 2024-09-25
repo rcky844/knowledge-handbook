@@ -5,7 +5,7 @@ where $k$ is the rate constant.
 
 - Products are irrelevant to the rate equation.
 - $k$ is the rate constant, and its value depends on the temperature of the reaction.
-  ↪️ Temperature increases → Rate constant increases → Rate increases
+  ↪️ See also: [[Arrhenius equation]]
 - $x$ and $y$ is the order of reaction for $\ce{A}$ and $\ce{B}$ respectively.
 
 #### Order of reaction
