@@ -52,8 +52,10 @@ Gas syringe ⤴️
 **Example reaction**: $\ce{I2 (aq) + CH3COCH3 (aq) -> CH3COCH2I (aq) + H+ (aq) + I- (aq)}$
 
 ##### Change in colour intensity
-- **Physical property**: Absorbance (of the reaction mixture)
-- **Description**: Useful for reactions involving a coloured reactant or product. The more intense the colour intensity of the solution, the higher concentration of the coloured species in the reaction mixture.
+- **Physical property**: Light absorbance (of the reaction mixture)
+- **Description**: Useful for reactions involving a coloured reactant or product.
+
+The more intense the colour intensity of the solution, the higher concentration of the coloured species in the reaction mixture.
 
 ![[absorbance.webp|600]]
 - Light intensity is directly proportional to the colour intensity of the reaction mixture. When the reaction mixture is more intense in colour, the more light it can absorb.
@@ -73,9 +75,12 @@ To reach the opaque / turbid stage of the reaction mixture, there must be an eno
 
 $\text{Average rate} ∝ {1\over\text{Time to reach opaque stage}}$ (inversely proportional)
 
+**Disadvantages for determining initial rate**:
+- The initial rate can only be approximated as it is difficult to determine the time to reach the opaque stage.
+
 > **Note**:
-> This method is not suitable for applying to reactions which is rapid, since it is not possible to measure the time for the precipitate to form. One example of such reaction is **precipitation**.
-> For more accurate measurements, use a light sensor to measure the light transmittance of the reaction mixture.
+> - This method is not suitable for applying to reactions which is rapid, since it is not possible to measure the time for the precipitate to form. One example of such reaction is **precipitation**.
+> - For more accurate measurements, use a light sensor to <u>measure the light transmittance</u> of the reaction mixture.
 
 #### Titration
 This method involves withdrawing and analysing small portions of known volumes at regular time intervals.
