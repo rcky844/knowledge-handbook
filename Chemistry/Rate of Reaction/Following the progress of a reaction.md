@@ -66,14 +66,12 @@ Consider the reaction:
 $\ce{S2O3^2-(aq) + 2H+(aq) → SO2(aq) + H2O(ℓ) + S(s)}$ (thiosulphate ion: $\ce{S2O3^2-}$).
 
 ![[transmittance.webp|550]]
-- The cross gets fainter as more sulphur forms.
-- The reaction mixture eventually becomes so turbid that the cross can no longer be seen from above.
 
 To reach the opaque / turbid stage of the reaction mixture, there must be an enough amount of solid sulphur formed to block the cross.
 
 **Physical property**: Light transmittance / Turbidity
 
-$\text{Average rate} ∝ {1\over\text{Time to 'blot out' the cross}}$ (inversely proportional)
+$\text{Average rate} ∝ {1\over\text{Time to reach opaque stage}}$ (inversely proportional)
 
 > **Note**:
 > This method is not suitable for applying to reactions which is rapid, since it is not possible to measure the time for the precipitate to form. One example of such reaction is **precipitation**.
