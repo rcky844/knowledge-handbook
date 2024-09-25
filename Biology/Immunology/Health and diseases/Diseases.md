@@ -40,3 +40,6 @@ Reduce the chances of getting infectious and non-infectious diseases. (e.g. canc
 		- **Screening programmes**: Allows early detection of non-infectious diseases so they can be treated before progression into later stages, improving cure rates and reducing costs on medical care. (e.g. screening tests for cancer)
 		- **Immunisation programme**: Prevents disease outbreaks by vaccination where individuals are made immune to a disease. If a large majority of population is immunised against a certain disease, the disease will not spread easily.
 		- **Health education**: Talks, exhibitions and through mass media → Raises awareness.
+
+#### See also
+- [[Meaning of health]]

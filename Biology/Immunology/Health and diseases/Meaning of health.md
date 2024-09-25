@@ -2,7 +2,7 @@ By the definition of the World Health Organisation (WHO):
 
 > "A state of complete physical, mental and social well-being, and not merely the absence of disease." — *Constitution of the World Health Organisation*, signed April 7, 1948
 
-The definition dismantles a labelling effect and addresses a common misconception regarding health where people with [[Diseases]] are labelled as unhealthy, especially those carrying an incurable [[Non-infectious diseases|chronic diseases]].
+The definition dismantles a labelling effect and addresses a common misconception regarding health where people with [[diseases]] are labelled as unhealthy, especially those carrying an incurable [[Non-infectious diseases|chronic diseases]].
 
 Therefore, there is no "black-and-white" definition of health, but multiple factors that contribute to health. These factors include:
 
