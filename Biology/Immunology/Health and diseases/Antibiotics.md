@@ -27,8 +27,9 @@ Antibiotics kill or inhibit the growth of bacteria by disrupting essential proce
 
 ##### Consequences
 ###### Development of antibiotic resistance in bacteria
-Indiscriminate usage of antibiotics has caused many antibiotics to become ineffective as it increases the chances for the development of antibiotic resistance. The diagram below describes the process by which antibiotic-resistance is developed in bacteria.
+Indiscriminate usage of antibiotics has caused many antibiotics to become ineffective as it increases the chances for the development of antibiotic resistance.
 
+**Process of developing antibiotic resistance**:
 ![[antibiotic_resistance_development.webp]]
 
 Multidrug-resistant bacteria (dubbed 'superbugs') have become more common, especially at hospitals and clinics. Infections caused by these bacteria are often incurable by conventional antibiotics and are often life-threatening.

@@ -38,13 +38,13 @@
 
 ###### Anaphase II
 ![[meiosis_anaphase_ii.webp|300]]
-- The spindle fibres shorten and pull the sister chromatids of each [[Chromosome]] apart, moving them towards opposite poles of the cell.
+- The spindle fibres shorten and pull the sister chromatids of each [[chromosome]] apart, moving them towards opposite poles of the cell.
 - The separated chromatids are now called daughter chromosomes.
 
 ###### Telophase II
 ![[meiosis_telophase_ii.webp|300]]
 - The spindle fibres break down.
-- A nuclear membrane forms around each group of daughter chromosomes. This is followed by [[Cytokinesis]], four haploid daughter cells are formed.
+- A nuclear membrane forms around each group of daughter chromosomes. This is followed by [[cytokinesis]], four haploid daughter cells are formed.
 	- Each cell contains one member of each homologous pair and only half the chromosomes of the parent cell and are genetically different.
 - The chromosomes loosen to become chromatin again.
 
@@ -72,7 +72,7 @@ Chromosome number (Meiosis II) ⤴
    - Meiotic cell division forms haploid gametes for sexual reproduction.
    - When a male gamete and female gamete fuse at fertilisation to form a zygote, the diploid number (2n) of chromosome is restored. This keeps the chromosome number of a species constant from generation to generation.
 
-2. [[Genetic variation]]
+2. [[Genetic variation (speciation)]]
    Meiotic cell division creates very large numbers of genetic variation among the gametes. Some offspring may have characteristics that enable them to survive environmental changes better. This increases the chance of survival of the species.
    
    Below are a few possible explanations:
