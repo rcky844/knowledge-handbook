@@ -26,7 +26,7 @@ The shaded region under the curve shows the number of particles having energy eq
 - The collision frequency and hence the effective collisions increase. Rate of reaction increases.
 ↪️ See also: HKDSE 2013 Paper 2 Q1(a)
 
-#### Catalyst
+#### Presence of catalyst
 ![[maxwell_boltzmann_catalyst.avif|450]]
 
 **Explanation**:

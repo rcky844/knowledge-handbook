@@ -3,7 +3,7 @@ Generally, a <u>higher concentration of reactants</u> results in a <u>higher rat
 
 > **Note**:
 > Some reactions are not affected by the concentration of reactants.
-> ↪️ See also: [[Rate equation]] / [[Deducing order of reaction]]
+> ↪️ See also: [[Rate equation]] / [[Rate equation#Order of reaction]]
 
 Consider the reaction: $\ce{Mg + 2HCl → MgCl2 + H2}$
 
@@ -35,14 +35,31 @@ Consider the reaction: $\ce{Mg + 2HCl → MgCl2 + H2}$
 - The <u>number of reactant particles in a unit volume increases</u> when the concentration is increased.
 - The <u>collision frequency</u> and hence the <u>effective collision increases</u>.
 
-##### Total volume of reaction mixture
-
-
-#### Surface area of solid reactant
-
-
+> **Note**:
+> - Changing only the volume of a reagent used (e.g. $\ce{HCl}$) without a change in its concentration results in the same initial rate of reaction.
+> - In some instances, the total volume of the reaction mixture is kept the same between different trials, with a higher volume of the reagent and a lower volume of water in different trials. This is to allow the <u>concentration</u> of the reagent to be directly proportional to the <u>volume</u> of the reagent used.
 
 #### Temperature of reaction
+*See also: [[Maxwell-Boltzmann's distribution curve]]*
+
+![[temperature_rate.webp|600]]
+![[temperature_rate1.webp|300]]
+
+- The reactant particles move faster and collide with each other more frequently.
+- The collision frequency increases and hence the effective collision increases.
+OR
+- More reactant particles have energy equal or greater than the activation energy.
+- The effective collision increases.
+- The rate of reaction increases.
+
+#### Surface area of solid reactant
+![[surface_area_rate.webp|600]]
+- The collision frequency increases and hence the effective collision increases.
 
 #### Presence of a catalyst
+- More reactant particles have energy equal or greater than the activation energy.
+- The effective collision increases.
+
+> **Note**:
+> The rate of reaction is independent of the amount of catalyst added.
 
