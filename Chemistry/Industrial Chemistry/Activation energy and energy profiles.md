@@ -21,7 +21,7 @@ Catalyst is a substance that can change the rate of reaction with itself being <
 **Working principle of positive catalyst**:
 It increases the rate of reaction by providing an <u>alternative reaction pathway</u> with <u>lower activation energy</u>.
 
-![[catalysed_energy_profile.avif|500]]
+![[catalysed_energy_profile.webp|600]]
 
 > **Note**:
 > A faster reaction requires lower $E_a$.

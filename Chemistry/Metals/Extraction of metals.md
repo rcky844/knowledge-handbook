@@ -12,7 +12,7 @@ Suggest why iron was used earlier than aluminium in history.
 In order of decreasing reactivity:
 Potassium > Sodium > Calcium > Magnesium > Aluminium > Zinc > Iron > Lead > Copper > Mercury > Silver > Platinum > Gold
 
-↪️ See also: [[Reactivity of metals]]
+↪️ See also: [[Reactivity of metals]] / [[Electrochemical series]]
 
 #### Extraction methods
 ##### Physical methods
