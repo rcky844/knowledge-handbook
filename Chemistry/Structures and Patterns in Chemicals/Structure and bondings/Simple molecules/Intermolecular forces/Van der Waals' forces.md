@@ -18,6 +18,9 @@ This force is also know as dispersion forces / London forces.
    Molecules with larger molecular size has <u>greater contact surface area</u> with neighbouring molecules.
    The strength of van der Waals' forces between molecules of larger molecular size is stronger.
 
+> **Note**:
+> Molecular mass cannot be used for explanation.
+
 2. **Polarity of molecules**
    The strength of van der Waals' forces between polar molecules is stronger than those between non-polar molecules.
 

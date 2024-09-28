@@ -29,8 +29,12 @@
 	- [[Hydrogen bonds]]
 		- [[Solubility and miscibility]]
 	- [[Molecular crystals]]
+5. [[Comparing boiling points and melting points]]
 
 #### Patterns in the Chemical World
 1. [[Periodicity]] - Periodic trends
 2. [[Oxides of elements]]
 3. [[Transition metals]]
+
+#### See also
+- [[Relative strength of chemical bonds and intermolecular forces]]

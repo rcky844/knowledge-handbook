@@ -7,15 +7,16 @@
 
 #### Ice ($\ce{H2O}$)
 ##### Structure
+In ice, water molecules are arranged <span style="color: lightgreen">tetrahedrally</span> in an <span style="color: skyblue">open structure</span> because of the extensive [[Hydrogen bonds|hydrogen bonding]] between them. Water molecules are loosely packed and spaced further apart than they are in liquid water. Therefore, it has a relatively low density and makes up a larger volume.
 
-##### Physical properties
-###### Density
-- In ice, water molecules are arranged in an orderly manner in an open structure because of the extensive hydrogen bonding between them.
-- In this structure, water molecules are further apart than they are in liquid water. Thus, they make up a larger volume.
-- When ice melts, water molecules have constant motion and the open structure collapses. The water molecules pack more closely together. This explains why liquid water is denser than ice.
+![[water_ice_structure.webp|600]]
 
-![[water_molecular.webp|200]]
-↪️ Structure of liquid water
+> **Note**:
+> The water molecules are held this way as hydrogen bonds are directional.
+
+When ice melts, water molecules gain energy and have relative motion. The <u>open structure collapses</u>. Water molecules <u>pack more closely together</u>. Therefore, liquid water is denser than ice.
+
+![[water_liquid_molecular.webp|300]]
 
 #### See also
-- [[Simple molecular structure]] — Iodine are solid molecular crystals
+- [[Simple molecular structure]] — Iodine is a solid molecular crystal
