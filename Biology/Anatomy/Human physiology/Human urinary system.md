@@ -96,7 +96,7 @@ Bowman's capsule → proximal convoluted tubule → loop of Henle → distal con
   This provides a lot of energy for [[active transport]] of useful substances.
 
 - **Each kidney tubule is richly supplied with blood capillaries.**
-		  This maintains a steep concentration gradient for rapid reabsorption of substances, as reabsorbed substances are transported away quickly.
+  This maintains a steep concentration gradient for rapid reabsorption of substances, as reabsorbed substances are transported away quickly.
 
 //TODO think about numerous nephrons in kidneys (rare tho)
 
