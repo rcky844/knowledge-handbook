@@ -26,6 +26,10 @@ By $y=mx+c$:
 - constant ($c$): $\log A$
 
 ↪️ See also: HKDSE 2013 Paper 2 Q1(a)
+> **Note**:
+> - To find the $E_a$ by graph, find the slope of the line.
+> - Only the data values of the best-fit line should be used for calculation.
+> - Remember to check the units given on the graph.
 
 ##### Mathematical method
 To find the activation energy mathematically, the reactions have to be carried out under two different temperatures. Both equations are then combined together:
