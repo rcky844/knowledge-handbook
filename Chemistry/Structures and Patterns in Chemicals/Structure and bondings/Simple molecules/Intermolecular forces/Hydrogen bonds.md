@@ -7,7 +7,7 @@
 1. The hydrogen atom is bonded to a highly electronegative atom (e.g. N / O / F).
 2. There are lone pair electrons in the highly electronegative atoms (e.g. N / O / F).
 
-**Examples of hydrogen bonds**:
+**Examples of species that can form hydrogen bonds**:
 - $\ce{NH3, H2O, HF}$
 - [[Alkanol|Alcohol]]
 - [[Alkanoic acid|Carboxylic acids]]
