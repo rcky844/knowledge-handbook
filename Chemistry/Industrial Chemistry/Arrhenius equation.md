@@ -7,7 +7,7 @@ Reaction rate increases when the temperature increases.
 ↪️ Rate constant increases.
 
 > **Note**:
-> - Universal gas content is usually provided by the question.
+> - Universal gas content is provided by the question.
 >   $R = \pu{8.31 J K-1 mol-1}$
 > - Note that natural log = 2.73
 
