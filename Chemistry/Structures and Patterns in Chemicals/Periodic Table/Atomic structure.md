@@ -1,4 +1,4 @@
-![[atom_struct.webp|300]]
+![[atom_struct.webp|240]]
 - Every atom has most of its mass concentrated in a tiny region in the centre called the <u>nucleus</u>.
 - The nucleus contains two types of subatomic particles: <u>protons and neutrons</u>.
 - The nucleus is surrounded by <u>a cloud of electrons</u> that are rapidly and constantly moving.
