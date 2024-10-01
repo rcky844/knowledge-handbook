@@ -1,1 +1,1 @@
-*Redirects to: [[Human urinary system]]*
+*Redirects to: [[Urinary system]]*
