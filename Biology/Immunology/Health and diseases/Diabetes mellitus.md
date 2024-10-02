@@ -2,7 +2,7 @@
 
 #### Symptoms and signs
 - **Presence of glucose in urine**
-  The blood glucose levels are so high that the [[kidneys]] fail to reabsorb all the glucose, and therefore excess glucose is excreted in urine.
+  The blood glucose levels are so high that the [[Kidneys]] fail to reabsorb all the glucose, and therefore excess glucose is excreted in urine.
 
 - **Frequent urination**
   Body cells lose water to the blood by [[osmosis]], leading to an increase in blood volume and hence an increase in urine production.

@@ -1,6 +1,6 @@
 #### Body temperature
 ![[homeostasis_body_temperature.webp|450]]
-*See also: [[Effects of temperature on enzymatic reactions]]*
+*See also: [[Effects of temperature on enzymatic reactions]] / [[Body temperature regulation]]*
 
 **Importance in keeping the parameter stable**:
 - To maintain a stable optimal temperature for [[enzymes]] to work in <u>metabolic reactions</u>.
