@@ -32,9 +32,13 @@
 #### Removing nitrogen from the soil
 5. **Mineral absorption in plants**
    - Producers (plants) take up nitrogen from the soil, mainly in the form of nitrates ($\ce{NO3-}$), to make proteins and other nitrogenous compounds.
+
+> **Note**:
+> They can be used to help keep the nitrate concentration in aquariums at a stable level.
+> ↪️ HKDSE Paper 1B Q5
 <br>
 6. **Denitrification**
-   - Under [[Anaerobic respiration|anaerobic]] conditions, denitrifying bacteria in the soil convert nitrates to nitrogen gas, which is then released into the atmosphere.
+   - Under *[[Anaerobic respiration|anaerobic]] conditions*, denitrifying bacteria in the soil convert nitrates to nitrogen gas, which is then released into the atmosphere.
    
    ![[carbon_cycle.s6.webp|300]]
 

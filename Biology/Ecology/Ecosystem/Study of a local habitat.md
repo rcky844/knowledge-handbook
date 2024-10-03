@@ -14,19 +14,21 @@ They are placed randomly on different locations within the area being studied. T
 - If used alone, it is only suitable for uniform habitats (e.g. grassland).
 
 ##### Transects
-**Transects** are used in systematic sampling to study habitats where sme form of gradual change (transition) in populations takes place.
+**Transects** are used in systematic sampling to study habitats where some form of gradual change (transition) in populations takes place.
 
 ###### Line transect
 **Line transecting** can be used to estimate the <u>range of distribution of species in a habitat</u>.
 
 A transect is laid on the study site <u>along a physical gradient</u> (e.g. from upper shore towards lower shore of a wetland). Organisms that touch the transect are identified and recorded.
+		
+**Limitations**:
+- Only organisms that touch the transect are identified and recorded.
+- Line transecting does not estimate the abundance of the organisms.
+
 
 ![[line_transect1.webp|600]]
 
 ![[line_transect2.webp|600]]
-
-> **Note**:
-> Line transecting does not estimate the abundance of the organisms.
 
 ###### Belt transect
 **Belt transecting** can be used to estimate both the <u>distribution and abundance of species in a habitat</u>.

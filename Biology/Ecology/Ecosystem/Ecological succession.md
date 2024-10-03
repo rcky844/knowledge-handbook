@@ -7,7 +7,7 @@ A **climax community** is reached when the habitat supports the most diverse com
 The climax community is only replaced when there are drastic changes (e.g. natural disasters, human disturbances).
 
 #### Primary succession
-**Primary succession** occurs in a barren area where no communities existed previously, with only bare rocks present. The process of primary succession can take hundreds of years.
+**Primary succession** occurs in a barren area where <u>no communities existed previously</u>, with only bare rocks present. The process of primary succession can <u>take hundreds of years</u> (longer).
 
 **Examples**:
 - Lava flows from volcano and hardens
@@ -46,7 +46,7 @@ The climax community is only replaced when there are drastic changes (e.g. natur
 	- More animals join the community, a <span style="color: violet">climax community</span> is reached.
 
 #### Secondary succession
-**Secondary succession** occurs when a disturbance has destroyed an existing community.
+**Secondary succession** involves the <u>restoration of the community after a major disturbance</u>.
 
 **Examples**:
 - Abandoned agricultural fields
@@ -54,5 +54,6 @@ The climax community is only replaced when there are drastic changes (e.g. natur
 
 **Differences to primary succession**:
 - Starts with a more complex pioneer community (e.g. annual herbaceous plants)
-	- Soil may contain seeds, roots and underground vegetative parts of plants. They can grow and develop into new plants when conditions become favourable.
+	- Soil may contain seeds, roots and underground vegetative parts of plants. <u>They are not damaged in the disturbance.</u>
+	- They can grow and develop into new plants when conditions become favourable.
 - Occurs more rapidly as soil already exists.

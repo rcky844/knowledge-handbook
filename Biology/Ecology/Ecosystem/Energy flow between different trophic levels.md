@@ -5,7 +5,7 @@ The **trophic level** refers to the feeding position that an organism occupies i
 #### Efficiency of energy flow
 Energy transfer between different trophic levels is inefficient. Only a small proportion of energy at one level is available to the next trophic level. Therefore, <u>the number of organisms in each trophic level decreases</u>.
 
-Energy is lost along the food chain in the following ways:
+**Methods for energy lost along the food chain**:
 - <span style="color: lightgreen">As heat</span>
   Organisms lose energy to the surroundings in the form of heat as they carry out cellular respiration. Energy lost in this manner cannot be recycled in the ecosystem. A constant input of energy into the ecosystem from the Sun is needed to sustain life.
  
@@ -22,6 +22,9 @@ Energy is lost along the food chain in the following ways:
 > - Energy in excretory products, faeces and uneaten dead bodies become food for decomposers, which break down dead organic matter and release heat energy.
 > - A food chain normally does not consist of more than five trophic levels as the fifth trophic level does not get enough energy to support further levels.
 
+**Explaining decreasing number of organisms in higher trophic levels**:
+- There is <u>energy lost</u> when energy is transferred to the next higher level.
+- <u>Preys (at lower levels) are usually smaller than its predator (at higher levels) in size.</u> The predator needs to eat a large number of prey to get enough energy.
 ---
 <u>Ecology: Energy flow</u>
 [[Source of energy]] → **Energy flow between different trophic levels** → [[Ecological pyramids]]

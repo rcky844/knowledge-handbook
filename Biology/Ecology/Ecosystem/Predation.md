@@ -8,15 +8,24 @@
 #### Population of predators and preys
 ![[predation.webp|450]]
 
-Populations of predators and preys fluctuate in a <u>cyclic pattern</u>.
+**Explaining fluctuation in population**:
+At $t_1$:
+- When the predator population is low, the prey population increases rapidly.
+- A greater prey population provides more food for the rapid increase (reproduction) in predator population.
+
+At $t_2$:
+- When the predator population increases, predation occurs more frequently.
+- Increased predation causes the prey population to drop.
+
+At $t_3$:
+- A drop in prey population results in less food supply for predators.
+- Decreased food supply cannot support the reproduction of predators, the predator population will drop subsequently.
+→ <u>The cycle repeats.</u>
+
+**Deduction from the graph**:
 - Predator population always lag behind the changes in the prey population, and the prey population is larger than the predator population.
+- Prey population does not drop to zero, as it becomes difficult for the predator to locate remaining prey when prey population becomes extremely low.
 
-- At t<sub>1</sub>: <span style="border: solid white 1px">Prey population increases</span> → <span style="border: solid white 1px">More food is available to the predators</span>
-  → <span style="border: solid white 1px">Predators grow and reproduce to have more offspring</span>
-  → <span style="border: solid white 1px">Predator population increases after some time</span>
-
-- At t<sub>2</sub>: <span style="border: solid white 1px">More prey are captured</span> → <span style="border: solid white 1px">Prey population falls</span>
-
-- At t<sub>3</sub>: <span style="border: solid white 1px">Food supply (prey) becomes less</span> → <span style="border: solid white 1px">Predator population falls</span>
-  → <span style="border: solid white 1px">Prey population increases</span>
+> **Note**:
+> Relationships involving a single predator and prey species is unlikely to exist in nature. There will be other predator and prey species, as well as additional factors that will affect the sizes of the respective populations.
 

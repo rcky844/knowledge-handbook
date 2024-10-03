@@ -3,7 +3,6 @@
 In ecological pyramids, the producer always occupies the bottom of the pyramid. Energy is lost to the surroundings from one trophic level to the next so less and less energy is available to organisms at higher trophic levels.
 
 > **Note**:
-> - Predators are usually larger than its prey in size. Therefore, the predator needs to eat a large number of prey to get enough energy.
 > - An organism may belong to more than one trophic level, it cannot easily be assigned to a single trophic level.
 > - Energy flow to decomposers is often not shown in ecological pyramids.
 
