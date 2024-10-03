@@ -1,4 +1,4 @@
-**Osmoregulation** is controlled by a [[negative feedback system]]. This involves urine production, which is brought about by <span style="color: skyblue">antidiuretic hormone (ADH)</span>.
+**Osmoregulation** is controlled by a [[Negative feedback mechanism]]. This involves urine production, which is brought about by <span style="color: skyblue">antidiuretic hormone (ADH)</span>.
 
 **Details of antidiuretic hormone (ADH)**:
 - It is produced by the <span style="color: violet">hypothalamus</span> of the brain, and is stored and released by the <span style="color: violet">pituitary gland</span>.
