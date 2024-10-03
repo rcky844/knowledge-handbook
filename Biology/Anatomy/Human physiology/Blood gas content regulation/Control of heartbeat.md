@@ -8,7 +8,7 @@ The **sinoatrial (SA) node** (group of specialized cardiac muscle cells) is know
 **Process**:
 //TODO images + process text
 
-1. SA node generates electrical impulses, which spread rapidly through the walls of both atria, causing both atria to contract at the same time.The inner walls of the ventricles contain specialized conducting fibres which spread the electrical impulses.
+1. SA node generates electrical impulses, which spread rapidly through the walls of both atria, causing both atria to contract at the same time. The inner walls of the ventricles contain specialized conducting fibres which spread the electrical impulses.
 2. The electrical impulses pass to the AV node (a relay point) between the right atrium and the right ventricle. The electrical impulses are delayed for ~0.1 second to allow time for the ventricles to fill with blood.
 3. AV node relays the electrical impulses along the septum to the base of the ventricles through the bundle of His (specialized muscle fibres).
 4. The inner walls of the ventricles contain specialized conducting fibres which spread the electrical impulses. As the electrical impulses spread upwards through the wall of the ventricles, the ventricles contract from the bottom up to squeeze blood upwards into the aorta and pulmonary arteries.
@@ -55,5 +55,53 @@ A **cardiac cycle** is a sequence of evens starting from one contraction of the 
 
 **Calculation**:
 $\text{Cardiac output (mL / min)} = \text{Heart rate (beats / min)} \times \text{Stroke volume (mL / beat)}$
+- **Heart rate**: Numbers of heartbeats per minute
+- **Stroke volume**: Volume of blood pumped by each ventricle in one heartbeat
 
-##### Nervous and hormonal control
+**Determination of stroke volume**:
+- **Venous return** (volume of blood returning to the heart from the vena cava)
+  It limits the volume of blood available in the left ventricle.
+
+> **Note**:
+> This is dependent on the venous return (volume of blood returning to the heart from the vena cava).
+
+- **Strength of ventricular contraction**
+  It determines the maximum volume of blood pumped out of the heart in each heartbeat.
+↪️ See also: HKDSE 2014 Paper 2 Q1(b)(ii)
+
+##### Nervous control
+**Factors influencing control of cardiac output**:
+- **Blood pH** (concentration of $\ce{CO2}$ in blood)
+  Changes in blood pH are detected by <span style="color: skyblue">chemoreceptors</span> in the carotid and aortic bodies.
+
+- **Blood pressure**
+  <span style="color: skyblue">Stretch receptors</span> in the walls of <span style="color: violet">vena cava, carotid arteries and the aorta</span> are sensitive to stretching of blood vessels caused by increased blood flow.
+
+- **Movement of limbs**
+  This stimulates stretch receptors in muscles and tendons.
+
+**Mechanism of control**:
+- Receptors send nerve impulses to the <span style="color: skyblue">cardiovascular centre</span> in the medulla oblongata.
+- <span style="color: skyblue">Cardiovascular centre</span> processes the information and send nerve impulses to SA node via a <span style="color: violet">sympathetic nerve</span> and the <span style="color: violet">vagus nerve</span> (parasympathetic nerve) to regulate cardiac output.
+	- These nerves are <span style="color: lightgreen">antagonistic</span> in action: <span style="color: violet">sympathetic nerve</span> stimulates the SA node, increasing cardiac output; <span style="color: violet">vagus nerve</span> inhibits SA node, decreasing cardiac output.
+	- When resting, <span style="color: violet">vagus nerve</span> is more active than the <span style="color: violet">sympathetic nerve</span>.
+	  During exercise or in stressful situations, <span style="color: violet">sympathetic nerve</span> will be more active.
+
+**Control by cardiovascular centre**:
+- When **more nerve impulses** is sent via the sympathetic nerve to stimulate the SA node and the cardiac muscle:
+	- The cardiac muscle contracts more frequently and forcefully.
+	- The heart rate and stroke volume is increased.
+	- Cardiac output is increased.
+- When **less nerve impulses** is sent via the sympathetic nerve to stimulate the SA node and the cardiac muscle:
+	- The cardiac muscle contracts less frequently and forcefully.
+	- The heart rate and stroke volume is decreased.
+	- Cardiac output is decreased.
+
+##### Hormonal control
+During <u>exercise or in stressful situations</u>, the cardiovascular centre sends nerve impulses via the sympathetic nerve to the <span style="color: skyblue">adrenal glands</span>, causing them to secrete more <span style="color: violet">adrenaline</span> into the blood.
+
+**Action of adrenaline**:
+- Stimulates SA node and cardiac muscles.
+- Causes cardiac muscles to contract more frequently and forcefully.
+- The heart rate and stroke volume is increased.
+- Cardiac output is increased.
