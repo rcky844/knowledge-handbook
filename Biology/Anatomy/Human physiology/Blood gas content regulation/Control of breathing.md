@@ -6,10 +6,11 @@
 	- Sets the basic rhythm of breathing.
 	- Adjusts the rate and depth of breathing.
 
-**Calculating ventilation rate**:
-$\text{Ventilation rate (mL / min)} = \text{Breathing rate (breaths / min)} \times \text{Tidal volume (mL)}$
+#### Ventilation rate
+**Ventilation rate** is the volume of air breathed in and out per minute.
 
-//TODO make this a section
+**Calculation**:
+$\text{Ventilation rate (mL / min)} = \text{Breathing rate (breaths / min)} \times \text{Tidal volume (mL)}$
 
 #### Setting basic breathing rhythm
 **Basic rhythm** is controlled by the respiratory centre of the <span style="color: skyblue">medulla oblongata</span>.

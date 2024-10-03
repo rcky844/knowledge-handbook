@@ -51,9 +51,9 @@ A **cardiac cycle** is a sequence of evens starting from one contraction of the 
 > The closure of semilunar valves process produces the second heart sound ('dub').
 
 #### Cardiac output
-**Calculating cardiac output**:
-$\text{Cardiac output (mL / min)} = \text{Heart rate (beats / min)} \times \text{Stroke volume (mL / beat)}$
+**Cardiac output** is the total volume of blood pumped by each ventricle per minute.
 
-//TODO add def
+**Calculation**:
+$\text{Cardiac output (mL / min)} = \text{Heart rate (beats / min)} \times \text{Stroke volume (mL / beat)}$
 
 ##### Nervous and hormonal control
