@@ -11,6 +11,8 @@ $\ce{N2(g) + H2(g) <=>[\text{450°C, 250 atm}][\text{finely divided }\ce{Fe(s)}]
 - [[Cracking]] of petroleum
 - <span style="color: violet">Steam-methane reforming process + Water-gas shift reaction</span>
   ↪️ See also: [[Methanol manufacture]]
+	 - $\ce{CH4(g) + H2O(g) <=>[\text{700°C, 20 atm}][\ce{NiO}] CO(g) + 3H2(g)}$          $\pu{\Delta H = +206 kJ mol-1}$
+	 - $\ce{CO(g) + H2O(ℓ) <=> CO2(g) + H2(g)}$          $\pu{\Delta H = -41 kJ mol-1}$
 
 #### Working principle
 ![[haber_process.webp]]
