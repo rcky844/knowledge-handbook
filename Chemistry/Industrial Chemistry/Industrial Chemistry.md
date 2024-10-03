@@ -11,4 +11,7 @@
 5. [[Arrhenius equation]]
 6. [[Catalysts]]
 7. [[Green chemistry]]
-
+8. Industrial processes
+	- [[Haber process]]
+	- [[Methanol manufacture]]
+	- [[Chloroalkali industry]]

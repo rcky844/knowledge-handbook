@@ -3,7 +3,7 @@
 The **Maxwell-Boltzmann's distribution curve** is a curve showing the range of kinetic energies of the particles in a gaseous system at a particular temperature.
 
 **Characteristics**:
-- The x-axis is the <span style="color: skyblue">molecular kinetic energy</span>, the y-axis is the <span style="color: skyblue">number of particles</span>.
+- The x-axis is the <span style="color: skyblue">(molecular) kinetic energy</span>, the y-axis is the <span style="color: skyblue">number of molecules</span>.
 - The area under the curve represents the <span style="color: lightgreen">total number of particles in the system</span>.
 - There are very few particles with high energies, and no particles with zero energy.
 - There is no maximum energy for a particle.
