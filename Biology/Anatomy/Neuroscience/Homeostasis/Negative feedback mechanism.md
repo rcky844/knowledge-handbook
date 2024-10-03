@@ -1,4 +1,4 @@
-In a **negative feedback system**, <u>any changes in a parameter</u> triggers a <span style="color: lightgreen">corrective response</span> that has the <span style="color: lightgreen">opposed effect</span> to bring the the parameter <u>back to normal (set point)</u>.
+In a **negative feedback mechanism**, <u>any changes in a parameter</u> triggers a <span style="color: lightgreen">corrective response</span> that has the <span style="color: lightgreen">opposed effect</span> to bring the the parameter <u>back to normal (set point)</u>.
 
 In humans, it operates with interactions of three components:
 - **Receptors**

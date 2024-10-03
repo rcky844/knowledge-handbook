@@ -30,7 +30,7 @@ As body cells do not take up excess glucose from the blood, the <u>blood glucose
 - The blood glucose level remains high for a <u>longer time</u>.
 
 > **Note**:
-> - The blood glucose level may fluctuate as the body tries to maintain a stable level by [[negative feedback system]].
+> - The blood glucose level may fluctuate as the body tries to maintain a stable level by [[Negative feedback mechanism]].
 > - The gradual decrease in blood glucose level is due to the lost of glucose in the urine.
 
 **Blood insulin level for type I diabetes**:
