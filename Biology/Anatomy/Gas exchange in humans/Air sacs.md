@@ -5,16 +5,16 @@
 > These fibres make the air sacs elastic, allowing them to expand and shrink.
 > Once the intercostal and diaphragm muscles relax, the air sacs can shrink (recoil) and return to their original size. Hence, exhalation can occur even without muscles contractions of the lungs or air sacs themselves.
 
-#### Structural adaptation of air sacs for gas exchange
+#### Structural adaptation for gas exchange
 *See also: [[Gas exchange in the air sacs]]*
 
 - **Air sacs are very numerous in number.**
   This provides a <u>large surface area</u> for diffusion of gases.
 
 - **The inner surfaces of the air sacs are covered with a moist water film.**
-  The water film is moistened with watery mucus. This allows <span style="color: skyblue">oxygen</span> to dissolve in it and diffuse across the air sacs more readily.
+  The water film is moistened with watery mucus. This allows <span style="color: skyblue">oxygen</span> to dissolve in it and diffuse across the wall of the air sacs more readily.
 
-- **The walls of air sacs are one-cell thick and made up of only one layer of epithelial cells.**
+- **The walls of air sacs is one-cell thick and made up of only one layer of epithelial cell.**
   This provides a <u>short distance for diffusion of gases</u>.
 
 - **Air sacs are surrounded by a dense network of blood capillaries.**

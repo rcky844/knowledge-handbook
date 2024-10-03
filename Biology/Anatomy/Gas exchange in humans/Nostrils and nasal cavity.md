@@ -1,4 +1,4 @@
-![[nostrils_nasal_cavity.avif]]
+![[nostrils_nasal_cavity.avif|600]]
 
 #### Nostrils
 The **nostrils** are the entry for air. They are lined with <span style="color: skyblue">nasal hairs</span> and forms a [[Physical barriers|physical barrier]] to filter out dust and other particles from the air.

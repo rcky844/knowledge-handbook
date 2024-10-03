@@ -1,4 +1,4 @@
-**Reabsorption** takes place at the <span style="color: skyblue">kidney tubule</span>. Useful substances are actively absorbed into the blood, while water and urea are absorbed passively into blood.
+**Reabsorption** takes place at the <span style="color: skyblue">kidney tubule</span>. Useful substances are actively absorbed into the blood via capillaries, while water and urea are absorbed passively into blood.
 
 | Substance | % reabsorbed | Mechanism |
 | :--: | :--: | :--: |
@@ -15,7 +15,7 @@
 
 > **Note**:
 > - Glucose and amino acids are soluble in water, as they can form extensive [[hydrogen bonds]] with water molecules.
-> - Glucose and amino acids are only reabsorbed in the first coiled tubule. Other substances are reabsorbed as they flow through the kidney tubule.
+> - Glucose and amino acids are completely reabsorbed in the first coiled tubule. Other substances are reabsorbed as they flow through the kidney tubule.
 > - Salts may include sodium compounds.
 > - In cases of [[diabetes mellitus]], the glucose concentration of the filtrate may be higher than is normal.
 

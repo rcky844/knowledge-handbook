@@ -1,4 +1,4 @@
-![[lungs.avif]]
+![[lungs.avif|600]]
 The **lungs** are two spongy, pinkish organs close to the heart in the thoracic cavity. The [[Trachea, bronchi and bronchioles#Bronchioles|bronchioles]] end in clusters of air sacs inside of the lungs.
 
 > **Note**:
@@ -7,7 +7,7 @@ The **lungs** are two spongy, pinkish organs close to the heart in the thoracic 
 #### Structures to protect the lungs and aid breathing
 *See also: [[Mechanism of ventilation]]*
 
-![[lungs_protection1.avif|400]]
+![[lungs_protection1.avif|420]]
 The <u>lungs contain no muscles</u> and are not able to expand or contract on their own. Instead, breathing is brought about by the <span style="color: lightgreen">movements of intercostal muscles</span> ([[Human skeleton#Rib cage|rib cage]]) <span style="color: lightgreen">and the diaphragm</span>.
 
 The <span style="color: skyblue">lungs</span> are <u>surrounded and protected by the rib cage</u>, which is formed by 12 pairs of ribs, the sternum and the vertebral column. The <span style="color: skyblue">intercostal muscles</span> lie between them.

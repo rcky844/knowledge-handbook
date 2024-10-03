@@ -1,7 +1,11 @@
 **Ultrafiltration** takes place in the <span style="color: skyblue">glomerulus</span>.
-- Capillary wall and wall of the Bowman's capsule serves as the filter.
-- Blood inside the glomerulus is under high pressure due to the pumping action of the heart, which results in <span style="color: lightgreen">high hydrostatic pressure</span> in the glomerulus.
-- <u>Water and other small molecules in the blood are forced out</u> through the walls of the glomerulus and the Bowman's capsule into the capsular space, forming the <span style="color: skyblue">glomerular filtrate</span>.
+
+**Structural adaptations**:
+- Blood inside the glomerulus is under <u>high blood pressure</u> due to the <span style="color: lightgreen">pumping action of the heart</span>, which results in <span style="color: lightgreen">high hydrostatic pressure</span> in the glomerulus.
+- Capillary wall of the glomerulus and the wall of the Bowman's capsule are <span style="color: lightgreen">thin and differentially permeable</span>. They serve as the <u>filter</u> to allow ultrafiltration.
+
+**Contents of glomerular filtrate**:
+- <u>Water and other small molecules in the blood are forced out</u> by the <span style="color: lightgreen">high hydrostatic pressure</span> inside the glomerulus through the walls of the glomerulus and the Bowman's capsule into the <span style="color: violet">capsular space</span>, forming the <span style="color: skyblue">glomerular filtrate</span>.
 - <u>Blood cells and plasma proteins are absent</u> in the glomerular filtrate because they are <u>too large to pass through</u> the walls of the glomerulus and Bowman's capsule.
 
 > **Note**: (on glomerular filtrate)

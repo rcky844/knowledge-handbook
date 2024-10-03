@@ -1,6 +1,6 @@
 ![[List article!]]
 
-![[breathing_system.avif]]
+![[breathing_system.avif|600]]
 
 <u>Path by which food travels in the alimentary canal</u>
 nostril → nasal cavity → pharynx → larynx → trachea → bronchus → bronchiole → air sacs
