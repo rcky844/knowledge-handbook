@@ -5,7 +5,7 @@
    An industrial process is greener when no waste (side products other than products) is produced. (Maximizes atom economy)
 
 2. **Using less hazardous chemical synthesis**
-   An industrial process is greener when no toxic reactants are not involved.
+   An industrial process is greener when hazardous reactants are not involved.
 
 3. **Using safer chemical products**
    Chemicals synthesized should be safe to use and not harm the environment.
@@ -15,8 +15,8 @@
 
 5. **Designing for energy efficiency**
 	- When a catalyst is used, less energy is needed to heat up the reaction mixture.
-	- Energy is used to heat liquid mixture and purifying productions by distillation.
-	- When the reaction pathway consists of fewer steps, less processes of separation and purification are needed. Less energy is needed.
+	- Energy is used to heat liquid mixture and purifying productions by <u>distillation</u>.
+	- When the reaction pathway <u>consists of fewer steps</u>, less processes of separation and purification are needed. Less energy is needed.
 
 6. **Using renewable raw materials / feedstock**
 	- Reliance on petroleum-based raw materials is non-renewable.
@@ -41,7 +41,7 @@
     Example: leakages, explosions, fires
 
 12. **Maximizing atom economy**
-    Atom economy is based on the 100% conversion from reactants to products.
+    Atom economy is based on the <u>100% conversion from reactants to products</u>.
     $\text{Atom economy} = {\text{mass of atoms in desired product} \over \text{total mass of atoms in the reactants used}} \times 100\%$
 
 > **Note**:
@@ -50,5 +50,6 @@
 > - Percentage yield is based on experimental data.
 
 Atom economy and percentage yield do not show any relationships.
-- The calculation of atom economy is based on a 100% complete reaction.
-- However, most of the reactions do not go to completion, and the yield is related to the extent of reaction.
+- The calculation of atom economy is <u>based on a 100% complete reaction</u>.
+- However, <u>most of the reactions do not go to completion</u>, and the yield is related to the <u>extent of reaction</u>.
+↪️ See also: HKDSE 2013 Paper 2 Q1(c)(iv)

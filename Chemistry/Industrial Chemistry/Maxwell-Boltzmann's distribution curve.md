@@ -14,16 +14,16 @@ The shaded region under the curve shows the number of particles having energy eq
 
 #### Change in temperature
 **Effects** (increase):
-- There is greater portion of high kinetic energy particles, distribution curve becomes flatter and lie to the right side.
-- Most probable kinetic energy and average kinetic energy increase, while the number of particles having these kinetic energies decrease.
-- Range of kinetic energy increases as higher kinetic energy can be achieved.
-- Area under the curves are the same as the number of particles remain unchanged.
+- There is greater portion of high kinetic energy molecules, distribution curve becomes flatter and lie to the right side.
+- Most probable kinetic energy and average kinetic energy increase, while the number of molecules having these kinetic energies decrease.
+- Range of kinetic energy increases as higher kinetic energies can be achieved.
+- Area under the curves are the same as the number of molecules remain unchanged.
 - Activation energy ($E_a$) remains unchanged.
 
 **Explanation** (increase):
 - An increase in temperature can increase the (average) kinetic energy of molecules.
-- There is a larger portion of molecules having kinetic energy equal or greater than activation energy.
-- The collision frequency and hence the effective collisions increase. Rate of reaction increases.
+- There is a larger portion of molecules having kinetic energy equal to or greater than activation energy.
+- The collision frequency and hence the effective collisions per unit time increase. Rate of reaction increases.
 ↪️ See also: HKDSE 2013 Paper 2 Q1(a)
 
 #### Presence of catalyst
@@ -31,5 +31,5 @@ The shaded region under the curve shows the number of particles having energy eq
 
 **Explanation**:
 - Catalyst increases the rate of reaction by providing an alternative reaction pathway with <u>lower activation energy</u>.
-- More molecules will have energy equal or greater than $E_a$, effective collision increases.
+- More molecules will have energy equal or greater than $E_a$, effective collisions per unit time increases.
 ↪️ See also: HKDSE 2021 Paper 2 Q1(b)

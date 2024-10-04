@@ -3,7 +3,7 @@
 #### Skin
 The outermost layer of the skin epidermis is made up of dead cornified cells, which forms a tough barrier that can keep out pathogens.
 
-It can also help regulate [[Biology/Anatomy/Neuroscience/Coordination/Homeostasis#Body temperature|body temperature]].
+It can also help regulate [[Parameters of the internal environment#Body temperature|body temperature]].
 
 #### Breathing system
 *Main article: [[Nostrils and nasal cavity]]*

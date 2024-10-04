@@ -3,7 +3,7 @@ The **urinary system** is responsible for <span style="color: lightgreen">osmore
 **Osmoregulation** is the regulation of water content in the body. This keeps the [[Osmosis|water potential]] of the blood and tissue fluid constant, and maintains a stable environment for cells to function properly. This is achieved by regulating the amount of water lost in urine produced by the kidneys.
 
 > **Note**:
-> - Water is lost in urine, sweat, exhaled air, faeces and through evaporation from the skin surface.
+> - Water is lost in urine, sweat, exhaled air, faeces (e.g. diarrhoea) and through evaporation from the skin surface.
 
 #### Structure of the urinary system
 ![[kidneys.webp|700]]

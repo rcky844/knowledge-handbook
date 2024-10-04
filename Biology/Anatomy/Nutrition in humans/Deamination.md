@@ -1,5 +1,9 @@
-**Deamination** is the process by which excess amino acids are broken down in the human body. This occurs in the liver.
+**Deamination** is the breakdown of excess amino acids occurring in the liver.
+
+> **Note**:
+> Excess amino acids cannot be stored in the body.
 
 ![[deamination_diagram.webp]]
 
-Note that excess amino acids cannot be stored in the body.
+#### See also
+- [[Urinary system]] — Responsible for the excretion of urea

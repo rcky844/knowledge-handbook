@@ -13,11 +13,11 @@
 	- $\ce{Pt}$ catalyst in catalytic converter in motor cars is easily poisoned by lead compounds, leaded fuels cannot be used.
 	  ↪️ See also: [[Combustion#Catalytic converters]]
 
-6. The **catalytic effect** will be increased when the surface area of the catalyst is increased.
+6. The **catalytic effect** will be <u>increased when the surface area of the catalyst is increased</u> (e.g. using porous / finely divided catalysts).
 	- Increasing the surface area of a catalyst will increase the collision frequency between the catalyst and reactant particles.
-	- The effective collision increases and the rate of reaction is increased.
+	- The effective collision (per unit time) increases and the rate of reaction is increased.
 
-7. The use of **catalyst** doesn't change the enthalpy change ($\ce{\Delta H}$) of the reaction.
+7. The use of **catalyst** <u>doesn't change the enthalpy change</u> ($\ce{\Delta H}$) of the reaction.
 	- The amount of total energy released / absorbed will be the same as that in uncatalysed reaction.
 
 #### Pre-context

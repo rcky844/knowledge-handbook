@@ -24,11 +24,11 @@ By $y=mx+c$:
 - y-axis ($y$): $\log k$
 - slope ($m$): $-{E_a\over 2.3R}$
 - constant ($c$): $\log A$
-
 ↪️ See also: HKDSE 2013 Paper 2 Q1(a)
+
 > **Note**:
 > - To find the $E_a$ by graph, find the slope of the line.
-> - Only the data values of the best-fit line should be used for calculation.
+> - Only the data values of the <u>best-fit line</u> should be used for calculation.
 > - Remember to check the units given on the graph.
 
 ##### Mathematical method
@@ -55,3 +55,7 @@ Determine the activation energy of the decomposition of $\ce{N2O5(g)}$.
 
 $\log({1.75\times10^{-5}\over5.00\times10^{-5}}) = -{E_a\over2.3R}({1\over 298}-{1\over 318})$
 $E_a = \pu{41.3 kJ mol-1}$
+
+> **Note**:
+> - For some reactions that does not depend on the concentration of reactants, the initial rate is also equal to the rate constant.
+
