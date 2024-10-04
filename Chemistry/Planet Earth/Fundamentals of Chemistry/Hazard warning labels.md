@@ -22,6 +22,9 @@
 - Tetrachloromethane
 - Dioxin, Nicotine
 
+> **Note**:
+> There is no hazardous warning label stating "Poisonous"!
+
 #### Explosive
 ![[label_explosive.webp|100]]
 
