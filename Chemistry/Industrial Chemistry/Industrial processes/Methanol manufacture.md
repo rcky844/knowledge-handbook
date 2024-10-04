@@ -34,7 +34,7 @@ Suggest why methanol is an important compound to chemical industry.
 	- Gas produced are syngas.
 
 2. **Methanol manufacturing**
-   $\ce{CO(g) + H2(g) <=>[\text{250°C, 100 atm}][\ce{Cu / Al2O3 / ZnO}] CH3OH(g)}$          $\pu{\Delta H = -90 kJ mol-1}$
+   $\ce{CO(g) + 2H2(g) <=>[\text{250°C, 100 atm}][\ce{Cu / Al2O3 / ZnO}] CH3OH(g)}$          $\pu{\Delta H = -90 kJ mol-1}$
 
 3. **Water-gas shift reaction**
    $\ce{CO2(g) + H2(g) <=> CO(g) + H2O(ℓ)}$          $\pu{\Delta H = +41 kJ mol-1}$
@@ -45,21 +45,21 @@ Suggest why methanol is an important compound to chemical industry.
 ![[steam_methane.webp]]
 
 1. **Steam-methane reforming chamber**
-   Natural gas containing methane is first purified to remove sulphur impurity present.
+	- Natural gas containing methane is first purified to remove sulphur impurity present.
 	- Purification <u>prevents impurities from contaminating the iron catalyst</u>.
 
-2. **Compression chamber**
+3. **Compression chamber**
 	- The gas is compressed to the required pressure.
 
-3. **Heat exchanger**
+4. **Heat exchanger**
 	- Heat is extracted from the hot product mixture in order to save energy. Outcoming gas also gets cooled down.
 
-4. **Catalytic chamber**
+5. **Catalytic chamber**
 	- It is where the reaction takes place.
 
-5. **Condenser**
+6. **Condenser**
 	- Crude methanol is liquefied and collected.
 	- Unreacted syngas is recycled for another round of reaction.
 
-6. **Distillation chamber**
+7. **Distillation chamber**
 	- Distillation of crude methanol product allows obtaining pure methanol.
