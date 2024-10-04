@@ -33,7 +33,7 @@ Suggest why methanol is an important compound to chemical industry.
    $\ce{CH4(g) + H2O(g) <=>[\text{700°C, 20 atm}][\ce{NiO}] CO(g) + 3H2(g)}$          $\pu{\Delta H = +206 kJ mol-1}$
 	- Gas produced are syngas.
 
-2. **Methanol manufacturing**
+2. **Methanol manufacture**
    $\ce{CO(g) + H2(g) <=>[\text{250°C, 100 atm}][\ce{Cu / Al2O3 / ZnO}] CH3OH(g)}$          $\pu{\Delta H = -90 kJ mol-1}$
 
 3. **Water-gas shift reaction**
