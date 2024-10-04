@@ -1,7 +1,7 @@
 **Ammonia** is produced by the direct combination of nitrogen and hydrogen.
 
 **Equation**:
-$\ce{N2(g) + H2(g) <=>[\text{450°C, 250 atm}][\text{finely divided }\ce{Fe(s)}] 2NH3(g)}$          $\pu{\Delta H = -92 kJ mol-1}$
+$\ce{N2(g) + 3H2(g) <=>[\text{450°C, 250 atm}][\text{finely divided }\ce{Fe(s)}] 2NH3(g)}$          $\pu{\Delta H = -92 kJ mol-1}$
 
 **Source of nitrogen**:
 - By [[Separation of different components of air|fractional distillation of liquefied air]]
@@ -32,6 +32,7 @@ $\ce{N2(g) + H2(g) <=>[\text{450°C, 250 atm}][\text{finely divided }\ce{Fe(s)}]
 
 4. **Condenser and storage tank**
 	- Ammonia is liquefied by the condenser and collected in the storage tank.
+	  Seealso: HKDSE 2017 Paper 2 Q1(a)(i)(2)
 	- Unreacted $\ce{N2}$ and $\ce{H2}$ are recycled and used to react again.
 
 #### Operating conditions for Haber process

@@ -64,3 +64,6 @@ Petroleum is used as <u>fuels</u> for [[Combustion|combustion]] or a <u>source o
 | Lubricating oil and waxes | - Making lubricating oil for machines and candles |
 | Bitumen | - Covering roads |
 
+> **Note**:
+> Butane is the raw material for production of town gas.
+

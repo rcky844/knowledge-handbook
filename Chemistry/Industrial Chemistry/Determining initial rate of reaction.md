@@ -33,7 +33,7 @@ $\text{Initial rate} ∝ {1\over\text{Time to reach opaque stage}}$
   To allow the <u>concentration</u> of $\ce{Na2S2O3(aq)}$ to be directly proportional to the <u>volume</u> of $\ce{Na2S2O3(aq)}$ used.
 
 - **Reason to keep $\ce{[HCl(aq)]}$ much higher than $\ce{[Na2S2O3(aq)]}$**
-  $\ce{[H+(aq)]}$ \>> $\ce{[S2O3^2-(aq)]}$
+  ($\ce{[H+(aq)]}$ \>> $\ce{[S2O3^2-(aq)]}$)
   This keeps $\ce{[H+(aq)]}$ constant, and ensures only the change in $\ce{[S2O3^2-(aq)]}$ affects the rate of reaction.
 
 #### Colour change (Iodine clock reaction)
@@ -48,15 +48,17 @@ $\ce{H2O2 (aq) + 2I- (aq) + 2H+ (aq) -> I2 (aq) + 2H2O (ℓ)}$
 - The $\ce{I2 (aq)}$ produced will be <u>consumed</u> by $\ce{S2O3^2-(aq)}$ <u>immediately</u>.
 - When all $\ce{S2O3^2-(aq)}$ is used up, any <u>excess</u> $\ce{I2 (aq)}$ produced will react with starch solution to <u>form a dark-blue complex</u>.
 - Time $t$ can be found by measuring the time to form the dark-blue complex.
-  The initial rate is the reciprocal of the time to form the dark-blue complex.
+  ↪️ The initial rate is the reciprocal of the time to form the dark-blue complex.
 
 **Reason for $\ce{S2O3^2-(aq)}$ solution is needed in a small and fixed amount**:
 - Fixed amount ensures fair comparison.
-- If a large amount is used, $\ce{I2(aq)}$ will be a limiting reagent, $\ce{S2O3^2-(aq)}$ cannot be used up, dark blue complex may not be produced. The rate of reaction is not equal to the initial rate.
+- If a large amount is used, $\ce{I2(aq)}$ will be a limiting reagent, $\ce{S2O3^2-(aq)}$ cannot be used up, dark-blue complex may not be produced. The rate of reaction is not equal to the initial rate.
 
 **Disadvantages for determining initial rate**:
 - The initial rate can only be approximated as it is difficult to determine the formation of dark-blue complex precisely.
 
 #### Change in absorbance (colorimetry)
-This is useful for measuring the concentration of coloured substance produced in a reaction, as the light absorbance of the solution is changed.
+*Main section: [[Following the progress of a reaction#Change in colour intensity]]*
+
+This is useful for measuring the concentration of <u>coloured substance</u> produced in a reaction, as the light absorbance of the solution is changed.
 

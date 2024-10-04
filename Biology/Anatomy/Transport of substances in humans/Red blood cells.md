@@ -4,7 +4,7 @@
 **Structural features**:
 - Biconcave disc shape
 - Red in colour (due to the presence of haemoglobin)
-- Mature cells have no organelles and organelles.
+- Mature cells have <u>no nucleus and organelles</u>.
 **Size**: About 8 μm in diameter and 2 μm in thickness
 **Site of production**: Bone marrow
 **No. of cells per mm<sup>3</sup>**: 4.2 - 6.2 million
@@ -16,13 +16,13 @@
 #### Structural adaptations of red blood cells for carrying oxygen
 
 - **Red blood cells are packed with haemoglobin.**
-  Haemoglobin is an <u>iron-containing protein</u> that can bind with oxygen to serve as an oxygen carrier.
+  Haemoglobin is an <u>iron-containing protein</u> that can bind with oxygen to serve as an <span style="color: lightgreen">oxygen carrier</span>.
 
 - **Red blood cells have a biconcave disc shape.**
-  This provides a larger surface area to volume ratio to facilitate the diffusion of oxygen into and out of the cells; and shortens the distance for oxygen to reach and leave haemoglobin in the cells.
+  This provides a <u>larger surface area</u> to volume ratio to facilitate the [[diffusion]] of oxygen into and out of the cells; and <u>shortens the diffusion distance for oxygen</u> to reach and leave haemoglobin in the cells.
 
 - **Mature red blood cells do not have a nucleus.**
-  This enables them to hold more haemoglobin and thus carry more oxygen.
+  This enables them to <u>hold more haemoglobin</u> and thus <u>carry more oxygen</u>.
 
 #### Diseases
 - [[Sickle-cell anaemia]]

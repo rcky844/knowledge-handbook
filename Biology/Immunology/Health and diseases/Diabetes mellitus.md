@@ -2,7 +2,7 @@
 
 #### Symptoms and signs
 - **Presence of glucose in urine**
-  The blood glucose levels are so high that the [[Kidneys]] fail to reabsorb all the glucose, and therefore excess glucose is excreted in urine.
+  The blood glucose levels are so high that the [[kidneys]] fail to [[Reabsorption|reabsorb]] all the glucose, and therefore excess glucose is excreted in urine.
 
 - **Frequent urination**
   Body cells lose water to the blood by [[osmosis]], leading to an increase in blood volume and hence an increase in urine production.
@@ -56,7 +56,7 @@ As body cells do not take up excess glucose from the blood, the <u>blood glucose
 Meals should be <u>high-fibre, low glycaemic index (GI) carbohydrates</u> and be <u>low in total saturated fats, added sugar and salt</u>.
 - They can have frequent meals, but in small portions.
 - They should avoid food which elevates blood glucose level in a short time.
-↪️ See also: HKDSE 2015 1B Q8
+↪️ See also: HKDSE 2015 Paper 1B Q8
 
 ##### Glycaemic index (GI)
 The **glycemic index** is a number from 0 to 100 assigned to a food, with pure glucose arbitrarily given the value of 100, which represents the relative rise in the blood glucose level two hours after consuming that food.
@@ -64,4 +64,4 @@ The **glycemic index** is a number from 0 to 100 assigned to a food, with pure g
 > **Note**:
 > - Low GI food will lead to small fluctuations in blood glucose level.
 > - The chance of having too high of a blood glucose level is reduced.
-> ↪️ See also: HKDSE 2018 1B Q7(c)
+> ↪️ See also: HKDSE 2018 Paper 1B Q7(c)

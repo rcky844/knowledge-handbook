@@ -1,7 +1,7 @@
 #### Importance of methanol
 **Example**: HKDSE 2012 Paper 2 Q1(b)(i)
 Suggest why methanol is an important compound to chemical industry.
-- Methanol is a 1-carbon containing compound which acts as a starting material to produce carbon compounds with larger carbon number.
+- Methanol is a 1-carbon containing compound which acts as a <span style="color: lightgreen">starting material</span> to produce carbon compounds with larger carbon number.
 
 #### Methods for manufacturing
 1. **Biomass conversion**
@@ -27,11 +27,13 @@ Suggest why methanol is an important compound to chemical industry.
 5. **Conversion by syngas**
    Through steam-methane reforming process.
 
+##### Sources of methane
+
 #### Conversion by syngas
 ##### Process
 1. **Steam-methane reforming process**
    $\ce{CH4(g) + H2O(g) <=>[\text{700°C, 20 atm}][\ce{NiO}] CO(g) + 3H2(g)}$          $\pu{\Delta H = +206 kJ mol-1}$
-	- Gas produced are syngas.
+	- Gas produced are <span style="color: skyblue">syngas</span>.
 
 2. **Methanol manufacture**
    $\ce{CO(g) + H2(g) <=>[\text{250°C, 100 atm}][\ce{Cu / Al2O3 / ZnO}] CH3OH(g)}$          $\pu{\Delta H = -90 kJ mol-1}$
@@ -45,21 +47,21 @@ Suggest why methanol is an important compound to chemical industry.
 ![[steam_methane.webp]]
 
 1. **Steam-methane reforming chamber**
-   Natural gas containing methane is first purified to remove sulphur impurity present.
+	- Natural gas containing methane is first purified to remove sulphur impurity present.
 	- Purification <u>prevents impurities from contaminating the iron catalyst</u>.
 
-2. **Compression chamber**
+3. **Compression chamber**
 	- The gas is compressed to the required pressure.
 
-3. **Heat exchanger**
+4. **Heat exchanger**
 	- Heat is extracted from the hot product mixture in order to save energy. Outcoming gas also gets cooled down.
 
-4. **Catalytic chamber**
+5. **Catalytic chamber**
 	- It is where the reaction takes place.
 
-5. **Condenser**
+6. **Condenser**
 	- Crude methanol is liquefied and collected.
 	- Unreacted syngas is recycled for another round of reaction.
 
-6. **Distillation chamber**
+7. **Distillation chamber**
 	- Distillation of crude methanol product allows obtaining pure methanol.

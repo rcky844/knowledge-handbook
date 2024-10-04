@@ -1,4 +1,4 @@
-Blood is a lipid tissue consisting of blood cells suspended in plasma. A human adult has about five litres of blood.
+**Blood** is a lipid tissue consisting of blood cells suspended in plasma. A human adult has about five litres of blood.
 
 When blood is spun at high speed in a centrifuge, the blood cells go to the bottom part of the tube, and a pale yellow layer on top is plasma.
 
@@ -12,16 +12,19 @@ Plasma is the liquid part of blood. It is made up of mostly water (90%) with a v
   For blood clotting and body defence.
 
 - **Inorganic ions**
-  For regulating blood pH and osmosis.
+  For regulating blood pH and [[osmosis]].
+
+> **Note**:
+> Carbon dioxide is slightly soluble in water, it dissolves to form an acid $\ce{H2CO3}$.
 
 - **Nutrients (e.g. [[Human nutrition|glucose, amino acids, lipids, vitamins]])**
   As energy sources or for the synthesis of other biomolcules.
 
 - **Respiratory gases (oxygen, carbon dioxide)**
-  Oxygen is used in respiration to release energy, while carbon dioxide is a waste product of respiration.
+  Oxygen is used in [[respiration]] to release energy, while carbon dioxide is a waste product of respiration.
 
 - **Urea**
-  A waste product of protein metabolism.
+  A waste product of protein [[metabolism]].
 
 - **Hormones**
   Serve as chemical messengers that regulate metabolic processes in the body.
