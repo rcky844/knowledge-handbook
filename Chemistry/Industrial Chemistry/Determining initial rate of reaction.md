@@ -1,9 +1,12 @@
 *Pre-context: [[Following the progress of a reaction]]*
 
-Almost all of the rate equations are determined by using the initial concentration, as the initial concentration is accurately known.
-↪️ The initial rate of reaction is found.
+**Reason for using initial concentration**:
+- The initial concentration of reactants is accurately known.
 
-Initial rate can also be approximately calculated by measuring the time it takes for the reaction to produce a small amount of product. It is done through the following methods:
+**Approximation of initial rate**:
+Initial rate can also be approximately calculated by measuring the time it takes for the reaction to produce a small amount of product.
+
+It can be done in the following ways:
 - Precipitation
 - Colour change
 - Change in absorbance
@@ -13,7 +16,7 @@ Consider the reaction:
 $\ce{Na2S2O3(aq) + 2HCl(aq) -> 2NaCl(aq) + SO2(g) + H2O(ℓ) + S(s)}$
 $\ce{S2O3^2-(aq) + 2H+(aq) -> SO2(g) + H2O(ℓ) + S(s)}$
 
-Formation of creamy yellow precipitate of sulphur makes the solution <span style="color: lightgreen">turbid</span>, which <u>decreases the light transmittance</u> of the solution.
+Formation of <span style="color: skyblue">creamy yellow precipitate of sulphur</span> makes the solution <span style="color: lightgreen">turbid</span>, which <u>decreases the light transmittance</u> of the solution.
 
 To measure the initial rate of reaction, the time for a small amount of sulphur to be produced which is enough to block the cross on the paper under the beaker is measured.
 
@@ -55,7 +58,7 @@ $\ce{H2O2 (aq) + 2I- (aq) + 2H+ (aq) -> I2 (aq) + 2H2O (ℓ)}$
 - If a large amount is used, $\ce{I2(aq)}$ will be a limiting reagent, $\ce{S2O3^2-(aq)}$ cannot be used up, dark-blue complex may not be produced. The rate of reaction is not equal to the initial rate.
 
 **Disadvantages for determining initial rate**:
-- The initial rate can only be approximated as it is difficult to determine the formation of dark-blue complex precisely.
+- The initial rate can only be approximated as it is <u>difficult to determine the formation of dark-blue complex precisely</u>.
 
 #### Change in absorbance (colorimetry)
 *Main section: [[Following the progress of a reaction#Change in colour intensity]]*

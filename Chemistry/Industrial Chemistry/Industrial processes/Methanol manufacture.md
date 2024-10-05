@@ -50,18 +50,18 @@ Suggest why methanol is an important compound to chemical industry.
 	- Natural gas containing methane is first purified to remove sulphur impurity present.
 	- Purification <u>prevents impurities from contaminating the iron catalyst</u>.
 
-3. **Compression chamber**
+2. **Compression chamber**
 	- The gas is compressed to the required pressure.
 
-4. **Heat exchanger**
+3. **Heat exchanger**
 	- Heat is extracted from the hot product mixture in order to save energy. Outcoming gas also gets cooled down.
 
-5. **Catalytic chamber**
+4. **Catalytic chamber**
 	- It is where the reaction takes place.
 
-6. **Condenser**
+5. **Condenser**
 	- Crude methanol is liquefied and collected.
 	- Unreacted syngas is recycled for another round of reaction.
 
-7. **Distillation chamber**
+6. **Distillation chamber**
 	- Distillation of crude methanol product allows obtaining pure methanol.

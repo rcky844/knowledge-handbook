@@ -13,6 +13,7 @@ $\ce{N2(g) + 3H2(g) <=>[\text{450°C, 250 atm}][\text{finely divided }\ce{Fe(s)}
   ↪️ See also: [[Methanol manufacture]]
 	 - $\ce{CH4(g) + H2O(g) <=>[\text{700°C, 20 atm}][\ce{NiO}] CO(g) + 3H2(g)}$          $\pu{\Delta H = +206 kJ mol-1}$
 	 - $\ce{CO(g) + H2O(ℓ) <=> CO2(g) + H2(g)}$          $\pu{\Delta H = -41 kJ mol-1}$
+	   ↪️ This is in reverse with the process in methanol manufacture.
 
 #### Working principle
 ![[haber_process.webp]]
@@ -32,7 +33,7 @@ $\ce{N2(g) + 3H2(g) <=>[\text{450°C, 250 atm}][\text{finely divided }\ce{Fe(s)}
 
 4. **Condenser and storage tank**
 	- Ammonia is liquefied by the condenser and collected in the storage tank.
-	  Seealso: HKDSE 2017 Paper 2 Q1(a)(i)(2)
+	  ↪️ See also: HKDSE 2017 Paper 2 Q1(a)(i)(2)
 	- Unreacted $\ce{N2}$ and $\ce{H2}$ are recycled and used to react again.
 
 #### Operating conditions for Haber process
@@ -62,9 +63,10 @@ Suggest how ammonia can be separated from the reaction mixture obtained.
 ##### Ostwald process
 **Ostwald process** involves the manufacture of nitric acid from ammonia.
 
-1. $\ce{4NH3(g) + 5O2(g) <=>[Pt][\text{900°C, 8 atm}] 4NO(g) + 6H2O(ℓ)}$     $\pu{\Delta H = -970 kJ mol-1}$
+1. $\ce{4NH3(g) + 5O2(g) <=>[\text{900°C, 8 atm}][Pt] 4NO(g) + 6H2O(ℓ)}$     $\pu{\Delta H = -970 kJ mol-1}$
 2. $\ce{2NO(g) + O2(g) -> 2NO2(g)}$     $\pu{\Delta H = -117 kJ mol-1}$
 3. $\ce{4NO2(g) + 2H2O(ℓ) + O2(g) -> 4HNO3(aq)}$     $\pu{\Delta H = -970 kJ mol-1}$
+//TODO confirm $\Delta H$
 
 ##### Production of ammonium salt (fertilizer)
 **Reactions**:

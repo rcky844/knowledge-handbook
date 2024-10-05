@@ -4,7 +4,7 @@ A detergent has an <span style="color: skyblue">ionic head</span> which is <span
 
 > **Note**:
 > - Detergents are essentially salt solutions.
-> - The cation is unimportant in the cleansing action of detergents
+> - The cation is unimportant in the cleansing action of detergents.
 
 #### Cleansing action
 ##### Problems with water as cleansing medium

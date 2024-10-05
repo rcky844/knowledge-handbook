@@ -14,7 +14,7 @@
    Examples: Replacement of VOCs and CFCs
 
 5. **Designing for energy efficiency**
-	- When a catalyst is used, less energy is needed to heat up the reaction mixture.
+	- When a [[Catalysts|catalyst]] is used, less energy is needed to heat up the reaction mixture.
 	- Energy is used to heat liquid mixture and purifying productions by <u>distillation</u>.
 	- When the reaction pathway <u>consists of fewer steps</u>, less processes of separation and purification are needed. Less energy is needed.
 
@@ -49,6 +49,7 @@
 > - Atom economy does not involve experimentation, it is based on a 100% completed reaction.
 > - Percentage yield is based on experimental data.
 
+**Relationship of atom economy with percentage yield**:
 Atom economy and percentage yield do not show any relationships.
 - The calculation of atom economy is <u>based on a 100% complete reaction</u>.
 - However, <u>most of the reactions do not go to completion</u>, and the yield is related to the <u>extent of reaction</u>.

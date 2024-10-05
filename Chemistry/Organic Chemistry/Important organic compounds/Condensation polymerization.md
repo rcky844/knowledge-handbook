@@ -11,7 +11,7 @@
 **Example**: PET (Polyethylene terephthalate)
 ![[pet.svg|500]]
 - It is formed by repeated [[esterification]] between benzene-1,4-dioic acid and ethane-1,2-diol.
-
+o
 **Intermolecular forces between PET chains**:
 ![[pet_intermolecular.webp|600]]
 There are only <u>van der Waals' forces</u> between PET chains.
