@@ -25,6 +25,20 @@ Consider the following chemical cell:
 - Electron flows from $\ce{Mg(s)}$ to $\ce{Cu(s)}$ through the external circuit.
 - Current flows from $\ce{Cu(s)}$ to $\ce{Mg(s)}$ through the external circuit.
 
+##### Problems
+1. **Displacement reaction occurs between $\ce{Mg}$ strip and $\ce{Cu^2+(aq)}$ ions in the solution.**
+   The electrons are directly transferred from $\ce{Mg}$ to $\ce{Cu^2+}$ and they do not flow through the external circuit. This creates a waste of electrons.
+
+2. **Discharge of $\ce{Mg(s)}$ creates a build up of positive ions surrounding the anode.**
+   This hinders the release of electrons from the $\ce{Mg(s)}$ strip through the external circuit.
+
+3. **Discharge of $\ce{Cu^2+(aq)}$ causes the conc. of negative ions to relatively increase.**
+   This hinders the acceptance of electrons from external circuit to the $\ce{Cu(s)}$ strip.
+
+In order to provide a more steady voltage, the following problems has to be solved:
+- <span style="color: lightgreen">Direct reaction between electrodes in the electrolyte</span>
+- <span style="color: lightgreen">Imbalance (excess) charges in the chemical cell</span>
+
 #### Voltage comparison
 The **cell voltage** of a chemical cell can be increased by increasing the difference in E.C.S. position between two metal electrodes.
 
@@ -39,4 +53,8 @@ When the terminals of the voltmeter is connected in the <u>reverse</u> of the po
 
 #### Metal couple setup
 ![[metal_couple_setup.webp|500]]
+This **metal couple setup** can be used to compare the reactivity of metals.
+- For positive voltage, the metal X should be the negative electrode (anode, oxidation), while the copper should be the positive electrode (cathode, reduction).
+- The larger the differences in tendencies between the metal couples to form ions <u>(further apart in the ECS)</u>, the <u>larger the reading of the value in voltage</u>.
 
+**Example**: HDKSE 2020 Paper 1 Q6

@@ -11,10 +11,10 @@ The <u>voltage produced</u> by chemical cells are measured using <span style="co
 **Simple chemical cells**:
 - [[Metal couple cells]]
 - [[Lemon cells]]
-- [[Two-half cells]]
+- [[Two half-cells]]
 - [[Concentration cells]]
-- [[Electrolyte redox cells using inert electrodes]]
 - [[Daniell cell]]
+- [[Electrolyte redox cell using inert electrodes]]
 
 **Fuel cells**:
 - [[Hydrogen-oxygen fuel cell]]

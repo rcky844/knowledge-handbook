@@ -9,10 +9,10 @@
 	- Simple chemical cells
 		- [[Metal couple cells]]
 		- [[Lemon cells]]
-		- [[Two-half cells]]
+		- [[Two half-cells]]
 		- [[Concentration cells]]
-		- [[Electrolyte redox cells using inert electrodes]]
 		- [[Daniell cell]]
+		- [[Electrolyte redox cells using inert electrodes]]
 	- Fuel cells
 		- [[Hydrogen-oxygen fuel cell]]
 		- [[Proton exchange membrane fuel cell]]
