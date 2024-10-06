@@ -21,6 +21,10 @@ The <u>voltage produced</u> by chemical cells are measured using <span style="co
 - [[Proton exchange membrane fuel cell]]
 - [[Direct methanol fuel cell]]
 
+> **Note**:
+> - Fuel cells are <span style="color: skyblue">primary cells</span>.
+> - They are not secondary cells as they <u>cannot be recharged</u>.
+
 #### Electrode arrangements
 | Electrode | Reaction at electrode | Charge |
 | :--: | :--: | :--: |
