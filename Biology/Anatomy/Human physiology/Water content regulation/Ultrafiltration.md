@@ -6,7 +6,7 @@
 
 **Contents of glomerular filtrate**:
 - **Water and other small molecules in the blood are forced out.**
-  Due to the <span style="color: lightgreen">high hydrostatic pressure</span> inside the glomerulus through the walls of the glomerulus and the Bowman's capsule into the <span style="color: violet">capsular space</span>, forming the <span style="color: skyblue">glomerular filtrate</span>.
+  Due to the <span style="color: lightgreen">high hydrostatic pressure</span> inside the glomerulus, they are forced out through the walls of the glomerulus and the Bowman's capsule into the <span style="color: violet">capsular space</span>, forming the <span style="color: skyblue">glomerular filtrate</span>.
 
 - **Blood cells and plasma proteins are absent in the glomerular filtrate.**
   They are <u>too large to pass through</u> the walls of the glomerulus and Bowman's capsule.
