@@ -5,7 +5,7 @@ Suggest why methanol is an important compound to chemical industry.
 
 #### Methods for manufacturing
 1. **Biomass conversion**
-   Converting pig's manure to produce methaol.
+   Converting pig's manure to produce methanol.
 	- **Advantage**: Renewable feedstock is used.
 	- **Disadvantage**: Slow rate of reaction, product is impure and yield is low.
 
@@ -16,7 +16,7 @@ Suggest why methanol is an important compound to chemical industry.
 
 3. **Flue gas conversion**
    Converts carbon dioxide in flue gas to methanol
-	- **Advantage**: Helps reduce the release of carbon dioxide into the admosphere.
+	- **Advantage**: Helps reduce the release of carbon dioxide into the atmosphere.
 	- **Disadvantage**: Collection of flue gas is difficult, may contain impurities.
 
 4. **Microbial oxidation**
