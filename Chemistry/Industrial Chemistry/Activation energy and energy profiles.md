@@ -24,6 +24,7 @@ Catalyst is a substance that can change the rate of reaction with itself being <
 
 ![[catalysed_energy_profile.webp|600]]
 
-> **Note**:
-> A faster reaction requires lower $E_a$.
+##### Rate determining step (r.d.s.)
+**Rate determining step** is the <u>slowest step of a chemical reaction</u> that determines the speed (rate) at which the overall reaction proceeds.
 
+The slower step also have a <u>higher activation energy</u>.
