@@ -61,17 +61,15 @@ Suggest how ammonia can be separated from the reaction mixture obtained.
 
 #### Manufacture of nitrogenous fertilizer
 ##### Ostwald process
-**Ostwald process** involves the manufacture of nitric acid from ammonia.
-
+**Ostwald process** involves the <u>manufacture of nitric acid from ammonia</u>.
 1. $\ce{4NH3(g) + 5O2(g) <=>[\text{900°C, 8 atm}][Pt] 4NO(g) + 6H2O(ℓ)}$     $\pu{\Delta H = -970 kJ mol-1}$
 2. $\ce{2NO(g) + O2(g) -> 2NO2(g)}$     $\pu{\Delta H = -117 kJ mol-1}$
 3. $\ce{4NO2(g) + 2H2O(ℓ) + O2(g) -> 4HNO3(aq)}$     $\pu{\Delta H = -970 kJ mol-1}$
-//TODO confirm $\Delta H$
 
 ##### Production of ammonium salt (fertilizer)
 **Reactions**:
 - $\ce{NH3(aq) + HNO3(aq) -> NH4NO3(aq)}$
-- $\ce{2NH3(aq) + H2SO4(aq) -> (NH4)2NO3(aq)}$
+- $\ce{2NH3(aq) + H2SO4(aq) -> (NH4)2SO4(aq)}$
 - $\ce{2NH3(aq) + CO2(g) -> (NH2)2CO(aq) + H2O(ℓ)}$
 
 → The salt is then <u>purified and dried</u>.

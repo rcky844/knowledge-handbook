@@ -19,6 +19,7 @@ When electricity is passed through sea water, chemical reactions are forced to o
 - To <u>make PVC / hydrochloric acid</u>
 - To <u>make solvents</u> (e.g. $\ce{CCl4}$)
 - To <u>make chlorine bleach</u> by dissolving in sodium hydroxide
+  ↪️ $\ce{2NaOH(aq) + Cl2(g) → NaCl(aq) + NaClO(aq) + H2O(ℓ)}$
 - To make <u>hydrochloric acid</u> with hydrogen gas
 
 ##### Sodium hydroxide

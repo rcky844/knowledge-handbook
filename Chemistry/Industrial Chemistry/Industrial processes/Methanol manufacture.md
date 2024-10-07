@@ -38,6 +38,10 @@ Suggest why methanol is an important compound to chemical industry.
 2. **Methanol manufacture**
    $\ce{CO(g) + H2(g) <=>[\text{250°C, 100 atm}][\ce{Cu / Al2O3 / ZnO}] CH3OH(g)}$          $\pu{\Delta H = -90 kJ mol-1}$
 
+> **Note**:
+> - Methanol is flammable and toxic.
+> - Methanol produced is in gaseous states due to the high temperature of the reaction system.
+
 3. **Water-gas shift reaction**
    $\ce{CO2(g) + H2(g) <=> CO(g) + H2O(ℓ)}$          $\pu{\Delta H = +41 kJ mol-1}$
 	- Excess $\ce{H2}$ is formed as volume ratio of $\ce{CO : H2}$ is $1:3$ in steam-methane reforming process but it is $1:2$ in methanol production.

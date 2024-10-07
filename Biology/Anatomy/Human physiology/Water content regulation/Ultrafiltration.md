@@ -5,8 +5,11 @@
 - Capillary wall of the glomerulus and the wall of the Bowman's capsule are <span style="color: lightgreen">thin and differentially permeable</span>. They serve as the <u>filter</u> to allow ultrafiltration.
 
 **Contents of glomerular filtrate**:
-- <u>Water and other small molecules in the blood are forced out</u> by the <span style="color: lightgreen">high hydrostatic pressure</span> inside the glomerulus through the walls of the glomerulus and the Bowman's capsule into the <span style="color: violet">capsular space</span>, forming the <span style="color: skyblue">glomerular filtrate</span>.
-- <u>Blood cells and plasma proteins are absent</u> in the glomerular filtrate because they are <u>too large to pass through</u> the walls of the glomerulus and Bowman's capsule.
+- **Water and other small molecules in the blood are forced out.**
+  Due to the <span style="color: lightgreen">high hydrostatic pressure</span> inside the glomerulus through the walls of the glomerulus and the Bowman's capsule into the <span style="color: violet">capsular space</span>, forming the <span style="color: skyblue">glomerular filtrate</span>.
+
+- **Blood cells and plasma proteins are absent in the glomerular filtrate.**
+  They are <u>too large to pass through</u> the walls of the glomerulus and Bowman's capsule.
 
 > **Note**: (on glomerular filtrate)
 > - Composition of glomerular filtrate is similar to tissue fluid as they are both formed similarly.
