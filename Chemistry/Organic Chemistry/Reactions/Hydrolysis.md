@@ -16,7 +16,7 @@
 
 > ester → alkanoic acid + alcohol
 > ━━━━━━━━━━
-> **Reagent**: Dilute ($\ce{NaOH}$)
+> **Reagent**: Dilute alkali ($\ce{NaOH}$)
 > **Condition**: Under reflux
 
 #### Amides
@@ -33,6 +33,6 @@
 
 > amide → alkanoic acid
 > ━━━━━━━━━━
-> **Reagent**: Dilute ($\ce{NaOH}$)
+> **Reagent**: Dilute alkali ($\ce{NaOH}$)
 > **Condition**: Under reflux
 
