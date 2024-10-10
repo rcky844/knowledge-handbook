@@ -1,6 +1,6 @@
 **Bases** react with acid to give <u>salt and water only</u> (neutralization).
 
-**Alkalis** dissociate / ionize / dissolve in water to give $\ce{OH-(aq)}$ ion as the only anion.
+**Alkalis** <u>dissociate / ionize / dissolve in water</u> to give $\ce{OH-(aq)}$ ion as the only anion.
 
 | Bases / Alkalis | Chemical formula | Usage |
 | :--- | :--- | :--- |

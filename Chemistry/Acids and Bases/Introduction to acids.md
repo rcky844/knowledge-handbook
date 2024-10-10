@@ -29,8 +29,11 @@ By dissolving hydrogen chloride gas ($\ce{HCl(g)}$) into water.
 2. **With oxides / hydroxides**
    Products: salt + water
 
-3. **With carbonates / hydrocarbonates**
+3. **With carbonates / hydrogencarbonates**
    Products: salt + carbon dioxide + water
+
+> **Note**:
+> The reaction of acid and carbonates / hydrogencarbonates is [[Endothermic and exothermic reactions#Endothermic reaction|endothermic]].
 
 #### Role of water
 - An **acid** only exhibits its acidic property when water is present.
@@ -41,6 +44,11 @@ By dissolving hydrogen chloride gas ($\ce{HCl(g)}$) into water.
 ![[dissolve_hcl.webp]]
 - When $\ce{HCl(g)}$ dissolves in water, the number of mole of gas in the system decreases and the pressure decreases.
 - An inverted funnel set-up is used in order to <span style="color: lightgreen">prevent suck back</span> of the solution.
+
+> **Note**:
+> Hydromium ion $\ce{H3O+}$ is also formed when $\ce{H+}$ ions react with $\ce{H2O}$ by forming [[Covalent bonds#Dative covalent bonds|dative covalent bond]].
+> - The number of $\ce{H3O+}$ ions is equal to the number of $\ce{H+}$ ions, so they are often ignored for simplicity.
+> - $\ce{H3O+}$ ions also carry acidic property.
 
 #### Basicity
 **Basicity** is the maximum number of ionizable hydrogen atoms in an acid molecule.
