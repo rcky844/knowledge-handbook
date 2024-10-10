@@ -4,7 +4,7 @@
 > **Note**:
 > Sea water mainly consists of water and dissolved salts, but the dissolved salts have much higher boiling points than water. Water will boil and vaporize upon heating while the dissolved salt will not. Thus, simple distillation is needed to obtain the solvent itself.
 
-##### Simple set-up
+##### 'Quickfit' set-up
 ![[simple_distillation_quickfit.webp|550]]
 - The <span style="color: lightgreen">condenser</span> will be connected to the distillation flash. It provides a lower temperature to condense water vapour.
 	- Cold tap water is kept flowing in the outer layer of the condenser, while the inner layer would condense the water vapour that reaches the top of the distillation flask.
