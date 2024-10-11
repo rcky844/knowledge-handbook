@@ -4,6 +4,8 @@
 > alkene → haloalkane
 > ━━━━━━━━━━
 > **Reagent**: $\ce{F2}$ / $\ce{Cl2}$ / $\ce{Br2}$ / $\ce{I2}$ dissolved in organic solvent (e.g. $\ce{CCl4}$)
+> **Observations**: Colour changes <span style="color: lightgreen">rapidly</span> (compared to substitution reaction)
+> **Application**: [[Testing for alkanes and alkenes]]
 
 #### Addition of -OH
 ![[oh-addition.webp|400]]
@@ -11,6 +13,8 @@
 > alkene → diol
 > ━━━━━━━━━━
 > **Reagent**: $\ce{KMnO4 / H+}$
+> **Observations**: Colour changes from purple to very pale pink <span style="color: lightgreen">rapidly</span>.
+> **Application**: [[Testing for alkanes and alkenes]]
 
 #### Hydrogenation (Reaction with $\ce{H2}$)
 ![[hydrogenation.webp|420]]

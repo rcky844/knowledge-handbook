@@ -30,4 +30,5 @@ Although the above molecule possess an $\ce{O-H}$ bond and can form [[hydrogen b
   (longer than $\ce{C4 - C6}$)
 - The [[van der Waals' forces]] becomes predominant between molecules instead of hydrogen bonds.
 
-
+#### See also
+- [[Dissolving halogen in organic solvent]]

@@ -8,10 +8,10 @@
 > ━━━━━━━━━━
 > **Reagent**: $\ce{F2}$ / $\ce{Cl2}$ / $\ce{Br2}$ / $\ce{I2}$ dissolved in organic solvent (e.g. $\ce{CCl4}$)
 > **Condition**: Under sunlight ($h\nu$) / heating
-> **Observations**: Colour changes <u>slowly</u> (compared to addition reaction)
+> **Observations**: Colour changes <span style="color: lightgreen">slowly</span> (compared to addition reaction)
+> **Application**: [[Testing for alkanes and alkenes]]
 
 **Steps of substitution** (free radical process):
-
 1. **Initiation** (Production of free radicals)
    ![[free_radical_initiation.webp|350]]
 

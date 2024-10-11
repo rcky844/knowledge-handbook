@@ -25,10 +25,10 @@
 
 5. Typical reactions of various functional groups
 	- [[Combustion]]
-	- [[Substitution reaction]]
 	- [[Cracking]]
+	- [[Substitution reaction]]
 	- [[Addition reaction]]
-	- //TODO import
+	- [[Testing for alkanes and alkenes]]
 	- [[Addition polymerization]]
 	- [[Condensation polymerization]] (Condensation reaction)
 	- [[Dehydration of alcohol]]
@@ -42,7 +42,7 @@
 	- [[Addition polymerization|Addition polymers]]
 	- [[Aspirin]] — pain killer
 	- [[Detergents]] — cleansing agent
-		- [[Lipids#Triglycerides]] - raw material for production of soapy detergents
+		- [[Lipids#Triglycerides]] — raw material for production of soapy detergents
 	- [[Condensation polymerization|Condensation polymers]]
 		- [[Carbohydrates]] / [[Condensation & Hydrolysis]]
 		- [[Proteins]]

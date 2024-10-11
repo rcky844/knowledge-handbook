@@ -24,8 +24,8 @@
 2. **Polarity of bond** (less important)
    When the average number of hydrogen bonds is the same, consider the polarity of bonds. As electronegativity increases from N to O to F, the polarity of bond involving H atom: $\ce{N-H < O-H < F-H}$.
 
-#### Exceptional case
-Chloroform - $\ce{CHCl3}$:
+#### Exceptional case for chloroform
+*Chloroform - $\ce{CHCl3}$*
 - It does not form hydrogen bond between its own molecules, but it forms hydrogen bonds with water.
 - This is because it has an asymmetrical arrangement of polar bonds of $\ce{C-H}$ and $\ce{C-Cl}$ bonds. They make their molecules highly polarized. The hydrogen atom is highly partial positive.
 
