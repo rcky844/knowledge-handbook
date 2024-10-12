@@ -23,4 +23,4 @@ When both water and non-polar organic solvent are present within a mixture, two 
   It contains dissolved halogen.
 
 **Lower layer** — *Polar / aqueous solvent*:
-- Colour of dissolved halogen ions is lighter.
+- Colour of aqueous halogens is lighter.

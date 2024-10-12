@@ -4,9 +4,12 @@
 | Element  | State at r.t.p. | Colour of pure halogen | Colour in aqueous solution | Colour in organic solution |
 | :------: | :-------------: | :--------------------: | :------------------------: | :------------------------: |
 | Flourine |       gas       |      pale yellow       |             /              |             /              |
-| Chlorine |       gas       |    greenish yellow     |     pale yellow-green      |     pale yellow-green      |
-| Bromine  |     liquid      |     reddish brown      |        yellow-brown        |       reddish brown        |
-|  Iodine  |      solid      |      dark purple       |        orange-brown        |           purple           |
+| Chlorine |       gas       |    greenish yellow     |        pale yellow         |        pale yellow         |
+| Bromine  |     liquid      |         brown          |           brown            |           brown            |
+|  Iodine  |      solid      |      dark purple       |           brown            |           purple           |
+
+> **Note**:
+> Halide ions are colourless.
 
 #### Similarities of Group VII halogens
 1. They are all toxic and smelly.

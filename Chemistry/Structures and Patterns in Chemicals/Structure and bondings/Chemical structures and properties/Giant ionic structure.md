@@ -41,14 +41,14 @@ Most ions are colourless, those with colours are listed below.
 | Chemical formula | Colour |
 | :--: | :--: |
 | $\ce{Fe^2+}$ | pale green |
-| $\ce{Fe^3+}$ | yellow or brown |
-| $\ce{Cu^2+}$ | blue or green |
+| $\ce{Fe^3+}$ | pale yellow |
+| $\ce{Cu^2+}$ | blue / green |
 | $\ce{Co^2+}$ | pink |
 | $\ce{Cr^3+}$ | green |
 | $\ce{Ni^2+}$ | green |
 | $\ce{CrO4^2-}$ | yellow |
 | $\ce{Cr2O7^2-}$ | orange |
-| $\ce{Mn^2+}$ | very pale pink |
+| $\ce{Mn^2+}$ | very pale pink / colourless |
 | $\ce{MnO4-}$ | purple |
 #### Migration of ions
 *See also: [[Electrolysis]]*
