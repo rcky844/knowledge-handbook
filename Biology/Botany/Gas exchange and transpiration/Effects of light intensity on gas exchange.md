@@ -1,6 +1,6 @@
 ![[light_intensity_effecs_gas_exchange.webp|500]]
 
-During [[photosynthesis]], the size of stomata becomes larger, more carbon dioxide can be absorbed and more oxygen can be released. On the contrary, stomata close in darkness.
+During [[Photosynthesis]], the size of stomata becomes larger, more carbon dioxide can be absorbed and more oxygen can be released. On the contrary, stomata close in darkness.
 
 - **A**: Low light intensity, photosynthesis < respiration
 	- <u>Net uptake</u> of oxygen and net release of carbon dioxide.

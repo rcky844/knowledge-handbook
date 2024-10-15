@@ -4,7 +4,7 @@
 
 #### Methods of digestion
 ##### Physical digestion
-Breaking up of food into smaller pieces by physical means, without changing the chemical structure of food (and does not form new food substances). This increases the surface area of the food for the action of digestive [[enzymes]].
+Breaking up of food into smaller pieces by physical means, without changing the chemical structure of food (and does not form new food substances). This increases the surface area of the food for the action of digestive [[Enzymes]].
 
 **Examples**:
 - **Chewing**: Teeth mechanically cuts food into smaller pieces and mix food with saliva during [[ingestion]].

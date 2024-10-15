@@ -5,7 +5,7 @@
   The blood glucose levels are so high that the [[kidneys]] fail to [[Reabsorption|reabsorb]] all the glucose, and therefore excess glucose is excreted in urine.
 
 - **Frequent urination**
-  Body cells lose water to the blood by [[osmosis]], leading to an increase in blood volume and hence an increase in urine production.
+  Body cells lose water to the blood by [[Osmosis]], leading to an increase in blood volume and hence an increase in urine production.
 
 > **Note**:
 > Glucose is soluble in water and affects the water potential of the blood.
@@ -50,7 +50,7 @@ As body cells do not take up excess glucose from the blood, the <u>blood glucose
 
 > **Note**:
 > Injection dose of insulin must be carefully controlled.
-> - If too much insulin is injected, the blood glucose level may fall so low that body cells cannot obtain enough glucose for respiration and [[metabolism]] will slow down.
+> - If too much insulin is injected, the blood glucose level may fall so low that body cells cannot obtain enough glucose for respiration and [[Metabolism]] will slow down.
 
 #### Dietary considerations for diabetics
 Meals should be <u>high-fibre, low glycaemic index (GI) carbohydrates</u> and be <u>low in total saturated fats, added sugar and salt</u>.

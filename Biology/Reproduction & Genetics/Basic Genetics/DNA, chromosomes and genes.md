@@ -1,7 +1,7 @@
 #### Structure of DNA
 *Pre-context: [[Nucleic acids]] / [[Chromosome]]*
 
-**Deoxyribonucleic acid (DNA)** is the chemical that stores the genetic information in a cell. It is usually found in the [[nucleus]].
+**Deoxyribonucleic acid (DNA)** is the chemical that stores the genetic information in a cell. It is usually found in the [[Nucleus]].
 
 Each DNA molecules wraps around special proteins and coils up to form chromatin. When a cell is going to divide, the chrIn the cell cycle, omatin condenses to form a [[chromosome]].
 
@@ -28,7 +28,7 @@ Each DNA molecules wraps around special proteins and coils up to form chromatin.
 ---
 #### Genes
 A **gene** is a short length of DNA in a [[chromosome]].
-- The sequence of bases in the DNA of a gene provides the genetic code that determines the sequence of amino acids in a particular **polypeptide**, making up [[proteins]] for building body parts, [[enzymes]] and [[hormones]].
+- The sequence of bases in the DNA of a gene provides the genetic code that determines the sequence of amino acids in a particular **polypeptide**, making up [[Proteins]] for building body parts, [[Enzymes]] and [[hormones]].
 - Genes are the <span style="color: skyblue">basic unit of heredity</span> and determines **traits** (body characteristics) of an organism by controlling how proteins are made. Traits may be controlled by one or more genes.
 
 ![[gene.webp|320]]

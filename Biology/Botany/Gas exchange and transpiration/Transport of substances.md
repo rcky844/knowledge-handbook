@@ -23,7 +23,7 @@ The **phloem** transports organic nutrients (e.g. sucrose and amino acids) withi
   This allows organic nutrients to move from cell to cell.
 
 - **Companion cells have cytoplasm, a nucleus and a large number of mitochondria.**
-  This is to provide energy for metabolic activities ([[active transport]] of organic nutrients) of the sieve tube.
+  This is to provide energy for metabolic activities ([[Active transport]] of organic nutrients) of the sieve tube.
 
 #### Distribution of vascular tissues.
 
@@ -37,7 +37,7 @@ The **phloem** transports organic nutrients (e.g. sucrose and amino acids) withi
   ![[vasculardist_roots.webp|400]]
 
 #### Process of transporting water and minerals
-- As leaves transpire (evaporation of water vapour), the water potential of the mesophyll cells becomes lower. Water moves from xylem vessels into the mesophyll cells by [[osmosis]].
+- As leaves transpire (evaporation of water vapour), the water potential of the mesophyll cells becomes lower. Water moves from xylem vessels into the mesophyll cells by [[Osmosis]].
 - The loss of water from the xylem vessels in the leaves creates transpiration pull (a pulling force) that draws water up the xylem vessels from the roots to the leaves.
 - The transpiration pull eventually draws water from the xylem vessels of the roots, which creates a water potential gradient from the xylem vessels to the root epidermis.
 - The water potential of the root hair cells becomes lower than that of the soil water, and water moves into the root hair cells by osmosis.

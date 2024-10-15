@@ -11,7 +11,7 @@
   The antibody bind to antigens of the pathogen and make holes on the pathogen surface, causing the pathogen to break apart.
 
 - **Helping detection by phagocytes**
-  The antibody bind to antigens of the pathogen and help phagocytes detect the pathogen more easily, thus making [[phagocytosis]] easier.
+  The antibody bind to antigens of the pathogen and help phagocytes detect the pathogen more easily, thus making [[Phagocytosis]] easier.
 
 - **Clumping of pathogens**
   The antibody cause pathogens to clump together (agglutination). It prevents pathogens from reproducing or entering body cells, and helps phagocytes engulf the pathogens.

@@ -66,7 +66,7 @@ The small intestine is also responsible for most of the absorption process. It a
    → Brings the digested food molecules into close contact with villi for rapid absorption.
 
 ##### Transport of food molecules
-Via [[diffusion]], [[osmosis]] and [[active transport]].
+Via [[Diffusion]], [[Osmosis]] and [[Active transport]].
 
 **Into the blood**:
 - **Diffusion and active transport**

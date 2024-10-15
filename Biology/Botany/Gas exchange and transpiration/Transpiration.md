@@ -1,6 +1,6 @@
 **Transpiration** is the process where a plant loses water in the form of water vapour by <u>evaporation</u>.
 
-Most plants absorb water from the soil continuously, but only a very small amount s used by the plants in [[photosynthesis]] and other cellular activities. Most of the water absorbed by the plant is lost through transpiration, which occurs mainly through the stomata. Small portions of water is lost through the cuticle present on surfaces of leaves and herbaceous stems, and lenticels of woody stems.
+Most plants absorb water from the soil continuously, but only a very small amount s used by the plants in [[Photosynthesis]] and other cellular activities. Most of the water absorbed by the plant is lost through transpiration, which occurs mainly through the stomata. Small portions of water is lost through the cuticle present on surfaces of leaves and herbaceous stems, and lenticels of woody stems.
 
 #### Process
 ![[transpiration_process.webp]]
@@ -66,7 +66,7 @@ The greater the total area of a plant, the more cuticle and stomata will be pres
 The epidermis is covered by a layer of waxy cuticle that is impermeable to water, reducing evaporation of water from the inner tissues of the leaves.
 
 **Guard cells control the size of the stomata**
-When light is not available for [[photosynthesis]] or the plant becomes [[Water (Photosynthesis)|dehydrated]], the stomata close and water loss from the leaves is reduced.
+When light is not available for [[Photosynthesis]] or the plant becomes [[Water (Photosynthesis)|dehydrated]], the stomata close and water loss from the leaves is reduced.
 
 **Distribution of stomata**
 The upper epidermis usually has fewer stomata than the lower epidermis. This is because the upper surface of the leaves is directly lit by sunlight and its temperature will be higher. Having fewer stomata on the upper epidermis reduces the transpiration rate of the leaves.

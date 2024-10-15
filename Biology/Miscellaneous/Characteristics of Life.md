@@ -1,5 +1,5 @@
 ##### Nutrition
-Organisms obtain food and nutrients for [[respiration]] to produce energy.
+Organisms obtain food and nutrients for [[Respiration]] to produce energy.
 - **Green plants (autotrophs)**: Make their own food by photosynthesis.
 - **Animals (heterotrophs)**: Eat plants or other animals for food.
 

@@ -1,6 +1,6 @@
 **Phagocytosis** is a mechanism as the line of defence when pathogens pass different barriers and enter the body.
 
-Phagocytes (a type of white blood cell) move towards the pathogens to carry out [[phagocytosis]] to engulf the pathogens and digest them with enzymes. Some of these phagocytes can squeeze between the cells of capillary walls and enter the infected body tissues.
+Phagocytes (a type of white blood cell) move towards the pathogens to carry out [[Phagocytosis]] to engulf the pathogens and digest them with enzymes. Some of these phagocytes can squeeze between the cells of capillary walls and enter the infected body tissues.
 
 #### Process
 ![[phagocytosis_body_defence.webp]]

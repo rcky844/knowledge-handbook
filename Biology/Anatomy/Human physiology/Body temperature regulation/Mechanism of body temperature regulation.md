@@ -1,6 +1,6 @@
 *Pre-context: [[Homeostasis]]*
 
-**Thermoregulation** is an example of [[homeostasis]] in humans, and occurs through the [[Negative feedback mechanism]].
+**Thermoregulation** is an example of [[Homeostasis]] in humans, and occurs through the [[Negative feedback mechanism]].
 
 #### Components
 ##### Receptors
@@ -61,7 +61,7 @@ The **control centre** is the <span style="color: skyblue">thermoregulatory cent
 #### Shivering
 **Shivering** is brought about by [[Reflex actions|involuntary]] <u>muscles contractions</u>.
 - A fall in temperature stimulates the heat gain centre in the hypothalamus to send more frequent nerve impulses to <span style="color: skyblue">skeletal muscles</span>, causing them to <u>contract in short bursts</u>.
-- Contraction ([[metabolism]]) of skeletal muscles generates extra heat from increased cellular [[respiration]].
+- Contraction ([[Metabolism]]) of skeletal muscles generates extra heat from increased cellular [[Respiration]].
 
 #### Hormone thyroxine
 As a long-term response to cold conditions, the <span style="color: skyblue">thyroid gland</span> becomes active and secrete more **thyroxine**.
@@ -71,7 +71,7 @@ As a long-term response to cold conditions, the <span style="color: skyblue">thy
 **Thyroxine** <span style="color: lightgreen">increases the metabolic rate of body cells</span> so that more heat is generated in the body.
 
 ##### Mechanism of secretion
-Secretion of **thyroxine** is controlled by the <span style="color: violet">pituitary gland</span>, it is under the control of the <span style="color: skyblue">hypothalamus</span> and involves a [[negative feedback mechanism]].
+Secretion of **thyroxine** is controlled by the <span style="color: violet">pituitary gland</span>, it is under the control of the <span style="color: skyblue">hypothalamus</span> and involves a [[Negative feedback mechanism]].
 
 1. A lowered body temperature is detected by thermoreceptors in the hypothalamus.
 2. The hypothalamus signals the pituitary gland to secrete a hormome.
@@ -82,7 +82,7 @@ Secretion of **thyroxine** is controlled by the <span style="color: violet">pitu
 **When feeling cold**:
 - Put on more clothes to reduce heat loss.
 - Consume hot food and hot drinks, or switch on a heater to increase heat gain.
-- Do exercise to increase heat production by [[metabolism]].
+- Do exercise to increase heat production by [[Metabolism]].
 
 **When feeling hot**:
 - Wear fewer and thinner clothes to reduce insulation.

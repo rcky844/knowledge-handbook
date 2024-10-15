@@ -23,7 +23,7 @@ $\text{Ventilation rate (mL / min)} = \text{Breathing rate (breaths / min)} \tim
   Stretch receptors send nerve impulses to inhibit the respiratory centre, so it stops sending nerve impulses to the respiratory centre. The muscles would therefore relax to cause the lung to deflate and exhalation.
 
 #### Adjusting rate and depth of breathing
-The **rate and depth of breathing** is affected by the <span style="color: lightgreen">concentration of carbon dioxide in blood</span>. Chemoreceptors detect changes in pH of the blood and send nerve impulses to the respiratory centre. It is controlled by a [[negative feedback mechanism]].
+The **rate and depth of breathing** is affected by the <span style="color: lightgreen">concentration of carbon dioxide in blood</span>. Chemoreceptors detect changes in pH of the blood and send nerve impulses to the respiratory centre. It is controlled by a [[Negative feedback mechanism]].
 
 > **Note**:
 > Carbon dioxide can dissolve in blood and undergo the following reaction:

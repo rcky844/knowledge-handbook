@@ -1,6 +1,6 @@
 **Importance of regulating gas content in blood**:
-- Cells take up oxygen from blood continuously for [[respiration]] to release energy.
-- Carbon dioxide is produced as a waste product of [[respiration]], and it dissolved in blood plasma to form weak acids, which lowers the pH of blood.
+- Cells take up oxygen from blood continuously for [[Respiration]] to release energy.
+- Carbon dioxide is produced as a waste product of [[Respiration]], and it dissolved in blood plasma to form weak acids, which <u>lowers the pH of blood</u>.
 - [[Effects of pH level on enzymatic reactions|Enzymatic activity]] and thus the metabolic rate is affected by change in pH.
 
 **Determination of gas content in blood**:

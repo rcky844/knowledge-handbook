@@ -4,7 +4,7 @@ After entering the bloodstream in the small intestine, monosaccharides, amino ac
 
 The liver may store or process food molecules, it returns to the bloodstream through the hepatic vein when released from the liver. Lipids absorbed from the small intestine are transported by the lymph in the [[Lymphatic system]] and empties into blood vessels near the heart.
 
-All absorbed food molecules finally enter the bloodstream and are transported to different parts of the body for [[respiration]] to release energy or storage.
+All absorbed food molecules finally enter the bloodstream and are transported to different parts of the body for [[Respiration]] to release energy or storage.
 
 #### Functions of the liver
 

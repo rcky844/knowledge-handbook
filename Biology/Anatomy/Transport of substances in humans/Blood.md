@@ -12,7 +12,7 @@ Plasma is the liquid part of blood. It is made up of mostly water (90%) with a v
   For blood clotting and body defence.
 
 - **Inorganic ions**
-  For regulating blood pH and [[osmosis]].
+  For regulating blood pH and [[Osmosis]].
 
 > **Note**:
 > Carbon dioxide is slightly soluble in water, it dissolves to form an acid $\ce{H2CO3}$.
@@ -21,10 +21,10 @@ Plasma is the liquid part of blood. It is made up of mostly water (90%) with a v
   As energy sources or for the synthesis of other biomolcules.
 
 - **Respiratory gases (oxygen, carbon dioxide)**
-  Oxygen is used in [[respiration]] to release energy, while carbon dioxide is a waste product of respiration.
+  Oxygen is used in [[Respiration]] to release energy, while carbon dioxide is a waste product of respiration.
 
 - **Urea**
-  A waste product of protein [[metabolism]].
+  A waste product of protein [[Metabolism]].
 
 - **Hormones**
   Serve as chemical messengers that regulate metabolic processes in the body.

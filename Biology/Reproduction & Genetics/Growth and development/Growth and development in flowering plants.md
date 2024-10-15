@@ -28,7 +28,7 @@ There are two main types of meristems:
 
 **Region of elongation**:
 - Most of the growth in the root tip occurs here.
-- The cells from the region of cell division absorb water by [[osmosis]], forming many small vacuoles in the cytoplasm which stretches the thin, elastic cell walls, and the cells elongate.
+- The cells from the region of cell division absorb water by [[Osmosis]], forming many small vacuoles in the cytoplasm which stretches the thin, elastic cell walls, and the cells elongate.
 
 **Region of differentiation**:
 - Cell walls elongate as the cells elongate, becoming rigid when the cells cannot elongate further.

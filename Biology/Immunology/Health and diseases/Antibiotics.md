@@ -5,13 +5,13 @@ Antibiotics kill or inhibit the growth of bacteria by disrupting essential proce
 
 1. **Inhibiting formation of bacterial cell walls**
    Bacterial cell walls may not form properly during cell division and becomes weakened.
-   It eventually burst (lyse) due to the influx of water by [[osmosis]].
+   It eventually burst (lyse) due to the influx of water by [[Osmosis]].
 
 2. **Disruption of cell membrane functions**
    Antibiotics binds to or inserts into the bacterial membrane and cause permeabilization and depolarization. The interference with the membrane's integrity compromises bacterial structural stability and impairs vital functions, resulting in cell lysis.
 
 3. **Inhibiting protein synthesis**
-   Antibiotics bind to bacterial [[ribosomes]] and disrupts processes such as translation or transcription. Growth and repair may not occur, growth of bacteria is inhibited.
+   Antibiotics bind to bacterial [[Ribosomes]] and disrupts processes such as translation or transcription. Growth and repair may not occur, growth of bacteria is inhibited.
 
 4. **Inhibiting synthesis of nucleic acids**
    Bacterial cells cannot reproduce, inhibiting the growth of bacteria.
