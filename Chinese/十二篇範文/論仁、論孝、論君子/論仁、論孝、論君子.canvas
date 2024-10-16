@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"dc562f80c39fb895","x":-755,"y":-40,"width":400,"height":400,"type":"file","file":"Chinese/十二篇範文/論仁、論孝、論君子/論仁.md"},
+		{"id":"5d7fe578309d9370","x":-295,"y":-40,"width":400,"height":400,"type":"file","file":"Chinese/十二篇範文/論仁、論孝、論君子/論孝.md"},
+		{"id":"4b78b48cfccef9d6","x":165,"y":-40,"width":400,"height":400,"type":"file","file":"Chinese/十二篇範文/論仁、論孝、論君子/論君子.md"},
+		{"id":"7b2ff1c2eef15d82","x":-185,"y":-180,"width":180,"height":60,"type":"text","text":"# Sections"},
+		{"id":"c16dd0203c0636cb","x":-295,"y":440,"width":400,"height":400,"type":"file","file":"Chinese/十二篇範文/論仁、論孝、論君子/作法特色.md"}
+	],
+	"edges":[
+		{"id":"a3704e56b03bff79","fromNode":"7b2ff1c2eef15d82","fromSide":"bottom","toNode":"5d7fe578309d9370","toSide":"top"},
+		{"id":"db4a5b3a7982d123","fromNode":"7b2ff1c2eef15d82","fromSide":"bottom","toNode":"dc562f80c39fb895","toSide":"top"},
+		{"id":"105028b227dd8905","fromNode":"7b2ff1c2eef15d82","fromSide":"bottom","toNode":"4b78b48cfccef9d6","toSide":"top"}
+	]
+}

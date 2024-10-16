@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"d5e42501ffca33e9","type":"file","file":"Chinese/十二篇範文/師說/第一段.md","x":-780,"y":120,"width":400,"height":400},
+		{"id":"4fa90087e2ddda5c","type":"file","file":"Chinese/十二篇範文/師說/第二段.md","x":-339,"y":120,"width":400,"height":400},
+		{"id":"282a97888b052c65","type":"file","file":"Chinese/十二篇範文/師說/第三段.md","x":100,"y":120,"width":400,"height":400},
+		{"id":"65df412a446328c9","type":"file","file":"Chinese/十二篇範文/師說/第四段.md","x":540,"y":120,"width":400,"height":400},
+		{"id":"e227748bb58e1514","type":"file","file":"Chinese/十二篇範文/師說/第五段.md","x":980,"y":120,"width":400,"height":400},
+		{"id":"f450a2208d5fa45c","type":"file","file":"Chinese/十二篇範文/師說/第六段.md","x":1420,"y":120,"width":400,"height":400},
+		{"id":"fa673943ef974d95","type":"text","text":"# Sections","x":650,"y":-120,"width":180,"height":60},
+		{"id":"c500b5330c1c592a","type":"file","file":"Chinese/十二篇範文/師說/第七段.md","x":1860,"y":120,"width":400,"height":400},
+		{"id":"34e96b42adb20403","x":540,"y":600,"width":400,"height":400,"type":"file","file":"Chinese/十二篇範文/師說/作法特色.md"}
+	],
+	"edges":[
+		{"id":"eed7ee4840425b49","fromNode":"fa673943ef974d95","fromSide":"bottom","toNode":"65df412a446328c9","toSide":"top"},
+		{"id":"22bd84ad5d3c9006","fromNode":"fa673943ef974d95","fromSide":"bottom","toNode":"e227748bb58e1514","toSide":"top"},
+		{"id":"04006cae6dc07135","fromNode":"fa673943ef974d95","fromSide":"bottom","toNode":"f450a2208d5fa45c","toSide":"top"},
+		{"id":"9b38ed77e3274c18","fromNode":"fa673943ef974d95","fromSide":"bottom","toNode":"282a97888b052c65","toSide":"top"},
+		{"id":"92d748e0f6459c64","fromNode":"fa673943ef974d95","fromSide":"bottom","toNode":"4fa90087e2ddda5c","toSide":"top"},
+		{"id":"7ba8c7611acd1201","fromNode":"fa673943ef974d95","fromSide":"bottom","toNode":"d5e42501ffca33e9","toSide":"top"},
+		{"id":"2efda586c98defee","fromNode":"fa673943ef974d95","fromSide":"bottom","toNode":"c500b5330c1c592a","toSide":"top"}
+	]
+}

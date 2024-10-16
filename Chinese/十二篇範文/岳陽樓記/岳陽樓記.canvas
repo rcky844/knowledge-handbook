@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"fc49f91c1c3c505d","type":"file","file":"Chinese/十二篇範文/岳陽樓記/第一段.md","x":-520,"y":-45,"width":400,"height":400},
+		{"id":"c1d7c55cda74dbc6","type":"file","file":"Chinese/十二篇範文/岳陽樓記/第二段.md","x":-80,"y":-45,"width":400,"height":400},
+		{"id":"adae00a136ca305d","type":"file","file":"Chinese/十二篇範文/岳陽樓記/第三段.md","x":360,"y":-45,"width":400,"height":400},
+		{"id":"ec5618ff75c0367f","x":800,"y":-45,"width":400,"height":400,"type":"file","file":"Chinese/十二篇範文/岳陽樓記/第四段.md"},
+		{"id":"fce5db7b06c966dc","x":1240,"y":-45,"width":400,"height":400,"type":"file","file":"Chinese/十二篇範文/岳陽樓記/第五段.md"},
+		{"id":"7712d131edb3e06b","type":"text","text":"# Sections","x":470,"y":-220,"width":180,"height":60}
+	],
+	"edges":[
+		{"id":"69d1fb8c6f9b6d4a","fromNode":"7712d131edb3e06b","fromSide":"bottom","toNode":"fc49f91c1c3c505d","toSide":"top"},
+		{"id":"0f00700146f41245","fromNode":"7712d131edb3e06b","fromSide":"bottom","toNode":"c1d7c55cda74dbc6","toSide":"top"},
+		{"id":"dd4631f29994b549","fromNode":"7712d131edb3e06b","fromSide":"bottom","toNode":"adae00a136ca305d","toSide":"top"},
+		{"id":"7e0a757d9a42c633","fromNode":"7712d131edb3e06b","fromSide":"bottom","toNode":"ec5618ff75c0367f","toSide":"top"},
+		{"id":"0e541359dcc55750","fromNode":"7712d131edb3e06b","fromSide":"bottom","toNode":"fce5db7b06c966dc","toSide":"top"}
+	]
+}
