@@ -1,4 +1,4 @@
-> **Note**:
+> [!note]
 > - Surgical operations for the purposes of sterilization is often irreversible.
 > - Secondary characteristics are not affected as sex hormones are transported by blood to target organs, where they carry out their functions.
 

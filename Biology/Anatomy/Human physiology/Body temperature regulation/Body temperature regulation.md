@@ -1,4 +1,4 @@
-> **Note**:
+> [!note]
 > This article focuses on the mechanism occurring in humans only.
 
 *See also: [[Parameters of the internal environment]]*

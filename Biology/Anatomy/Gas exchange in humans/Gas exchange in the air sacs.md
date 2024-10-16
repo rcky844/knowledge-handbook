@@ -28,7 +28,7 @@ The pulmonary arteries carry deoxygenated blood from the heart to the capillarie
 - **Carbon dioxide**: inhaled air (0.03%) < exhaled air (4%)
   Carbon dioxide is produced by body cells during respiration and diffuses from blood into the air sacs to be exhaled.
 
-> **Note**:
+> [!note]
 > Exhaled air does not contain more carbon dioxide than oxygen.
 
 - **Nitrogen & other gases**: unchanged (78%)

@@ -1,6 +1,6 @@
 ![[photo_lung_tissue.webp|600]]
 
-> **Note**:
+> [!note]
 > The outer walls of air sacs contain elastic protein fibres.
 > These fibres make the air sacs elastic, allowing them to expand and shrink.
 > Once the intercostal and diaphragm muscles relax, the air sacs can shrink (recoil) and return to their original size. Hence, exhalation can occur even without muscles contractions of the lungs or air sacs themselves.

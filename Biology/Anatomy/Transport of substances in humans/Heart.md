@@ -16,7 +16,7 @@ Both **ventricles** receive blood from the atria. They have thicker and more mus
 - The **left ventricle** receives oxygenated blood from the left atrium and pumps the blood to all parts of the body (except the lungs) through the aorta.
 - The **right ventricle** receives deoxygenated blood from the right atrium and pumps the blood to the lungs through the pulmonary arteries.
 
-> **Note**:
+> [!note]
 > The left ventricle has a thicker and more muscular wall than the right ventricle, as the left ventricle has to transport blood to all parts of the body (except the lungs).
 
 #### (Atrial / ventricular) septum

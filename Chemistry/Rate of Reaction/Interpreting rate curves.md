@@ -17,7 +17,7 @@
   The reactant will decrease in amount while the product will increase in amount during the reaction.
   ↪️ $\ce{Q(g)}$ is a reactant, while $\ce{P(g)}$ is a product.
 
-> **Note**:
+> [!note]
 > In completed irreversible reactions, no limiting reagent is left.
 
 - **Ratio of change of chemical species**

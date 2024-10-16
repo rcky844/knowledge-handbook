@@ -1,6 +1,6 @@
 **Homeostasis** is a self-regulating process by which body systems in an organism maintains a stable internal environment.
 
-> **Note**:
+> [!note]
 > Homeostasis does not maintain a **constant** environment.
 
 Changes in the internal environment are influenced by the external environment (e.g. air temperature) and body activities (e.g. feeding).

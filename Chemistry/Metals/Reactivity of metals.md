@@ -26,7 +26,7 @@ Metals react with oxygen, steam, liquid water, acids and they have displacement 
 | Mercury | - form a red powder (on surface) | $\ce{2Hg (ℓ) + O2 (g) -> 2HgO (s)}$ |
 | Silver, platinum, gold | - does not react | N/A |
 
-> **Note**:
+> [!note]
 > - The colour that appears to correspond to the colours in [[flame test]]. This is due to the formation of oxides with their ions. The metals themselves do not produce flame colours under heating.
 > - Metals form potassium to iron burn, while metals from lead to mercury does not burn.
 
@@ -54,7 +54,7 @@ Since the <u>reaction between calcium and water is least vigorous</u> in the abo
 **Experimental setup**:
 ![[metal_steam_gas_collect.webp|400]]
 
-> **Note**:
+> [!note]
 > Wet sand can also be used in place of the damp mineral wool.
 
 #### Reactions with dilute acids (Ca - Pb)
@@ -75,7 +75,7 @@ Special cases:
 - **Lead**: $\ce{Pb (s) + 2HCl (aq) -> PbCl2 (s) + H2 (g)}$ / $\ce{Pb (s) + H2SO4 (aq) -> PbSO4 (s) + H2 (g)}$
 ↪️ The reaction stops quickly as insoluble substances form a layer surrounding the metal, which prevents further reaction.
 
-> **Note**:
+> [!note]
 > <u>Very dilute</u> $\ce{HNO3 (aq)}$ can be used to form soluble substances with calcium and lead.
 > ↪️ $\ce{Pb (s) + 2HNO3 (aq) -> Pb(NO3)2 (aq) + H2 (g)}$
 
@@ -93,7 +93,7 @@ Consider when a copper ribbon is added into an aqueous solution of silver nitrat
 	- Silvery solid deposits on the copper.
 - **Explanation**: As copper is more reactive than silver, copper loses electrons more readily than copper.
 
-> **Note**:
+> [!note]
 > - A less reactive metal cannot displace a more reactive metal from its solution.
 > - <u>Sodium and potassium cannot be used to displace a less reactive metal</u> from its aqueous solution. This is because sodium and potassium are very reactive and they will <u>react with water in the aqueous solution preferentially</u>.
 

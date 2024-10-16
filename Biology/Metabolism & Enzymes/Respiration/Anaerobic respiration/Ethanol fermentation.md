@@ -7,7 +7,7 @@ Yeast can respire anaerobically when oxygen is insufficient. This process is cal
 
 $\ce{glucose ->[enzymes] energy (2ATP) + 2 ethanol + 2 carbon dioxide}$
 
-> **Note**:
+> [!note]
 > Ethanol cannot be further metabolised, it is a waste product.
 
 #### Examples and applications

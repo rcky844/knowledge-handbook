@@ -7,7 +7,7 @@
 - Net gain of 2 ATP
 - 2 NADH (reduced NAD)
 
-> **Note**:
+> [!note]
 > - There are two pyruvate molecules produced per glucose molecule, everything needs to be multiplied by 2 when thinking about what happens to a single glucose molecule in aerobic respiration.
 
 ![[glycolysis.avif|600]]
@@ -16,7 +16,7 @@
    Glucose (6-C) is phosphorylated by 2 ATP to form fructose bisphosphate (6-C).
    ↪️ $\ce{Glucose + 2ATP → Fructose bisphosphate}$
 
-> **Note**:
+> [!note]
 > ATP is used to make glucose more reactive (it is usually very stable) and to lower the activation energy of the reaction.
 
 2. **Lysis**

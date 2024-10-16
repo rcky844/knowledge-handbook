@@ -22,7 +22,7 @@ The phospholipid molecules in the cell membrane are capable of slight lateral mo
 - It <span style="color: lightgreen">allows the cells to change shape</span> during cell growth, [[Nuclear division|cell division]] and [[phagocytosis]].
 ↪️ See also: HKALE 2008 Paper 2B Q4(a)
 
-> **Note**:
+> [!note]
 > Phospholipid molecules are <u>not chemically bonded</u>, but only held by weak [[Van der Waals' forces|intermolecular forces]], which allows it to move slightly. (Fluid in nature)
 
 ##### Strength

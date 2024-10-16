@@ -7,7 +7,7 @@
 - [[Neutralization]]
 - Carbonate/hydrogencarbonate-acid reaction
 
-> **Note**:
+> [!note]
 > Carbonate/hydrogencarbonate-acid reaction is <u>not neutralization</u>.
 
 #### Solubility of salts
@@ -17,7 +17,7 @@
 - Most salts with $\ce{CO3^2-}$ / $\ce{O^2-}$ / $\ce{OH-}$ ions are insoluble in water.
 - **Exception cases**: $\ce{BaSO4}$ / $\ce{CaSO4}$ / $\ce{PbSO4}$ / $\ce{Ag2SO4}$ / $\ce{PbCl2}$ / $\ce{AgCl}$
 
-> **Note**:
+> [!note]
 > - Insoluble $\ce{AgCl}$ is used in the [[acidified silver nitrate test]].
 > - $\ce{CaSO4}$ is slightly soluble in water.
 > - $\ce{Ba(OH)2}$ and $\ce{Ca(OH)2}$ (limewater) are slightly soluble in water. They can both be used for testing $\ce{CO2(g)}$ ([[Test for carbon dioxide gas]]).

@@ -8,7 +8,7 @@ The **strength of acid and alkali** depends on the <u>extent of ionization / dis
 - A **strong alkali** <u>completely ionizes / dissociates in water</u> to give hydroxide ion as the only anion. (e.g. $\ce{NaOH}$ / $\ce{KOH}$)
 - A **weak alkali** <u>partially ionizes / dissociates in water</u> to give hydroxide ion as the only anion. (e.g. $\ce{NH3}$ / amines)
 
-> **Note**:
+> [!note]
 > Mobile molecules exist in the solutions of weak acids / alkalis.
 
 #### Differences with concentration
@@ -46,7 +46,7 @@ Explain, with the aid of a chemical equation, why $\ce{NH3(aq)}$ is regarded as 
 - <u>Observation</u>: $\ce{NaOH(aq)}$ shows a lower pH value than $\ce{NH3(aq)}$ / higher electrical conductivity / higher temperature rise / higher enthalpy change in neutralization
 
 #### Comparing strength with same pH value
-> **Note**:
+> [!note]
 > - When they have the same pH value, they have the same $\ce{[H+(aq)]}$.
 > - A weak acid reacts more slowly with an acid, but the products produced will be higher.
 
@@ -74,7 +74,7 @@ For same pH (and volume),
 - $\ce{CH3COOH(aq)}$ produces a larger volume of gas than $\ce{HCl(aq)}$. / The mass of remaining excess reactant in reaction with $\ce{CH3COOH(aq)}$ is lower.
 - Enthalpy change of neutralization / Temperature rise in neutralization of $\ce{CH3COOH(aq)}$ is lower than that of $\ce{HCl(aq)}$.
 
-> **Note**:
+> [!note]
 > - For alkalis, it is also possible to add excess metal nitrates / metal sulphates / metal hydrogencarbonates that contains metal ion to form precipitate with $\ce{OH-(aq)}$ ion and record the mass of precipitate.
 > - Do not answer with pH / electrical conductivity / time required to finish the reaction / rate of reaction.
 

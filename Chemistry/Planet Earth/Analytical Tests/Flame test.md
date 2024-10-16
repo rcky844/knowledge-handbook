@@ -2,7 +2,7 @@ When the metallic ion is burnt in a Bunsen flame, they will give off different c
 
 A platinum or nichrome wire will be used for the test, as they have high melting point and corrosion resistance.
 
-> **Note**:
+> [!note]
 > The wire used should be cleaned before the experiment.
 > To clean the platinum wire, dip the wire into concentrated hydrochloric acid and then heat it in the Bunsen flame until no characteristic flame colour is observed.
 

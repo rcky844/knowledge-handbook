@@ -2,7 +2,7 @@
 
 The method is carried out by avoiding sexual intercourse five days before and two days after ovulation during the fertile period. This ensures that sperms and ovum will have no chance of meeting each other.
 
-> **Note**:
+> [!note]
 > An ovum can survive for 12 to 24 hours after being release, while some sperms can survive for five days.
 
 However, the rhythm method has a high failure rate, as menstrual cycles are not always regular and it is difficult to predict the time of ovulation.

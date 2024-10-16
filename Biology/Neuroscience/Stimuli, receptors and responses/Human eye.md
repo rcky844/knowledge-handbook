@@ -39,7 +39,7 @@ The <span style="color: lightgreen">lens</span> is a transparent, elastic and bi
 - It consists of living cells that have lost their nuclei. This makes them transparent and allows light to pass through without onbstruction.
 - Its elasticity allow the shape of the lens to be changed when looking at objects from different distances.
 
-> **Note**:
+> [!note]
 > Ciliary muscles in the ciliary body contract or relax to change the tension of suspensory ligaments, and hence the shape of the lens (thickness, curvature) in order to focus light from objects at different distances onto the retina.
 > 
 > *See also: [[Eye accommodation]]*
@@ -71,7 +71,7 @@ The <span style="color: lightgreen">optic nerve</span> is a bundle of nerve fibr
 
 ![[eye_scopes.webp|500]]
 
-> **Note**:
+> [!note]
 > Each type of cone cells (red, green and blue cone cells) have a dedicated neurone connected to it.
 
 ![[eye_optic_wiring.webp|500]]
@@ -100,7 +100,7 @@ Image formed on the blind spot is not visible because it has no photoreceptors t
 ![[short_sight.webp|150]]
 **Short sight** is a defect that causes a person see near objects more clearly than distant objects. It occurs when either the <u>eyeball is too long</u> or that the <u>lens is too thick</u>, or a combination of both.
 
-> **Note**:
+> [!note]
 > - People with severe short sight have a higher risk for retinal detachment. This happens as the eyeball continues to lengthen, pulling the retina away from the choroid.
 > - Since retina contains light sensitive cells and obtains nutrients / oxygen from choroid, light sensitive cells will die and light falling on retina cannot be detected, no nerve impulse can be produced. Therefore, vision is impaired.
 

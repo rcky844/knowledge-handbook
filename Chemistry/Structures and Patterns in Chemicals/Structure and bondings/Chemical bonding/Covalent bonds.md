@@ -57,7 +57,7 @@ Describe the formation of dative covalent bond using $\ce{H3O+}$ as example.
 - There is a vacant site of the outermost electron shell in $\ce{H+}$ ion.
 - By accepting the lone pair electrons from $\ce{O}$ in $\ce{H2O}$, $\ce{H+}$ attains a stable electronic configuration of a noble gas / a stable <u>duplet</u> electronic configuration.
 
-> **Note**:
+> [!note]
 > Similar to demand / supply:
 > - There is a demand for electrons to attain stable electronic configuration.
 > - There is also a supply of lone pair electrons.

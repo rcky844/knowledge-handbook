@@ -39,7 +39,7 @@ A transect is laid on the study site and quadrats are placed continuously along 
 - (a): Quadrats placed along a transect continuously
 - (b): Quadrats placed along a transect at fixed intervals
 
-> **Note**:
+> [!note]
 > The data collected through this method may then be tabulated for further analysis.
 
 **Kite diagrams** can be drawn to show the distribution of organisms along the transect.
@@ -60,7 +60,7 @@ $\pu{\% frequency} = {\pu{number of quadrats in which the species occurs}\over\p
 $\pu{absolute density} = {\pu{number of individuals of the species in the quadrat}\over\pu{area of the quadrat}}$
 $\pu{relative density} = {\pu{number of individuals of the species in the quadrat}\over\pu{number of individuals of all species in the quadrat}} \times 100\%$
 
-> **Note**:
+> [!note]
 > If some individuals are half inside the quadrat, those on two sides of the quadrats are counted as being in, while those on the other two sides are counted as being out.
 
 ###### Percentage cover

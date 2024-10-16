@@ -39,7 +39,7 @@
 - [[Breathing system|Lungs]] **—** Helps take in oxygen and remove carbon dioxide
 - [[Heart]] — Ensures adequate blood flow carrying oxygenated blood to all parts of the body
 
-> **Note**:
+> [!note]
 > They receive signals from the brain to change the breathing rate and heart rate when necessary.
 
 #### Glucose level in blood
@@ -53,7 +53,7 @@
 - Glucose is the main respiratory substrate, inadequate supply affects respiration of cells. This can result in dizziness or even death, as the brain does not have enough glucose supply.
 - Glucose is soluble in water and affects the water potential of the blood. Differences in water potential of blood or tissue fluid surrounding the cells determine the net movement of water into and out of the cells by [[Osmosis]].
 
-> **Note**:
+> [!note]
 > Starch is insoluble in water, so it does not affect the water potential of a solution.
 
 **Organ(s) involved in homeostatic control**:

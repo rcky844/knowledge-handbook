@@ -2,7 +2,7 @@
 
 ![[thermoplastics.webp|400]]
 
-> **Note**:
+> [!note]
 > Unlike thermosetting materials, which has chemical bonds between polymer chains.
 
 [[Addition polymerization|Addition polymers]] and [[Condensation polymerization|condensation polymers]] are thermal plastics.

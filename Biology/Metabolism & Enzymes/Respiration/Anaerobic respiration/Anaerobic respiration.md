@@ -2,7 +2,7 @@
 
 **Anaerobic respiration** does not replace aerobic respiration, but both occur at the same time. 
 
-> **Note**:
+> [!note]
 > Without oxygen, the [[Link Reaction]], the [[Krebs cycle]] and [[Oxidative phosphorylation]] do not occur.
 
 #### Anaerobic pathways

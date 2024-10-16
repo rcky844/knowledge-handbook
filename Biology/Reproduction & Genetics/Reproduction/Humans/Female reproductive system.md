@@ -32,6 +32,6 @@ Thousands of potential ova are already present in a baby girl before birth, and 
 
 Starting from puberty, female sex hormones are secreted to stimulate follicles and immature ova within them to develop. One mature ovum is released from one of the ovaries each month, about 500 ova would become mature and be released during the lifetime of a female.
 
-> **Note**:
+> [!note]
 > Sometime, an ovary releases more than one egg during the same menstrual cycle. This is referred to as hyperovulation. If they are both fertilized by a sperm, it can lead to fraternal twins.
 

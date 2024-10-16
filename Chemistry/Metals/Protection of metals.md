@@ -1,4 +1,4 @@
-> **Note**:
+> [!note]
 > This page mainly discusses the protection of iron.
 
 The methods to prevent rusting are made in accordance with one of the following chemical properties:
@@ -27,7 +27,7 @@ In **tin-plating**, the iron surface is <u>completely</u> coated by tin. Tin pre
 
 - Tin-plating is widely used in food cans since tin and tin ions are non-poisonous.
 
-> **Note**:
+> [!note]
 > Zinc ions are poisonous, they are not used for coating food cans.
 
 - When the tin metal is incomplete (e.g. being scratched), part of the iron will be exposed. Since tin is less reactive than iron, and iron is now in contact with tin, iron will rust even faster than without contacting tin.

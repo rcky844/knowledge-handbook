@@ -2,7 +2,7 @@ Matter is anything that has a <u>mass</u> and <u>occupies space</u>. It can be c
 
 ![[substances_clasidia.webp|300]]
 
-> **Note**:
+> [!note]
 > Comparing pure substances and mixture, pure substances would have sharp physical properties (such as boiling point and melting point) while mixtures do not.
 
 #### Pure substances

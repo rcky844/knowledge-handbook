@@ -26,6 +26,6 @@ At $t_3$:
 - Predator population always lag behind the changes in the prey population, and the prey population is larger than the predator population.
 - Prey population does not drop to zero, as it becomes difficult for the predator to locate remaining prey when prey population becomes extremely low.
 
-> **Note**:
+> [!note]
 > Relationships involving a single predator and prey species is unlikely to exist in nature. There will be other predator and prey species, as well as additional factors that will affect the sizes of the respective populations.
 

@@ -16,7 +16,7 @@
 | :--: | :--: | :--: | :--: |
 | **Advantages** | High energy density | Good performance in high-drained devices | Constant voltage over discharge |
 | **Limitations** | High initial cost | High initial cost | Heavy and bulky;<br>Lead is toxic<br>Conc. $\ce{H2SO4}$ is corrosive |
-> **Note**:
+> [!note]
 > - Dry cells refer to chemical cells which uses moist paste (paste with small amounts of electrolyte attached) as electrolyte.
 > - Wet cells refer to chemical cells which uses a solution as the electrolyte.
 >   (e.g. lead-acid accumulator)

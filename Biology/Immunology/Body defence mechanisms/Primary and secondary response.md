@@ -18,7 +18,7 @@ Only a few specific [[lymphocytes]] can recognise the antigen. It takes time for
 **Disease symptoms**: May appear
 The pathogen has time to reproduce and cause harm.
 
-> **Note**:
+> [!note]
 > Once an infection has been fought off, the plasma cells and killer T cells die within a few weeks, while the memory cells formed in the primary response can live for years.
 
 #### Secondary response

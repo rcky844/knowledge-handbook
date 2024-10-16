@@ -34,7 +34,7 @@ A **coleoptile** is a protective sheath that covers the first leaf of a monocoty
 - They have a simple structure for easy observation.
 
 ##### Experiments on discovering auxins
-> **Note**:
+> [!note]
 > Some of the experiments below were performed in darkness to eliminate the effect of light.
 
 ###### Charles Darwin’s experiment on phototropism (1880)

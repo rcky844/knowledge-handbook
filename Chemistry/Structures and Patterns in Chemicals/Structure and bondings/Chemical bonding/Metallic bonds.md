@@ -7,11 +7,11 @@ In metals, metallic atoms tend to lose their outermost shell electrons to become
 
 The atoms of metals are closely packed together. The outermost shell electron of each atom continually moves from one atom to another. They are called delocalized electrons.
 
-> **Note**:
+> [!note]
 > There are no anions formed in an metallic bond, only cations.
 
 #### Reactivity of metals
-> **Note**:
+> [!note]
 > The information below is mostly exclusive to Group I and Group II metals.
 
 - **The reactivity of the metals increases down the group.**

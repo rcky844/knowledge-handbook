@@ -4,7 +4,7 @@
 - **Density of solution ($\pu{g dm-3}$)**: ${\text{mass of solute }\pu{(g)}}\over{\text{volume of solution }\pu{(dm3)}}$
 - **Molarity of solution ($\pu{mol dm-3}$)**: ${\text{number of moles of solute }\pu{(mol)}}\over{\text{volume of solution }\pu{{dm3}}}$
 
-> **Note**:
+> [!note]
 > In order to convert $\pu{cm3}$ to $\pu{dm3}$, divide the value by 1000.
 
 #### Concentration of solution
@@ -23,7 +23,7 @@ According to the information on the label, calculate the concentration of the co
 - $\ce{\text{Mass of }\ce{HCl(aq)}\text{ in }\pu{1 cm3}\text{ solution} = 1.18 \times 36\% = \pu{0.4248 g}}$
 - $\ce{[HCl(aq)]} = {0.4248 \over (1.0 + 35.5)} / {1 \over 1000} = \pu{11.6M}$
 
-> **Note**:
+> [!note]
 > The density provided also includes the $\ce{H2O}$ molecules in the solution, as it is a unit calculating the mass per $\pu{cm3}$.
 
 #### Concentration of specific chemical species

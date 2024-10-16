@@ -16,7 +16,7 @@
 
 - Reabsorption of water from the glomerular filtrate <u>raises the concentration of urea</u> (to become higher than blood), causing 50% of urea to be reabsorbed into blood by [[Diffusion]].
 
-> **Note**:
+> [!note]
 > - Glucose and amino acids are soluble in water, as they can form extensive [[hydrogen bonds]] with water molecules.
 > - Glucose and amino acids are completely (and only) reabsorbed in the first coiled tubule. Water, urea, and some salts are also reabsorbed even in the collecting duct.
 > - For sodium ions, they are always actively reabsorbed. Their presence in blood can affect the water potential of blood.
@@ -41,5 +41,5 @@
 - **Each kidney tubule is richly supplied with blood capillaries.**
   As the reabsorbed substances are transported away quickly, <u>a steep concentration gradient is maintained</u> for rapid reabsorption of substances.
 
-> **Note**:
+> [!note]
 > The kidneys contain over a million nephrons, this makes the kidneys highly effective in filtering blood and reabsorption.

@@ -16,7 +16,7 @@ The **physical properties** of a substance are properties that can be observed o
 - State, Density, Hardness
 - Electrical conductivity
 
-> **Note**:
+> [!note]
 > For example, ice melting into water at 0°C is a physical property of ice.
 
 #### Chemical change and chemical property

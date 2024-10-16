@@ -36,5 +36,5 @@ In the reaction, light energy is absorbed by [[Chlorophyll]] and converted to ch
 Light energy is converted to chemical energy in the form of ATP and NADPH, with the release of oxygen as a by-product of photosynthesis.
 
 ##### Uses of products in carbon fixation
-- ATP will provide energy to drive the reactions of [[Carbon fixation]].
-- NADPH will act as a reducing agent, providing reducing power by donating hydrogen in [[Carbon fixation]].
+- ATP will provide energy to drive the reactions of [[carbon fixation]].
+- NADPH will act as a reducing agent, providing reducing power by donating hydrogen in [[carbon fixation]].

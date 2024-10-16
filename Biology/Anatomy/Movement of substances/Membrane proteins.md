@@ -10,7 +10,7 @@
 - Span the <u>entire</u> phospholipid bilayer.
 - Involved in [[active transport]] and facilitated [[diffusion]].
 
-> **Note**:
+> [!note]
 > Each type of channel protein has a specific internal diameter and distribution of charges, allowing only particular types of ions or molecules to pass through. This give rise to the [[Cell membrane#Differentially permeable|differentially permeable]] property of cell membranes.
 
 ##### [[Enzymes]]

@@ -9,7 +9,7 @@
 - On the surfaces of lymphocytes, there are antigen receptors. They are all <u>identical on a particular lymphocyte</u> and binds only to a specific [[antigens|antigen]].
 - When an antigen of a pathogen binds to a lymphocyte with the matching receptor, it becomes <u>activated</u> to produce an immune response.
 
-> **Note**:
+> [!note]
 > The wide diversity of antigen receptors on the large number of different lymphocytes allows the immune system to recognise many different antigens.
 
 #### Types of lymphocytes

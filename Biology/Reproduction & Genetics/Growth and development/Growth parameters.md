@@ -1,10 +1,10 @@
-> **Note**:
+> [!note]
 > Most important details of the parameters are included, namely:
 > - Advantages
 > - Disadvantages
 > - Reason for selection
 
-> **Note**:
+> [!note]
 > Growth parameters can be represented using [[sigmoid growth curves]].
 
 #### Dry mass
@@ -28,7 +28,7 @@
 **Disadvantages**:
 - Measurement is less accurate and cannot show the actual biomass of the organism as it is easily affected by factors unrelated to growth.
 
-> **Note**:
+> [!note]
 > Water content varies with environmental factors (e.g. temperature & water supply) and behaviours of the organism (e.g. drinking, feeding and urination).
 
 #### Size

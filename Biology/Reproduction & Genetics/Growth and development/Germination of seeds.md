@@ -1,7 +1,7 @@
 #### Structure of seeds
 ![[seeds_structure.webp]]
 
-> **Note**:
+> [!note]
 > - Dicots (e.g. mung bean) have two cotyledons in their seeds.
 > - Monocots (e.g. maize) have only one cotyledon.
 

@@ -27,6 +27,6 @@ To make it work more quickly, aspirin can be reacted with $\ce{NaOH}$ to produce
 
 ![[aspirin_dissolve.webp|600]]
 
-> **Note**:
+> [!note]
 > To not lose the chemical function of aspirin, the reaction mixture will not be heated under reflux. This prevents the alkaline hydrolysis of the ester group of aspirin.
 

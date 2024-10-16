@@ -2,7 +2,7 @@
 ![[detergent.webp|400]]
 A detergent has an <span style="color: skyblue">ionic head</span> which is <span style="color: lightgreen">hydrophilic</span> and a <span style="color: skyblue">hydrocarbon tail</span> which is <span style="color: lightgreen">hydrophobic</span>.
 
-> **Note**:
+> [!note]
 > - Detergents are essentially salt solutions.
 > - The cation is unimportant in the cleansing action of detergents.
 
@@ -71,7 +71,7 @@ By [[Hydrolysis#Alkaline hydrolysis|alkaline hydrolysis]] of triglyceride, an al
 
 2. After the reaction, add *concentrated $\ce{NaCl}$ solution* into the reaction mixture to help <u>salting out</u> of the soap.
 
-> **Note**:
+> [!note]
 > - As soapy detergent is a salt with ionic bonds, it would be soluble in water.
 > - Addition of concentrated $\ce{NaCl}$ solution decreases the solubility of soap in the reaction mixture to allow extraction of soapy detergent in the form of solid.
 

@@ -15,7 +15,7 @@ This article introduces the methods to follow the progress of a reaction. They a
 ![[gas_syringe.webp|220]]
 Gas syringe ⤴️
 
-> **Note**:
+> [!note]
 > There is a similar device used for measuring the rate of reaction, but uses the measured gas as a reactant instead.
 > ![[gas_measuring_cylinder.webp|420]]
 
@@ -24,7 +24,7 @@ Gas syringe ⤴️
 - **Description**: Gas given off during a chemical reaction is allowed to escape from the reaction mixture, which causes mass to decrease. It is performed in an open system.
 - **Calculations**: The decrease in mass of reaction mixture is equal to the mass of gas given off.
 
-> **Note**:
+> [!note]
 > - The cotton wool is used to <u>prevent the spilling of the reaction mixture</u>.
 > - Release of hydrogen gas may not be followed accurately. It is too light ($2\pu{g mol-1}$) to be measured in an accurate way.
 
@@ -34,7 +34,7 @@ Gas syringe ⤴️
 - **Physical parameter**: Pressure (of closed reaction system)
 - **Description**: A closed system (airtight) is attached to a pressure sensor connected to a data-logger / computer.
 
-> **Note**:
+> [!note]
 > - This method is suitable for measuring reactions involving hydrogen gas or unbalanced stochiometric ratio of gaseous reactants and products.
 > - The reactants would firstly be separated (as setting up takes time). The vial (or similar) containing the reactants is then tilted to mix with other (solid) reactants.
 
@@ -42,7 +42,7 @@ Gas syringe ⤴️
 - **Description**: Useful for reactions involving a change in concentration of hydrogen ion ($\ce{H+}$). pH level of reaction mixture is measured at a regular time interval.
 - **Process**: By using a pH meter, and measuring the change of pH value of the reaction mixture throughout the experiment.
 
-> **Note**:
+> [!note]
 > When both reactants and products contain acidic substances, inaccuracies can occur.
 
 ##### Change in electrical conductivity
@@ -78,7 +78,7 @@ $\text{Average rate} ∝ {1\over\text{Time to reach opaque stage}}$ (inversely p
 **Disadvantages for determining initial rate**:
 - The initial rate can only be approximated as it is difficult to determine the time to reach the opaque stage.
 
-> **Note**:
+> [!note]
 > - This method is not suitable for applying to reactions which is rapid, since it is not possible to measure the time for the precipitate to form. One example of such reaction is **precipitation**.
 > - For more accurate measurements, use a light sensor to <u>measure the light transmittance</u> of the reaction mixture.
 

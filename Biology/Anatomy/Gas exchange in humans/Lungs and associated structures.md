@@ -1,7 +1,7 @@
 ![[lungs.avif|600]]
 The **lungs** are two spongy, pinkish organs close to the heart in the thoracic cavity. The [[Trachea, bronchi and bronchioles#Bronchioles|bronchioles]] end in clusters of air sacs inside of the lungs.
 
-> **Note**:
+> [!note]
 > There is always a slightly negative pressure within the thoracic cavity, which <u>aids in keeping the airways of the lungs open</u>.
 
 #### Structures to protect the lungs and aid breathing
@@ -14,7 +14,7 @@ The <span style="color: skyblue">lungs</span> are <u>surrounded and protected by
 
 The <span style="color: skyblue">diaphragm</span> is a <u>dome-shaped sheet of muscle</u> below the lungs that separate the thoracic cavity from the abdominal cavity.
 
-> **Note**:
+> [!note]
 > The lung is an elastic structure that tends to decrease its size at all volumes. If there is a leakage of air, the lungs would collapse as a result.
 > ↪️ HKDSE 2017 1B Q5
 
@@ -23,6 +23,6 @@ Each lung is enclosed by two <span style="color: skyblue">pleural membrane</span
 
 The <span style="color: skyblue">pleural cavity</span> is a narrow space between the two membranes. <span style="color: lightgreen">Pleural membranes secrete pleural fluid</span> into the cavity to <u>reduce friction between the lungs and the rib cage</u> during breathing movements.
 
-> **Note**:
+> [!note]
 > The pleural cavity always maintains a negative pressure.
 

@@ -4,7 +4,7 @@ Bonding and stoichiometric compositions of oxides of Period 3 ⤴️
 ![[table_acid_base.webp]]
 Acid-base properties of oxides of Period 3 ⤴️
 
-> **Note**:
+> [!note]
 > - $\ce{P4O10}$ is also called "Phosphorous(V) oxide" by its empirical formula of $\ce{P2O5}$. Phosphorous does not form ions with +5 charge, but it refers to the oxidation number of P in $\ce{P4O10}$.
 
 #### Demonstrating their acid-base properties
@@ -30,7 +30,7 @@ $\ce{Al2O3}$ is <span style="color: skyblue">amphoteric</span>. It shows both ac
   → $\ce{NaAl(OH)4}$ is called sodium tetrahydroxoaluminate.
 
 ##### Sulphur dioxide ($\ce{SO2}$)
-> **Note**:
+> [!note]
 > $\ce{SO2}$ has double bonds in its structure, and the $\ce{S}$ atom is non-octet.
 > ![[so2_structure.webp|80]]
 
@@ -41,7 +41,7 @@ $\ce{Al2O3}$ is <span style="color: skyblue">amphoteric</span>. It shows both ac
   $\ce{SO2(g) + 2NaOH(aq) ⇌ Na2SO3(aq) + H2O(ℓ)}$
 
 ##### Silicon dioxide ($\ce{SiO2}$)
-> **Note**:
+> [!note]
 > $\ce{SiO2}$ is insoluble in water. The compound alone is unable to exhibit acidic properties (pH of mixture of $\ce{SiO2}$ and water is 7).
 
 - **Reaction with alkali**

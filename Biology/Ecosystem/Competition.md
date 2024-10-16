@@ -12,6 +12,6 @@ There are two main types of competition:
 - <span style="color: lightgreen">Interspecific competition</span>
   Competition among members of <u>different species</u>.
 
-> **Note**:
+> [!note]
 > Competition is most intense between organisms with similar niche. Therefore, intraspecific competition is generally more intense than interspecific competition.
 

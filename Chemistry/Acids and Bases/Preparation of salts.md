@@ -24,7 +24,7 @@ For preparation of $\ce{CaSO4(s)}$, do not use reactants that will result in the
 **Soluble salts** that are not formed by $\ce{Na+}$, $\ce{K+}$, $\ce{NH4+}$ ions are prepared by reaction of water-insoluble base / alkali / metal carbonate with acid to give the soluble salts. The salt is then separated by [[crystallization]].
 ↪️ See also: HKDSE 2023 Paper 1B Q9
 
-> **Note**:
+> [!note]
 > - The reactants cannot both be solutions. One should be an insoluble base / metal / carbonate and one should be an acid.
 > - In a laboratory setting, dilute acids / alkalis should be used for safety.
 
@@ -32,7 +32,7 @@ For preparation of $\ce{CaSO4(s)}$, do not use reactants that will result in the
 1. Add <u>excess</u> $\ce{CuO(s)}$ into dilute $\ce{H2SO4(aq)}$.
    Heat can be provided to increase the rate of reaction.
 
-> **Note**:
+> [!note]
 > - Addition of excess $\ce{CuO(s)}$ ensures all $\ce{H2SO4(aq)}$ has reacted (so that pure $\ce{CuSO4(s)}$ will be produced / no soluble impurities) (/ $\ce{H2SO4(aq)}$ is the limiting reagent).
 > - If $\ce{H2SO4(aq)}$ is in excess, unreacted $\ce{H2SO4(aq)}$ will contaminate $\ce{CuSO4(s)}$ obtained. $\ce{CuSO4(s)}$ will be impure.
 

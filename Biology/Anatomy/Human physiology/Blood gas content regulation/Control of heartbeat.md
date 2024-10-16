@@ -16,7 +16,7 @@ The **sinoatrial (SA) node** (group of specialized cardiac muscle cells) is know
 #### Major events in a cardiac cycle
 A **cardiac cycle** is a sequence of evens starting from one contraction of the atria to the next.
 
-> **Note**:
+> [!note]
 > The human heart beats 72 times per minute on average, with each cardiac cycle lasting ~0.8 seconds.
 
 **Process**:
@@ -37,7 +37,7 @@ A **cardiac cycle** is a sequence of evens starting from one contraction of the 
 	- Bicuspid and tricuspid valves are forced to close. This prevents the backflow of blood into the atria.
 	- Semilunar valves open. Blood is forced into the aorta and the pulmonary artery through the semilunar valves.
 
-> **Note**:
+> [!note]
 > The closure of bicuspid and tricuspid valves produces the first heart sound ('lub').
 
 3. **Diastole (relaxation)**
@@ -47,7 +47,7 @@ A **cardiac cycle** is a sequence of evens starting from one contraction of the 
 	 - Bicuspid and tricuspid valves open. Blood from the vena cava and pulmonary vein is allowed to flow into the atria. (as the pressure in the atria is lower)
 	 - Semilunar valves close. This prevents the backflow of blood from the two blood vessels into the ventricles.
 
-> **Note**:
+> [!note]
 > The closure of semilunar valves process produces the second heart sound ('dub').
 
 #### Cardiac output
@@ -62,7 +62,7 @@ $\text{Cardiac output (mL / min)} = \text{Heart rate (beats / min)} \times \text
 - **Venous return** (volume of blood returning to the heart from the vena cava)
   It limits the volume of blood available in the left ventricle.
 
-> **Note**:
+> [!note]
 > This is dependent on the venous return (volume of blood returning to the heart from the vena cava).
 
 - **Strength of ventricular contraction**

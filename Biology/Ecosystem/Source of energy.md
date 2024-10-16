@@ -2,7 +2,7 @@ The Sun provides an external source of energy for many ecosystem, which is captu
 
 Energy is released through respiration, but some of the energy is lost as heat. Energy is also lost through [[Excretion]] (in urea), [[Large intestine#Egestion|egestion]] (in faeces) and as uneaten body parts (e.g. bones) when the organism dies.
 
-> **Note**:
+> [!note]
 > There is no cycling of energy in an ecosystem. Energy lost cannot be recycled by the ecosystem.
 
 #### Food chains

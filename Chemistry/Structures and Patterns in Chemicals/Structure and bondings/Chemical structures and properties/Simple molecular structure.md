@@ -6,7 +6,7 @@ Atoms of most non-metals join together to form small molecules. The could either
 | :--: | :--: |
 | Iodine crystal / $\ce{I2 (s)}$ | Dry ice / $\ce{CO2 (s)}$ |
 
-> **Note**:
+> [!note]
 > Generally, the strength of bonds:
 > metallic bond ≈ covalent bond ≈ ionic bond > hydrogen bond > v.d.w force
 

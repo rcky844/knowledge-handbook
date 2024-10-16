@@ -2,7 +2,7 @@
 
 **Ventilation** refers to an <span style="color: lightgreen">active</span> movement of air into and out of the lungs to help <u>maintain a steep concentration gradient of gases</u> so that gas exchange can occur efficiently. It is brought about by the <span style="color: lightgreen">movements of intercostal muscles</span> ([[Human skeleton#Rib cage|rib cage]]) <span style="color: lightgreen">and the diaphragm</span>.
 
-> **Note**:
+> [!note]
 > The change in the volume of the lungs is the result of the change in volume of the thoracic cavity. Therefore, the change in the volume of the thoracic cavity is more relevant in the context of breathing actions.
 > ↪️ HKDSE 2017 1B Q5
 

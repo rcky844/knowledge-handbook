@@ -12,6 +12,6 @@ Hydrogen ions and electrons are important in the electron transport chain at the
 **Reduced FAD**:
 - 2 x 1 = 2 from the [[Krebs cycle]]
 
-> **Note**:
+> [!note]
 > At all stages there is a doubling (2x) of reduced NAD and FAD. This is because one glucose molecule is split in two in [[Glycolysis]] and so these reactions occur twice per single molecule of glucose.
 

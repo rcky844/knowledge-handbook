@@ -9,7 +9,7 @@
 - **Ionic equation**
   $\ce{OH-(aq) + H+(aq) -> H2O(ℓ)}$
 
-> **Note**:
+> [!note]
 > $\ce{Na+(aq)}$ and $\ce{Cl-(aq)}$ are spectator ions. They do not take part in the reaction.
 
 ##### Reaction of acid with insoluble base
@@ -21,7 +21,7 @@
   $\ce{Mg(OH)2(s) + 2H+(aq) -> Mg^2+(aq) + 2H2O(ℓ)}$
   $\ce{MgO(s) + 2H+(aq) -> Mg^2+(aq) + H2O(ℓ)}$
 
-> **Note**:
+> [!note]
 > Any insoluble bases needs to be written in an ionic equation, because they are not solutions with mobile ions.
 
 #### Heat change
@@ -35,7 +35,7 @@ $$
 
 However, the heat change of neutralization involving weak acid or weak alkali will be different because <u>part of the energy is used for the ionization of weak acid / weak alkali</u>.
 
-> **Note**:
+> [!note]
 > The same mole of strong and weak acid requires the same mole of alkali to carry out complete neutralization.
 > 
 > The ionization process for weak acid / weak alkali is reversible, a decrease in $\ce{H+(aq)}$ during reaction causes the equilibrium position to shift to the product side, and the neutralization reaction goes to completion.

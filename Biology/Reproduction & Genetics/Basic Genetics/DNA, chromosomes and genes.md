@@ -35,7 +35,7 @@ A **gene** is a short length of DNA in a [[chromosome]].
 
 ![[gene.webp|320]]
 
-> **Note**:
+> [!note]
 > The alleles of a gene may differ from each other by only one or a few bases.
 
 ##### Locus and alleles
@@ -45,7 +45,7 @@ A **gene** is a short length of DNA in a [[chromosome]].
 - **Homozygous** refers to having two identical alleles (e.g. $RR$, $rr$).
 - **Heterozygous** refers to having two different alleles (e.g. $Rr$).
 
-> **Note**:
+> [!note]
 > Allele is the alternative form of the gene. However, it only applies to homologous chromosomes.
 
 ##### Common terms for genetics

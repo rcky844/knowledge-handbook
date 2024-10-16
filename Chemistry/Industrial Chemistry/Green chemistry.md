@@ -29,7 +29,7 @@
 8. **Using catalyst**
    [[Catalysts]] can speed up the reaction by providing an alternative reaction pathway with lower activation energy. Less energy will be needed for synthesis.
 
-> **Note**:
+> [!note]
 > Some catalysts are heavy [[transition metals]], they can cause harm to the environment when disposed of in rivers.
 
 9. **Designing degradable products**
@@ -44,7 +44,7 @@
     Atom economy is based on the <u>100% conversion from reactants to products</u>.
     $\text{Atom economy} = {\text{mass of atoms in desired product} \over \text{total mass of atoms in the reactants used}} \times 100\%$
 
-> **Note**:
+> [!note]
 > Do not mix up atom economy and percentage yield.
 > - Atom economy does not involve experimentation, it is based on a 100% completed reaction.
 > - Percentage yield is based on experimental data.

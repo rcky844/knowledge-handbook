@@ -1,6 +1,6 @@
 #### Light
 **Rate of photosynthesis**:
-Light intensity affects the rate of [[Photosynthesis]] and hence the growth of plants.
+Light intensity affects the rate of [[photosynthesis]] and hence the growth of plants.
 - <span style="color: lightgreen">Terrestrial habitats</span>
 	- Plants tend to reach a higher position (by growing tall or climbing up other plants) so that they are not blocked from sunlight. (e.g. Ivy)
 	- Plants growing in shady areas have larger leaves to absorb more light for photosynthesis and/or more chlorophyll to absorb more sunlight, so the leaves appear darker.
@@ -103,6 +103,7 @@ Refers to the concentration of dissolved salts in water. It determines the water
 - <span style="color: lightgreen">Salt water (sea water)</span>
   Marine organisms must be able to remove excessive salts and reduce water from their bodes. (e.g. mangrove plants)
 
+> [!tip]
 > **Mangrove plants**:
 > - Their roots are immersed in sea water.
 > - Their leaves have salt glands to allow them to maintain osmotic balance by removing excessive salts.
@@ -111,6 +112,7 @@ Refers to the concentration of dissolved salts in water. It determines the water
 #### Oxygen concentration
 Oxygen is needed for survival but rarely a limiting factor for terrestrial organisms, except at high attitude habitats or in waterlogged soil.
 
+> [!tip]
 > **Mangrove plants**:
 > They have aerial roots that grow above the waterlogged soil, with many lenticels to maximize the gas exchange with air.
 

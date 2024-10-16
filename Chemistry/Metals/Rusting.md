@@ -31,7 +31,7 @@ Upon rusting, iron would turn to rust. Rust is hydrated iron(III) oxide: $\ce{Fe
 The overall chemical equation for rusting is:
 $\ce{4Fe (s) + 3O2 (g) + 2nH2O (ℓ) -> 2Fe2O3 . nH2O (s)}$
 
-> **Note**:
+> [!note]
 > Rusting is a [[Redox Reactions, Chemical Cells and Electrolysis|redox reaction]].
 
 ##### Reaction of iron
@@ -39,7 +39,7 @@ Iron undergoes oxidation and loses electrons:
 $\ce{Fe (s) -> Fe^2+ (aq) + 2e-}$
 $\ce{Fe^2+ (aq) -> Fe^3+ (aq) + e-}$
 
-> **Note**:
+> [!note]
 > Iron will not be directly oxidised to give iron(III) ion:
 > $\ce{Fe (s) -> Fe^3+ (aq) + 3e-}$
 
@@ -91,13 +91,13 @@ Acids speed up the rusting of iron. $\ce{H+ (aq)}$ in the acid can react with $\
 - Soluble ionic compounds contain mobile ions, which increase the electrical conductivity of substances in the environment.
 - Since rusting involve electron transfer, soluble ionic compounds speed up rusting.
 
-> **Note**:
+> [!note]
 > Iron objects near sea will rust faster since seawater contains salts, which are soluble ionic compound.
 
 ##### High temperature
 Higher temperature increases the rate of chemical reaction.
 
-> **Note**:
+> [!note]
 > Iron-made car exhaust pipes rusts easily since they become hot when the cars are running.
 
 ##### Attachment to less reactive metals

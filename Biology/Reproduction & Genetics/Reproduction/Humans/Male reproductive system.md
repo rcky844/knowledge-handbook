@@ -25,7 +25,7 @@ The functions of seminal fluid are listed below:
 ##### Penis
 The **penis** contains <u>spongy erectile tissues</u> and <u>many blood vessels</u>. It becomes erect when sexually stimulated so that it can be inserted into the vagina for [[Sexual intercourse and fertilization#Sexual intercourse|sexual intercourse]].
 
-> **Note**:
+> [!note]
 > The penis is similar in function to the [[Fertilization in flowering plants|pollen tube]] in flowering plants as they both bring the male gametes closer to the female gametes.
 
 #### Sperms

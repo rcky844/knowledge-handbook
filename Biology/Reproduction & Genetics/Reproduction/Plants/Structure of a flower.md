@@ -24,7 +24,7 @@ An anther consists of <u>four pollen sacs</u> where [[meiotic cell division]] oc
 - The **ovary** encloses one or more <span style="color: skyblue">ovules</span> that contain the female gametes of <span style="color: skyblue">ova</span>.
 	- The **ovule** is connected to the inner wall of the ovary by a short stalk called **funicle**, and is surrounded by **integuments** (a protective layer). There are tiny holes in the integuments called **micropyle**.
 
-> **Note**:
+> [!note]
 > In bisexual flowers, there exists both stamens and carpels.
 > Flowers containing either stamens or carpels only are called unisexual flowers.
 

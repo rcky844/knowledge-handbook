@@ -1,4 +1,4 @@
-> **Note**:
+> [!note]
 > To determine the most appropriate gas collection method, the relative atomic mass can be calculated. It is then compared to a rough value of the mass of air (e.g. 28.56).
 #### Displacement of water
 ![[displacement_of_water.webp|300]]

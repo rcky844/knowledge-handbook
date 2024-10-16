@@ -12,7 +12,7 @@
 - **Deduced explanation**: The <span style="color: lightgreen">bromine particles</span> and <span style="color: lightgreen">air particles</span> <u>move around randomly</u> and fill both gas jars. ([[Diffusion]])
 
 #### State of substances
-> **Note**:
+> [!note]
 > The states discussed here are measured at <u>room temperature and pressure</u> (25°C, 1 atm). Information regarding supercritical states or similar will not be included in the Knowledge Handbook at this time.
 
 ##### Solid state (s)

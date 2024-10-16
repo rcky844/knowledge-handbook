@@ -1,6 +1,6 @@
 **Link Reaction** is the second stage of respiration. It links [[Glycolysis]] and [[Krebs cycle]].
 
-> **Note**:
+> [!note]
 > The end product of [[Glycolysis]] is pyruvate, which still contains a substantial amount of chemical energy that can be further utilised in respiration to produce more ATP.
 
 When <u>oxygen is available</u>, pyruvate will enter the <span style="color: skyblue">mitochondrial matrix</span> and <span style="color: skyblue">aerobic respiration</span> will continue.
@@ -11,7 +11,7 @@ When <u>oxygen is available</u>, pyruvate will enter the <span style="color: sky
 - 2 Carbon dioxide ($\ce{CO2}$)
 - 2 Reduced NAD ($\ce{NADH}$)
 
-> **Note**:
+> [!note]
 > - There are two pyruvate molecules produced per glucose molecule, everything needs to be multiplied by 2 when thinking about what happens to a single glucose molecule in aerobic respiration.
 
 ![[link_reaction.avif|550]]
@@ -21,7 +21,7 @@ When <u>oxygen is available</u>, pyruvate will enter the <span style="color: sky
 	- Hydrogen is removed and transferred to NAD to form NADH.
 	- An acetyl group ($\ce{CH3C(O)-}$) is produced.
 
-> **Note**:
+> [!note]
 > - Decarboxylation and dehydrogenation involves reactions catalysed by enzymes in the mitochondrial matrix.
 > - Coenzymes are not enzymes. They work with enzymes to catalyse reactions by transferring certain chemical groups.
 

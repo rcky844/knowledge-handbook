@@ -4,7 +4,7 @@
 Organisms that share <u>more
 similarities</u> in the base sequences of DNA have a <u>closer evolutionary / phylogenetic relationship</u>.
 
-> **Note**:
+> [!note]
 > - Base sequences of DNA determines the characteristics of organisms.
 > - Mutations affect the amino sequence of protein produced and may result in change in characteristics.
 > ↪️ See also: [[Mutations]]

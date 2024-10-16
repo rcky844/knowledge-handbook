@@ -11,7 +11,7 @@
 - **Blood cells and plasma proteins are absent in the glomerular filtrate.**
   They are <u>too large to pass through</u> the walls of the glomerulus and Bowman's capsule.
 
-> **Note**: (on glomerular filtrate)
+> [!note] (on glomerular filtrate)
 > - Composition of glomerular filtrate is similar to tissue fluid as they are both formed similarly.
 > - About 20% of blood in the glomerulus is filtered and becomes the glomerular filtrate.
 

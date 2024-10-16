@@ -2,7 +2,7 @@ The **urinary system** is responsible for <span style="color: lightgreen">osmore
 
 **Osmoregulation** is the regulation of water content in the body. This keeps the [[Osmosis|water potential]] of the blood and tissue fluid constant, and maintains a stable environment for cells to function properly. This is achieved by regulating the amount of water lost in urine produced by the kidneys.
 
-> **Note**:
+> [!note]
 > - Water is lost in urine, sweat, exhaled air, faeces (e.g. diarrhoea) and through evaporation from the skin surface.
 
 #### Structure of the urinary system
@@ -39,7 +39,7 @@ Internal structure of the kidney ⤴️
 **Flow of fluid along the kidney tubule**:
 Bowman's capsule → proximal convoluted tubule → loop of Henle → distal convoluted tubule → collecting duct
 
-> **Note**:
+> [!note]
 > - All Bowman's capsules are found in the cortex of the kidney.
 > - Collecting ducts drain their contents into the pelvis and then to the ureter.
 

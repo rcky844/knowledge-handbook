@@ -17,7 +17,7 @@
 - The ruptured follicle becomes the yellow body. It later degenerates if the released ovum is not fertilized.
 - If fertilization occurs and the woman becomes pregnant, the uterine lining does not break down. Menstruation will occur only after the birth of the baby.
 
-> **Notes**:
+> [!note]
 > - **Menarche** refers to a woman's first menstruation, which usually occurs at the age of about 11.
 > - **Menopause** occurs when a woman reaches 45 to 55 years of age. As a woman's ovary contain only a set number of follicles, her ovaries will stop releasing ova and menstruation will no longer occur.
 

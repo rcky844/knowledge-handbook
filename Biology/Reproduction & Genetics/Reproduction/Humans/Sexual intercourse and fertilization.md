@@ -8,7 +8,7 @@
 #### Fertilization
 ![[fertilization_human1.webp|400]]
 
-> **Note**:
+> [!note]
 > Only a few hundred sperms will reach the oviducts. This is because:
 > - Some sperms are <u>trapped by mucus</u> in the vagina.
 > - Some sperms are <u>killed by the acidic secretion</u> of the vagina.

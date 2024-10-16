@@ -1,4 +1,4 @@
-> **Note**:
+> [!note]
 > Properties of molecular crystals:
 > - Simple molecular structure
 > - Weak intermolecular force
@@ -11,7 +11,7 @@ In ice, water molecules are arranged <span style="color: lightgreen">tetrahedral
 
 ![[water_ice_structure.webp|600]]
 
-> **Note**:
+> [!note]
 > The water molecules are held this way as hydrogen bonds are directional.
 
 When ice melts, water molecules gain energy and have relative motion. The <u>open structure collapses</u>. Water molecules <u>pack more closely together</u>. Therefore, liquid water is denser than ice.

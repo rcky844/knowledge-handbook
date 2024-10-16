@@ -18,7 +18,7 @@ Energy transfer between different trophic levels is inefficient. Only a small pr
 - <span style="color: lightgreen">In uneaten dead bodies</span>
   Some organisms die without being eaten. Its energy is not transferred to higher levels.
 
-> **Note**:
+> [!note]
 > - Energy in excretory products, faeces and uneaten dead bodies become food for decomposers, which break down dead organic matter and release heat energy.
 > - A food chain normally does not consist of more than five trophic levels as the fifth trophic level does not get enough energy to support further levels.
 

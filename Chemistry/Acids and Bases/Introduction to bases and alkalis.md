@@ -44,7 +44,7 @@ Hydroxides will not produce $\ce{CO2(g)}$ with stomach acid, while carbonates do
 | $\ce{Cu^2+(aq)}$ | $\ce{Cu(OH)2(s)}$ | Pale blue |
 | $\ce{Ag+(aq)}$ | $\ce{Ag2O(s)}$ | Dark brown |
 
-> **Note**:
+> [!note]
 > Only hydroxides of transition metals are coloured.
 
 **Solubility of calcium hydroxide**:
@@ -70,7 +70,7 @@ Hydroxides will not produce $\ce{CO2(g)}$ with stomach acid, while carbonates do
 - <span style="color: lightgreen">Upward delivery</span> is used to collect ammonia gas as it has a <u>lower density than air</u>.
 - The boiling tube is clamped sloping downwards to <u>prevent sucking back / flowing back of water</u> formed. Otherwise, the boiling tube will crack.
 
-> **Note**:
+> [!note]
 > Heating $\ce{NH4Cl(aq)}$ with addition of $\ce{NaOH(aq)}$ also liberates $\ce{NH3(g)}$.
 > ↪️ $\ce{NH4Cl(aq) + NaOH(aq) -> NH3(g) + H2O(ℓ) + NaCl(aq)}$
 
@@ -78,7 +78,7 @@ Hydroxides will not produce $\ce{CO2(g)}$ with stomach acid, while carbonates do
 **Neutralization** is a reaction between an alkali with an acid to form salt and water only.
 ↪️ $\ce{NaOH(aq) + HCl(aq) -> NaCl(aq + H2O(ℓ)}$
 
-> **Note**:
+> [!note]
 > The reaction between an acid and a carbonate is not neutralization, as $\ce{CO2(g)}$ is produced.
 > ↪️ $\ce{CaCO3(s) + 2HCl(aq) -> CaCl2(aq) + H2O(ℓ) + CO2(g)}$
 

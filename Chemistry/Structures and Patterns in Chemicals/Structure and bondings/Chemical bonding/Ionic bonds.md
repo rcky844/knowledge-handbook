@@ -55,7 +55,7 @@ For $\ce{Mg3N2}$:
 | Iron(III) ion | $\ce{Fe^3+}$ |
 | Chromium(III) ion | $\ce{Ca^3+}$ |
 
-> **Note**:
+> [!note]
 > Some metals can form more than one type of positive ions with different charges.
 
 ##### Anions

@@ -10,7 +10,7 @@ By the E.C.S., the reactants should be located in an anti-clockwise manner for a
 For example, $\ce{Mg(s)}$ and $\ce{Al^3+}$:
 $\ce{Mg(s)}$ is a stronger R.A. than $\ce{Al^3+(aq)}$.
 
-> **Note**:
+> [!note]
 > - Focus on the main chemical species involved, and balance equations *in situ*.
 > - To merge two half equations, focus on the combined O.N. of the main chemical species, multiple the reactants by the L.C.M.
 

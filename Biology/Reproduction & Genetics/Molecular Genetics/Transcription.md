@@ -15,7 +15,7 @@
 	- Exposed nitrogenous bases of the DNA attract and form [[hydrogen bonds]] with their <span style="color: lightgreen">complementary and free</span> <span style="color: skyblue">RNA nucleotides</span> in the <u>presence of RNA polymerase</u>. (see [[DNA, chromosomes and genes|complementary base pairing]])
 	- The RNA polymerase moves along the template strand. The process is <u>repeated</u> until the it <u>reaches the end of the gene</u>. A long messenger RNA is formed.
 
-> **Note**:
+> [!note]
 > The base sequence of mRNA is <u>identical to the coding strand</u> and complementary to the template strand, except it has the <u>base uracil (U) instead of thymine (T)</u>.
 
 3. **Rewinding of DNA strands**

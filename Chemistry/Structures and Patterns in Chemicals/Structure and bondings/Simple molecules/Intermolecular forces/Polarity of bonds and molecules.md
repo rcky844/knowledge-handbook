@@ -11,7 +11,7 @@ On a [[periodic table]], several trends in electronegativity can be observed:
 - **Noble gases do not have electronegativities.**
   They usually do not form bonds with other atoms.
 
-> **Note**:
+> [!note]
 > Atoms of different elements could have the same electronegativities.
 
 
@@ -30,13 +30,13 @@ Consider the situations below:
 - The electron cloud is unevenly distributed / shared.
 ↪️ It is a <u>polar bond</u>.
 
-> **Note**:
+> [!note]
 > The symbol underneath the $\ce{H-Cl}$ diagram can be used to indicate the dipole moments of the polar bond.
 
 The <u>difference in electronegativities</u> between the two atoms of a covalent bonds results in polar bonds.
 
 #### Molecular polarity
-> **Note**:
+> [!note]
 > In diatomic molecules, the molecular polarity is also the bond polarity.
 > 
 > **Example**:
@@ -55,7 +55,7 @@ Consider $\ce{CHCl3}$ and $\ce{CCl4}$:
 - For $\ce{CHCl3}$, it has a tetrahedral structure. The dipole moments of the $\ce{C-H}$ and $\ce{C-Cl}$ bonds cannot exactly cancel out. Therefore, it is a polar molecule.
 - For $\ce{CCl4}$, it has a tetrahedral structure. The dipole moments of the $\ce{C-Cl}$ bonds exactly cancel out. Therefore, it is a non-polar molecule.
 
-> **Note**:
+> [!note]
 > There is net dipole moment in the molecule of $\ce{CHCl3}$. It can be represented with the same symbols as in the case of bond polarity.
 
 #### Physical test for polarity of chemical species
@@ -70,5 +70,5 @@ Physical test of <u>liquid jet</u> can be used to determine whether a chemical s
 - <u>If the liquid is polar, deflection occurs and the liquid jet is brought closer to the charged rod.</u>
 - If the liquid is non-polar, deflection does not occur and the liquid jet keeps running as normal.
 
-> **Note**:
+> [!note]
 > A charged rod of either polarity (negative or positive) can be used as the molecules can rearrange themselves to face the charged rod with a side of opposite charges to the charged rod.

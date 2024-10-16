@@ -58,7 +58,7 @@ Structural isomers all have the <u>same molecular formula</u>.
 
 ![[enantiomerism.webp|350]]
 
-> **Note**:
+> [!note]
 > Students are only required to identify enantiomers with one chiral centre. However, carbon compounds with more than one chiral centres may not exhibit enantiomerism.
 
 **Enantiomers** are composed by the same atoms, they have the same molecular size and molecular polarity. Therefore, they have the <u>same physical properties</u>.

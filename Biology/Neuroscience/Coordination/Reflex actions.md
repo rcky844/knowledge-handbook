@@ -21,7 +21,7 @@ The **withdrawal reflex** is an automatic response to withdraw a limb from a pai
 
 ![[withdrawal_reflex.webp]]
 
-> **Note**:
+> [!note]
 > The receptor is linked to the effector by only three neurones: sensory neurone, interneurone and motor neurone. Nerve impulses can travel through the reflex arc very quickly (in < 0.1 s).
 
 Even though the cerebrum does not control the reflex, it will receive information from the sensory neurone through another interneurone not part of the reflex arc. The sensation of pain is felt after the hand has been withdrawn as it takes longer to travel to the cerebrum.
@@ -33,7 +33,7 @@ When the tendon just below the knee cap is tapped, a hanging leg will give a lit
 
 ![[knee_jerk_reflex.webp]]
 
-> **Note**:
+> [!note]
 > The receptor is linked to the effector by only two neurones: a sensory neurone and a motor neurone.
 
 Sensation of the tapping below the knee cap can be felt, as an interneurone of another nervous pathway forms a synapse with the sensory neurone in the reflex arc, nerve impulses are transmitted to the cerebrum.

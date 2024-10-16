@@ -1,6 +1,6 @@
 **Group 0 elements** are <span style="color: violet">noble gases</span>, all non-metals and gases. They all obey the [[Periodic Table#Duplet / octet rule|duplet / octet rule]] and <u>chemically inert and stable</u>.
 
-> **Note**:
+> [!note]
 > Helium has a duplet structure while other noble gases all have octet structures.
 
 #### Similarities of Group 0 noble gases

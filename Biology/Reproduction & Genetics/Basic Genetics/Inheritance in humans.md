@@ -5,7 +5,7 @@
 
 ![[karyotype.webp|450]]
 
-> **Note**:
+> [!note]
 > The other 22 pairs of chromosomes are referred to as <u>autosomes</u>.
 
 In meiosis, all ova receive an X chromosome. However, half of the sperms receive an X chromosome and the other half receive a Y chromosome.

@@ -25,7 +25,7 @@ $\text{Ventilation rate (mL / min)} = \text{Breathing rate (breaths / min)} \tim
 #### Adjusting rate and depth of breathing
 The **rate and depth of breathing** is affected by the <span style="color: lightgreen">concentration of carbon dioxide in blood</span>. Chemoreceptors detect changes in pH of the blood and send nerve impulses to the respiratory centre. It is controlled by a [[Negative feedback mechanism]].
 
-> **Note**:
+> [!note]
 > Carbon dioxide can dissolve in blood and undergo the following reaction:
 > $\ce{CO2 + H2O <=> H+ + HCO3-}$
 

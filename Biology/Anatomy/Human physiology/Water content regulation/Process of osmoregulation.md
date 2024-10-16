@@ -6,7 +6,7 @@
 - **Effects**: <span style="color: lightgreen">Increases the permeability of the walls of the collecting duct</span> so that the <span style="color: lightgreen">proportion of water reabsorbed along the collecting duct increases</span>.
 - **Goal**: Conserve water / Remove excess water
 
-> **Note**:
+> [!note]
 > The release of ADH actually occurs continuously.
 
 #### Fall in water potential of blood

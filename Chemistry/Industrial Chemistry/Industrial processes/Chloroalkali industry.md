@@ -2,7 +2,7 @@
 
 **Chloroalkali industry** involves the production of $\ce{NaOH}$, $\ce{Cl2}$, $\ce{H2}$ by electrolysis of brine (conc. $\ce{NaCl}$ — feedstock).
 
-> **Note**:
+> [!note]
 > - In industrial production, sea water is not used as the feedstock directly, as it contains not only $\ce{NaCl}$, but also other dissolved minerals.
 > - However, seawater can be purified to obtain conc. $\ce{NaCl}$ solution.
 > ↪️ See also: HKDSE 2015 Paper 2 Q1(c)(i - iv)
@@ -48,7 +48,7 @@ $\ce{2NaCl(aq) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + Cl2(g)}$
 - **The anode used is titanium or graphite.**
   They do not participate in the reaction and has high corrosion resistance.
 
-> **Note**:
+> [!note]
 > Platinum ($\ce{Pt}$) must not be used as the electrode, as $\ce{Cl2(g)}$ produced will attack the electrode.
 
 **Limitations** (disadvantages):

@@ -19,7 +19,7 @@ The climax community is only replaced when there are drastic changes (e.g. natur
 
 **Process of primary succession**:
 
-> **Note**:
+> [!note]
 > The processes below are based on the  names of the habitat during the process of primary success.
 
 1. <span style="color: lightgreen">Bare rocks</span>

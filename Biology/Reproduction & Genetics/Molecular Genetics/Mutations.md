@@ -42,7 +42,7 @@ A **chromosome mutation** is a <u>change in the structure</u> of [[Chromosome|ch
 
 The above results in <u>gametes with an abnormal number of chromosomes</u> (e.g. extra or missing chromosome).
 
-> **Note**:
+> [!note]
 > - [[Mitotic cell division|Mitosis]] passes on the mutation to all the cells derived from the zygote.
 > - Zygotes lacking an entire chromosome rarely survive. Zygotes with an extra chromosome may survive and develop, but usually develops a syndrome of disorders.
 
@@ -85,7 +85,7 @@ The gene mutation may cause no change in the phenotype:
 - If the change of amino acids do not change the shape of the protein sufficiently, it can still function properly.
 - If the mutated allele is recessive to the normal allele and is not expressed in the heterozygous solution.
 
-> **Note**:
+> [!note]
 > - The majority of mutations are neutral.
 > - If a mutation does cause a change in the phenotype, but the change gives no particular advantage or disadvantage to the organisms, then the effect is also regarded as neutral.
 

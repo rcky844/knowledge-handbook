@@ -1,6 +1,6 @@
 ![[mitochondrion.webp]]
 
-> **Note**:
+> [!note]
 > The reactions of [[Anaerobic respiration]] and the initial stage of [[Aerobic respiration]] take place in the cell cytoplasm, where specific enzymes are present.
 
 **Mitochondria** is a rod-shaped organelle <span style="color: lightgreen">surrounded by a double membrane</span>, where reactions of [[Aerobic respiration]] take place.
@@ -17,7 +17,7 @@
 - Outer and inner membranes are separated by a narrow <span style="color: skyblue">intermembrane space</span>.
   This allows molecules to <u>move quickly</u> between the cell cytoplasm and the mitochondrial matrix.
 
-> **Note**:
+> [!note]
 > Mitochondria are the main sites for ATP production. The presence of this organelle depends on the cell's energy usage.
 > <u>Large quantities of this organelle are present in cells that use a lot of energy (metabolically active cells)</u> (e.g. sperms, liver cells, muscle cells), as they need to synthesize more ATP to support cellular activities.
 

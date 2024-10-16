@@ -2,7 +2,7 @@
 - There is <u>no need to connect a battery</u> into the set-up.
 - There will be <u>electron flow</u> in the external circuit of the chemical cell.
 
-> **Note**:
+> [!note]
 > Current flow occurs in the reverse direction to the electron flow.
 
 The <u>voltage produced</u> by chemical cells are measured using <span style="color: skyblue">voltmeter or multimeter</span>.
@@ -21,7 +21,7 @@ The <u>voltage produced</u> by chemical cells are measured using <span style="co
 - [[Proton exchange membrane fuel cell]]
 - [[Direct methanol fuel cell]]
 
-> **Note**:
+> [!note]
 > - Fuel cells are <span style="color: skyblue">primary cells</span>.
 > - They are not secondary cells as they <u>cannot be recharged</u>.
 

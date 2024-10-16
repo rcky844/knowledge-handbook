@@ -26,14 +26,14 @@
    
    ![[carbon_cycle.s4.webp|660]]
 
-> **Note**:
+> [!note]
 > - Farmers who implement regenerative farming may first plant leguminous plants to increase the vitality and health of the farmland. This helps build soil health, diversify rotations, and allow enough time in the fall for growers to be able to plant a cover crop.
 
 #### Removing nitrogen from the soil
 5. **Mineral absorption in plants**
    - Producers (plants) take up nitrogen from the soil, mainly in the form of nitrates ($\ce{NO3-}$), to make proteins and other nitrogenous compounds.
 
-> **Note**:
+> [!note]
 > They can be used to help keep the nitrate concentration in aquariums at a stable level.
 > ↪️ HKDSE Paper 1B Q5
 <br>

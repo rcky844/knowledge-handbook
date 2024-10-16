@@ -1,4 +1,4 @@
-> **Note**:
+> [!note]
 > This section is mainly focused on humans.
 
 In humans, coordination is carried out by two body systems:

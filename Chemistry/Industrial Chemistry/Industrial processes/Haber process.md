@@ -74,5 +74,5 @@ Suggest how ammonia can be separated from the reaction mixture obtained.
 
 → The salt is then <u>purified and dried</u>.
 
-> **Note**:
+> [!note]
 > Ammonium salts are used as they contain the highest percentage by mass of nitrogen.

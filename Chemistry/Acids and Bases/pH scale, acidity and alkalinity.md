@@ -10,7 +10,7 @@ $$
 $$
 - The unit is $\pu{mol dm-3 / M}$.
 
-> **Note**:
+> [!note]
 > $\ce{[OH-(aq)]}$ cannot be used for this calculation.
 
 #### pH and acid-base nature of solution
@@ -25,7 +25,7 @@ The **pH scale** can be used to define whether a solution is acidic, neutral or 
 | Neutral | $\ce{[H+(aq)] = [OH-(aq)]}$ | pH = 7 |
 | Basic | $\ce{[H+(aq)] < [OH-(aq)]}$ | pH > 7 |
 
-> **Note**:
+> [!note]
 > The value of pH can be below 0 or above 14.
 
 #### Determining pH value

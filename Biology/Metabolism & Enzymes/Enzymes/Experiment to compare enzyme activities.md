@@ -1,7 +1,7 @@
 **Example**: HKDSE 2014 Paper 1B Q6(c)
 *Describe* an experiment which can compare the different (digestive) amylase activities of wolves and dogs.
 
-> **Note**:
+> [!note]
 > The word "describe" implies that the process of the experiment should be provided.
 
 **Preparation**:

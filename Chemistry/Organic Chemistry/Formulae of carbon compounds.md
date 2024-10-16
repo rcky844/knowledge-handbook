@@ -3,7 +3,7 @@
 2. Each carbon atom can <u>form four covalent bonds</u>. The four covalent bonds of a carbon atom are arranged in a tetrahedral shape.
 3. Carbon can <u>form multiple bonds</u> (e.g. double / triple bonds).
 
-> **Note**:
+> [!note]
 > - Carbon compounds with double or triple bonds are <span style="color: skyblue">unsaturated compounds</span>.
 > - Carbon compounds with only carbon single bonds are <span style="color: skyblue">saturated compounds</span>.
 

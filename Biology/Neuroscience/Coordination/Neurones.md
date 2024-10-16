@@ -20,7 +20,7 @@ The <span style="color: lightgreen">nerve fibres</span> are cytoplasmic processe
 - **Most nerve fibres are surrounded by a lipid covering called the myelin sheath.**
   This is to <u>protect and insulate the nerve fibres, so that the loss of nerve impulses to the surroundings can be prevented</u>. It can also <span style="color: lightgreen">speed up the transmission of nerve impulses</span>.
 
-> **Note**:
+> [!note]
 > Nerve fibres surrounded by the myelin sheath is referred to as myelinated.
 
 #### Types of neurones
@@ -56,7 +56,7 @@ The <span style="color: lightgreen">synaptic knob</span> is a swollen structure 
 
 The <span style="color: lightgreen">synaptic cleft</span> is a tiny gap that separates the neurones. There is no physical contact between neurones, nerve impulses cannot travel directly to the next neurone. There are also [[Enzymes]] present in the synaptic cleft.
 
-> **Note**:
+> [!note]
 > - The enzymes in the synaptic cleft is specific in action and <u>breaks down neurotransmitters in the synaptic cleft</u>.
 > - This <u>prevents repeated nerve impulses from being generated</u> when the dendron is <u>continuously stimulated</u>.
 

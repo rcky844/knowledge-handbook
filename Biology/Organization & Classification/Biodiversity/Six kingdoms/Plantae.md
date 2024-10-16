@@ -40,6 +40,6 @@ They reproduce by <span style="color: skyblue">spores</span>.
 | Number of petals in flowers | Usually three or multiples of three | Usually four or five or their multiples |
 | Roots | Fibrous roots | Taproots |
 | Examples | Grasses, sugar cane, orchids, lilies | *Hibiscus*, roses, sunflowers, cacti |
-> **Note**:
+> [!note]
 > Cotyledons are the first leaves that emerge during [[germination of seeds]].
 

@@ -7,7 +7,7 @@ An **acid** ionizes in water to give hydrogen as the only cation.
 | Nitric acid | $\ce{HNO3}$ | - Used to make fertilizer |
 | Ethanoic acid | $\ce{CH3COOH}$ | - Found in vinegar<br>- Used in pickled food |
 | Carbonic acid | $\ce{H2CO3}$ | - Found in soft drinks<br>- Found in rainwater |
-> **Note**:
+> [!note]
 > Other examples include citric acid and lactic acid.
 
 **Hazards of acids**:
@@ -32,7 +32,7 @@ By dissolving hydrogen chloride gas ($\ce{HCl(g)}$) into water.
 3. **With carbonates / hydrogencarbonates**
    Products: salt + carbon dioxide + water
 
-> **Note**:
+> [!note]
 > The reaction of acid and carbonates / hydrogencarbonates is [[Endothermic and exothermic reactions#Endothermic reaction|endothermic]].
 
 #### Role of water
@@ -45,7 +45,7 @@ By dissolving hydrogen chloride gas ($\ce{HCl(g)}$) into water.
 - When $\ce{HCl(g)}$ dissolves in water, the number of mole of gas in the system decreases and the pressure decreases.
 - An inverted funnel set-up is used in order to <span style="color: lightgreen">prevent suck back</span> of the solution.
 
-> **Note**:
+> [!note]
 > Hydromium ion $\ce{H3O+}$ is also formed when $\ce{H+}$ ions react with $\ce{H2O}$ by forming [[Covalent bonds#Dative covalent bonds|dative covalent bond]].
 > - The number of $\ce{H3O+}$ ions is equal to the number of $\ce{H+}$ ions, so they are often ignored for simplicity.
 > - $\ce{H3O+}$ ions also carry acidic property.

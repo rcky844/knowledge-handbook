@@ -15,7 +15,7 @@ $\ce{C_x H_y + (x+{y\over4})O2 -> xCO_2 + {y\over2}H2O}$
 | Suspended particles | - Carcinogenic<br>- Irritant to the respiratory system | - Use electronic precipitators in power plants<br>- Remove dust by mechanical filtering of water gas |
 | Lead compounds | - Poisonous<br>- Causes anaemia<br>- Causes neurological issues | Use unlead fuels |
 
-> **Note**:
+> [!note]
 > - These air pollutants are all formed from the combustion of substances.
 > - The pollutants $\ce{CO}$, unburnt hydrocarbons and suspended particles are formed from incomplete combustion.
 > - The pollutants $\ce{SO2}$ and $\ce{NO_x}$ are formed from combustion of $\ce{S}$ and $\ce{N2}$ respectively.
@@ -32,7 +32,7 @@ $\ce{C_x H_y + (x+{y\over4})O2 -> xCO_2 + {y\over2}H2O}$
 **Example**: HKCEE 2006 Q6(c)(i)
 Greenhouse gases (e.g. $\ce{CO2}$, $\ce{CH4}$, $\ce{H2O}$) can trap heat which is reradiated from the Earth, creating greenhouse effect to keep the atmosphere warm for life to sustain on Earth, but excessive amounts traps too much heat and causes global warming.
 
-> **Note**:
+> [!note]
 > $\ce{CO2}$ is from the combustion of fossil fuels, where as $\ce{CH4}$ from the decaying of the remains of rice paddies / cattle.
 
 **Negative effects**:
@@ -49,7 +49,7 @@ Greenhouse gases (e.g. $\ce{CO2}$, $\ce{CH4}$, $\ce{H2O}$) can trap heat which i
 **Remedial measures** ($\ce{CH4}$):
 - Collect it from biomass and used as a fuel (it is part of refinery gas).
 
-> **Note**:
+> [!note]
 > - Nuclear energy is not a form of renewable energy.
 > - However, large amounts of energy can be produced from a nuclear reactor.
 > - Nuclear waste can be difficult to process and handle.

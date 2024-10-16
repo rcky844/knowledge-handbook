@@ -12,7 +12,7 @@
   <u>Pipette filler</u>: To pull the solution up the pipette by using pressure difference.
   ![[pipette_and_filler.webp|180]]
 
-> **Note**:
+> [!note]
 > A measuring cylinder is not used for measuring the volume of solution, as it can only measure them roughly.
 
 - **Volumetric flask**

@@ -47,7 +47,7 @@ Electronic configuration of oxygen atom: 2,6
 | Chlorine (Cl) | Sodium (Na) |
 Electron diagram showing <u>all electron shells</u> ⤴️
 
-> **Note**:
+> [!note]
 > Sometimes, an electron diagram showing the <u>outermost shell</u> only is used.
 
 #### Isotopes

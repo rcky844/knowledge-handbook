@@ -43,6 +43,6 @@ $\ce{LiAlH4}$ reacts vigorously with water.
 > - Lithium aluminium hydride ($\ce{LiAlH4}$) / dry ether
 > **Condition**: Treated with dilute acid ($\ce{H+}$) after addition of the reagent
 
-> **Note**:
+> [!note]
 > $\ce{NaBH4}$ is a weaker R.A. than $\ce{LiAlH4}$, it is not able to reduce carboxylic acids.
 

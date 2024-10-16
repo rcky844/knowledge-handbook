@@ -10,6 +10,6 @@
 2. If $\ce{KMnO4/H+}$ changes from purple to very pale pink <span style="color: lightgreen">rapidly</span>, then it is the alkene.
    The solution which remains unchanged will be the alkane.
 
-> **Note**:
+> [!note]
 > See "[[Dissolving halogen in organic solvent]]" for explanation on dissolving halogens in organic solvents.
 

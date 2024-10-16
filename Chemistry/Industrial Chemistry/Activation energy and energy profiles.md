@@ -11,7 +11,7 @@
 - **Activated complex (or transitional state) is highly unstable.**
   It contains partially broken and partially formed bonds.
 
-> **Note**:
+> [!note]
 > $\Delta H$ can be positive, zero or negative.
 
 ##### Catalyzed energy profile

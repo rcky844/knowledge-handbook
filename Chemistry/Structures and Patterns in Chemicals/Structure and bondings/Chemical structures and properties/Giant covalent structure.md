@@ -5,7 +5,7 @@ Examples of substances with this structure includes:
 - Graphite ($\ce{C}$)
 - Quartz ($\ce{SiO2}$)
 
-> **Note**:
+> [!note]
 > - Diamond and graphite are allotropes of carbon.
 > - Allotropes are different forms of the same element in which the atoms or molecules are arranged in different ways.
 

@@ -7,7 +7,7 @@
 - **Frequent urination**
   Body cells lose water to the blood by [[Osmosis]], leading to an increase in blood volume and hence an increase in urine production.
 
-> **Note**:
+> [!note]
 > Glucose is soluble in water and affects the water potential of the blood.
 > ↪️ See also: [[Parameters of the internal environment#Glucose level in blood]]
 
@@ -29,7 +29,7 @@ As body cells do not take up excess glucose from the blood, the <u>blood glucose
 - There is a <u>larger rise</u> (rises to a higher level) in the blood glucose level.
 - The blood glucose level remains high for a <u>longer time</u>.
 
-> **Note**:
+> [!note]
 > - The blood glucose level may fluctuate as the body tries to maintain a stable level by [[Negative feedback mechanism]].
 > - The gradual decrease in blood glucose level is due to the lost of glucose in the urine.
 
@@ -41,14 +41,14 @@ As body cells do not take up excess glucose from the blood, the <u>blood glucose
 - The blood insulin level is higher than a healthy person.
 - However, the blood glucose level will not fall even though there is a high insulin level, as the body cells do not respond to the insulin.
 
-> **Note**:
+> [!note]
 > - Blood insulin level should lag behind the blood glucose level.
 
 #### Care for diabetics
 - They have to monitor their blood glucose levels (e.g. glucometer) at intervals throughout the day.
 - They may need injections of insulin after meals to lower the blood glucose level.
 
-> **Note**:
+> [!note]
 > Injection dose of insulin must be carefully controlled.
 > - If too much insulin is injected, the blood glucose level may fall so low that body cells cannot obtain enough glucose for respiration and [[Metabolism]] will slow down.
 
@@ -61,7 +61,7 @@ Meals should be <u>high-fibre, low glycaemic index (GI) carbohydrates</u> and be
 ##### Glycaemic index (GI)
 The **glycemic index** is a number from 0 to 100 assigned to a food, with pure glucose arbitrarily given the value of 100, which represents the relative rise in the blood glucose level two hours after consuming that food.
 
-> **Note**:
+> [!note]
 > - Low GI food will lead to small fluctuations in blood glucose level.
 > - The chance of having too high of a blood glucose level is reduced.
 > ↪️ See also: HKDSE 2018 Paper 1B Q7(c)

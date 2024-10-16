@@ -9,7 +9,7 @@ Skeletal muscles appear to have striations of light bands and dark bands when vi
 - Skeletal muscles contract quickly but also fatigue quickly.
 - Contractions of skeletal muscles produce heat, helping to maintain a stable body temperature.
 
-> **Note**:
+> [!note]
 > Skeletal muscles can also contract involuntarily through reflex actions.
 
 ![[sarcomere.webp|400]]

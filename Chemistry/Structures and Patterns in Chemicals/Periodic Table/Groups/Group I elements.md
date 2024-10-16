@@ -1,4 +1,4 @@
-> **Note**:
+> [!note]
 > Hydrogen is not an alkali metal, as it behaves very differently compared to Group I alkali metals.
 
 **Group I elements** are <span style="color: violet">alkali metals</span>. They all have the same number of outermost shell electrons: 1.
@@ -20,5 +20,5 @@
   For metals, their reactivity depends on the tendency of that metal to loss the outermost shell electrons. The easier the metal to lose the outermost shell electron, the more reactive it is.
   ↪️ See also: [[Metallic bonds#Reactivity of metals]]
 
-> **Note**:
+> [!note]
 > Strength of metallic bond decreases down the group as the the electron in the outermost shell is weakly bounded by nucleus.

@@ -14,7 +14,7 @@ Plasma is the liquid part of blood. It is made up of mostly water (90%) with a v
 - **Inorganic ions**
   For regulating blood pH and [[Osmosis]].
 
-> **Note**:
+> [!note]
 > Carbon dioxide is slightly soluble in water, it dissolves to form an acid $\ce{H2CO3}$.
 
 - **Nutrients (e.g. [[Human nutrition|glucose, amino acids, lipids, vitamins]])**

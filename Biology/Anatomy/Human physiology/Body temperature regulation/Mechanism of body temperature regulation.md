@@ -36,7 +36,7 @@ The **control centre** is the <span style="color: skyblue">thermoregulatory cent
 
 - **Erector muscles contract and hairs become erect.**
 
-> **Note**:
+> [!note]
 > - A layer of still air is trapped close to the skin surface for mammals with thick furs.
 > - Air is a good insulator of heat, so heat loss from the skin by conduction and convection is prevented.
 
@@ -47,12 +47,12 @@ The **control centre** is the <span style="color: skyblue">thermoregulatory cent
 
 - **Sweat glands secrete more sweat**, heat loss by evaporation is increased.
 
-> **Note**:
+> [!note]
 > Like [[transpiration]], wind speed and relative humidity affects the rate of evaporation of sweat.
 
 - **Erector muscles relax and hairs lie flat.**
 
-> **Note**:
+> [!note]
 > - A thinner layer of still air is trapped close to the skin surface.
 > - Insulation is reduced and more heat is lost from the skin by conduction and convection.
 

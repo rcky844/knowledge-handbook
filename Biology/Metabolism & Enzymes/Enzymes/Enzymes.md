@@ -24,7 +24,7 @@ The products are released once the reaction has completed, with the enzyme remai
   ![[enzyme_denature.webp|300]]
 
 #### Factors that affect enzymatic reactions
-> **Note**:
+> [!note]
 > The rate of enzymatic reactions are measured by the <u>rate at which substrates are used up or the rate at which products are formed</u>.
 
 1. [[Effects of temperature on enzymatic reactions|Temperature]]

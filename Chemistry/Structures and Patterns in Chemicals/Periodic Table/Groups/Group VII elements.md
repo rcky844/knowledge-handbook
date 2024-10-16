@@ -8,7 +8,7 @@
 | Bromine  |     liquid      |         brown          |           brown            |           brown            |
 |  Iodine  |      solid      |      dark purple       |           brown            |           purple           |
 
-> **Note**:
+> [!note]
 > Halide ions are colourless.
 
 #### Similarities of Group VII halogens
@@ -17,7 +17,7 @@
 3. They all react with metals to form compounds called salt.
 
 #### Differences of Group VII halogens
-> **Note**:
+> [!note]
 > The strength of van der Waals' forces between halogens molecules increases with the molecular mass.
 > *See also: [[Microscopic World II]]*
 

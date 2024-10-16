@@ -20,7 +20,7 @@ Charles Darwin proposed the theory of natural selection and survival of the fitt
   ![[beetles_example.webp|600]]
 
 - [[Antibiotics#Development of antibiotic resistance in bacteria|Antibiotic-resistant bacteria]]
-> **Note**:
+> [!note]
 > Bacteria have a short generation time and reproduce very quickly. The amount of time required for developing antibiotic resistance is shorter, as each cell division may create mutations from DNA replication or damage by mutagens.
 
 - [[Sickle-cell anaemia#Resistance to malaria]]

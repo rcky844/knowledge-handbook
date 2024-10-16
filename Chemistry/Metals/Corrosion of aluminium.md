@@ -20,5 +20,5 @@ $\ce{2Al(s) + 3H2O(ℓ) → Al2O3(s) + 3H2(g)}$
 - The <u>hardness</u> of the aluminium object <u>increases</u>.
 - The aluminium object can be <u>dyed to give attractive colours</u>.
 
-> **Note**:
+> [!note]
 > The strength of the aluminium metal is not increased during anodization.

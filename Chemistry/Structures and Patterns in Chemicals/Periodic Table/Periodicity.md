@@ -34,7 +34,7 @@ Across a period, elements on different groups show different bondings and struct
 	- They all have [[giant covalent structure]].
 	- There is no delocalised electrons in their structure.
 
-> **Note**:
+> [!note]
 > Si and B are semi-conductors, they can conduct electricity at specific conditions (e.g. temperature).
 
 3. **Elements of Group V to Group 0 are electrical insulators**

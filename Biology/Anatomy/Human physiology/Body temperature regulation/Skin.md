@@ -35,7 +35,7 @@ The **skin** is mainly responsible for <span style="color: lightgreen">thermoreg
 - Contraction of erector muscle causes the hair to become erect.
 - Relaxation of erector muscle causes the hair to lie flat.
 
-> **Note**:
+> [!note]
 > The contraction of this muscle is an [[Reflex actions|involuntary action]].
 
 ###### Sebaceous glands

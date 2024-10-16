@@ -1,6 +1,6 @@
 **Deamination** is the breakdown of excess amino acids occurring in the liver.
 
-> **Note**:
+> [!note]
 > Excess amino acids cannot be stored in the body.
 
 ![[deamination_diagram.webp]]

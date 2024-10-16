@@ -16,8 +16,8 @@
   For metals, their reactivity depends on the tendency of that metal to loss the outermost shell electrons. The easier the metal to lose the outermost shell electron, the more reactive it is.
   ↪️ See also: [[Metallic bonds#Reactivity of metals]]
 
-> **Note**:
+> [!note]
 > Strength of metallic bond decreases down the group as the the electron in the outermost shell is weakly bounded by nucleus.
 
-> **Note**:
+> [!note]
 > Compared to Group I alkali metals, Group II alkaline earth metals are less reactive and has higher melting points and boiling points. This is because the electron in the outermost shell is bounded by more and stronger metallic bonds.

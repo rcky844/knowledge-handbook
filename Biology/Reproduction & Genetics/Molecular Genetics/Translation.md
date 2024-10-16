@@ -1,6 +1,6 @@
 **Translation** leads to the <u>synthesis of a polypeptide (protein)</u>. It requires an amino acid sequence determined by the series of codons on the mRNA. This process occurs at [[Ribosomes]] in the cytoplasm.
 
-> **Note**:
+> [!note]
 > Production of proteins occurs in the cytoplasm.
 
 #### Role of transfer RNA
@@ -9,7 +9,7 @@
 - At one end of the tRNA molecule is a <u>binding site for a specific amino acid</u>.
 - At the other end of the tRNA molecule is a <u>sequence of three unpaired bases (anticodon - complementary to codons of mRNA)</u>. It can pair with complementary mRNA codon.
 
-> **Note**:
+> [!note]
 > **tRNA** is a <u>single-stranded molecule</u> twisted into the shape of a clover leaf. <u>It is made in the nucleus through transcription and then moves out to the cytoplasm.</u>
 
 //TODO images
@@ -24,7 +24,7 @@
 - The process repeats, the ribosome moving one codon further along the mRNA. The proceeding tRNAs will be <u>released to pick up another amino acid</u>.
 - The ribosome continue to mover until it reaches a <u>stop codon</u> on the mRNA. The mRNA and the polypeptide will be released, translation is complete.
 
-> **Note**:
+> [!note]
 > - mRNA provides <u>two sites (codons) for amino acids</u>. Therefore, a tRNA will separate from the mRNA when another codon is to be translated and there are not enough sites for binding tRNA.
 > - There is <u>no corresponding tRNA for the stop codon</u>.
 

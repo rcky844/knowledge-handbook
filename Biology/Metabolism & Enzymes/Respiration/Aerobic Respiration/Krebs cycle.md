@@ -7,12 +7,12 @@
 - 2 Reduced FAD ($\ce{FADH2}$)
 - 2 ATP
 
-> **Note**:
+> [!note]
 > - There are two pyruvate molecules produced per glucose molecule, everything needs to be multiplied by 2 when thinking about what happens to a single glucose molecule in aerobic respiration.
 
 ![[krebs_cycle.avif|500]]
 
-> **Note**:
+> [!note]
 > Spelling oxaloacetate or citrate is not required.
 
 1. **Combination of acetyl-CoA with oxaloacetate (4-C)**
@@ -26,6 +26,6 @@
 	  ↪️ $\ce{8H + 3NAD + FAD → 3NADH + 3H+ + FADH2}$
 	- **Substrate-level phosphorylation**: A phosphate is transferred from one of the intermediates to ADP, forming $\ce{1ATP}$.
 
-> **Note**:
+> [!note]
 > The Kerbs cycle turns twice for each glucose molecule that undergoes [[Glycolysis]].
 

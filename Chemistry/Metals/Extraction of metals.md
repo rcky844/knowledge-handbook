@@ -23,7 +23,7 @@ These are suitable for extracting very unreactive metals (e.g. gold and platinum
 - Panning
 
 ##### Chemical methods
-> **Note**:
+> [!note]
 > Although the methods for dealing with more reactive metals can be used to extract less reactive metals from their ores, this will not be done due to cost concerns.
 
 ###### Heating the metal ore alone in air
@@ -46,7 +46,7 @@ Besides carbon, other reducing agents such as carbon monoxide gas, hydrogen gas 
 ↪️ Heating zinc(II) oxide with hydrogen: $\ce{ZnO (s) + H2 (g) ->[heat] Zn (s) + H2O (ℓ)}$
 ↪️ Heating zinc(II) oxide with carbon monoxide: $\ce{CuO (s) + CO (g) ->[heat] Cu (s) + CO2 (g)}$
 
-> **Note**:
+> [!note]
 > - An opening is made to prevent the excess build up of gas, which may cause the boiling tube to crack.
 > - The excess hydrogen / carbon monoxide is burned since hydrogen is explosive and flammable.
 > - The experiment should be performed in a fume cupboard.

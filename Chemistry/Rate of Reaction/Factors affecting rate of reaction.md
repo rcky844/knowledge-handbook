@@ -1,7 +1,7 @@
 #### Concentration of reactant
 Generally, a <u>higher concentration of reactants</u> results in a <u>higher rate of reaction</u>.
 
-> **Note**:
+> [!note]
 > Some reactions are not affected by the concentration of reactants.
 > ↪️ See also: [[Rate equation]] / [[Rate equation#Order of reaction]]
 
@@ -24,7 +24,7 @@ Consider the reaction: $\ce{Mg + 2HCl → MgCl2 + H2}$
 - The <u>reaction rate for curve A is higher</u> than that of curve B at any time as the concentration of $\ce{HCl(aq)}$ of curve A is higher than that of curve B.
 - <u>Curve A levels off earlier</u> than that of curve B as the <u>reaction completes earlier</u>.
 
-> **Note**:
+> [!note]
 > Same volume of hydrogen gas is produced, as $\ce{HCl}$ is in excess, while $\ce{Mg}$ is the limiting reagent.
 
 <u>Comparing curve A and C</u>
@@ -35,7 +35,7 @@ Consider the reaction: $\ce{Mg + 2HCl → MgCl2 + H2}$
 - The <u>number of reactant particles in a unit volume increases</u> when the concentration is increased.
 - The <u>collision frequency</u> and hence the <u>effective collision increases</u>.
 
-> **Note**:
+> [!note]
 > - Changing only the volume of a reagent used (e.g. $\ce{HCl}$) without a change in its concentration results in the same initial rate of reaction.
 > - In some instances, the total volume of the reaction mixture is kept the same between different trials, with a higher volume of the reagent and a lower volume of water in different trials. This is to allow the <u>concentration</u> of the reagent to be directly proportional to the <u>volume</u> of the reagent used.
 
@@ -60,6 +60,6 @@ OR
 - More reactant particles have energy equal or greater than the activation energy.
 - The effective collision increases.
 
-> **Note**:
+> [!note]
 > The rate of reaction is independent of the amount of catalyst added.
 

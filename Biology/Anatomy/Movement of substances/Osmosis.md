@@ -35,7 +35,7 @@ It is <u>inversely proportional to the solute concentration of a solution</u>. (
 	- When plant cells lose water significantly, the cells become flaccid and the plant wilts.
 - Most of the water in food is absorbed by osmosis in the human [[small intestine]].
 
-> **Note**:
+> [!note]
 > - Glucose is soluble in water, so it can affect the water potential of a solution.
 > - Starch is insoluble in water, so it does not affect the water potential of a solution.
 
