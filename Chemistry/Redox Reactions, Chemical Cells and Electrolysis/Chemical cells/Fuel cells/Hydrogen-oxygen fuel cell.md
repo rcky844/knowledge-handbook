@@ -30,7 +30,7 @@ With the help of chemical equations, state the working principle of hydrogen oxy
 - At anode, $\ce{H2(g)}$ is oxidized to $\ce{H2O(ℓ)}$:
   $\ce{2OH-(aq) + H2(g) -> 2H2O(ℓ) + 2e-}$
 - At cathode, $\ce{O2(g)}$ is reduced to $\ce{OH-(aq)}$:
-  $\ce{O2(g) + 2H2O(ℓ) + 4e- -> 4OH=(aq)}$
+  $\ce{O2(g) + 2H2O(ℓ) + 4e- -> 4OH-(aq)}$
 - The concentrated $\ce{NaOH(aq)}$ acts as an electrolyte and provides the $\ce{OH-(aq)}$ for the anodic reaction.
 - The porous electrodes allow the flow of materials in and our of the hydrogen-oxygen fuel cell.
 - The electrochemical reactions are catalysed by the platinum (/ nickel) in the electrode.

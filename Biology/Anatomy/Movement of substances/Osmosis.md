@@ -14,15 +14,15 @@ It is <u>inversely proportional to the solute concentration of a solution</u>. (
 - <u>No net movement of water molecules</u> into or out of the cell.
 
 ##### In a hypotonic solution
-- <u>Lower water potential</u> in cytoplasm than extracellular fluid.
+- <u>Lower water potential</u> in the cytoplasm than the extracellular fluid.
 - <u>Net gain of water</u> by osmosis.
 	- **Animal cells**: Swells and eventually bursts.
 	  ![[osmosis_hypotonic_animal.webp|250]]
-	- **Plant cells**: Vacuole and cytoplasm swell and cell membrane is pressed firmly against the cell wall. Rigid cell wall prevents them from bursting, the cell becomes [[Turgidity|turgid]].
+	- **Plant cells**: Vacuole and cytoplasm swell and cell membrane is pressed firmly against the cell wall. Rigid cell wall prevents them from bursting, the cell becomes [[Support in plants#Turgidity of thin-walled cells|turgid]].
 	  ![[osmosis_hypotonic_plant.webp|250]]
 
 ##### In a hypertonic solution
-- <u>Higher water potential</u> in cytoplasm than extracellular fluid.
+- <u>Higher water potential</u> in the cytoplasm than the extracellular fluid.
 - <u>Net loss of water</u> by osmosis.
 	- **Animal cells**: Shrink and becomes wrinkled.
 	  ![[osmosis_hypertonic_animal.webp|250]]

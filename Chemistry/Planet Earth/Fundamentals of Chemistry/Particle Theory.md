@@ -9,7 +9,7 @@
 ##### Spreading of bromine vapour
 - **Experiment**: Placing a jar of air upside down on a jar of bromine vapour.
 - **Observation**: The bromine vapour has spread throughout both jars after a period of time.
-- **Deduced explanation**: The <span style="color: lightgreen">bromine particles</span> and <span style="color: lightgreen">air particles</span> <u>move around randomly</u> and fill both gas jars. ([[diffusion]])
+- **Deduced explanation**: The <span style="color: lightgreen">bromine particles</span> and <span style="color: lightgreen">air particles</span> <u>move around randomly</u> and fill both gas jars. ([[Diffusion]])
 
 #### State of substances
 > **Note**:

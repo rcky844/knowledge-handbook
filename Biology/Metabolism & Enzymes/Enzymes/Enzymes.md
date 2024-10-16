@@ -8,26 +8,30 @@ To start any chemical reactions, sufficient activation energy must be supplied t
 
 #### Mechanism
 ![[enzymes_mechanism.webp|500]]
-Each enzyme has an <u>active site</u> with a specific shape. When the substrate collide with the enzyme and binds to the active site of the enzyme, an <u>enzyme-substrate complex</u> is formed. This allows the reaction to proceed with lower activation energy.
+Each enzyme has an <span style="color: skyblue">active site</span> with a specific shape. When the substrate collide with the enzyme and binds to the active site of the enzyme, an <span style="color: skyblue">enzyme-substrate complex</span> is formed. This allows the reaction to proceed with lower activation energy.
 
-Enzymes have specificity to the substrate it can act on. Only substrate with complementary shape can bind to the enzyme to form an enzyme-substrate complex. The 'lock-and-key' model is often used to explain the specificity of enzyme action.
+Enzymes have <u>specificity to the substrate</u> it can act on. Only <span style="color: violet">substrate with complementary shape</span> can bind to the enzyme to form an enzyme-substrate complex. The <span style="color: lightgreen">'lock-and-key' model</span> is often used to explain the specificity of enzyme action.
 
 The products are released once the reaction has completed, with the enzyme remaining unchanged and free to combine with other substrates.
 
 #### Properties of enzymes
-- Enzymes are protein molecules and remain active outside the body.
-- Enzymes serve as biological catalysts to speed up (catalyse) [[Metabolism|metabolic reactions]] in organisms without being used up or chemically altered.
-- Enzymes are reusable after the reactions and required in small amounts.
-- Enzymes are highly specific in action, one type of enzyme catalyses only one type of reaction.
-- Enzyme activity is affected by temperature and pH because they are proteins.
-  It will undergo an irreversible process called denaturation if the conditions are not suitable.
+- Enzymes are <span style="color: lightgreen">protein molecules</span> and remain active outside the body.
+- Enzymes serve as biological [[catalysts]] to speed up (catalyse) [[Metabolism|metabolic reactions]] in organisms <span style="color: lightgreen">without being used up or chemically altered</span>.
+- Enzymes are <span style="color: lightgreen">reusable</span> after the reactions and required in small amounts.
+- Enzymes are <span style="color: lightgreen">highly specific in action</span>, one type of enzyme catalyses only one type of reaction.
+- Enzyme activity is <span style="color: lightgreen">affected by temperature and pH</span> because they are proteins.
+  It will undergo an irreversible process called <span style="color: skyblue">denaturation</span> if the conditions are not suitable.
   ![[enzyme_denature.webp|300]]
 
 #### Factors that affect enzymatic reactions
-Note that rate of enzymatic reactions are measured by the rate at which substrates are used up or the rate at which products are formed. There are a few factors that could affect enzymatic reactions, they are listed below:
+> **Note**:
+> The rate of enzymatic reactions are measured by the <u>rate at which substrates are used up or the rate at which products are formed</u>.
+
 1. [[Effects of temperature on enzymatic reactions|Temperature]]
 2. [[Effects of pH level on enzymatic reactions|pH level]]
 3. [[Effects of inhibitors on enzymatic reactions|Presence of inhibitors]]
+
+**Experimentation**: [[Experiment to compare enzyme activities]]
 
 #### Applications in daily life
 |        Application        |     Enzyme(s) involved     |                                                         Principle & Effects                                                         |
@@ -42,10 +46,11 @@ Note that rate of enzymatic reactions are measured by the rate at which substrat
 |   Contact lens cleaners   |         Proteases          |                                            Remove protein deposits from contact lenses.                                             |
 | Biological washing powder | Lipase, amylase, proteases |                          Speed up the breakdown of lipids, starch and proteins in food stains on clothes.                           |
 |         Biofuels          |      Several enzymes       |             Break down starch in crops into sugar and ferment sugar to produce ethanol for use as fuels (for vehicles).             |
-##### Advantages for using enzymes in industrial processes
-- Chemical reactions are sped up for mass production with a higher yield of product.
-- Enzymes are specific in action and less likely to generate undesirable products.
-- A small amount of enzymes, which are reusable, can convert a lot of substrates into useful products.
-- Reactions can occur in mild condition in the presence of enzyme and reduce production cost.
-- Enzyme activity can be easily regulated by adjusting the reaction temperature and pH.
-- Enzymes are non-toxic and biodegradable which can replace certain harmful chemicals of industrial processes and produce fewer pollutants.
+##### Advantages of using enzymes in industrial processes
+*See also: [[Green chemistry]]*
+- <span style="color: lightgreen">Chemical reactions are sped up</span> for mass production with a higher yield of product.
+- Enzymes are <span style="color: violet">specific in action</span> and <span style="color: lightgreen">less likely to generate undesirable products</span>.
+- A <span style="color: violet">small amount of enzymes</span>, which are <span style="color: violet">reusable</span>, can <span style="color: lightgreen">convert a lot of substrates into useful products</span>.
+- Reactions can occur in <span style="color: lightgreen">mild conditions</span> in the presence of enzyme and <span style="color: lightgreen">reduce production cost</span>.
+- <span style="color: lightgreen">Enzyme activity can be easily regulated</span> by adjusting the reaction temperature and pH.
+- Enzymes are <span style="color: lightgreen">non-toxic and biodegradable</span> which can replace certain harmful chemicals of industrial processes and <span style="color: lightgreen">produce fewer pollutants</span>.

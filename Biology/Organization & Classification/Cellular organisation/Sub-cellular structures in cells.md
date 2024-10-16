@@ -7,6 +7,7 @@
 | :----------------------------: |
 |          *Plant cell*          |
 
+**Organelles**:
 1. [[Cell membrane]]
 2. [[Cytoplasm]]
 3. [[Nucleus]]

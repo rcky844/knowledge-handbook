@@ -9,13 +9,13 @@ Nitrogen has a <u>low boiling point</u>, its liquid stays at a very low temperat
 Oxygen is an <u>oxidising agent</u>. It is important for the oxidation for other substances.
 → **Usage**: Supporting combustion, For welding materials
 
-Oxygen is essential for lots of organisms to maintain their lives by aerobic [[respiration]].
+Oxygen is essential for lots of organisms to maintain their lives by aerobic [[Respiration]].
 
 #### Carbon dioxide ($\ce{CO2}$)
 Carbon dioxide is a relatively chemically <u>inert</u> gas. It does not react with other substances easily.
 → **Usage**: Fire extinguisher, Dry ice
 
-Carbon dioxide is essential for plants to carry out [[photosynthesis]].
+Carbon dioxide is essential for plants to carry out [[Photosynthesis]].
 
 #### Helium ($\ce{He}$), Neon ($\ce{Ne}$), Argon ($\ce{Ar}$)
 They are all noble gases. They are chemically <u>inert</u>. They do not react with other substances easily.

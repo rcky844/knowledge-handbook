@@ -4,12 +4,12 @@
 ##### Triglycerides
 ![[triglycerides.webp|120]] 
 - **Structure**:
-  Formed by condensation of one glycerol and three fatty acid molecules, which may be the same or different.
+  Formed by condensation of one glycerol and three fatty acid molecules (may be the same or different).
   ![[triglycerides_chem.webp|180]]
 
 - **Functions**: As energy reserves in organisms.
-	- Subcutaneous fat as an insulating layer to reduce heat loss.
-	- Adipose tissues around internal organs act as a shock-absorber.
+	- <span style="color: skyblue">Subcutaneous fat</span> as an <span style="color: lightgreen">insulating layer</span> to reduce heat loss.
+	- <span style="color: skyblue">Adipose tissues</span> around internal organs act as a <span style="color: lightgreen">shock-absorber</span>.
 
 
 <hr>
@@ -20,7 +20,7 @@
   Consists of one glycerol molecule, two fatty acid molecules and a phosphate group.
 
 - **Functions**:
-  As the main component of cell membranes.
+  As the main component of the [[cell membrane]].
 
 ##### See also
 - [[Phospholipid (Cell membrane)]]
@@ -33,7 +33,7 @@
   Complex molecule consisting of carbon rings.
 
 - **Functions**:
-	- Essential component of cell membranes.
+	- Essential component of the [[cell membrane]].
 	- Used in the synthesis of lipid hormones.
 	- Needed for making vitamin D.
 

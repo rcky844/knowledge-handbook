@@ -8,10 +8,13 @@
 - Monomers should be <u>bifunctional</u>, with the molecules able to react with neighbouring molecules to <u>form a chain</u>.
 
 ##### Polyesters from two types of monomers
-**Example**: PET (Polyethylene terephthalate)
+**Example**:
 ![[pet.svg|500]]
-- It is formed by repeated [[esterification]] between benzene-1,4-dioic acid and ethane-1,2-diol.
-o
+**PET (Polyethylene terephthalate)** is formed by repeated [[esterification]] between benzene-1,4-dioic acid and ethane-1,2-diol.
+
+> **Note**:
+> The stoichiometric ratio of the water produced can also be $2n-1$.
+
 **Intermolecular forces between PET chains**:
 ![[pet_intermolecular.webp|600]]
 There are only <u>van der Waals' forces</u> between PET chains.
@@ -49,9 +52,12 @@ The polyester is made from just one type of monomer containing $\ce{-COOH}$ and 
 - Monomers should be <u>bifunctional</u>, with the molecules able to react with neighbouring molecules to <u>form a chain</u>.
 
 ##### Polyamide from two types of monomers
-**Example**: Nylon-6,6
+**Example**:
 ![[nylon66.svg|500]]
-- It is formed by repeated condensation reaction between hexane-1,6-diamine and hexanedioic acid.
+**Nylon-6,6** is formed by repeated condensation reaction between hexane-1,6-diamine and hexanedioic acid.
+
+> **Note**:
+> The stoichiometric ratio of the water produced can also be $2n-1$.
 
 **Intermolecular forces between nylon-6,6 chains**:
 ![[nylon66_hbond.webp|600]]
@@ -59,7 +65,7 @@ There are <u>hydrogen bonds</u> between nylon-6,6 chains.
 
 
 **Properties of polyamide**:
-- **They do not have a sharp melting point**
+- **They do not have a sharp melting point.**
   Each polyamide contains a different number of monomers ($n$).
 
 - **Decomposition by acids and alkalis**

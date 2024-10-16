@@ -1,5 +1,5 @@
 **Carbohydrates** act as important sources of <u>energy</u> and <u>structural material</u> in organisms.
-- **Components**: Carbon, hydrogen and oxygen (H:O = 2:1)
+- **Components**: Carbon, hydrogen and oxygen ($\pu{H : O = 2 : 1}$)
 - **General formula**: $\ce{C_x(H2O)_y}$
 
 ##### Monosaccharides
@@ -8,7 +8,7 @@
 - **Sweetness**: ✓
 - **Reducing sugar**: ✓
 - **Examples**:
-	- <u>Glucose</u>: Respiratory substrate
+	- <u>Glucose</u>: [[Respiration|Respiratory]] substrate
 	- <u>Fructose</u>: Found in fruits
 	- <u>Galactose</u>: Found in milk
 

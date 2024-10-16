@@ -19,6 +19,5 @@
 - **Conc. of substrate**
   The inhibitory activity cannot be overcame by increasing the substrate concentration.
 
-
 #### Rate of reaction with inhibitors
 ![[inhibitors_graph.webp|450]]

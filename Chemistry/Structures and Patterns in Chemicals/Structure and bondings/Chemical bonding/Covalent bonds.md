@@ -61,4 +61,3 @@ Describe the formation of dative covalent bond using $\ce{H3O+}$ as example.
 > Similar to demand / supply:
 > - There is a demand for electrons to attain stable electronic configuration.
 > - There is also a supply of lone pair electrons.
-
