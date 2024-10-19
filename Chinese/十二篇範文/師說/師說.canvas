@@ -8,7 +8,7 @@
 		{"id":"f450a2208d5fa45c","type":"file","file":"Chinese/十二篇範文/師說/第六段.md","x":1420,"y":120,"width":400,"height":400},
 		{"id":"fa673943ef974d95","type":"text","text":"# Sections","x":650,"y":-120,"width":180,"height":60},
 		{"id":"c500b5330c1c592a","type":"file","file":"Chinese/十二篇範文/師說/第七段.md","x":1860,"y":120,"width":400,"height":400},
-		{"id":"34e96b42adb20403","x":540,"y":600,"width":400,"height":400,"type":"file","file":"Chinese/十二篇範文/師說/作法特色.md"}
+		{"id":"34e96b42adb20403","type":"file","file":"Chinese/十二篇範文/師說/作法特色.md","x":540,"y":600,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"eed7ee4840425b49","fromNode":"fa673943ef974d95","fromSide":"bottom","toNode":"65df412a446328c9","toSide":"top"},
