@@ -1,7 +1,6 @@
 ![[List article!]]
 
 #### Sections
-##### Fossil Fuels and Carbon Compounds
 1. [[Hydrocarbons from fossil fuels]]
 	- [[Combustion]]
 
