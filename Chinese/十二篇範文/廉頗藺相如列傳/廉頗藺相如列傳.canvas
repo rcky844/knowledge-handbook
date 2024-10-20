@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d0ed5fc08fb9d77c","type":"file","file":"Chinese/十二篇範文/廉頗藺相如列傳/原文.md","x":-200,"y":-420,"width":400,"height":400},
+		{"id":"8aa36fb1829fddc2","type":"file","file":"Chinese/十二篇範文/廉頗藺相如列傳/完璧歸趙.md","x":-480,"y":80,"width":400,"height":400},
+		{"id":"7054992c004f1371","type":"file","file":"Chinese/十二篇範文/廉頗藺相如列傳/澠池之會.md","x":80,"y":80,"width":400,"height":400},
+		{"id":"890a1bd32ffb3fc6","type":"file","file":"Chinese/十二篇範文/廉頗藺相如列傳/負荊請罪.md","x":620,"y":80,"width":400,"height":400},
+		{"id":"f98a8bbedfb1add0","x":-1040,"y":80,"width":400,"height":400,"type":"file","file":"Chinese/十二篇範文/廉頗藺相如列傳/人物背景.md"}
+	],
+	"edges":[
+		{"id":"d0ec738ce11d0117","fromNode":"d0ed5fc08fb9d77c","fromSide":"bottom","toNode":"8aa36fb1829fddc2","toSide":"top"},
+		{"id":"b40679c5d24303b9","fromNode":"d0ed5fc08fb9d77c","fromSide":"bottom","toNode":"890a1bd32ffb3fc6","toSide":"top"},
+		{"id":"c4e46addef8e154e","fromNode":"d0ed5fc08fb9d77c","fromSide":"bottom","toNode":"7054992c004f1371","toSide":"top"},
+		{"id":"5cbe2599993fd476","fromNode":"d0ed5fc08fb9d77c","fromSide":"bottom","toNode":"f98a8bbedfb1add0","toSide":"top"}
+	]
+}
