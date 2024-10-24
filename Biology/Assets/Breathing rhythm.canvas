@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1488e9f422bde0f4","x":580,"y":200,"width":300,"height":320,"type":"group","label":"Action of muscles"},
+		{"id":"62d48862a8545f1c","x":646,"y":341,"width":170,"height":60,"type":"text","text":"Contraction"},
+		{"id":"c82a9c5bbd2855d2","type":"text","text":"Relaxation","x":646,"y":425,"width":170,"height":60},
+		{"id":"913dedbb7d986f26","x":597,"y":220,"width":269,"height":95,"type":"text","text":"**Intercostal muscles and diaphragm muscles**\n(breathing system)"},
+		{"id":"408bff6cf259e3cb","x":960,"y":378,"width":228,"height":94,"type":"text","text":"**Stretch receptors**\n(stimulated by expansion of lungs)"},
+		{"id":"a1d7338ec089955f","type":"text","text":"**Respiratory centre**\n(in medulla oblonata)","x":120,"y":395,"width":244,"height":60}
+	],
+	"edges":[
+		{"id":"bcd7aa4cf70a7b2f","fromNode":"408bff6cf259e3cb","fromSide":"bottom","toNode":"a1d7338ec089955f","toSide":"bottom","label":"inhibit"},
+		{"id":"596c89ea90818202","fromNode":"a1d7338ec089955f","fromSide":"right","toNode":"62d48862a8545f1c","toSide":"left","label":"stimulates"},
+		{"id":"021419875cb8939d","fromNode":"408bff6cf259e3cb","fromSide":"bottom","toNode":"c82a9c5bbd2855d2","toSide":"bottom","label":"causes"},
+		{"id":"bd68d2ebd414d2a3","fromNode":"62d48862a8545f1c","fromSide":"right","toNode":"408bff6cf259e3cb","toSide":"left"},
+		{"id":"f6528f57734cbe3d","fromNode":"c82a9c5bbd2855d2","fromSide":"left","toNode":"a1d7338ec089955f","toSide":"right"}
+	]
+}

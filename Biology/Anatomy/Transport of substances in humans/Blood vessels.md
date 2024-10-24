@@ -4,14 +4,14 @@
 ![[arteries.webp|600]]
 
 ##### Structural features
-**Direction of blood flow**: Away from the heart (from the heart to body tissues)
-**Blood pressure**: High, due to the pumping action of the heart
-**Oxygenation of blood**: Oxygenated (except the pulmonary artery and the umbilical artery of an unborn baby)
-**Location**: Most arteries are located deep in the body
-**Wall**: Thicker muscular wall with more elastic fibres
-**Lumen**: Relatively small
-**Valves**: Absent (except at the base of the pulmonary artery and the aorta)
-**Rate of blood flow**: Faster
+- **Direction of blood flow**: Away from the heart (from the heart to body tissues)
+- **Blood pressure**: High, due to the pumping action of the heart
+- **Oxygenation of blood**: Oxygenated (except the pulmonary artery and the umbilical artery of an unborn baby)
+- **Location**: Most arteries are located deep in the body
+- **Wall**: Thicker muscular wall with more elastic fibres
+- **Lumen**: Relatively small
+- **Valves**: Absent (except at the base of the pulmonary artery and the aorta)
+- **Rate of blood flow**: Faster
 
 ##### Structural adaptations
 - **Arteries have very thick walls.**
@@ -27,19 +27,19 @@
 ![[veins.webp|600]]
 
 ##### Structural features
-**Direction of blood flow**: Towards the heart
-**Blood pressure**: Low, as blood has overcome resistance from the walls of blood vessels after travelling through many vessels over a long distance.
+- **Direction of blood flow**: Towards the heart
+- **Blood pressure**: Low, as blood has overcome resistance from the walls of blood vessels after travelling through many vessels over a long distance.
 
 **Force to move the blood**:
 - Contraction of skeletal muscles adjacent to the veins aids blood flow. When these skeletal muscles contract, the veins are squeezed and the blood inside is forced towards the heart.
 - Inhalation creates negative pressure in the thoracic cavity that facilitates the flow of blood in veins back to the heart.
 
-**Oxygenation of blood**: Deoxygenated (except the pulmonary vein and the umbilical vein of an unborn baby)
-**Location**: Most veins are located closer to the body surface (for heat dissipation)
-**Wall**: Thinner wall with fewer elastic fibres
-**Lumen**: Relatively large
-**Valves**: Present
-**Rate of blood flow**: Slower
+- **Oxygenation of blood**: Deoxygenated (except the pulmonary vein and the umbilical vein of an unborn baby)
+- **Location**: Most veins are located closer to the body surface (for heat dissipation)
+- **Wall**: Thinner wall with fewer elastic fibres
+- **Lumen**: Relatively large
+- **Valves**: Present
+- **Rate of blood flow**: Slower
 
 ##### Structural adaptations
 - **Veins have a larger lumen than arteries.**
@@ -52,14 +52,14 @@
 ![[capillaries.webp|600]]
 
 ##### Structural features
-**Direction of blood flow**: Connect arteries and veins
-**Blood pressure**: Falls when the blood travels from the arterial end to the venous end
-**Oxygenation of blood**: Oxygenated at the arterial end, deoxygenated at the venous end
-**Location**: In body tissues (for exchange of materials between the blood and body cells, form networks called capillary beds)
-**Wall**: One-cell thick
-**Lumen**: Very small
-**Valves**: Absent
-**Rate of blood flow**: Very slow
+- **Direction of blood flow**: Connect arteries and veins
+- **Blood pressure**: Falls when the blood travels from the arterial end to the venous end
+- **Oxygenation of blood**: Oxygenated at the arterial end, deoxygenated at the venous end
+- **Location**: In body tissues (for exchange of materials between the blood and body cells, form networks called capillary beds)
+- **Wall**: One-cell thick
+- **Lumen**: Very small
+- **Valves**: Absent
+- **Rate of blood flow**: Very slow
 
 ##### Structural adaptations
 - **The capillaries are highly branched.**

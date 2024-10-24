@@ -4,7 +4,7 @@ The **endocrine system** is responsible for <span style="color: lightgreen">horm
 
 **Endocrine glands** are ductless glands and secrete hormones directly into blood vessels. Inside of these glands, hormone-secreting cells release hormones. After it diffuses into the bloodstream, <u>it travels throughout the body to target organs</u>.
 
-Below lists some examples of endocrine glands:
+#### Examples of hormones and glands
 
 | Hormone | Endocrine gland | Functions of the hormone |
 | :--: | :--: | :--: |
@@ -20,7 +20,7 @@ Below lists some examples of endocrine glands:
 | Progesterone | Regulates the menstrual cycle |
 | Testosterone | Testes | Stimulates the development of the male reproductive system and male secondary sexual characteristics |
 
-#### Nature
+#### Nature of coordination
 **Hormones** are chemical messengers that travel throughout the body in the bloodstream. They have the following properties:
 - They are <span style="color: lightgreen">very specific</span> and will <u>only act on target organs</u> with cells that have specific receptor sites.
 	- The hormone binds to the receptor sites of the target cells to produce specific responses.

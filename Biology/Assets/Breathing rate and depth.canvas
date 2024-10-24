@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"ad79b660caa608dc","type":"group","x":160,"y":-418,"width":940,"height":780,"label":"Response"},
+		{"id":"6cc9390e18d3ddd4","type":"group","x":-540,"y":-180,"width":580,"height":304,"label":"Chemoreceptors"},
+		{"id":"0154ce3e089b8ff2","type":"text","text":"**Carotid bodies**\n(in walls of carotid arteries in the neck)","x":-240,"y":-70,"width":250,"height":94},
+		{"id":"2e33c5de45408454","type":"text","text":"**Respiratory centre**\n(in medulla oblongata)","x":-240,"y":-160,"width":250,"height":60},
+		{"id":"9c1e514cd7f97f3e","type":"text","text":"**Aortic bodies**\n(in the wall of aorta)","x":-240,"y":44,"width":250,"height":60},
+		{"id":"2ac4c6f8b52bfe4f","type":"text","text":"**Chemoreceptors**\n(detect changes in pH of blood)","x":-520,"y":-71,"width":201,"height":97},
+		{"id":"506f0bab2094ba54","type":"text","text":"**Intercostal muscles and diaphragm muscles** contract more frequently and forcefully","x":200,"y":-138,"width":328,"height":100},
+		{"id":"d77be05f948df3bc","type":"text","text":"**Respiratory centre** sends more nerve impulses","x":225,"y":-258,"width":278,"height":69},
+		{"id":"2d3e47287e25a67e","type":"text","text":"$\\ce{CO2}$ is breathed out at a faster rate","x":239,"y":22,"width":250,"height":60},
+		{"id":"22b3b3d2a8129fc1","type":"text","text":"Rise in blood pH","x":265,"y":-378,"width":198,"height":60},
+		{"id":"53e7bc756eb8a4f1","type":"text","text":"Blood pH returns to normal","x":520,"y":242,"width":205,"height":70},
+		{"id":"920d91701133f64d","type":"text","text":"**Intercostal muscles and diaphragm muscles** contract less frequently and forcefully","x":720,"y":-138,"width":328,"height":100},
+		{"id":"35587bc0a70afe85","type":"text","text":"**Respiratory centre** sends less nerve impulses","x":745,"y":-258,"width":278,"height":69},
+		{"id":"2be60783ddf86e58","type":"text","text":"$\\ce{CO2}$ is breathed out at a slower rate","x":759,"y":22,"width":250,"height":60},
+		{"id":"97085704319a76af","type":"text","text":"Fall in blood pH","x":785,"y":-378,"width":198,"height":60}
+	],
+	"edges":[
+		{"id":"2cdda395f07299ad","fromNode":"2ac4c6f8b52bfe4f","fromSide":"right","toNode":"2e33c5de45408454","toSide":"left"},
+		{"id":"b9a5115d91c21591","fromNode":"2ac4c6f8b52bfe4f","fromSide":"right","toNode":"0154ce3e089b8ff2","toSide":"left"},
+		{"id":"0db5b3b88181e148","fromNode":"2ac4c6f8b52bfe4f","fromSide":"right","toNode":"9c1e514cd7f97f3e","toSide":"left"},
+		{"id":"c433149eb5575500","fromNode":"6cc9390e18d3ddd4","fromSide":"right","toNode":"ad79b660caa608dc","toSide":"left"},
+		{"id":"713c3985fc541d6a","fromNode":"22b3b3d2a8129fc1","fromSide":"bottom","toNode":"d77be05f948df3bc","toSide":"top"},
+		{"id":"03e98dae47aa1521","fromNode":"d77be05f948df3bc","fromSide":"bottom","toNode":"506f0bab2094ba54","toSide":"top"},
+		{"id":"7ef939b554ab5b31","fromNode":"506f0bab2094ba54","fromSide":"bottom","toNode":"2d3e47287e25a67e","toSide":"top"},
+		{"id":"9409a662e62f3ded","fromNode":"97085704319a76af","fromSide":"bottom","toNode":"35587bc0a70afe85","toSide":"top"},
+		{"id":"957167c840d9c798","fromNode":"35587bc0a70afe85","fromSide":"bottom","toNode":"920d91701133f64d","toSide":"top"},
+		{"id":"d6d484b6efe0a00c","fromNode":"920d91701133f64d","fromSide":"bottom","toNode":"2be60783ddf86e58","toSide":"top"},
+		{"id":"feadeb866d299446","fromNode":"2d3e47287e25a67e","fromSide":"bottom","toNode":"53e7bc756eb8a4f1","toSide":"top","label":"fall in blood pH"},
+		{"id":"9473b7002e89b7f0","fromNode":"2be60783ddf86e58","fromSide":"bottom","toNode":"53e7bc756eb8a4f1","toSide":"top","label":"rise in blood pH"}
+	]
+}
