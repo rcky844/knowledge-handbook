@@ -33,20 +33,20 @@ Structural isomers all have the <u>same molecular formula</u>.
 ##### *Cis-trans* isomerism (geometric isomers)
 ***Cis-trans* isomers**, also **geometric isomers**, are isomers with different spatial arrangements due to the <u>restricted rotation</u> of $\ce{C=C}$ double bond.
 
-![[cis-12-dichloroethene_text.webp|200]] ![[trans-12-dichloroethene_text.webp|223]]
+![[cis-12-dichloroethene_text.webp|180]] ![[trans-12-dichloroethene_text.webp|200]]
 
-**Chemical and physical properties**:
-*Cis-trans* isomers show <u>similar (or the same) chemical properties</u> because they possess exactly the <u>sane functional group</u>.
+> [!tip] Chemical properties
+> *Cis-trans* isomers show <u>similar (or the same) chemical properties</u> because they possess exactly the <u>same functional group</u>.
+> ![[cis-trans_polar_non-polar.webp|400]]
 
-![[cis-trans_polar_non-polar.webp|400]]
-
-*Cis* isomers would have a higher boiling point than *trans* isomers.
-- This is because *cis* isomers are polar, while *trans* isomers are non-polar.
-- The van der Waals' force between *cis* molecules is stronger than that in *trans* molecules <u>in liquid state</u>.
-
-*Trans* isomers would have a higher melting point than *cis* isomers.
-- This is because *trans* isomers have a higher packing efficiency than *cis* isomers.
-- The van der Waals' force between *trans* molecules is stronger than that in *cis* molecules <u>in solid state</u>.
+> [!tip] Melting point and boiling point
+> *Cis* isomers would have a higher boiling point than *trans* isomers.
+> - This is because *cis* isomers are polar, while *trans* isomers are non-polar.
+> - The van der Waals' force between *cis* molecules is stronger than that in *trans* molecules <u>in liquid state</u>.
+> 
+> *Trans* isomers would have a higher melting point than *cis* isomers.
+> - This is because *trans* isomers have a higher packing efficiency than *cis* isomers.
+> - The van der Waals' force between *trans* molecules is stronger than that in *cis* molecules <u>in solid state</u>.
 
 ##### Enantiomerism
 **Enantiomers** are two <u>non-identical molecules</u> with atoms or groups of atoms arranged in different positions.

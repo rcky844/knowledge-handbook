@@ -14,7 +14,7 @@
 **General rule**:
 - Salts with $\ce{Na+}$ / $\ce{K+}$ / $\ce{NH4+}$ ions are always soluble in water.
 - Salts with $\ce{NO3-}$ / $\ce{HCO3-}$ ions are always soluble in water.
-- Most salts with $\ce{CO3^2-}$ / $\ce{O^2-}$ / $\ce{OH-}$ ions are insoluble in water.
+- Most salts with $\ce{CO3^2-}$ / $\ce{O^2-}$ / $\ce{OH-}$ ions are insoluble in water (e.g. $\ce{MgSO4}$).
 - **Exception cases**: $\ce{BaSO4}$ / $\ce{CaSO4}$ / $\ce{PbSO4}$ / $\ce{Ag2SO4}$ / $\ce{PbCl2}$ / $\ce{AgCl}$
 
 > [!note]

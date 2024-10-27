@@ -102,7 +102,6 @@ Consider when a copper ribbon is added into an aqueous solution of silver nitrat
 
 Consider the reaction between zinc and copper(II) oxide:
 - **Chemical equation**: $\ce{Zn (s) + CuO (s) ->[heat] ZnO (s) + Cu (s)}$
-- **Observable changes**:
-	- Reddish brown solid is formed.
+- **Observable changes**: Reddish brown solid is formed.
 - **Explanation**: As zinc is more reactive than copper, zinc will lose electrons more readily than copper.
 
