@@ -2,8 +2,10 @@
 - There is <u>no need to connect a battery</u> into the set-up.
 - There will be <u>electron flow</u> in the external circuit of the chemical cell.
 
-> [!note]
-> Current flow occurs in the reverse direction to the electron flow.
+> [!warning]
+> - <span style="color: lightgreen">Electrons only flow through the external circuit.</span> They do not flow through the electrolyte solution.
+> - Current flow occurs in the reverse direction to the electron flow.
+> - There is <span style="color: lightgreen">no attraction between electrodes and ions</span> by charge.
 
 The <u>voltage produced</u> by chemical cells are measured using <span style="color: skyblue">voltmeter or multimeter</span>.
 
@@ -30,3 +32,6 @@ The <u>voltage produced</u> by chemical cells are measured using <span style="co
 | :--: | :--: | :--: |
 | Cathode | Reduction | +ve electrode |
 | Anode | Oxidation | -ve electrode |
+
+#### See also
+- [[Chemical cells in daily life]]

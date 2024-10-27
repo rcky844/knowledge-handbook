@@ -25,6 +25,9 @@ Consider the following chemical cell:
 - Electron flows from $\ce{Mg(s)}$ to $\ce{Cu(s)}$ through the external circuit.
 - Current flows from $\ce{Cu(s)}$ to $\ce{Mg(s)}$ through the external circuit.
 
+> [!warning]
+> <span style="color: lightgreen">Electrons only flow through the external circuit.</span> They do not flow through the electrolyte solution.
+
 ##### Problems
 1. **Displacement reaction occurs between $\ce{Mg}$ strip and $\ce{Cu^2+(aq)}$ ions in the solution.**
    The electrons are directly transferred from $\ce{Mg}$ to $\ce{Cu^2+}$ and they do not flow through the external circuit. This creates a waste of electrons.
