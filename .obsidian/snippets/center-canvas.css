@@ -1,0 +1,3 @@
+.canvas-node-content:not(.is-loaded) {
+    text-align: center;
+}
