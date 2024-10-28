@@ -1,3 +1,12 @@
+> [!note]
+> The hazard warning labels provided here are European hazard labels.
+
+> [!tip] Globally harmonized system picograms
+> There are some minor differences between the European and GHS labels:
+> - ![[bottle.gif|75]] Compressed gas
+> - ![[silhouete.gif|75]] Health hazard
+> - ![[Aquatic-pollut-red.gif|75]] Hazardous to aquatic lives
+
 #### Corrosive
 ![[label_corrosive.webp|100]]
 
@@ -14,7 +23,7 @@
 
 **Examples**
 - Methanol
-- Halogens
+- Halogens (e.g. $\ce{F2}$, $\ce{Cl2}$, $\ce{Br2}$, $\ce{I2}$)
 - Carbon monoxide ($\ce{CO}$)
 - Nitrogen dioxide ($\ce{NO2}$)
 - Heavy metals (e.g. Lead, Mercury)
@@ -22,7 +31,7 @@
 - Tetrachloromethane
 - Dioxin, Nicotine
 
-> [!note]
+> [!warning]
 > There is no hazardous warning label stating "Poisonous"!
 
 #### Explosive
@@ -40,16 +49,17 @@
 - Methanol, ethanol
 - Hydrogen ($\ce{H2}$)
 - Methane ($\ce{CH4}$)
+- Carbon monoxide ($\ce{CO}$)
 - Hydrocarbons (e.g. alcohol, petrol, kerosene)
-	- LPG and town gas
+- LPG and town gas
 
 #### Oxidizing
 ![[label_oxidizing.webp|100]]
 
 **Examples**
 - Nitric acid
-- Conc. sulphuric acid
-- Potassium permanganate ($\ce{KMnO4}$)
+- Concentrated sulphuric acid / Concentrated nitric acid / Dilute nitric acid
+- Potassium permanganate ($\ce{KMnO4}$) / Potassium dichromate ($\ce{K2Cr2O7}$)
 - Oxygen (at high pressure)
 
 #### Irritant

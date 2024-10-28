@@ -12,7 +12,8 @@
 **Preparation of $\ce{CaSO4(s)}$**:
 *Pre-context: [[Salts#Solubility of salts]]*
 
-For preparation of $\ce{CaSO4(s)}$, do not use reactants that will result in the formation of a barrier for the reactants that prevent further reaction.
+> [!warning]
+> For preparation of $\ce{CaSO4(s)}$, do not use reactants that will result in the formation of a barrier for the reactants that prevent further reaction.
 
 <u>Optimal reaction route</u>: $\ce{CaCO3(s) ->[HNO3(aq)] Ca(NO3)2(aq) ->[H2SO4(aq)] CaSO4(s)}$
 - Add <u>excess</u> $\ce{CaCO3(s)}$ to <u>dilute</u> $\ce{HNO3(aq)}$. Filter to remove unreacted $\ce{CaCO3(s)}$.

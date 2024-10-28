@@ -43,7 +43,7 @@ By dissolving hydrogen chloride gas ($\ce{HCl(g)}$) into water.
 **Dissolving process of hydrogen chloride gas**:
 ![[dissolve_hcl.webp]]
 - When $\ce{HCl(g)}$ dissolves in water, the number of mole of gas in the system decreases and the pressure decreases.
-- An inverted funnel set-up is used in order to <span style="color: lightgreen">prevent suck back</span> of the solution.
+- An <span style="color: violet">inverted funnel</span> set-up is used in order to <span style="color: lightgreen">prevent suck back</span> of the solution.
 
 > [!note]
 > Hydromium ion $\ce{H3O+}$ is also formed when $\ce{H+}$ ions react with $\ce{H2O}$ by forming [[Covalent bonds#Dative covalent bonds|dative covalent bond]].
