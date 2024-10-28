@@ -9,8 +9,8 @@ In total, there are 20 types of amino acids.
 - Lean meat
 - Fish
 - Eggs, diary products
-- Grains
-- Nuts, peas, soya beans
+- Grains (plant sources)
+- Nuts, peas, soya beans (plant sources)
 
 #### Additional functions
 - <span style="color: violet">Form enzymes, antibodies, some hormones, receptors, haemoglobin</span>
