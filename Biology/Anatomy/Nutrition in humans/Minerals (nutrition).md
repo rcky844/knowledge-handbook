@@ -1,26 +1,24 @@
 #### Calcium ($\ce{Ca^2+}$)
-
 - **Food sources**
   milk, cheese, yogurt, sardines, almonds, green vegetables
 
 - **Functions**
-	- For the <u>formation of bones and teeths</u>
-	- For <u>blood clotting</u> and <u>muscle contraction</u>
+	- For the <span style="color: violet">formation of bones and teeths</span>
+	- For <span style="color: violet">blood clotting</span> and <span style="color: violet">muscle contraction</span>
 
 - **Deficiency symptoms / diseases**
-	- Rickets (affects bone development in children)
-	- Osteoporosis (weakens bones in adults)
+	- <span style="color: skyblue">Rickets</span> (affects bone development in children)
+	- <span style="color: skyblue">Osteoporosis</span> (weakens bones in adults)
 
 #### Iron ($\ce{Fe^2+}$)
-
 - **Food souces**
   liver, beef, eggs, green leafy vegetables
 
 - **Functions**
-  For the <u>formation of haemoglobin</u>
+  For the <span style="color: violet">formation of haemoglobin</span>
 
 - **Deficiency symptoms / diseases**
-	- Anaemia (lack enough healthy red blood cells)
+	- <span style="color: skyblue">Anaemia</span> (lack enough healthy red blood cells)
 
 #### See also
 - [[Minerals]]

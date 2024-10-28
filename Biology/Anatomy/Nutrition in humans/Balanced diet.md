@@ -1,18 +1,16 @@
-The food pyramid is a guide containing a variety of food substances in the right amounts and proportions to help achieve a balanced diet.
+**Balanced diet** provides us with enough energy and nutrients for maintaining metabolism (including growth), muscle contractions when performing physical activities, and generating heat to keep the body temperature constant.
+
+The **food pyramid** is a guide containing a variety of food substances in the right amounts and proportions to help achieve a balanced diet.
 
 ![[balanced_diet_diagram.webp|400]]
 
-**Balanced diet** provides us with enough energy and nutrients for maintaining metabolism (including growth), muscle contractions when performing physical activities, and generating heat to keep the body temperature constant.
-
 #### Factors influencing dietary requirements
-Dietary requirements (energy and nutrients) varies from person to person.
-
 1. **Age**
-   Children have a <u>higher metabolic rate</u> (stage of rapid development) and <u>lose heat faster</u> (larger surface area to volume ratio than adults). As they have higher energy requirement per unit body mass, diet should include relative large amounts of energy-rich food.
+   <span style="color: lightgreen">Children have a higher metabolic rate</span> (stage of rapid development) and <span style="color: lightgreen">lose heat faster</span> (larger surface area to volume ratio than adults). As they have higher energy requirement per unit body mass, diet should include relative large amounts of energy-rich food.
 
 2. **Gender and body size**
-	- Males have larger body size and more muscle mass, resulting in a higher metabolic rate than females and requires more energy and proteins.
-	- Females need more iron to compensate for the iron lost each month in menstrual blood.
+	- <span style="color: lightgreen">Males have larger body size and more muscle mass</span>, resulting in a higher metabolic rate than females and requires more energy and proteins.
+	- <span style="color: lightgreen">Females need more iron</span> to compensate for the iron lost each month in <span style="color: violet">menstrual blood</span>.
 
 3. **Level of physical activity**
    People who perform heavy physical activities (e.g. construction worker, professional athlete) need a diet rich in carbohydrates and proteins.
@@ -26,13 +24,13 @@ Dietary requirements (energy and nutrients) varies from person to person.
 *See also: [[Body mass index]]*
 
 ##### Undernutrition
-Undernutrition occurs when energy intake from food is lower than energy output. It may occur during <u>fasting</u>.
+**Undernutrition** occurs when energy intake from food is lower than energy output. It may occur during <span style="color: aqua">fasting</span>.
 
-During this condition, our bodies will use (1) <u>glycogen in liver and skeletal muscles</u> and (2) <u>subcutaneous fat</u>, causing weight loss. Prolonged starvation and the absence of fat reserves will cause our bodies to use (3) <u>muscle proteins</u> as a source of energy.
+During this condition, our bodies will use (1) <span style="color: lightgreen">glycogen in liver and skeletal muscles</span> and (2) <span style="color: lightgreen">subcutaneous fat</span>, causing weight loss. Prolonged starvation and the absence of fat reserves will cause our bodies to use (3) <span style="color: lightgreen">muscle proteins</span> as a source of energy.
 
-Severe protein deficiency can lead to kwashiorkor, symptoms include stunted growth, anaemia, hair loss, swollen belly (tissue fluid accumulates in the abdomen).
+Severe protein deficiency can lead to <span style="color: violet">kwashiorkor</span>, symptoms include stunted growth, anaemia, hair loss, <u>swollen belly</u> (tissue fluid accumulates in the abdomen).
 
 ##### Overnutrition
-Overnutrition occurs when energy intake from food is higher than energy output. It may occur when the person heat too much or lack sufficient physical activity.
+**Overnutrition** occurs when energy intake from food is higher than energy output. It may occur when the person <span style="color: aqua">eat too much or lack sufficient physical activity</span>.
 
-During this condition, out bodies will store the excess as fat and cause weight gain. Serious condition of overweight is obesity which leads to high blood pressure, heart diseases, diabetes, gallstones or serious damage to the joints.
+During this condition, out bodies will <span style="color: lightgreen">store the excess as fat and cause weight gain</span>. Serious condition of overweight is obesity which leads to high blood pressure, heart diseases, diabetes, gallstones or serious damage to the joints.

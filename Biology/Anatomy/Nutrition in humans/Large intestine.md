@@ -1,5 +1,8 @@
 ![[large_intestine.avif]]
-The remaining <u>undigested materials</u> (not metabolic waste!) from the small intestine reaches the caecum. It passes along the colon where more water, minerals and some vitamins are absorbed from the remaining undigested materials.
+The remaining <u>undigested materials</u> from the small intestine reaches the caecum. It passes along the colon where more water, minerals and some vitamins are absorbed from the remaining undigested materials.
+
+> [!warning]
+> Undigested materials that are passed out of the body are <u>not metabolic wastes</u>.
 
 #### Egestion
 *Not to be confused with [[Characteristics of Life#Excretion|Excretion]].*

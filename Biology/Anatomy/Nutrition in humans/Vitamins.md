@@ -1,76 +1,71 @@
 #### Vitamin A
-
 - **Food sources**
   liver, fish-liver oil, milk, cheese, eggs, green vegetables, carrots (carotene)
 
 - **Functions**
-	- For the formation of <u>visual purple</u> (visual pigment) in the retina 
-	- Maintains the healthy state of the cornea of the eyes, the skin, and the lining of the alimentary canal and the respiratory system
+	- For the <span style="color: violet">formation of visual purple</span> (visual pigment) in the retina
+	- Maintains the <span style="color: lightgreen">healthy state of the cornea of the eyes, the skin, and the lining</span> of the alimentary canal and the respiratory system
 
 - **Deficiency symptoms / diseases**
-	- Night blindness
+	- <span style="color: skyblue">Night blindness</span>
 	- Thickening of the cornea
-	- Dry skin and increased risk of infection of the respiratory system
+	- Dry skin
+	- <span style="color: skyblue">Increased risk of infection of the respiratory system</span>
 
 #### Vitamin B
-
 - **Food sources**
   cereals, soya beans
 
 - **Functions**
-	- For the <u>formation of red blood cells</u>
-	- For <u>respiration</u>
+	- For the <span style="color: violet">formation of red blood cells</span>
+	- For [[respiration]]
 
 - **Deficiency symptoms / diseases**
-	- Fatigue
+	- <span style="color: skyblue">Fatigue</span>
 	- Anaemia
 	- Beriberi
 
 #### Vitamin C
-
 - **Food sources**
   fruits, green vegetables
 
 - **Functions**
-	- For the <u>formation and repair of connective tissues</u>
-	- Helps <u>heal wounds</u>
-	- <u>Maintains healthy gums, teeth and skin</u>
+	- For the <span style="color: violet">formation and repair of connective tissues</span>
+	- Helps <span style="color: violet">heal wounds</span>
+	- <span style="color: lightgreen">Maintains healthy gums, teeth and skin</span>
 
 - **Deficiency symptoms / diseases**
-	- Scurvy (leads to anaemia, exhaustion, spontaneous bleeding, limb pain, swelling)
+	- <span style="color: skyblue">Scurvy</span> (leads to anaemia, exhaustion, spontaneous bleeding, limb pain, swelling)
 
 #### Vitamin D
-
 - **Food sources**
   liver, fish-liver oil, milk, cheese, egg yolk
 
 - **Function**
-  Helps the absorption of calcium and phosphate ions from the intestine.
-  ↪️ For <u>bone formation / development</u>
+  Helps the <span style="color: violet">absorption of calcium and phosphate ions</span> from the intestine.
+  ↪️ For <span style="color: skyblue">bone formation / development</span>
 
 - **Deficiency symptoms / diseases**
-	- Rickets (affects bone development in children)
-	- Osteoporosis (weakens bones in adults)
+	- <span style="color: skyblue">Rickets</span> (affects bone development in children)
+	- <span style="color: skyblue">Osteoporosis</span> (weakens bones in adults)
 
 #### Vitamin E
-
 - **Food sources**
   nuts, cereals
 
 - **Function**
-  Protects cells against damage by <u>free radicals</u>
+  Protects cells against damage by <span style="color: violet">free radicals</span>
 
 - **Deficiency symptoms / diseases**
 	- Anaemia due to excessive breakdown of red blood cells
 	- Damage to nerve cells
 
 #### Vitamin K
-
 - **Food sources**
   green leafy vegetables
 
 - **Functions**
-  Essential for <u>blood clotting</u>
+  Essential for <span style="color: violet">blood clotting</span>
 
 - **Deficiency symptoms / diseases**
 	- Bleeding in the gums

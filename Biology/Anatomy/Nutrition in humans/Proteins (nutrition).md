@@ -1,11 +1,9 @@
-**Proteins** are mainly used for growth and repair of body tissues in humans. They are broken down into amino acids in the digestive tract for absorption. When they are in excess, they are broken down in a process called [[Deamination]].
+**Proteins** are mainly used for <span style="color: lightgreen">growth and repair of body tissues</span> in humans. They are <span style="color: lightgreen">broken down into amino acids</span> in the digestive tract for absorption. When they are in excess, they are broken down in a process called [[deamination]].
 
 #### Types of amino acids
-##### Non-essential amino acids
-Of the 20 types of amino acids, 11 are non-essential in humans. This means they can be made using other compounds.
-
-##### Essential amino acids
-Of the 20 types of amino acids, 9 are essential in humans. This means they must be included in the diet.
+In total, there are 20 types of amino acids.
+- **Non-essential amino acids**: <u>11/20</u>; <span style="color: aqua">Can be made using other compounds</span> in humans
+- **Essential amino acids**: <u>9/20</u>; <span style="color: aqua">Must be included in the diet</span> in humans
 
 #### Food sources
 - Lean meat
@@ -15,8 +13,8 @@ Of the 20 types of amino acids, 9 are essential in humans. This means they must 
 - Nuts, peas, soya beans
 
 #### Additional functions
-- Form enzymes, antibodies, some hormones, receptors, haemoglobin
-- As a source of energy when the body is short of carbohydrates and lipids (1 g → 18.2 kJ)
+- <span style="color: violet">Form enzymes, antibodies, some hormones, receptors, haemoglobin</span>
+- As a <span style="color: lightgreen">source of energy</span> when the body is short of carbohydrates and lipids <u>(1 g → 18.2 kJ)</u>
 
 #### See also
 - [[Proteins]]

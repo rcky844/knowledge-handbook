@@ -1,5 +1,5 @@
-Humans are [[Heterotrophs and autotrophs#Heterotrophs|heterotrophs]]. We obtain nutrients by feeding on organic matter, which comes from other animals.
-\
+Humans are [[Heterotrophs and autotrophs#Heterotrophs|heterotrophs]]. We obtain nutrients by <span style="color: lightgreen">feeding on organic matter</span>, which comes from other animals.
+
 #### Food requirements of humans
 ![[humans_food_req.webp|450]]
 1. [[Carbohydrates (nutrition)|Carbohydrates]]
@@ -12,3 +12,4 @@ Humans are [[Heterotrophs and autotrophs#Heterotrophs|heterotrophs]]. We obtain 
 
 #### See also
 - [[Balanced diet]]
+- [[Human digestive system]]
