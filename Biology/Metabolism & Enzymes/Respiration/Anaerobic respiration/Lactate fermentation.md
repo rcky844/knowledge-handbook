@@ -1,9 +1,9 @@
-Mammalian muscle cells can respire **anaerobically** when doing <span style="color: lightgreen">strenuous exercise</span> (high-intensity exercise of a short duration. e.g. sprinting and weight lifting), as oxygen may be used up more rapidly than it can be supplied to the muscles. This process is called **lactate fermentation** or **lactic acid fermentation**.
+Mammalian muscle cells can respire **anaerobically** when doing <span style="color: lightgreen">strenuous exercise</span> (high-intensity exercise of a short duration. e.g. sprinting and weight lifting), as <span style="color: aqua">oxygen may be used up more rapidly than it can be supplied to the muscles</span>. This process is called **lactate fermentation** or **lactic acid fermentation**.
 
 ![[lactate_fermentation.avif|500]]
 
-- After [[Glycolysis]], pyruvate accepts hydrogen from NADH to form lactic acid by reduction.
-- NAD is regenerated and can be used in [[Glycolysis]] again.
+- After [[glycolysis]], pyruvate accepts hydrogen from NADH to form lactic acid by reduction.
+- NAD is regenerated and can be used in [[glycolysis]] again.
 
 $\ce{glucose ->[enzymes] energy (2ATP) + 2 lactic acid}$
 
@@ -13,7 +13,7 @@ Lactic acid formed in muscles is <u>transported to the liver in blood</u>. When 
 - Pyruvate is broken down into carbon dioxide and water through [[Aerobic respiration|aerobic pathway]].
 - Pyruvate is converted to glucose and then to glycogen in the liver for storage.
 
-For a while after exercise, we continue to breathe deeply and rapidly. The extra oxygen taken in during this period of time is to metabolize the lactic acid formed in [[Anaerobic respiration]], and is called <span style="color: skyblue">oxygen debt</span>.
+For a while after exercise, we <span style="color: lightgreen">continue to breathe deeply and rapidly</span>. The <span style="color: aqua">extra oxygen taken in during this period of time is to metabolize the lactic acid</span> formed in [[anaerobic respiration]], and is called <span style="color: skyblue">oxygen debt</span>.
 ![[oxygen_uptake_exercise.avif|420]]
 
 #### Examples and applications

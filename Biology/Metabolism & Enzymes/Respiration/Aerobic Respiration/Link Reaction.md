@@ -1,10 +1,10 @@
-**Link Reaction** is the second stage of respiration. It links [[Glycolysis]] and [[Krebs cycle]].
+**Link Reaction** is the second stage of respiration. It links [[glycolysis]] and [[Krebs cycle]].
 
 > [!note]
 > The end product of [[Glycolysis]] is pyruvate, which still contains a substantial amount of chemical energy that can be further utilised in respiration to produce more ATP.
 
 When <u>oxygen is available</u>, pyruvate will enter the <span style="color: skyblue">mitochondrial matrix</span> and <span style="color: skyblue">aerobic respiration</span> will continue.
-- As pyruvate moves across the double membrane of the mitochondria via [[Active transport]], it requires a transport protein and a small amount of ATP.
+- As pyruvate moves across the double membrane of the mitochondria via [[active transport]], it requires a transport protein and a small amount of ATP.
 
 **Overall products** (per glucose molecule):
 - 2 Acetyl coenzyme A (acetyl-CoA)

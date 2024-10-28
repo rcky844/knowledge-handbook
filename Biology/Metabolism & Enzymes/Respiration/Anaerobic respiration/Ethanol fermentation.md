@@ -1,9 +1,9 @@
-Yeast can respire anaerobically when oxygen is insufficient. This process is called **alcoholic fermentation**.
+Yeast can respire **anaerobically** when oxygen is insufficient. This process is called **alcoholic fermentation**.
 
 ![[ethanol_fermentation.avif|500]]
 
-- After [[Glycolysis]], pyruvate loses a carbon dioxide molecule, and accepts hydrogen from NADH to form ethanol.
-- NAD is regenerated and can be used in [[Glycolysis]] again.
+- After [[glycolysis]], pyruvate loses a carbon dioxide molecule, and accepts hydrogen from NADH to form ethanol.
+- NAD is regenerated and can be used in [[glycolysis]] again.
 
 $\ce{glucose ->[enzymes] energy (2ATP) + 2 ethanol + 2 carbon dioxide}$
 
