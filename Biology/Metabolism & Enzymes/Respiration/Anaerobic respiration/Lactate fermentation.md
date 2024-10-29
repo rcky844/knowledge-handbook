@@ -11,7 +11,7 @@ The additional energy can be provided to skeletal muscles quickly for powerful a
 
 Lactic acid formed in muscles is <u>transported to the liver in blood</u>. When oxygen is available, liver cells convert lactic acid back to pyruvate, which has one of the following fates:
 - Pyruvate is broken down into carbon dioxide and water through [[Aerobic respiration|aerobic pathway]].
-- Pyruvate is converted to glucose and then to glycogen in the liver for storage.
+- Pyruvate is converted (oxidized) to glucose and then to glycogen in the liver for storage.
 
 For a while after exercise, we <span style="color: lightgreen">continue to breathe deeply and rapidly</span>. The <span style="color: aqua">extra oxygen taken in during this period of time is to metabolize the lactic acid</span> formed in [[anaerobic respiration]], and is called <span style="color: skyblue">oxygen debt</span>.
 ![[oxygen_uptake_exercise.avif|420]]

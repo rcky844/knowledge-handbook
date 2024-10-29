@@ -21,3 +21,5 @@
 > - **Menarche** refers to a woman's first menstruation, which usually occurs at the age of about 11.
 > - **Menopause** occurs when a woman reaches 45 to 55 years of age. As a woman's ovary contain only a set number of follicles, her ovaries will stop releasing ova and menstruation will no longer occur.
 
+#### See also
+- [[Hormonal control of menstrual cycle]]

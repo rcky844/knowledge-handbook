@@ -19,7 +19,10 @@
 
 ##### After exercise
 - Ventilation rate remains high for some time after exercise ends, gas exchange occurs at a faster rate.
-- This provides more oxygen for the [[Lactate fermentation|metabolism of lactic acid]] in the liver (to pay the <span style="color: skyblue">oxygen debt</span>).
+- This provides more oxygen for the [[Lactate fermentation|metabolism of lactic acid]] in the liver (to pay the <span style="color: skyblue">oxygen debt</span>) so that the <u>blood pH can be increased to a normal level</u>.
+
+> [!tip] Oxygen debt
+> <span style="color: lightgreen">Lactic acid lowers the blood pH</span> to an extent, the chemoreceptors will be stimulated in order to lower the blood pH.
 
 #### Cardiac output
 *Pre-context: [[Control of heartbeat]]*
@@ -35,5 +38,6 @@
   This prevents muscles from overheating.
 
 **Actions to increase cardiac output**:
-- Cardiovascular centre is stimulated.
-- 
+- Cardiovascular centre is stimulated and sends more nerve impulses to the SA node and the cardiac muscles via the sympathetic nerve.
+- The cardiac muscles contract more frequently and forcefully.
+- Adrenal glands secrete more adrenaline into the blood and increases cardiac output.
