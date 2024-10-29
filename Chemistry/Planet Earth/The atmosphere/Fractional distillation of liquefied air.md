@@ -26,7 +26,3 @@ Table showing the boiling points of common air components ⤴️
 - Nitrogen and argon vaporise and rises up the tower, oxygen remains as liquid and is collected.
 - Argon condenses to liquid at the centre and is collected as a liquid.
 - Nitrogen rises to the top and is collected as a gas.
-
-#### See also
-- [[Fractional distillation of petroleum]]
-

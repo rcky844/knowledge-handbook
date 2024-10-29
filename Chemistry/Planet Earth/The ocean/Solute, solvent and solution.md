@@ -12,7 +12,7 @@ The substances in sea water (fish, sand and water) are useful, separation of the
 Methods for separation:
 - [[Separation of insoluble solid from a solution]]
 - [[Obtaining soluble solid from a solution]]
-- [[Obtaining solvent from a solution]]
+- [[Simple distillation]]
 - [[Electrolysis of sea water]]
 
 ---

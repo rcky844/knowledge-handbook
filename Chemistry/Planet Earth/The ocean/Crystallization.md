@@ -5,8 +5,7 @@
 
 1. Heat the solution to remove some solvent by [[evaporation]] until the solution becomes <u>saturated</u>.
 
-> [!note]
-> To test whether the solution is saturated:
+> [!tip] Test whether a solution is saturated
 > - Dip a glass rod into the solution and take it out. The solution is saturated if solid forms on the rod when it cools down.
 > - Add solute (e.g. salts) into the solution. The solution is saturated when the solute can no longer dissolve.
 

@@ -6,5 +6,5 @@ Some oceans or bodies of water have differing amounts of dissolved salts. For ex
 1. [[Solute, solvent and solution]]
 2. [[Separation of insoluble solid from a solution]]
 3. [[Obtaining soluble solid from a solution]]
-4. [[Obtaining solvent from a solution]]
+4. [[Simple distillation]]
 5. [[Electrolysis of sea water]]

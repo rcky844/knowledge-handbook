@@ -17,9 +17,9 @@ B --> E;
 ```
 
 #### Sections
-- Quantitative analysis
+- Qualitative analysis
 	- [[Inorganic preliminary tests]]
 	- [[Organic preliminary tests]]
 	- [[Advanced tests]]
 - Quantitative analysis
-
+	- [[Separation and Purification of Compounds]]

@@ -11,4 +11,4 @@ If its composition is measured by volume (100 cm<sup>3</sup>), air consists of t
 |      Carbon dioxide / $\ce{CO2 (g)}$      |     0.03 - 0.04%     |
 |       Water vapour / $\ce{H2O (g)}$       |       variable       |
 
-Individual components of air have [[Properties and uses of components of air|different uses]]. However, they are not found in nature, and has to be [[Separation of different components of air|separated from air]].
+Individual components of air have [[Properties and uses of components of air|different uses]]. However, they are not found in nature, and has to be [[Fractional distillation of liquefied air|separated from air]].

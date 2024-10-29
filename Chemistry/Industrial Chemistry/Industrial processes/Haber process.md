@@ -4,7 +4,7 @@
 $\ce{N2(g) + 3H2(g) <=>[\text{450°C, 250 atm}][\text{finely divided }\ce{Fe(s)}] 2NH3(g)}$          $\pu{\Delta H = -92 kJ mol-1}$
 
 **Source of nitrogen**:
-- By [[Separation of different components of air|fractional distillation of liquefied air]]
+- By [[fractional distillation of liquefied air]]
 
 **Source of hydrogen**:
 - Electrolysis of brine (conc. $\ce{NaCl}$)
