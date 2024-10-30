@@ -36,7 +36,7 @@ Suggest why methanol is an important compound to chemical industry.
 	- Gas produced are <span style="color: skyblue">syngas</span>.
 
 2. **Methanol manufacture**
-   $\ce{CO(g) + H2(g) <=>[\text{250°C, 100 atm}][\ce{Cu / Al2O3 / ZnO}] CH3OH(g)}$          $\pu{\Delta H = -90 kJ mol-1}$
+   $\ce{CO(g) + 2H2(g) <=>[\text{250°C, 100 atm}][\ce{Cu / Al2O3 / ZnO}] CH3OH(g)}$          $\pu{\Delta H = -90 kJ mol-1}$
 
 > [!note]
 > - Methanol is flammable and toxic.
