@@ -83,10 +83,18 @@ $\text{Average rate} ∝ {1\over\text{Time to reach opaque stage}}$ (inversely p
 > - For more accurate measurements, use a light sensor to <u>measure the light transmittance</u> of the reaction mixture.
 
 #### Titration
-This method involves withdrawing and analysing small portions of known volumes at regular time intervals.
+This method involves <span style="color: lightgreen">withdrawing</span> and analysing small portions of known volumes at <span style="color: violet">regular time intervals</span>.
 
 **Quenching** is a method used with this method. It prevents further changes in the concentration of the small portions.
-- Cooling (rapidly in ice)\
+- Cooling (rapidly in ice)
 - Diluting (with sufficient amount of cold water)
 - Titrate the small portions to remove products
 
+**Example**: HKALE 1997 Paper 2 Q3(a)(i)
+$$
+\ce{CH3COCH3(aq) + I2(aq) -> CH3COCH2I(aq) + H+(aq) + I-(aq)}
+$$
+The progress of the reaction can be monitored by a titrimetric method. Outline the experimental procedure.
+- At regular time intervals, <span style="color: lightgreen">withdraw</span> a known value of the reaction mixture.
+- Add it to excess $\ce{NaHCO3}$ to <span style="color: lightgreen">quench</span> the reaction.
+- <span style="color: lightgreen">Titrate</span> against standard $\ce{S2O3^2-}$ using starch as indicator.
