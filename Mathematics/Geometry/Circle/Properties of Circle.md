@@ -16,4 +16,22 @@
 | :--: | :--: | :--: |
 | $\text{line from centre}$<br>$\text{bisects chord}\perp\text{chord}$ | $\text{equal chords,}$<br>$\text{equidistance from centre}$ | $\text{equidistance from centre,}$<br>$\text{equal chords}$ |
 
+#### Arcs, chords and angles
+| ![[circle_arcs_chords_angles.webp\|320]] |
+| :--: |
+| $\text{equal }\angle s$ / $\text{equal arcs}$ / $\text{equal chords}$ |
+
+#### Arcs and angles
+| ![[circle_angles_arcs_center.webp\|200]] | ![[circle_angles_arcs.webp\|200]] |
+| :--: | :--: |
+| $\text{arcs prop. to }\angle s\text{ at centre}$<br>${a \over b} = {\overparen{AB} \over \overparen{CD}}$ | $\text{arcs prop. to }\angle s\text{ at circumference}$<br>${a \over b} = {\overparen{AB} \over \overparen{CD}}$
+
 #### Tangents
+| ![[circle_tangent_perp_radius.webp\|200]] | ![[circle_tangent_perp_radius_converse.webp\|200]] | ![[circle_tangent_line_from_center.webp\|200]] |
+| :--: | :--: | :--: |
+| $\text{tangent}\perp\text{radius}$ | $\text{converse of tangent}\perp\text{radius}$ | $\text{line from centre}$ |
+
+| ![[circle_tangent_properties.webp\|320]] | $AB = AC$<br>$x = y$<br>$a = b$<br><br>$\text{tangent properties}$ |
+| :--: | :--: |
+
+#### Angles in alternate segments
