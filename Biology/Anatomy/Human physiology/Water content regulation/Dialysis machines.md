@@ -4,19 +4,19 @@
 
 #### Design
 - **Dialysis tubing is differentially permeable.**
-  It has small pores that <u>allow small molecules to pass through but blood cells and plasma proteins cannot</u>.
+  It has <span style="color: violet">small pores</span> that <span style="color: lightgreen">allow small molecules to pass through but blood cells and plasma proteins cannot</span>.
 
 - **Composition of the dialysis fluid is similar to that of blood plasma.**
-	- It has the same concentration of glucose, amino acids and salts as normal blood, so there is no net flow of essential substances from the blood to the dialysis fluid in order to <u>prevent the loss of essential substances</u>.
-	- The water potential is the same as blood to <u>prevent water loss</u>.
-	- The dialysis fluid is kept at the same temperature as blood (37°C) to <u>prevent heat loss</u>.
-	- However, it <u>does not contain urea</u> to allow urea to [[Diffusion|diffuse]] into the dialysis fluid along the concentration gradient.
+	- It has the <span style="color: aqua">same concentration of glucose, amino acids and salts as normal blood</span>, so there is <span style="color: lightgreen">no net flow of essential substances from the blood to the dialysis fluid</span> in order to <span style="color: violet">prevent the loss of essential substances</span>.
+	- The water potential is the same as blood to <span style="color: violet">prevent water loss</span>.
+	- The dialysis fluid is kept at the same temperature as blood (37°C) to <span style="color: violet">prevent heat loss</span>.
+	- However, it <span style="color: aqua">does not contain urea</span> to allow urea to [[Diffusion|diffuse]] into the dialysis fluid along the concentration gradient.
 
 - **Dialysis tubing is highly branched.** (similar to a capillary network)
-  This <u>increases the surface area</u> for rapid [[Diffusion]] of urea out of the blood.
+  This <span style="color: lightgreen">increases the surface area</span> for rapid [[diffusion]] of urea out of the blood.
 
 - **Dialysis fluid and blood flow in opposite directions.**
-  This ensures there will be a difference in concentration in the whole length of the dialysis tubing, this <u>maintains a steep concentration gradient</u> for rapid [[Diffusion]], and ensures more urea is removed.
+  This ensures there will be a difference in concentration in the whole length of the dialysis tubing, this <span style="color: lightgreen">maintains a steep concentration gradient</span> for rapid [[diffusion]], and ensures more urea is removed.
 
 #### Limitations
 - The amount of blood that can be drawn into the dialysis machine per unit time is limited, each treatment may take 4-6 hours to remove most urea from blood.
