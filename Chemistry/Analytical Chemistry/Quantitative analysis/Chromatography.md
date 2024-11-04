@@ -8,3 +8,6 @@
 **Phases**:
 - Stationary phase (fixed in position)
 - Mobile phase (moves in one direction)
+
+#### Paper chromatography
+![[paper_chromatgraphy.webp|400]]

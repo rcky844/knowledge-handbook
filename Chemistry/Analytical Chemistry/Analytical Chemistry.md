@@ -9,4 +9,6 @@
 	- [[Advanced tests]]
 4. Quantitative analysis
 	- [[Separation and Purification of Compounds]]
-5. 
+	- [[Colorimetry]]
+	- [[Infrared spectroscopy]]
+	- [[Mass spectrometry]]

@@ -13,6 +13,4 @@
 4. Collect the crystals by filtration under reduced pressure and dry crystals.
 	- Simple filtration can be sped up by connecting the set-up to a suction pump (suction filtration).
 
-5. Wash the crystals with a little amount of cold distilled water or any other suitable solvents to remove any soluble impurities. Then, the crystals are dried with a piece of filter paper or in an oven.
-
-//TODO process
+5. Wash the crystals with a <span style="color: aqua">little amount of cold distilled water</span> or any other suitable solvents to <span style="color: lightgreen">remove any soluble impurities</span>. Then, the crystals are <span style="color: violet">dried with a piece of filter paper or in an oven</span>.
