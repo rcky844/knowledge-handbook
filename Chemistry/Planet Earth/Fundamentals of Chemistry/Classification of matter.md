@@ -1,6 +1,17 @@
 Matter is anything that has a <u>mass</u> and <u>occupies space</u>. It can be classified into pure substance and mixture.
 
-![[substances_clasidia.webp|300]]
+```mermaid
+flowchart TD
+M[Matter];
+P[Pure substances];
+Mx[Mixtures];
+E[Elements];
+C[Compounds];
+M --> P;
+M --> Mx;
+P --> E;
+P --> C;
+```
 
 > [!note]
 > Comparing pure substances and mixture, pure substances would have sharp physical properties (such as boiling point and melting point) while mixtures do not.
