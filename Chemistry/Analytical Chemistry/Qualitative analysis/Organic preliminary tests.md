@@ -75,3 +75,7 @@ $$
 $$
 - Heat sample (aldehyde) (<u>in a water bath</u>) with Tollens' reagent.
 - A <span style="color: aqua">silver mirror</span> is formed.
+
+**Problems**:
+- Tollens' reagent is <span style="color: lightgreen">explosive</span> (as it is a nitride).
+  It is likely to explode on standing, so the reagent is prepared when needed.

@@ -1,4 +1,4 @@
-**Liquid-liquid extraction**, also **solvent extraction**, is a process to extract substance from one liquid to another liquid. The liquids used must be <span style="color: lightgreen">immiscible</span>. A [[separating funnel]] is used for this extraction process.
+**Liquid-liquid extraction**, also **solvent extraction**, is a process to extract substance from one liquid to another liquid. The liquids used must be <span style="color: lightgreen">immiscible</span>. A [[Separating funnel]] is used for this extraction process.
 
 #### Experimental procedure
 ![[liquid_liquid_extraction.webp]]

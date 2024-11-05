@@ -7,8 +7,10 @@
 	- [[Inorganic preliminary tests]]
 	- [[Organic preliminary tests]]
 	- [[Advanced tests]]
-4. Quantitative analysis
-	- [[Separation and Purification of Compounds]]
+4. [[Separation and Purification of Compounds]]
+	- [[Test for purity of substances]] 
+5. [[Quantitative analysis]]
+6. Instrumental analysis
 	- [[Colorimetry]]
 	- [[Infrared spectroscopy]]
 	- [[Mass spectrometry]]

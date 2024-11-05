@@ -1,3 +1,5 @@
+![[List article!]]
+
 #### Separation
 1. [[Decantation]]
 2. [[Filtration]]
@@ -13,3 +15,6 @@
 1. [[Separating funnel]]
 2. [[Recrystallization]]
 3. [[Chromatography]]
+
+#### See also
+- [[Test for purity of substances]]

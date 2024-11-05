@@ -13,5 +13,4 @@
 	- [[Preparation of salts]]
 9. [[Volumetric analysis]]
 	- [[Apparatus used in volumetric analysis]]
-	- [[Volumetric analysis]]
-	- [[Calculation for volumetric analysis]]
+	- [[Volumetric analysis]]]]

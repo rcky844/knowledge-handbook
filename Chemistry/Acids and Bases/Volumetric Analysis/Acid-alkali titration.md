@@ -26,3 +26,8 @@
 	- When needed, assist the titration by flushing distilled water to the wall of conical flasks.
 	- Repeat the titration for several times (3-4 times) by repeating step 3 to 5.
 
+#### Timeline
+![[titration_timeline.webp]]
+
+#### Calculations
+//TODO import

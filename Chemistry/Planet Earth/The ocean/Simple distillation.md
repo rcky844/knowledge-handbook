@@ -22,7 +22,10 @@
 - The <span style="color: lightgreen">anti-bumping granules</span> is to ensure even heating and prevents bumping of sea water.
 - The <span style="color: lightgreen">thermometer</span> is to detect the boiling point of the vapour.
 
+> [!tip]
+> For accurate control of heating, a <span style="color: lightgreen">water bath</span> can be used as a heat source.
+
 #### Simple set-up
-![[simple_distillation_simple.webp|550]]
+![[simple_distillation_simple.webp|500]]
 - The main benefit of this set-up is its relative simplicity and cheapness, since it does not utilize any condenser.
 - However, the cooling effect is poorer.
