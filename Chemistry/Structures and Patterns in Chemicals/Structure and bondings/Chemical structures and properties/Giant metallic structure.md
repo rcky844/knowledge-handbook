@@ -2,7 +2,7 @@
 | :--: | :--: |
 *Pre-context: [[Metallic bonds]]*
 
-In metals, metal ions are packed together tightly in regular patterns to form a giant 3-dimensional structure (i.e. a lattice, crystalline structure), held together with **metallic bonding between metal ions (e.g. $\ce{Na+}$) and delocalized electrons ($\ce{e-}$)**.
+In metals, metal ions are packed together tightly in regular patterns to form a giant 3-dimensional structure (i.e. a lattice, crystalline structure), held together with <span style="color: skyblue">metallic bonding between metal ions</span> (e.g. $\ce{Na+}$) and <span style="color: skyblue">delocalized electrons</span> ($\ce{e-}$).
 
 #### Appearance
 Most metals have a shiny (metallic lustre) appearance.

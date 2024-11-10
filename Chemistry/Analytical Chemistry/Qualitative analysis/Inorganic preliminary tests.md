@@ -68,7 +68,7 @@ Colours of metal halides / miscellaneous substances ⤴️
 
 #### Test for ammonia gas
 **Method 1**: (litmus paper test)
-Ammonia gas is very soluble in water. It <span style="color: lightgreen">partially ionizes in water</span> to give hydroxide ion as the only anion (which makes the solution alkaline):
+Ammonia gas is very soluble in water, and <span style="color: lightgreen">partially ionizes in water</span> to give an alkaline solution:
 $$
 \ce{NH3(g) + H2O(ℓ) <=> NH4+(aq) + OH-(aq)}
 $$
@@ -90,7 +90,7 @@ To test for **ammonium ion** ($\ce{NH4+(aq)}$) in ammonium-containing compounds 
 $$
 \ce{NH4+(aq) + OH-(aq) -> NH3(g) + H2O(ℓ)}
 $$
-- Heat the solution with $\ce{NaOH(aq)}$.
+- <span style="color: aqua">Heat</span> the solution with $\ce{NaOH(aq)}$.
 - A gas with <span style="color: lightgreen">pungent smell</span> is formed, which <span style="color: lightgreen">turns moist red litmus paper blue</span>.
 
 #### Test for carbon dioxide gas
@@ -100,7 +100,7 @@ $$
 
 #### Test for carbonate ion
 **Method 1**:
-Most carbonates (except $\ce{K2CO3}$ and $\ce{Na2CO3}$) decompose upon heating. They give carbon dioxide gas as a product:
+Most carbonates (except $\ce{K2CO3}$ and $\ce{Na2CO3}$) decompose upon heating, and give carbon dioxide gas as a product:
 $$
 \ce{MgCO3(s) -> MgO(s) + CO2(g)}
 $$

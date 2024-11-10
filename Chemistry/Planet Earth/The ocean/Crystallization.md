@@ -1,6 +1,3 @@
-> **Planet Earth**: The Ocean
-> *Return to section: [[Obtaining soluble solid from a solution]]*
-
 **Crystallization** is a <u>physical process</u> that involves incomplete [[evaporation]]. A solution is first heated until it is <u>saturated</u> and let to cool down for crystals to form. Crystals obtained via this method are highly pure, they can be classified as pure substances.
 
 1. Heat the solution to remove some solvent by [[evaporation]] until the solution becomes <u>saturated</u>.
@@ -16,7 +13,7 @@
 > - **Rapid cooling** provides <u>less time</u> to allow the crystallizing solute to form larger crystals, which leads to the formation of <u>crumble crystals</u> instead.
 > - **Slow cooling** provides <u>more time</u> to allow the crystallization solution to form <u>larger crystals</u>.
 
-3. Separate the crystals formed using [[Separation of insoluble solid from a solution#Filtration|filtration]]. The crystals are collected as residue.
+3. Separate the crystals formed using [[filtration]]. The crystals are collected as residue.
 4. Wash the crystal with <u>small amount of cold distilled water</u> to wash away any <u>soluble impurities</u> on the crystal surface. Dry the crystal with a filter paper or desiccator.
 
 > [!note]

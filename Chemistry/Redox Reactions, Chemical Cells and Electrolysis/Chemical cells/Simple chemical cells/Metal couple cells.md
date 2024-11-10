@@ -1,6 +1,6 @@
 **Metal couple cells** are simple chemical cells consisting of <u>two different metals</u>, <u>one is more reactive while one is less reactive</u>.
 - An <span style="color: skyblue">external circuit</span> of an electrical wire connects the two electrodes.
-- An <span style="color: skyblue">electrolyte</span> is a substance which contains mobile ions to conduct electricity in molten or aqueous states.
+- An <span style="color: skyblue">electrolyte</span> is a substance that <span style="color: lightgreen">contains mobile ions to conduct electricity</span> when <span style="color: violet">in molten or aqueous states</span>.
 - Oxidation occurs at the more reactive electrode, while reduction occurs at the less reactive electrode.
 
 Consider the following chemical cell:

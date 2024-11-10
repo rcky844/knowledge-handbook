@@ -67,5 +67,8 @@ However, there are differences in their <u>interactions with polarized light (op
 - **Rotates clockwise**: (+)-isomer
 - **Rotates anticlockwise**: (-)-isomer
 
+> [!tip]
+> Enantiomers can rotate the plane of plane-polarized light in opposite directions.
+
 They also have the <u>same chemical properties</u> as they have the same chemical bonds. They also have the <u>same standard enthalpy change of formation</u>.
 

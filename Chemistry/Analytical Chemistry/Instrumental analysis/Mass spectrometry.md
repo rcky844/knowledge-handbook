@@ -13,7 +13,7 @@
 	  \text{e.g.}\,\,\,\ce{Na(g) + e- -> Na+(g) + 2e-}
 	  \end{array}
 	  $$
-	- When molecular ions collide with electrons, they will undergo fragmentation, producing fragment ions.
+	- When molecular ions collide with electrons, they will undergo fragmentation, producing fragment ions. 
 	  $$
 	  \begin{array}{l l} \\
 	  \ce{CH4(g) + e- -> \underset{molecular ion}{CH4+(g)} + 2e-} \\\\

@@ -1,5 +1,5 @@
 > [!note]
-> To determine the most appropriate gas collection method, the relative atomic mass can be calculated. It is then compared to a rough value of the mass of air (e.g. 28.56).
+> To determine the most appropriate gas collection method, the relative atomic mass can be calculated. It is then compared to a <span style="color: lightgreen">rough value of the mass of air (e.g. 28.56)</span>.
 #### Displacement of water
 ![[displacement_of_water.webp|300]]
 
@@ -8,7 +8,8 @@
 - Gas collected is wet.
 
 **Examples**: $\ce{H2}$, $\ce{N2}$
-- It is not suitable for collecting water-soluble gases such as $\ce{NH3 (g)}$, $\ce{HCl (g)}$, $\ce{SO2 (g)}$, $\ce{CO2 (g)}$.
+- Not suitable for collecting water-soluble gases.
+  (e.g. $\ce{NH3 (g)}$, $\ce{HCl (g)}$, $\ce{SO2 (g)}$, $\ce{CO2 (g)}$)
 
 #### Upward delivery
 ![[upward_delivery.webp|180]]

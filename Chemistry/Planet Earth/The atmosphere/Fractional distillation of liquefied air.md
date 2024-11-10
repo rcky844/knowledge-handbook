@@ -13,8 +13,8 @@ Different components in air have different boiling points, they can be separated
     - The process is <u>repeated several times</u> until the temperature of air drops to -200°C. The components of air becomes liquefied and the air becomes liquid.
 
 3. <span style="color: lightgreen">Fractional distillation of liquefied air</span>
-	- The liquefied air is pumped into the bottom of a fractionating column <u>with the bottom warmer than its top</u>.
-	- <u>When the temperature is higher than the boiling point of the component, the component would become gas and start vaporising up the column.</u>
+	- Liquefied air is pumped into the bottom of a fractionating tower <u>with its bottom warmer than its top</u>.
+	- <u>Different components have different boiling points.</u> When the temperature is higher than the boiling point of the component, the component would become gas and start vaporising up the column.
 
 | Fraction (component) | Boiling point (°C) |
 | :------------------: | :----------------: |
@@ -23,6 +23,6 @@ Different components in air have different boiling points, they can be separated
 |  Oxygen ($\ce{O2}$)  |        -183        |
 Table showing the boiling points of common air components ⤴️
 
-- Nitrogen and argon vaporise and rises up the tower, oxygen remains as liquid and is collected.
-- Argon condenses to liquid at the centre and is collected as a liquid.
-- Nitrogen rises to the top and is collected as a gas.
+- Nitrogen is vaporized and is collected at the top as gas.
+- Argon is also vaporized but condenses at the centre and is collected as liquid.
+- Liquid oxygen flow to the bottom and is collected.

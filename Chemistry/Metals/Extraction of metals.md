@@ -1,5 +1,13 @@
-Metals tend to form compound with non-metal which leads to formation of ores.
-- <u>The more reactive is the metal, the more stable is the metal compound in the ores.</u>
+#### Reason for extraction
+Metals have <span style="color: lightgreen">some physical properties</span> that their compounds do not have:
+- Shiny appearance
+- Good conductors of electricity and heat
+- High melting points and boiling points
+- Ductility
+- Melleability
+
+However, metals tend to form compound with non-metal to form ores.
+- <span style="color: lightgreen">The more reactive is the metal, the more stable is the metal compound in the ores.</span>
 - The more stable is the metal compound in the ores, the more complicated the method is required to be invented.
 - The more reactive the metals, the later they can be extracted in history due to time needed for technological development.
 

@@ -11,17 +11,21 @@
 	- [[Particle Theory]]
 	- [[Classification of matter]]
 2. [[The atmosphere]]
-	- [[Properties and uses of components of air]]
+	- [[Components of air]]
 	- [[Fractional distillation of liquefied air]]
 3. [[The ocean]]
 	- [[Solute, solvent and solution]]
-	- [[Separation of insoluble solid from a solution]]
-	- [[Obtaining soluble solid from a solution]]
+	- Separation of insoluble solid from a solution
+		- [[Decantation]]
+		- [[Filtration]]
+	- Obtaining soluble solid from a solution
+		- [[Evaporation]]
+		- [[Crystallization]]
 	- [[Simple distillation]]
 	- [[Electrolysis of sea water]]
-4. [[Rocks and minerals]]
+3. [[Rocks and minerals]]
 	- [[Calcium carbonate and its reactions]]
-5. Preliminary analytical tests
+4. Preliminary analytical tests
 	- [[Test for hydrogen gas]]
 	- [[Test for oxygen gas]]
 	- [[Test for carbon dioxide gas]]

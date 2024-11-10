@@ -1,4 +1,4 @@
-The reactivity of different metals is compared by three factors:
+gjThe reactivity of different metals is compared by three factors:
 - **Lowest temperature at which the reaction starts.**
   A more reactive metal starts to react at a lower temperature.
 

@@ -51,13 +51,16 @@ By dissolving hydrogen chloride gas ($\ce{HCl(g)}$) into water.
 > - $\ce{H3O+}$ ions also carry acidic property.
 
 #### Basicity
-**Basicity** is the maximum number of ionizable hydrogen atoms in an acid molecule.
+**Basicity** is the <span style="color: lightgreen">maximum number of ionizable hydrogen atoms</span> in an acid molecule.
 
 | Basicity | Example |
 | :--: | :--: |
 | Monobasic | $\ce{HCl(aq), HNO3(aq), CH3COOH(aq)}$ |
 | Dibasic | $\ce{H2SO4(aq)}$ |
 | Tribasic | $\ce{H3PO4(aq)}$ |
+
+**Explanation** *(exemplified with dibasic acid)*:
+A dibasic acid consists of <u>2 ionizable hydrogen atoms</u> in <u>an acid molecule</u>.
 
 **Ionization of ethanoic acid**:
 
