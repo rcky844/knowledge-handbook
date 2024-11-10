@@ -1,13 +1,13 @@
 *See also: [[White blood cells]]*
 
-**Lymphocytes** are cells responsible for <u>identifying foreign antigens</u> and producing an immune response.
+**Lymphocytes** are cells responsible for <span style="color: lightgreen">identifying foreign antigens</span> and producing an immune response.
 
 **Storage**:
-- After becoming mature, lymphocytes circulate in the <u>blood and lymph</u>, or are <u>stored in lymph glands and other lymphatic organs</u>.
+- After becoming mature, lymphocytes circulate in the <span style="color: violet">blood and lymph</span>, or are <span style="color: aqua">stored in lymph glands and other lymphatic organs</span>.
 
 **Actions**:
-- On the surfaces of lymphocytes, there are antigen receptors. They are all <u>identical on a particular lymphocyte</u> and binds only to a specific [[antigens|antigen]].
-- When an antigen of a pathogen binds to a lymphocyte with the matching receptor, it becomes <u>activated</u> to produce an immune response.
+- On the surfaces of lymphocytes, there are antigen receptors. They are all <span style="color: lightgreen">identical on a particular lymphocyte</span> and binds only to a specific [[antigens|antigen]].
+- When an antigen of a pathogen binds to a lymphocyte with the matching receptor, it becomes <span style="color: aqua">activated</span> to produce an immune response.
 
 > [!note]
 > The wide diversity of antigen receptors on the large number of different lymphocytes allows the immune system to recognise many different antigens.

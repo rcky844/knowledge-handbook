@@ -19,13 +19,9 @@
   This ensures there will be a difference in concentration in the whole length of the dialysis tubing, this <span style="color: lightgreen">maintains a steep concentration gradient</span> for rapid [[diffusion]], and ensures more urea is removed.
 
 #### Limitations
-- The amount of blood that can be drawn into the dialysis machine per unit time is limited, each treatment may take 4-6 hours to remove most urea from blood.
-- The treatment has to be repeated 2-3 times a week as urea is continuously produced by the liver.
-
-//TODO ammonia toxicity
+- <span style="color: lightgreen">The amount of blood that can be drawn into the dialysis machine per unit time is limited</span>, each treatment may take 4-6 hours to remove most urea from blood.
+- The treatment has to be <span style="color: lightgreen">repeated</span> 2-3 times a week as urea is <span style="color: orange">continuously produced by the liver</span>.
 
 #### Nutrition considerations
 - Eat foods with less proteins / less protein-rich foods
 - Control of diet
-
-//TODO improve

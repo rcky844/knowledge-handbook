@@ -1,11 +1,15 @@
 *Pre-context: [[Blood glucose levels and regulation]]*
 
 #### Symptoms and signs
-- **Presence of glucose in urine**
+*See also: [[Reabsorption]] / [[Osmoregulation]]*
+- **Presence of large amount of glucose in urine**
   The blood glucose levels are so high that the [[kidneys]] fail to [[Reabsorption|reabsorb]] all the glucose, and therefore excess glucose is excreted in urine.
 
+> [!tip]
+> Urinary tract infections (UTIs) are more common in patients with diabetes due to the presence of large amounts of glucose in urine. This provides nutrients for bacterial growth.
+
 - **Frequent urination**
-  Body cells lose water to the blood by [[Osmosis]], leading to an increase in blood volume and hence an increase in urine production.
+  Body cells lose water to the blood by [[osmosis]], leading to an increase in blood volume and hence an increase in urine production.
 
 > [!note]
 > Glucose is soluble in water and affects the water potential of the blood.
@@ -15,11 +19,11 @@
   The decrease in water potential of the blood stimulates the 'thirst centre' in the brain, making the person thirsty.
 
 #### Types of diabetes
-- **Diabetes Type I** (insulin-dependent diabetes)
-  The pancreas does not secrete enough insulin.
+- **Diabetes Type I** *(insulin-dependent diabetes)*
+  The pancreas <span style="color: lightgreen">does not secrete enough insulin</span>.
 
-- **Diabetes Type II** (non-insulin-dependent diabetes)
-  The body cells do not respond to insulin.
+- **Diabetes Type II** *(non-insulin-dependent diabetes)*
+  The <span style="color: lightgreen">body cells do not respond to insulin</span> <span style="color: aqua">(insulin resistance)</span>.
 
 #### Comparison with normal people
 ![[diabetes_graphs.webp|500]]
@@ -30,7 +34,7 @@ As body cells do not take up excess glucose from the blood, the <u>blood glucose
 - The blood glucose level remains high for a <u>longer time</u>.
 
 > [!note]
-> - The blood glucose level may fluctuate as the body tries to maintain a stable level by [[Negative feedback mechanism]].
+> - The blood glucose level may fluctuate as the body tries to maintain a stable level by [[negative feedback mechanism]].
 > - The gradual decrease in blood glucose level is due to the lost of glucose in the urine.
 
 **Blood insulin level for type I diabetes**:
@@ -50,7 +54,7 @@ As body cells do not take up excess glucose from the blood, the <u>blood glucose
 
 > [!note]
 > Injection dose of insulin must be carefully controlled.
-> - If too much insulin is injected, the blood glucose level may fall so low that body cells cannot obtain enough glucose for respiration and [[Metabolism]] will slow down.
+> - If too much insulin is injected, the blood glucose level may fall so low that body cells cannot obtain enough glucose for respiration and [[metabolism]] will slow down.
 
 #### Dietary considerations for diabetics
 Meals should be <u>high-fibre, low glycaemic index (GI) carbohydrates</u> and be <u>low in total saturated fats, added sugar and salt</u>.
