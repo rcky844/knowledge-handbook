@@ -1,4 +1,4 @@
-*Pre-context: [[DNA, chromosomes and genes]]*
+*Pre-context: [[Genes]]*
 
 #### Types of inheritance
 - **Monohybrid inheritance**: The inheritance of <u>single characteristics</u> that are controlled by a <u>single gene</u>. These characters are <u>contrasting</u> (e.g. red or white flower).
@@ -6,8 +6,8 @@
 
 #### Mendal's laws
 - **Law of Dominance** (First law of inheritance)
-  Hybrid offspring will only inherit the dominant trait in the phenotype.
-  ↪️ See also: [[DNA, chromosomes and genes#Common terms for genetics]]
+  Heterozygote (hybrid) will only express the dominant trait in the phenotype.
+  ↪️ See also: [[Genes#Common terms for genetics]]
 
 - **Law of Segregation** (Third law of inheritance)
   During the production of gametes, two copies of each hereditary factor segregate so that <u>offspring acquire one factor from each parent</u> when the gametes re-unite randomly <u>during fertilization</u>.
@@ -20,10 +20,6 @@
 #### Mendel's experiments
 **Mendel's laws of inheritance** was proposed by Gregor Mendel in the 1860s after conducting <u>breeding experiments</u> on <span style="color: skyblue">pea plants</span>.
 
-Two main experiments to determine the laws of inheritance will be discussed:
-- Monohybrid Cross
-- Dihybrid Cross
-
 **Pea plants** were chosen because:
 - They had easily observable characteristics.
 - They grew fast.
@@ -31,12 +27,14 @@ Two main experiments to determine the laws of inheritance will be discussed:
 ↪️ See also: [[Auxins#Discovery of auxins]]
 
 ##### Monohybrid Cross
-Mendel took two pea plants of opposite traits (one short and one tall) and crossed them. He found the $F_1$ generation offspring were tall. Then he crossed the $F_1$ filial generation and obtained both tall and short plants in the ratio $3:1$ (monohybrid ratio) in the $F_2$ generation.
+![[monohybrid_cross.webp|400]]
+- Mendel took two pea plants of opposite traits (one short and one tall) and crossed them. He found the $F_1$ generation offspring were tall.
+- Then, he crossed the $F_1$ filial generation and obtained both tall and short plants in the ratio $3:1$ (monohybrid ratio) in the $F_2$ generation.
 
 ##### Dihybrid cross
-Mendel crossed wrinkled-green seed and round-yellow seeds and observed that all the $F_1$ generation were round-yellow. This meant that dominant traits were the round shape and yellow colour.
-
-He then self-pollinated the $F_1$ generation and obtained 4 different traits: round-yellow, round-green, wrinkled-yellow, and wrinkled-green seeds in the ratio $9:3:3:1$ (dihybrid ratio) in the $F_2$ generation.
+![[dihybrid_cross.webp|500]]
+- Mendel crossed wrinkled-green seed and round-yellow seeds and observed that all the $F_1$ generation were round-yellow. This meant that dominant traits were the round shape and yellow colour.
+- He then self-pollinated the $F_1$ generation and obtained 4 different traits: round-yellow, round-green, wrinkled-yellow, and wrinkled-green seeds in the ratio $9:3:3:1$ (dihybrid ratio) in the $F_2$ generation.
 
 #### Deducing dominant and recessive allele
 Consider the colour of pea flowers, where $R$ represents the dominant allele for red colour, $r$ represents the recessive allele for white colour.
@@ -50,9 +48,7 @@ To deduce the dominant allele, find a pair of <u>parents with the same phenotype
 - All <u>genes</u> are <u>inherited from the offsprings' parents</u>.
 
 **Deduction**:
-- Offspring D is white in colour, then it <u>posses white colour allele</u>.
-- This white colour allele is <u>inherited from one of its parents, A or B</u>.
-- <u>Either A or B should posses a white colour allele.</u>
+- Offspring D is white in colour, so it <u>posses white colour allele</u>.
+- As the white colour allele is <u>inherited from one of its parents, A or B</u>, <u>either A or B should posses a white colour allele.</u>
 - However, A and B are all <u>red in colour</u>, that means they all also <u>posses red colour allele</u>.
-- So A or B should be <u>heterozygous</u>, and since red colour allele express in this condition, red colour allele is dominant.
-
+- So <span style="color: skyblue">either A or B</span> should be <span style="color: violet">heterozygous</span>, and since red colour allele express in this condition, red colour allele is dominant.

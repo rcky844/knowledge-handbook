@@ -1,17 +1,17 @@
 Charles Darwin proposed the theory of natural selection and survival of the fittest.
 
 1. **Individuals compete for limited resources (e.g. food, water and shelter).**
-   Most organisms tend to produce <u>more offspring than needed to replace themselves</u>. However, the <u>number of individuals in a population remains approximately constant</u>.
+   Most organisms tend to produce <u>more offspring than needed to replace themselves</u>. However, the <u>number of individuals in a population remains relatively constant</u>.
 
-2. **There is variation among individuals of the same species.**
-   Individuals with variations <u>favourable to their environment have a greater chance to survive and reproduce</u>. ("survival of the fittest")
+2. **There are genetic variations among individuals of the same species.** (\*)
+   Individuals with variations <u>favourable to their environment have a <span style="color: orange">greater chance</span> to survive and reproduce</u>. ("survival of the fittest")
    ↪️ See also: [[Variations in characteristics#Sources of variations|Sources of genetic variations]]
 
-3. **Some variations are inheritable and can be passed on to offspring.**
-   Through many generations, the <u>variations accumulate</u> and <u>individuals with the favourable characters become more frequent in the population</u>. The organism has evolved and become different from its ancestor.
+3. **Some genetic variations are inheritable and can be passed on to offspring.** (\*)
+   The <span style="color: lightgreen">variations accumulate</span> through many generations. <u>Individuals with favourable characteristics become <span style="color: orange">more frequent</span> in the population</u>. The organism has evolved and become different from its ancestor.
 
-4. **Environmental changes give stress to organisms.**
-   <span style="color:skyblue">Selection pressure</span> (the changes in condition) favours a particular form of the species having a <span style="color:skyblue">selective advantage</span> to survive and reproduce more successfully.
+4. **Environmental changes give stresses to organisms.**
+   <span style="color:skyblue">Selection pressure</span> (the changes in condition) favours a particular form of the species. They have a <span style="color:skyblue">selective advantage</span> to survive and reproduce more successfully.
 
 ↪️ The proportion of the favoured form increases in subsequent generations, while proportion of the less-well-adapted form decreases.
 

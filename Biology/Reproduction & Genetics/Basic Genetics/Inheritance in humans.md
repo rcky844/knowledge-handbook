@@ -1,7 +1,7 @@
 #### Sex determination
 **Sex chromosomes** are chromosomes that control the inheritance of sex and certain characteristics of the body.
 - Females have two X chromosomes ($XX$), while males have one X chromosomes and one Y chromosomes ($XY$).
-- Certain genes present in sex chromosomes (usually the X chromosome as it is much larger and carries more genes) can cause the inheritance of sex-linked traits.
+- Certain genes present in sex chromosomes (usually the X chromosome, as it is much larger than the Y chromosome, and thus carries more genes) can cause the inheritance of sex-linked traits.
 
 ![[karyotype.webp|450]]
 
@@ -43,15 +43,14 @@ $r$: recessive allele for red-green color blindness
 ![[genetic_diagram4.webp|420]]
 
 #### ABO blood groups
-This is an example of multiple alleles / co-dominance.
+This is an example of <span style="color: violet">multiple alleles / co-dominance</span>.
 
 | Allele | Description |
 | :--: | :--: |
 | $I^A$ / $A$ | Causes the production of antigen A on the surface of red blood cells. |
 | $I^B$ / $B$ | Causes the production of antigen B on the surface of red blood cells. |
 | $i$ / $O$ | Causes no production of antigen |
-Alleles determining the type of blood group ⤴️
-- $I^A$ and $I^B$ are co-dominant (equally dominant) alleles, while $i$ is a recessive allele.
+- $I^A$ and $I^B$ are <span style="color: lightgreen">co-dominant (equally dominant)</span> alleles, while $i$ is a <span style="color: lightgreen">recessive</span> allele.
 
 | Blood group | Antigen on RBC | Antibody in plasma | Genotype |
 | :--: | :--: | :--: | :--: |
@@ -69,6 +68,5 @@ If blood with incompatible blood groups were transfused into the patient, the an
 | :--: | :--: | :--: | :--: | :--: |
 | Receive | A, O | B, O | A, B, AB, O | O |
 | Donate | A, AB | B, AB | AB | A, B, AB, O |
-- People with **blood group AB** is a universal recipient, as they do not have antibodies against antigens A or B.
-- People with **blood group O** is a universal donor, as they do not have antigen A or B on their red blood cells.
-
+- People with **blood group AB** is a <span style="color: lightgreen">universal recipient</span>, as they <span style="color: aqua">do not have antibodies against antigens A or B</span>.
+- People with **blood group O** is a <span style="color: lightgreen">universal donor</span>, as they <span style="color: aqua">do not have antigen A or B on their red blood cells</span>.

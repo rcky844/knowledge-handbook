@@ -1,10 +1,10 @@
-**Fossils** are preserved remains or traces of organisms. They provide information about the morphology of organisms living in the past.
+**Fossils** are <span style="color: lightgreen">preserved remains of organisms</span>. They provide information about the morphology of organisms living in the past.
 
-#### Formation of fossils
-*See also: [[Hydrocarbons from fossil fuels]]*
-**Fossils** are commonly formed when a dead organism is buried in sediments.
-
-**Fossils** can also be formed from preservation of dead organisms by <u>freezing or trapping in resina</u>.
+**Formation of fossils**:
+- Burial of dead organisms in <span style="color: violet">sediments</span>
+- Preservation of dead organisms by <span style="color: violet">freezing</span> (in permafrost)
+- Organisms <span style="color: violet">trapped in resin</span>
+↪️ See also: [[Hydrocarbons from fossil fuels]]
 
 #### Fossil records and evolution
 For fossils found in sedimentary rocks:
@@ -14,25 +14,31 @@ Comparing layer 1 and 3, layer 1 consists of fossils of organisms that:
 - Appeared later on Earth
 - More complex in structure
 
-**Determination of fossil layers**:
-- Radioisotope dating (carbon-14 dating) can be used to arrange fossils in a chronological sequence.
+**Uses for determining evolutionary relationships**:
+- By comparing <span style="color: orange">anatomy</span> of organisms
+- By comparing <span style="color: orange">morphology</span> of organisms
+- Determining <span style="color: orange">chronological order of existence</span> of organisms
+↪️ *Refer to*: HKALE 2006 Paper 1A Q8(a)
 
-**Explanation of complexity**:
-- **Similarities and differences**
-  Any similarities formed suggest <u>existing life forms arose from pre-existing ones</u>, while the differences indicate organisms <u>gradually change over time</u>.
+**Dating of fossil layers**:
+- <span style="color: skyblue">Radioisotope dating</span> (carbon-14 dating) can be used to arrange fossils in a chronological sequence.
 
-- **Differences of prokaryotes and eukaryotes**
-  <u>Simple life forms gradually adapted and become more complex.</u> The greater diversity of fossils found in younger rocks supports the idea that different types of organisms have evolved from a common ancestor.
+#### Evidence for evolution
+- Fossils showing similarities to living species indicate that <span style="color: lightgreen">existing life forms arose from pre-existing ones</span>.
+- A greater diversity of fossils found in younger rocks supports the idea that <span style="color: lightgreen">different types of organisms have evolved from a common ancestor</span>.
+- Fossils in younger rocks are more complex than those in older rocks, which support the idea that <span style="color: lightgreen">organisms evolved from simple to complex forms</span>, and simple life forms gradually adapted to become more complex.
+↪️ *Refer to*: HKALE 2007 Paper 1A Q2(a)(ii)
 
 #### Limitations of using fossil records
-Currently, there are <span style="color: skyblue">missing links</span> within the fossil records, the <span style="color: lightgreen">lack of a continuous fossil record of all the intermediate forms</span> between ancient species and modern species.
+1. **There are missing links within the fossil records.**
+   There is a <span style="color: lightgreen">lack of a continuous fossil record of all the <u>intermediate forms</u></span> between ancient species and modern species.
 
-1. **Fossils can be damaged and incomplete.**
-	- Natural processes (e.g. erosion, movement of Earth's crust) may damage fossils, leaving only incomplete fragments.
+2. **Fossils can be damaged and incomplete.**
+   Natural processes (e.g. erosion, movement of Earth's crust) may damage fossils, leaving only <span style="color: violet">incomplete fragments</span>.
 
-2. **Some organisms may not be fossilized.**
-	- Organisms with soft bodies cannot be fossilized.
-	- Some organisms may have died in conditions not favourable for fossil formation. (e.g. dead bodies in rainforests decay rapidly)
+3. **Some organisms may not be fossilized.**
+   <span style="color: lightgreen">Organisms with soft bodies cannot be fossilized</span>, while some other organisms die in conditions not favourable for fossil formation (e.g. dead bodies in rainforests decay rapidly).
 
-3. **Some fossils are trapped in inaccessible areas.**
-   (e.g. deep under the sea)
+4. **Some fossils are trapped in inaccessible areas.**
+   Fossils can be trapped deep under due to movement of Earth's crust, making them unavailable for studying.
+↪️ *Refer to*: HKALE 2007 Paper 1A Q2(a)(ii)

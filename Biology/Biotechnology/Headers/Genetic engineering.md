@@ -1,1 +1,1 @@
-The topic of this page revolves around **genetic engineering**, the <u>direct manipulation of genetic material</u> in organisms, part of the series on [[biotechnology]].
+The topic of this page revolves around **genetic engineering**, the <u>direct manipulation of genetic material</u> in organisms, part of the series on [[Biotechnology]].

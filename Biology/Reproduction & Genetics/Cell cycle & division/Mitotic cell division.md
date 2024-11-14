@@ -4,7 +4,7 @@
 ##### Prophase
 ![[mitosis_prophase.webp|300]]
 - Replicated DNA coils up tightly into chromosomes.
-  Each [[chromosome]] is visible as two sister chromatids attached at the centromere.
+  Each [[Chromosomes|chromosome]] is visible as two sister chromatids attached at the centromere.
 - The **nuclear membrane** breaks down.
 - **Spindle fibres** start to form.
 
@@ -27,7 +27,7 @@
 
 <hr>
 
-#### Changes during mitotic cell division
+#### Changes during division
 ![[mitosis_graph.webp|400]]
 
 |                | Interphase | Prophase | Metaphase | Anaphase | Telophase | Cytokinesis |
@@ -36,7 +36,7 @@
 | **DNA / Cell** |  2n → 4n   |    4n    |    4n     |    4n    |    4n     |   4n → 2n   |
 Chromosome number ⤴
 
-#### Significance of mitotic cell division
+#### Significance
 The two daughter cells formed by mitotic cell division are genetically identical to the parent cell and have the <u>same function</u>. The following is a list of significant reasons for this:
 
 1. **Growth**

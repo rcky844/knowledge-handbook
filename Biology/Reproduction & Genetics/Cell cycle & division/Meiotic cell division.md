@@ -5,10 +5,11 @@
 ###### Prophase I
 ![[meiosis_prophase_i.webp|300]]
 - Replicated DNA coils tightly into chromosomes.
-  Each [[chromosome]] is visible as two sister chromatids.
+  Each [[Chromosomes|chromosome]] is visible as two sister chromatids.
 - **Homologous chromosome** pair up.
 - The **chromatids** of the homologous pair may exchange segments with each other by [[crossing over]].
 - The **nuclear membrane** breaks down.
+- **Spindle fibres** start to form.
 
 ###### Metaphase I
 ![[meiosis_metaphase_i.webp|300]]
@@ -28,30 +29,30 @@
 ##### Second meiotic cell division (meiosis II): sister chromatids separate
 ###### Prophase II
 ![[meiosis_prophase_ii.webp|300]]
-- The nuclear membrane break down again.
-- Spindle fibres start to form.
+- The **nuclear membrane** break down again.
+- **Spindle fibres** start to form.
 
 ###### Metaphase II
 ![[meiosis_metaphase_ii.webp|300]]
-- The [[Chromosome|chromosomes]] line up along the equatorial plane.
-- The spindle fibres attach to the chromosome at the centromeres.
+- The [[chromosomes]] line up along the equatorial plane.
+- The **spindle fibres** attach to the chromosome at the centromeres.
 
 ###### Anaphase II
 ![[meiosis_anaphase_ii.webp|300]]
-- The spindle fibres shorten and pull the sister chromatids of each [[chromosome]] apart, moving them towards opposite poles of the cell.
-- The separated chromatids are now called daughter chromosomes.
+- The **spindle fibres** shorten and pull the sister chromatids of each [[Chromosomes|chromosome]] apart, moving them towards opposite poles of the cell.
+- The separated chromatids are now called **daughter chromosomes**.
 
 ###### Telophase II
 ![[meiosis_telophase_ii.webp|300]]
-- The spindle fibres break down.
-- A nuclear membrane forms around each group of daughter chromosomes. This is followed by [[cytokinesis]], four haploid daughter cells are formed.
+- The **spindle fibres** break down.
+- A **nuclear membrane** forms around each group of daughter chromosomes. This is followed by [[cytokinesis]], four haploid daughter cells are formed.
 	- Each cell contains one member of each homologous pair and only half the chromosomes of the parent cell and are genetically different.
-- The chromosomes loosen to become chromatin again.
+- The [[chromosomes]] loosen to become **chromatin** again.
 
 
 <hr>
 
-#### Changes during meiotic cell division
+#### Changes during division
 ![[meiosis_graph.webp|450]]
 
 |                | Interphase | Prophase I | Metaphase I | Anaphase I | Telophase I | Cytokinesis |
@@ -67,12 +68,12 @@ Chromosome number (Meiosis I) ⤴
 Chromosome number (Meiosis II) ⤴
 
 
-#### Significance of meiotic cell division
+#### Significance
 1. [[Sexual reproduction]]
    - Meiotic cell division forms haploid gametes for sexual reproduction.
    - When a male gamete and female gamete fuse at fertilisation to form a zygote, the diploid number (2n) of chromosome is restored. This keeps the chromosome number of a species constant from generation to generation.
 
-2. [[Genetic variation (speciation)]]
+2. **Genetic variation (speciation)**
    Meiotic cell division creates very large numbers of genetic variation among the gametes. Some offspring may have characteristics that enable them to survive environmental changes better. This increases the chance of survival of the species.
    
    Below are a few possible explanations:
@@ -80,3 +81,14 @@ Chromosome number (Meiosis II) ⤴
    - [[Crossing over]]
    - Random fusion of gametes at fertilisation
    ↪️ See also: [[Mendel's laws of inheritance#Mendal's laws]]
+
+#### Non-disjunction
+##### Anaphase I
+![[nondisjunction_i.webp|400]]
+- Half of the gametes have both members of the homologous pair.
+- Half of the gametes have no members of the homologous pair.
+
+##### Anaphase II
+![[nondisjunction_ii.webp|400]]
+- Half of the gametes have haploid numbers of chromosomes. (normal)
+- Half of the gametes have both members of the homologous pair.

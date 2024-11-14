@@ -6,7 +6,7 @@ When the plant is illuminated from all directions:
 - Auxins are produced in the shoot tip and root tip.
 - The auxins distribute evenly under illumination from all directions in the regions of elongation of the shoot and the root.
 - The shoot grows straight up without bending, while the root grows straight down without bending.
-\
+
 When the plant is illuminated with unilateral light:
 ![[phototrophic_uni.webp|600]]
 - Unilateral light causes auxins to be transported from the illuminated side to the shaded side of the shoot or the root.

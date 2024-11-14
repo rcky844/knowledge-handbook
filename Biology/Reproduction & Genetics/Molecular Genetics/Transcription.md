@@ -1,18 +1,18 @@
 **Transcription** is the <u>synthesis of mRNA</u> using part of the nucleus DNA as a template.
 
-**Terms used in describing the process**:
+![[dna_strands.webp|500]]
 - **Template strand**: The DNA strand to be transcribed.
 - **Coding strand**: The DNA strand that is not transcribed, it is identical to the mRNA.
 
 #### Process
 1. **Unwinding of the double helix of DNA**
-		- The <span style="color:skyblue">RNA polymerase</span> binds to a region of the DNA near the <u>beginning of the gene</u>.
+	- The <span style="color:skyblue">RNA polymerase</span> binds to a region of the DNA near the <u>beginning of the gene</u>.
 	- The [[hydrogen bonds]] between the nitrogenous bases of the two DNA strands of the double helix <u>breaks</u>.
 	- A section of the DNA double helix <u>unwinds</u>.
 
 2. **Pairing of free and complementary RNA nucleotides**
 	- The RNA polymerase makes use of one DNA strand as a <u>template (the template strand)</u>.
-	- Exposed nitrogenous bases of the DNA attract and form [[hydrogen bonds]] with their <span style="color: lightgreen">complementary and free</span> <span style="color: skyblue">RNA nucleotides</span> in the <u>presence of RNA polymerase</u>. (see [[DNA, chromosomes and genes|complementary base pairing]])
+	- Exposed nitrogenous bases of the DNA attract and form [[hydrogen bonds]] with their <span style="color: lightgreen">complementary and free</span> <span style="color: skyblue">RNA nucleotides</span> in the <u>presence of RNA polymerase</u>. (see [[Genes|complementary base pairing]])
 	- The RNA polymerase moves along the template strand. The process is <u>repeated</u> until the it <u>reaches the end of the gene</u>. A long messenger RNA is formed.
 
 > [!note]

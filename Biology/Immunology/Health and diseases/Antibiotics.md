@@ -21,9 +21,10 @@ Antibiotics kill or inhibit the growth of bacteria by disrupting essential proce
 > **Indiscriminate use of antibiotics** without proper jurisdiction might create a <u>future threat for another pandemic due to antibiotic resistance</u>. According to WHO, antibiotics become less effective against different strains of bacteria. *(Daria S, Islam MR., 2022)*
 
 ##### Causes
-- Antibiotics are wrongly prescribed to treat viral infections (e.g. influenza).
-- Patients prescribed antibiotics do not finish the whole course of antibiotics.
+- Antibiotics are <span style="color: lightgreen">wrongly prescribed to treat viral infections</span> (e.g. influenza).
+- Patients prescribed antibiotics <span style="color: lightgreen">do not finish the whole course of antibiotics</span>.
 - Antibiotics are added to animal feeds indiscriminately to prevent illnesses among livestock.
+↪️ **Example**: HKCEE 2007 Paper 1 Q7(b)
 
 ##### Consequences
 ###### Development of antibiotic resistance in bacteria

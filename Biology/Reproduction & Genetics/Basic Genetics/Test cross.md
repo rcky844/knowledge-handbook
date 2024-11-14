@@ -1,8 +1,9 @@
 **Test cross** is used to find out an organism's genotype (homozygous or heterozygous).
 
 **Method**:
-Cross an organism with another organism with <u>homozygous recessive</u> phenotype.
-- If all the offspring produced express <u>homozygous dominant</u> phenotype, then the organism crossed is **homozygous**.
-- If the offsprings are <u>half dominant and half recessive</u> (phenotypic ratio $1:1$), the organism is **heterozygous**.
+Cross an organism with another organism with <span style="color: lightgreen">homozygous recessive</span> phenotype.
+- If all the offspring produced express <span style="color: lightgreen">homozygous dominant</span> phenotype, then the organism crossed is <span style="color: aqua">homozygous</span>.
+- If the offsprings are <span style="color: lightgreen">half dominant and half recessive</span> (phenotypic ratio $1:1$), the organism is <span style="color: aqua">heterozygous</span>.
 
-**Genetic diagrams**:
+**Diagram**:
+![[test_cross.webp|400]]

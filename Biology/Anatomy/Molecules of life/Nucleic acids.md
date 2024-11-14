@@ -6,7 +6,7 @@
 	- Play important roles in heredity and protein synthesis
 
 #### Structure
-*Main article: [[DNA, chromosomes and genes]]*
+*Main article: [[DNA]]*
 - The sugar-phosphate backbone links nucleotides to form a polynucleotide chain by [[Condensation & Hydrolysis|condensation]].
 
 #### Differences between DNA and RNA

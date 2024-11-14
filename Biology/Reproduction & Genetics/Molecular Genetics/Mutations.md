@@ -28,7 +28,7 @@ Substitution or inversion of bases does not cause a reading frame shift, but cha
 - [[Sickle-cell anaemia]]
 
 #### Chromosome mutations
-A **chromosome mutation** is a <u>change in the structure</u> of [[Chromosome|chromosomes]]. It affects <u>large segments of DNA containing many genes</u>.
+A **chromosome mutation** is a <u>change in the structure</u> of [[Chromosomes]]. It affects <u>large segments of DNA containing many genes</u>.
 
 ##### Change in structure
 - **Deletion**: A segment of a chromosome is lost.

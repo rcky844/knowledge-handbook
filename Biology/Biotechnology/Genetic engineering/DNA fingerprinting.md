@@ -1,3 +1,5 @@
+![[Genetic engineering]]
+
 **DNA fingerprinting** is a technique used for identification of individuals.
 
 The human DNA contains highly variable regions with repetitive base sequences. They can serve as markers for generating patterns of bands called DNA fingerprints.

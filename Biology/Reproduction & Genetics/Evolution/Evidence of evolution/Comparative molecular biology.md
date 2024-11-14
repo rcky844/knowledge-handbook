@@ -15,3 +15,4 @@ Certain essential proteins are commonly found in many different organisms, but m
 Scientists assume that <u>the fewer the number of amino acid differences</u> of a protein found in different organisms, <u>the more closely related the organisms are</u>.
 
 **Example**: Amino acid sequence of haemoglobin molecule
+↪️ *See also*: [[Evolutionary tree]]

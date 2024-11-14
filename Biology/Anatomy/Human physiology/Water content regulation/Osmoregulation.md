@@ -9,8 +9,8 @@
 **Osmoregulation** is controlled by a [[negative feedback mechanism]]. This involves urine production, which is brought about by <span style="color: skyblue">antidiuretic hormone (ADH)</span>.
 
 **Details of antidiuretic hormone (ADH)**:
-- **Production**: <span style="color: lightgreen">Produced</span> by the <span style="color: violet">hypothalamus</span> of the brain; <span style="color: lightgreen">Stored and released</span> by the <span style="color: violet">pituitary gland</span>.
-- **Release**: Amount of ADH released depends on the <u>changes in water potential of the blood</u> detected by <span style="color: violet">osmoreceptors</span> in the hypothalamus.
+- **Production**: <span style="color: lightgreen">Produced</span> by the <span style="color: violet">hypothalamus</span> of the brain continuously
+- **Release**: <span style="color: lightgreen">Stored and released</span> by the <span style="color: violet">pituitary gland</span>. Amount of ADH released depends on the <u>changes in water potential of blood</u> detected by <span style="color: violet">osmoreceptors</span> in the hypothalamus.
 - **Effects**: <span style="color: lightgreen">Increases the permeability of the walls of the collecting duct</span> so that the <span style="color: lightgreen">proportion of water reabsorbed along the collecting duct increases</span>.
 - **Goal**: Conserve water / Remove excess water
 
@@ -58,6 +58,8 @@
 
 ##### Intake of drinks
 Consider two types of drinks: distilled water, mineralized water
-- Both drinks increases the volume of blood.
-- Mineralized water can <span style="color: lightgreen">decrease the water potential of blood</span>, this <span style="color: aqua">increases the secretion of ADH to retain water</span>, while removing excess salts.
-- A <span style="color: lightgreen">smaller volume of concentrated urine</span> is produced when taking in mineralized water, and therefore it is <span style="color: violet">more effective in replenishing water loss / maintaining higher fluid content</span>.
+- All drinks increases the volume of blood.
+- Distilled water <span style="color: lightgreen">increases the water potential of blood</span>, this <span style="color: aqua">decreases the secretion of ADH to release water</span>.
+	- A <span style="color: lightgreen">larger volume of dilute urine</span> is produced when taking in distilled water, and therefore it is <span style="color: violet">less effective in replenishing water loss / maintaining higher fluid content</span>.
+- Mineralized water <span style="color: lightgreen">decreases the water potential of blood</span>, this <span style="color: aqua">increases the secretion of ADH to retain water</span>, while removing excess salts.
+	- A <span style="color: lightgreen">smaller volume of concentrated urine</span> is produced when taking in mineralized water, and therefore it is <span style="color: violet">more effective in replenishing water loss / maintaining higher fluid content</span>.

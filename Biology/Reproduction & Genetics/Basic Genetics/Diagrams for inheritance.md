@@ -2,9 +2,9 @@
 $N$: dominant allele for long wings
 $n$: recessive allele for vestigial wings
 
-> [!note]
+> [!tip]
 > It is advised to choose symbols with significant differences.
-> Don't chose symbols like $S$ or $O$.
+> Don't use symbols like $S$ or $O$.
 
 #### Genetic diagram
 ![[genetic_diagram1.webp|280]]
