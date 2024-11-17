@@ -1,13 +1,18 @@
-> **Archaebacteria**
-> ━━━━━━━━━━
-> **Domain**: Archaea
-> **Cell type**: Unicellular, Prokaryotes
-> **Size**: Very small, smaller than [[Eubacteria]]
-> **Light microscope**: Only high power
-> **Reproduction**: Asexual, by [[Asexual reproduction#Binary fission in bacteria|binary fission]]
+**Archaebacteria** are <span style="color: lightgreen">unicellular prokaryotes</span>, with body size smaller than [[eubacteria]]. They are only observable with high magnification under a light microscope. They belong in the domain *Archaea*.
 
-**Archaebacteria** is a kingdom consisting of unicellular prokaryotes. Many of them live in extreme environments (e.g. hot springs, highly salty water, oxygen-free environments) where few or no other organisms survive.
+*Characteristics*:
+- Live in <span style="color: lightgreen">extreme environments</spanN> (e.g. hot springs, highly salty water, oxygen-free environments - marshes, digestive tracts)
+- Most <span style="color: lightgreen">have a cell wall</span>, with a <span style="color: aqua">composition lacking peptidoglycan</span> and different from that of [[eubacteria]]. The composition of their [[cell membrane]] is unique compared to other organisms.
+- Can be <span style="color: lightgreen">beneficial or harmful</span> to animals.
 
-Most of them have a cell wall, but its composition lack peptidoglycan and is different from that of [[Eubacteria]]. The lipids that make up their cell membrane are unique and different from those in other organisms.
+*Locomotion*:
+- Some have <span style="color: skyblue">flagella</span> or cilia for movement.
+- Some secrete a slime layer and ooze over surfaces like slugs.
 
-They are mostly heterotrophs, but some are autotrophs. They can live in oxygen-free environments such as marshes and the digestive tract of animals.
+*Nutrition & energy*:
+- <span style="color: skyblue">Autotrophic</span>: By [[photosynthesis]], acts as a producer.
+- <span style="color: skyblue">Heterotrophs</span>: Breaks down and absorb material in dead or decaying organisms, acts as decomposer.
+
+*Reproduction*:
+- <span style="color: skyblue">Asexually</span>, by [[Asexual reproduction#Binary fission in bacteria|binary fission]]
+- They can reproduce in a short amount of time.

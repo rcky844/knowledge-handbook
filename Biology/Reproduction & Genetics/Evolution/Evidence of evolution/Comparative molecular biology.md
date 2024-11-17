@@ -1,8 +1,8 @@
 **Comparative molecular biology** studies similarities and differences between organisms in their DNA, proteins and other biomolecules.
 
 #### Comparing base sequences of DNA
-Organisms that share <u>more
-similarities</u> in the base sequences of DNA have a <u>closer evolutionary / phylogenetic relationship</u>.
+Organisms that share <span style="color: lightgreen">more
+similarities</span> in the base sequences of DNA have a <span style="color: lightgreen">closer evolutionary / phylogenetic relationship</span>.
 
 > [!note]
 > - Base sequences of DNA determines the characteristics of organisms.
@@ -12,7 +12,7 @@ similarities</u> in the base sequences of DNA have a <u>closer evolutionary / ph
 #### Comparing amino acid sequences of essential proteins
 Certain essential proteins are commonly found in many different organisms, but may be slightly different as a result of [[mutations]].
 
-Scientists assume that <u>the fewer the number of amino acid differences</u> of a protein found in different organisms, <u>the more closely related the organisms are</u>.
+It is assumed that <span style="color: lightgreen">the fewer the number of amino acid differences</span> of a protein found in different organisms, <span style="color: lightgreen">the more closely related the organisms are</span>.
 
 **Example**: Amino acid sequence of haemoglobin molecule
 ↪️ *See also*: [[Evolutionary tree]]

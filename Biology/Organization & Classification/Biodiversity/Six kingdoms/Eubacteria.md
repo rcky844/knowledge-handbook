@@ -1,21 +1,25 @@
-> **Eubacteria** (bacteria)
-> ━━━━━━━━━━
-> **Domain**: Bacteria
-> **Cell type**: Unicellular, Prokaryotes
-> **Size**: Very small (0.5 ~ 5.0 µm)
-> **Light microscope**: Only high power
-> **Reproduction**: Asexual, by [[Asexual reproduction#Binary fission in bacteria|binary fission]]
-
-**Eubacteria** is a kingdom consisting of unicellular prokaryotes. They have <u>no true nucleus</u> or other <u>membrane-bound organelles</u>. They can come in many shapes — spherical, rod-shaped or spiral.
+**Eubacteria**, also simply **bacteria**, are small (0.5 ~ 5.0 µm) <span style="color: lightgreen">unicellular prokaryotes</span>. They are only observable with high magnification under a light microscope. They belong in the domain *Bacteria*.
 
 ![[bacteria_structure.webp|400]]
 
-They have a circular chromosome lying free in the cytoplasm. There are also small rings of DNA called <span style="color: skyblue">plasmid</span>.
+*Characteristics*:
+- Live in <span style="color: lightgreen">moderate environments</spanN> (e.g. digestive tracts of humans)
+- Come in many shapes — <span style="color: orange">spherical, rod-shaped or spiral</span>
+- Have <span style="color: lightgreen">no true nucleus or other membrane-bound organelles</span>.
+- Have a <span style="color: lightgreen">circular chromosome</span> lying free in the cytoplasm, and small rings of DNA called <span style="color: skyblue">plasmid</span>.
+- Have a rigid cell wall made of <span style="color: skyblue">peptidoglycan</span>.
+- Some have a <span style="color: skyblue">capsule</span> outside the cell wall.
+- Can be <span style="color: lightgreen">beneficial or harmful</span> to animals.
 
-Their cell wall is rigid and made of <span style="color: skyblue">peptidoglycan</span>. Some bacteria have a <span style="color: skyblue">capsule</span> outside the cell wall. Some have <span style="color: skyblue">flagella</span> for <u>locomotion</u>.
+*Locomotion*:
+- Some have <span style="color: skyblue">flagella</span> or cilia for movement.
+- Some secrete a slime layer and ooze over surfaces like slugs.
 
-Some bacteria are [[Heterotrophs and autotrophs#Autotrophs|autotrophs]], but most are [[Heterotrophs and autotrophs#Heterotrophs|heterotrophs]] instead.
-- Cyanobacteria contain chlorophyll and can carry out photosynthesis to make their own food.
+*Nutrition & energy*:
+- <span style="color: skyblue">Autotrophic</span>: By [[photosynthesis]], acts as a producer.
+  (e.g. cyanobacteria contains chlorophyll)
+- <span style="color: skyblue">Heterotrophs</span>: Breaks down and absorb material in dead or decaying organisms, acts as decomposer.
 
-Some bacteria can cause [[Types of pathogens#Bacteria|diseases]]. However, most are harmless or even beneficial.
-- Some bacteria live in the intestines to help us use the nutrients from the food we eat.
+*Reproduction*:
+- <span style="color: skyblue">Asexually</span>, by [[Asexual reproduction#Binary fission in bacteria|binary fission]]
+- They can reproduce in a short amount of time.

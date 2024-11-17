@@ -15,7 +15,7 @@ Classification of animals ⤴️
 **Invertebrates** are animals that <span style="color: lightgreen">do not have a vertebral column</span>. They are generally soft-bodied animals that lack a rigid internal skeleton for the attachment of muscles.
 
 - Some of them have a <span style="color: skyblue">hydroskeleton</span> (e.g. jellyfish, earthworms). It is an <u>enclosed, liquid-filled cavity</u> using <u>liquid pressure</u> to provide support.
-- Some of them have an <span style="color: skyblue">exoskeleton</span>. It is a <u>hard or tough outer shell</u>, providing a framework for support, protects soft body tissues, and <u>prevents water loss</u>.
+- Some of them have an <span style="color: skyblue">exoskeleton</span>. It is a <u>hard or tough outer shell</u>, providing a framework for support, protecting soft body tissues, and <u>preventing water loss</u>.
 
 #### Vertebrates
 **Vertebrates** are animals that have a <span style="color: skyblue">vertebral column</span>, which form part of their internal skeleton of <u>bones or cartilage</u>.
