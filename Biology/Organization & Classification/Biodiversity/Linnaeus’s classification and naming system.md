@@ -1,7 +1,7 @@
 #### Classification system
 ![[organisms_classification.webp]]
 
-- **Species** is the basic unit of classification. Members of the same species can interbred to produce fertile offspring.
+- **Species** is the basic unit of classification. Members of the same species can <span style="color: lightgreen">interbred to produce fertile offspring</span>.
 
 //TODO import
 

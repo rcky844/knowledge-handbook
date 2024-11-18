@@ -12,7 +12,7 @@
 
 ![[genetic_drift.webp|500]]
 
-**Genetic drift** impact small populations greatly, as there is a greater chance that a rate allele will be lost.
+**Genetic drift** impact small populations greatly, as there is a greater chance that a rare allele will be lost.
 
 #### Mutations
 *See also: [[Mutations]]*

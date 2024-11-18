@@ -1,8 +1,9 @@
-The evidence of **evolution** suggests that:
-- Organisms have evolved <u>from simple to more complex forms over a long period of time</u>.
-- All organisms (existing and extinct) can be traced back to a <span style="color: skyblue">common ancestor</span>.
+#### Theory of evolution
+1. Existing life forms <span style="color: lightgreen">arose from pre-existing life forms</span>.
+2. Organisms can be <span style="color: lightgreen">traced back to a common ancestor</span>.
+3. Organisms evolved from <span style="color: lightgreen">simple to complex forms</span>.
 
-#### Evidence of evolution
+#### Researching of evolution
 1. [[Fossil records]]
 2. [[Comparative anatomy]]
 3. [[Comparative embryology]]

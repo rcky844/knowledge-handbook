@@ -24,9 +24,14 @@ Comparing layer 1 and 3, layer 1 consists of fossils of organisms that:
 - <span style="color: skyblue">Radioisotope dating</span> (carbon-14 dating) can be used to arrange fossils in a chronological sequence.
 
 #### Evidence for evolution
-- Fossils showing similarities to living species indicate that <span style="color: lightgreen">existing life forms arose from pre-existing ones</span>.
-- A greater diversity of fossils found in younger rocks supports the idea that <span style="color: lightgreen">different types of organisms have evolved from a common ancestor</span>.
-- Fossils in younger rocks are more complex than those in older rocks, which support the idea that <span style="color: lightgreen">organisms evolved from simple to complex forms</span>, and simple life forms gradually adapted to become more complex.
+- **Fossils show similarities to living species.**
+  ↪️ This indicate <span style="color: lightgreen">existing life forms arose from pre-existing ones</span>.
+
+- **Fossils in younger rocks show a greater diversity of fossils.**
+  ↪️ This indicate that <span style="color: lightgreen">different types of organisms have evolved from a common ancestor</span>.
+
+- **Fossils in younger rocks are more complex than those in older rocks.**
+  ↪️ This indicate that <span style="color: lightgreen">organisms evolved from simple to complex forms</span> as simple organisms adapted to become more complex.
 ↪️ *Refer to*: HKALE 2007 Paper 1A Q2(a)(ii)
 
 #### Limitations of using fossil records
@@ -40,5 +45,5 @@ Comparing layer 1 and 3, layer 1 consists of fossils of organisms that:
    <span style="color: lightgreen">Organisms with soft bodies cannot be fossilized</span>, while some other organisms die in conditions not favourable for fossil formation (e.g. dead bodies in rainforests decay rapidly).
 
 4. **Some fossils are trapped in inaccessible areas.**
-   Fossils can be trapped deep under due to movement of Earth's crust, making them unavailable for studying.
+   Fossils can be trapped deep under the sea due to the movement of Earth's crust, making them unavailable for studying.
 ↪️ *Refer to*: HKALE 2007 Paper 1A Q2(a)(ii)

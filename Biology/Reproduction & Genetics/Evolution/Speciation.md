@@ -7,7 +7,7 @@
   Genetic variations may exist between isolated populations of species. Moreover, the isolated groups may each <u>face different selection pressure (different environmental conditions), different favourable alleles are passed on to offspring in each isolated group</u>.
 
 - **Accumulation of variations**
-  Variations accumulate in each isolated group over many generations. When the population evolve enough genetic change that it can no longer interbreed to produce fertile offspring, it is consider a new species.
+  Variations accumulate in each isolated group over many generations. When the population evolve enough genetic change that it can no longer interbreed to produce fertile offspring, it is considered as a new species.
 
 #### Types of isolation
 ![[isolation_types.webp]]
