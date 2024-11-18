@@ -16,4 +16,4 @@ Vegetative parts of plants form storage organs underground, swollen with food re
 
 #### See also
 - [[Significance of asexual and sexual reproduction in flowering plants]]
-- [[Fungi#Reproduction of fungi]]
+- [[Fungi]]
