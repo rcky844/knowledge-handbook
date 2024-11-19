@@ -16,7 +16,7 @@
 
 | **Ventilation rate** |  =  | **Breathing rate** |  ×  | **Tidal volume** |
 | :------------------: | :-: | :----------------: | :-: | :--------------: |
-|      (mL / min)      |     |  (breaths / min)   |     |       (mL)       |
+|      (mL / min)      |     |  (breaths / min)   |     |  (mL / breaths)  |
 ↪️ See also: HKDSE 2020 Paper 2 Q1(b)
 
 > [!tip] Tidal volume and breathing rate
@@ -59,8 +59,8 @@ The **rate and depth of breathing** is affected by the <span style="color: light
 
 **Process of regulation**: [[Breathing rate and depth.canvas|See diagram]]
 1. A <u>rise / fall</u> in blood $\ce{CO2}$ concentration results in a fall in blood pH.
-2. <span style="color: skyblue">Chemoreceptors</span> in the <span style="color: violet">carotid bodies</span> and <span style="color: violet">aortic bodies</span> detect a <u>fall / rise</u> in blood pH, and send nerve impulses to the respiratory centre.
-3. <span style="color: skyblue">Chemoreceptors</span> in the <span style="color: violet">respiratory centre</span> is detect a <u>fall / rise</u> in blood (/ cerebrospinal fluid) pH.
+2. <span style="color: skyblue">Chemoreceptors</span> in the <span style="color: orange">carotid and aortic bodies</span> detect a <u>fall / rise</u> in blood pH, and send nerve impulses to the <span style="color: violet">respiratory centre</span>.
+3. <span style="color: skyblue">Chemoreceptors</span> in the <span style="color: violet">respiratory centre</span> detects a <u>fall / rise</u> in blood (/ cerebrospinal fluid) pH.
 4. The respiratory centre sends <span style="color: lightgreen">more / fewer</span> nerve impulses (via a sympathetic nerve) to the intercostal muscles and diaphragm muscle, causing them to contract <span style="color: lightgreen">more / less</span> frequently and forcefully.
 5. The rate and depth of breathing <u>increase / decrease</U>. $\ce{CO2}$ is removed from the body at a <u>faster / slower</u> rate. Blood pH level is <u>increased / lowered</u> to the normal level.
 

@@ -1,10 +1,10 @@
-**Translation** leads to the <u>synthesis of a polypeptide (protein)</u>. It requires an amino acid sequence determined by the series of codons on the mRNA. This process occurs at [[Ribosomes]] in the cytoplasm.
+**Translation** leads to the <u>synthesis of a polypeptide (protein)</u>, with the amino acid sequence determined by the series of codons on the mRNA. This process occurs at [[ribosomes]] in the cytoplasm.
 
 > [!note]
 > Production of proteins occurs in the cytoplasm.
 
 #### Role of transfer RNA
-**Transfer RNA (tRNA)** molecules are <u>carriers of amino acids</u>, bringing specific amino acids to the [[Ribosomes]]. There are different tRNA molecules in the cytoplasm.
+**Transfer RNA (tRNA)** molecules are <u>carriers of amino acids</u>, bringing specific amino acids to the [[ribosomes]]. There are different tRNA molecules in the cytoplasm.
 
 - At one end of the tRNA molecule is a <u>binding site for a specific amino acid</u>.
 - At the other end of the tRNA molecule is a <u>sequence of three unpaired bases (anticodon - complementary to codons of mRNA)</u>. It can pair with complementary mRNA codon.
@@ -22,10 +22,10 @@
 - First, molecule of mRNA binds to a [[Ribosomes|ribosome]]. tRNA in the cytoplasm complementary to the codons <u>binds to the start codon on the mRNA</u>, carrying amino acid.
 - Then, another tRNA carrying another amino acid binds to the next codon with its complementary anticodon. The <span style="color: skyblue">amino acids</span> are joined together by <span style="color: lightgreen">peptide bonds</span>.
 - The process repeats, the ribosome moving one codon further along the mRNA. The proceeding tRNAs will be <u>released to pick up another amino acid</u>.
-- The ribosome continue to mover until it reaches a <u>stop codon</u> on the mRNA. The mRNA and the polypeptide will be released, translation is complete.
+- The ribosome continue to move until it reaches a <u>stop codon</u> on the mRNA. The mRNA and the polypeptide will be released, translation is complete.
 
 > [!note]
-> - mRNA provides <u>two sites (codons) for amino acids</u>. Therefore, a tRNA will separate from the mRNA when another codon is to be translated and there are not enough sites for binding tRNA.
+> - [[Ribosomes]] provides <u>two sites (codons) for amino acids</u>. Therefore, a tRNA will separate from the mRNA when another codon is to be translated and there are not enough sites for binding tRNA.
 > - There is <u>no corresponding tRNA for the stop codon</u>.
 
 //TODO images

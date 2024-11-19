@@ -65,7 +65,7 @@ A **cardiac cycle** is a sequence of evens starting from one contraction of the 
 
 | **Cardiac output** |  =  | **Heart rate** |  ×  | **Stroke volume** |
 | :----------------: | :-: | :------------: | :-: | :---------------: |
-|   (beats / min)    |     |  (mL / beat)   |     |    (mL / min)     |
+|     (mL / min)     |     | (beats / min)  |     |    (mL / beat)    |
 - **Heart rate**: Numbers of heartbeats per minute
 - **Stroke volume**: Volume of blood pumped by each ventricle in one heartbeat
 
@@ -80,7 +80,7 @@ A **cardiac cycle** is a sequence of evens starting from one contraction of the 
 ##### Nervous control
 **Factors influencing control of cardiac output**:
 - **Blood pH** (concentration of $\ce{CO2}$ in blood)
-  Changes in blood pH are detected by <span style="color: skyblue">chemoreceptors</span> in the carotid and aortic bodies, which <span style="color: lightgreen">send nerve impulses to the cardiovascular centre</span>.
+  Changes in blood pH are detected by <span style="color: skyblue">chemoreceptors</span> in the <span style="color: orange">carotid and aortic bodies</span> which send nerve impulses to the <span style="color: violet">cardiovascular centre</span>.
 
 > [!note]
 > Chemoreceptors can also detect the pH level (i.e. $\ce{CO2}$ concentration) of the cerebrospinal fluid.

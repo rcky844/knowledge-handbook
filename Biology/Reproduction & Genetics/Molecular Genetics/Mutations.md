@@ -46,6 +46,8 @@ The above results in <u>gametes with an abnormal number of chromosomes</u> (e.g.
 > - [[Mitotic cell division|Mitosis]] passes on the mutation to all the cells derived from the zygote.
 > - Zygotes lacking an entire chromosome rarely survive. Zygotes with an extra chromosome may survive and develop, but usually develops a syndrome of disorders.
 
+//TODO merge with meiosis section
+
 ##### Disorders
 - [[Down syndrome]]
 
