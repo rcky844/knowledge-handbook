@@ -4,21 +4,20 @@ A detergent has an <span style="color: skyblue">ionic head</span> which is <span
 
 > [!note]
 > - Detergents are essentially salt solutions.
-> - The cation is unimportant in the cleansing action of detergents.
+> - The cation does not affect in the cleansing action of detergents.
 
 #### Cleansing action
 ##### Problems with water as cleansing medium
-Water is commonly used to clean substances by washing away dirt on clothes or other surfaces. However, it has several problems that makes it an ineffective cleansing medium:
-
+Water is used to clean substances to wash away dirt on clothes or other surfaces, but it is an ineffective cleansing medium:
 1. **High surface tension** (water only)
-   Water has a high surface tension due to its extensive intermolecular hydrogen bonds, causing the water molecules to always hold into a drop. This slows the wetting of fabric surfaces and inhibits the cleansing process.
+   Water has a <span style="color: lightgreen">high surface tension</span> due to its <span style="color: lightgreen">extensive (intermolecular) hydrogen bonds</span>, causing the water molecules to always hold into a drop. This slows the wetting of fabric surfaces and inhibits the cleansing process.
 
 2. **Inability to dissolve and remove grease** (water + oil)
-   When grease would bind to dirt particles on a surface, water cannot remove the grease and dirt. This is because grease is insoluble in water.
+   When grease would bind to dirt particles on a surface, water cannot remove the grease and dirt, as <span style="color: lightgreen">grease is insoluble in water</span>.
 
 To enhance the cleansing ability of water, detergent acts as two agents:
-- Wetting agent (water only)
-- Emulsifying agent (water + oil)
+- <span style="color: aqua">Wetting agent</span> (water only)
+- <span style="color: aqua">Emulsifying agent</span> (water + oil)
 
 ##### Wetting property
 Detergents are a <span style="color: skyblue">wetting agent</span> and <span style="color: lightgreen">reduce the surface tension of water</span>, which <u>spreads the water to wet the surface</u>.
@@ -35,27 +34,19 @@ Detergents are a <span style="color: skyblue">wetting agent</span> and <span sty
 - <u>Upon shaking, the oil will break into droplets and cannot come together again due to repulsion of negative ionic head of detergent.</u>
 
 #### Types and property of detergents
-##### Soapy detergents
-**Soapy detergents** are made from natural fats and oils.
-- They mostly have carboxylate group ($\ce{-COO^-}$) as ionic head.
-- They have longer hydrocarbon tails than soapless detergents.
+| | Soapy detergents | Soapless detergent |
+| :--: | :--: | :--: |
+| **Sources** | From natural fats and oils | From petroleum |
+| **Ionic head** | Carboxylate group ($\ce{-COO^-}$) | Sulphonate group ($\ce{-OSO3^-}$) / <br>Sulphate group ($\ce{-SO3^-}$) |
+| **Examples** | $\ce{CH3(CH2)6 COO- Na+}$ | $\ce{CH3(CH2)11 - O - SO3- Na+}$<br>$\ce{CH3(CH2)11 SO3- Na+}$ |
+*Effectiveness*:
+- <span style="color: lightgreen">Soapless detergents work much better than soapy detergent in <u>hard water</u></span> (water containing $\ce{Ca^2+}$ or $\ce{Mg^2+}$), since soapless detergents would not form scum while soapy detergents would with hard water.
 
-**Example**: $\ce{CH3(CH2)6 COO- Na+}$
+*Biodegradability*:
+- <span style="color: lightgreen">Determined by its structure</span> (not their source!)
+- <span style="color: aqua">A detergent is biodegradable when there is no branched chains in its structure.</span>
 
-##### Soapless detergents
-**Soapless detergent** are made from chemicals derived from petroleum.
-- They can have either sulphonate group ($\ce{-OSO3^-}$) or sulphate group ($\ce{-SO3^-}$) as ionic head.
-- They work much better than soapy detergent in hard water (water containing $\ce{Ca^2+}$ or $\ce{Mg^2+}$), since soapless detergents would not form scum while soapy detergents would with hard water.
-
-**Examples**:
-$\ce{CH3(CH2)11 - O - SO3- Na+}$
-$\ce{CH3(CH2)11 SO3- Na+}$
-
-##### Biodegradability
-Whether detergents are biodegradable <u>does not depend on the source of their hydrocarbon</u>, but its structure.
-↪️ <u>A detergent is biodegradable when there is no branched chains in its structure.</u>
-
-#### Manufacturing of detergents
+#### Production of detergents
 ##### Soapy detergents
 **Soapy detergents** are made from <u>natural fats and oils</u>. Natural fats and oils are esters which consists of ester groups ($\ce{-COO}$).
 
@@ -78,6 +69,6 @@ By [[Hydrolysis#Alkaline hydrolysis|alkaline hydrolysis]] of triglyceride, an al
 3. Filter to obtain the soap. Wash the soap with a little distilled water and allow it to dry.
 
 ##### Soapless detergents
-**Soapless detergents** are made from hydrocarbons obtained from petroleum.
+**Soapless detergents** are made from hydrocarbons obtained from <u>petroleum</u>.
 
 The hydrocarbons are first reacted with very concentrated $\ce{H2SO4}$ and the product is then neutralized with $\ce{NaOH}$.
