@@ -46,7 +46,7 @@
 
 ---
 **Set-up D** (copper electrodes):
-*See also: [[Purification of copper]]*
+*See also: [[Electroplating]]*
 ![[electrolysis_copper_cathode_anode.webp|400]]
 
 **At anode**:

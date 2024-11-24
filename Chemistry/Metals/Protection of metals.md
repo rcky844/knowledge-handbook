@@ -20,9 +20,13 @@ A protective layer has to be completely coated on an iron made object. This prev
 > - A machine should be oiled from time to time, as the oil will rub off and dirt would stick to the oil or grease.
 > - Paint or plastic should not be used on moving parts, as it would be scratched off easily.
 
-#### Coating with another metal
-For example, <u>tin-plating</u>.
+#### Electroplating
+*Main article: [[Electroplating]]*
+**Electroplating** is a chemical process which uses electrolysis to place a metal onto the iron made object.
 
+Chromium and copper are commonly used as plating metals as they give a shiny appearance. However, this method is expensive.
+
+##### Coating with another metal
 In **tin-plating**, the iron surface is <u>completely</u> coated by tin. Tin prevents iron from contacting oxygen and water in air. Tin metal is corrosion resistant as it forms a protective oxide layer on the surface.
 
 - Tin-plating is widely used in food cans since tin and tin ions are non-poisonous.
@@ -33,10 +37,8 @@ In **tin-plating**, the iron surface is <u>completely</u> coated by tin. Tin pre
 - When the tin metal is incomplete (e.g. being scratched), part of the iron will be exposed. Since tin is less reactive than iron, and iron is now in contact with tin, iron will rust even faster than without contacting tin.
   ↪️ Therefore, tin-plated food can should not be consumed when it is scratched or deformed.
 
-#### Electroplating
-**Electroplating** is a chemical process which uses electrolysis to place a metal onto the iron made object.
-
-Chromium and copper are commonly used as plating metals as they give a shiny appearance. However, this method is expensive.
+##### Galvanization
+**Galvanization** is <u>zinc-plating</u>, zinc loses electrons more readily than iron to prevent rusting.
 
 #### Sacrificial protection
 By <u>attaching a more reactive metal (e.g. zinc)</u>, the more reactive metal loses electrons more readily than iron. Therefore, iron will not lose electrons and will not rust.
@@ -50,9 +52,6 @@ The blocks of metal used in protecting iron needs to be replaced from time to ti
 - **Magnesium blocks connected to underground pipelines**
   Some underground water pipes are made of iron. Magnesium blocks are attached to the underground pipelines to prevent iron from rusting.
 
-#### Galvanization
-**Galvanization** is <u>zinc-plating</u>, zinc loses electrons more readily than iron to prevent rusting.
-
 #### Alloying
 An alloy is made by mixing other elements (e.g. carbon and chromium) with iron in a mixture. The other elements will react more readily than iron / form protective (oxide) layer.
 
@@ -61,7 +60,8 @@ Stainless steel is an alloy of iron made by mixing iron with specific amounts of
 However, this method is the most expensive method.
 
 #### Cathodic protection
-The negative terminal of a battery or power supply is connected to the iron object, providing electrons to the object and preventing the formation of $\ce{Fe^2+}$ ions.
+![[metal_cathodic_protection.webp|500]]
 
-This makes the <u>iron</u> a <u>cathode</u> in an <u>electrolytic cell</u>.
+In **cathodic protection**, the <span style="color: aqua">negative terminal (cathode)</span> of a battery or power supply is <span style="color: lightgreen">connected to the iron object</span>, providing electrons to the object and preventing the formation of $\ce{Fe^2+}$ ions.
 
+<!-- TODO: Cleanup -->

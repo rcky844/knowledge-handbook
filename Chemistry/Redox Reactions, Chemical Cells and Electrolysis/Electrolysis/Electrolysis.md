@@ -97,3 +97,8 @@ Z --> Y --> X;
 **Answer**:
 ![[dse2021_1b_q2_marking.webp|640]]
 
+#### Industrial Applications of Electrolysis
+1. [[Extraction of metals#Electrolysis of molten metal ore]]
+2. [[Corrosion of aluminium#Anodization of aluminium objects]]
+3. [[Protection of metals#Cathodic protection]]
+4. [[Electroplating]]

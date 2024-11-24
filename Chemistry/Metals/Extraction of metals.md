@@ -60,19 +60,24 @@ Besides carbon, other reducing agents such as carbon monoxide gas, hydrogen gas 
 > - The experiment should be performed in a fume cupboard.
 
 ###### Electrolysis of molten metal ore
-This method is suitable for extracting aluminium, magnesium, calcium, sodium, potassium.
+*See also: [[Electrolysis]]*
+This method is suitable for extracting <u>aluminium, magnesium, calcium, sodium, potassium</u>.
 
 ![[electrolysis_molten_metal.webp|600]]
-- The metal ore must be heated to molten (liquid) state.
+- The metal ore must be heated to <span style="color: aqua">molten (liquid) state</span>.
   ↪️ $\ce{Al2O3 (s) ->[heat] Al^3+ (ℓ) + O^2- (ℓ)}$
 
-- The positive $\ce{Al^3+ (ℓ)}$ ions are attracted towards the negative electrode (cathode in electrolysis), and is reduced to aluminium metal:
+- The positive $\ce{Al^3+ (ℓ)}$ ions are attracted towards the negative electrode (cathode), and is <span style="color: lightgreen">reduced to aluminium metal</span>:
   ↪️ $\ce{Al^3+ (ℓ) + 3e- -> Al(ℓ)}$
 
-- The negative $\ce{O^2- (ℓ)}$ ions are attracted towards the positive electrode (anode in electrolysis), and is oxidized to oxygen metal:
+- The negative $\ce{O^2- (ℓ)}$ ions are attracted towards the positive electrode (anode), and is <span style="color: lightgreen">oxidized to oxygen</span>:
   ↪️ $\ce{2O^2- (ℓ) -> O2 (g) + 4e-}$
 
-- Overall chemical equation: $\ce{2Al2O3 (ℓ) -> 4Al (ℓ) + 3O2 (g)}$
+- *Overall chemical equation*: $\ce{2Al2O3 (ℓ) -> 4Al (ℓ) + 3O2 (g)}$
+
+> [!note]
+> - The <span style="color: lightgreen">graphite electrodes have to be replaced constantly</span> as the <span style="color: aqua">oxygen formed will react with carbon</span>.
+> - The electrolyte used cannot be aqueous solutions containing aluminium ions as $\ce{H+(aq)}$ ions are always preferentially discharged in aqueous solution.
 
 #### Recycling of metals
 ##### Reasons

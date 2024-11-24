@@ -6,11 +6,11 @@ Aluminium has a great corrosion resistance due to the formation of the <u>alumin
 #### Anodization of aluminium objects
 ![[anodization.webp|420]]
 
-The aluminium undergoes oxidation in order to thicken the oxide layer. It has to be made an anode.
+The aluminium undergoes oxidation in order to thicken the oxide layer. <u>It has to be made an anode.</u>
 
-Aluminium object to be anodized is connected to anode, and aluminium sheets rolled into a cylindrical shape is connected to the cathode.
+<span style="color: lightgreen">Aluminium object to be anodized is connected to anode, and aluminium sheets rolled into a cylindrical shape is connected to the cathode.</span>
 
-Dilute sulphuric acid will be used as the electrolyte. It contains mobile ions to conduct electricity.
+<span style="color: skyblue">Dilute sulphuric acid</span> will be used as the electrolyte. It contains mobile ions to conduct electricity.
 
 **Overall equation**:
 $\ce{2Al(s) + 3H2O(ℓ) → Al2O3(s) + 3H2(g)}$
