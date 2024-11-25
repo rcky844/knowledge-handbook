@@ -1,6 +1,6 @@
 #### Characteristics
 1. A **catalyst** is a substance which changes the rate of reaction with itself being <u>chemically unchanged</u> after the reaction.
-	- Catalyst may undergo chemical change during reaction, but it must be regenerated after the reaction.
+	- Catalyst may undergo chemical change during reaction, but it must be <span style="color: aqua">regenerated</span> after the reaction.
 
 2. **Catalyst** increases the rate of reaction by <u>providing an alternative reaction pathway with lower activation energy</u>.
    ↪️ See also: [[Activation energy and energy profiles]]
