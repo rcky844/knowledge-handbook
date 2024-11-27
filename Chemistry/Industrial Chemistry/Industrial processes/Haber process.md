@@ -33,7 +33,7 @@ $\ce{N2(g) + 3H2(g) <=>[\text{450°C, 250 atm}][\text{finely divided }\ce{Fe(s)}
 
 4. **Condenser and storage tank**
 	- Ammonia is liquefied by the condenser and collected in the storage tank.
-	  ↪️ See also: HKDSE 2017 Paper 2 Q1(a)(i)(2)
+	  ↪️ **See also**: HKDSE 2017 Paper 2 Q1(a)(i)(2)
 	- Unreacted $\ce{N2}$ and $\ce{H2}$ are recycled and used to react again.
 
 #### Operating conditions for Haber process
@@ -49,7 +49,7 @@ Change in **pressure** affects <span style="color: lightgreen">equilibrium posit
 - High pressure shifts the equilibrium position to the right and increase the yield of $\ce{NH3(g)}$.
 - However, this is limited by mechanical design. There is also safety concern (at pressure >10 atm) as this can cause explosion.
 
-##### Others
+##### Yield of products
 **Example**: HKDSE 2012 Paper 2 Q1(a)(iv)
 In Haber process, the product mixture is removed from the reaction chamber before reaching the yield of about 20%. Explain why this is so.
 - It takes a long time for the equilibrium to be attained / to reach 20% product yield.
@@ -71,8 +71,7 @@ Suggest how ammonia can be separated from the reaction mixture obtained.
 - $\ce{NH3(aq) + HNO3(aq) -> NH4NO3(aq)}$
 - $\ce{2NH3(aq) + H2SO4(aq) -> (NH4)2SO4(aq)}$
 - $\ce{2NH3(aq) + CO2(g) -> (NH2)2CO(aq) + H2O(ℓ)}$
-
-→ The salt is then <u>purified and dried</u>.
+↪️ The salt is then <u>purified and dried</u>.
 
 > [!note]
 > Ammonium salts are used as they contain the highest percentage by mass of nitrogen.

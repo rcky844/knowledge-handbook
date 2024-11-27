@@ -4,10 +4,10 @@ The **Maxwell-Boltzmann's distribution curve** is a curve showing the range of k
 
 **Characteristics**:
 - The x-axis is the <span style="color: skyblue">(molecular) kinetic energy</span>, the y-axis is the <span style="color: skyblue">number of molecules</span>.
-- The area under the curve represents the <span style="color: lightgreen">total number of particles in the system</span>.
-- There are very few particles with high energies, and no particles with zero energy.
-- There is no maximum energy for a particle.
-- **Most probable kinetic energy**: The kinetic energy possessed by the largest number of particles.
+- The area under the curve represents the <span style="color: lightgreen">total number of molecules in the system</span>.
+- There are very few molecules with high kinetic energies, and no molecules with zero energy.
+- There is no maximum energy for a molecule.
+- **Most probable kinetic energy**: The kinetic energy possessed by the largest number of molecules.
 - **Average kinetic energy**: Always lies on the <u>right of the maximum point</u>.
 
 The shaded region under the curve shows the number of particles having energy equal or greater than the activation energy, which can collide effectively and undergo chemical reaction.

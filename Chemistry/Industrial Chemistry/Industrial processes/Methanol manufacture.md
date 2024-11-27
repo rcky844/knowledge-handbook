@@ -6,34 +6,36 @@ Suggest why methanol is an important compound to chemical industry.
 #### Methods for manufacturing
 1. **Biomass conversion**
    Converting pig's manure to produce methanol.
-	- **Advantage**: Renewable feedstock is used.
-	- **Disadvantage**: Slow rate of reaction, product is impure and yield is low.
+	- *Advantage*: Renewable feedstock is used.
+	- *Disadvantage*: Slow rate of reaction, product is impure and yield is low.
 
 2. **Catalytic conversion of methane**
    Conversion of methane directly with the use of metal oxide catalyst at high temperature and pressure.
-	- **Advantage**: Catalyst is used.
-	- **Disadvantage**: High temperature is used which requires a lot of heat energy.
+	- *Advantage*: Catalyst is used.
+	- *Disadvantage*: High temperature is used which requires a lot of heat energy.
 
 3. **Flue gas conversion**
    Converts carbon dioxide in flue gas to methanol
-	- **Advantage**: Helps reduce the release of carbon dioxide into the atmosphere.
-	- **Disadvantage**: Collection of flue gas is difficult, may contain impurities.
+	- *Advantage*: Helps reduce the release of carbon dioxide into the atmosphere.
+	- *Disadvantage*: Collection of flue gas is difficult, may contain impurities.
 
 4. **Microbial oxidation**
    Using microbial to oxidize methane to methanol.
-	- **Advantage**: It has higher energy efficiency.
-	- **Disadvantage**: Slow rate of reaction, product is impure and yield is low.
+	- *Advantage*: It has higher energy efficiency.
+	- *Disadvantage*: Slow rate of reaction, product is impure and yield is low.
 
 5. **Conversion by syngas**
    Through steam-methane reforming process.
 
 ##### Sources of methane
 
+
+
 #### Conversion by syngas
 ##### Process
 1. **Steam-methane reforming process**
    $\ce{CH4(g) + H2O(g) <=>[\text{700°C, 20 atm}][\ce{NiO}] CO(g) + 3H2(g)}$          $\pu{\Delta H = +206 kJ mol-1}$
-	- Gas produced are <span style="color: skyblue">syngas</span>.
+	- Gases produced are <span style="color: skyblue">syngas</span>.
 
 2. **Methanol manufacture**
    $\ce{CO(g) + 2H2(g) <=>[\text{250°C, 100 atm}][\ce{Cu / Al2O3 / ZnO}] CH3OH(g)}$          $\pu{\Delta H = -90 kJ mol-1}$

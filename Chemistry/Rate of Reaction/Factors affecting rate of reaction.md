@@ -70,9 +70,9 @@ Consider the reaction with the following curves:
 #### Presence of a catalyst
 *See also: [[Catalysts]]*
 
-- Catalysts provide an alternative reaction pathway with lower activation energy required.
+- Catalysts provide an <span style="color: lightgreen">alternative reaction pathway with lower activation energy</span> required.
 - More reactant particles have energy equal or greater than the activation energy.
-- The effective collision increases.
+- The <span style="color: violet">effective collision</span> increases.
 
 > [!note]
 > The rate of reaction is independent of the amount of catalyst added.

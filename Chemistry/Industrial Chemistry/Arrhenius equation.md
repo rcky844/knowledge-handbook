@@ -24,7 +24,7 @@ By $y=mx+c$:
 - y-axis ($y$): $\log k$
 - slope ($m$): $-{E_a\over 2.3R}$
 - constant ($c$): $\log A$
-↪️ See also: HKDSE 2013 Paper 2 Q1(a)
+↪️ **See also**: HKDSE 2013 Paper 2 Q1(a)
 
 > [!note]
 > - To find the $E_a$ by graph, find the slope of the line.
