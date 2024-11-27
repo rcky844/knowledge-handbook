@@ -63,7 +63,7 @@ Examples of mutagens ⤴️
 
 **Explanations for mutations**:
 - Some mutagens affect DNA by changing the structure of the bases and causes them to pair with the wrong base.
-- Some mutagens have structures that resemble nucleotides, so they can be incorporated into the DNA molecule and cause errors in DNA replication.
+- Some mutagens have structures that resemble nucleotides, so they can be incorporated into the DNA molecule and cause errors in [[DNA replication]].
 - Ultraviolet (UV) radiation changes the structure of DNA and interfere with DNA replication. Ionizing radiation (e.g. X-rays and gamma rays) can damage DNA molecules directly, or they can ionize other molecules (e.g. water) to form free radicals. Free radicals are highly reactive, and can cause DNA damage and give rise to mutations.
 
 #### Effects of mutations

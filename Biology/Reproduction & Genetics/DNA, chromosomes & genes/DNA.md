@@ -21,5 +21,5 @@
 - <span style="color: lightgreen">Complementary base pairing enables DNA to replicate</span> (make an <span style="color: violet">exact</span> copy of itself) every time a cell divides, so that genetic information is passed on to new cells.
 
 ##### See also
-- [[Process of DNA replication]]
+- [[DNA replication]]
 - [[Extraction of DNA from onion cells]]

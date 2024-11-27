@@ -1,9 +1,9 @@
 #### Structures
-![[human_female_reproductive_sysf.webp|400]]
-![[human_female_reproductive_syss.webp|400]]'
+![[human_female_reproductive_sysf.webp|480]]
+![[human_female_reproductive_syss.webp|480]]'
 
 ##### Ovaries and oviducts
-The **ovary** in a female produces [[#Ova|ova]] (the female gametes) and <u>female sex hormones</u>.
+The **ovary** in a female produces [[#Ova|ova]] (<span style="color: aqua">female gametes</span>) and <u>female sex hormones</u>.
 
 The **oviducts** are thin-walled <u>muscular tubes</u> with funnel-shaped opening near the ovary to <u>receive the ovum</u>. Its inner wall is lined with <u>ciliated epithelium</u>, <span style="color: lightgreen">the beating action of the cilia and wave-like muscular contractions of the oviduct move the ovum along the tube</u>. [[Sexual intercourse and fertilization#Fertilization|Fertilization]] usually occurs in the oviducts.
 

@@ -1,29 +1,29 @@
 #### Structures
-![[human_male_reproductive_sysf.webp|400]]
-![[human_male_reproductive_syss.webp|400]]
+![[human_male_reproductive_sysf.webp|480]]
+![[human_male_reproductive_syss.webp|480]]
 
 ##### Testes and scrotum
-The **testes** produces [[#Sperms|sperms]] (the male gametes) and [[#Production|male sex hormones]] (e.g. testosterone).
+The **testes** produces [[#Sperms|sperms]] (<span style="color: aqua">male gametes</span>) and [[#Production|male sex hormones]] (e.g. testosterone).
 
-The **scrotum** hands outside the abdominal cavity. This keeps the temperature inside slightly lower (by ~2°C) than the body temperature, which is essential for sperms to develop properly in the testes.
+The **scrotum** <span style="color: lightgreen">hangs outside the abdominal cavity</span> in order to <span style="color: aqua">keep the temperature inside slightly lower than the body temperature</span> (by ~2°C), which is essential for sperms to <span style="color: orange">develop properly</span> in the testes.
 
 ##### Epididymis, sperm duct and urethra
-The **epididymis** is a tightly coiled duct lying outside the testes. It stores sperms temporarily and allows sperms to become mature and motile.
+The **epididymis** is a <span style="color: lightgreen">tightly coiled duct lying outside the testes</span>. It <span style="color: peachpuff">stores sperms temporarily</span> and <span style="color: peachpuff">allows sperms to become mature and motile</span>.
 
 The **sperm ducts**, or **vas deferens**, transfer sperms from the epididymis to the urethra during [[Sexual intercourse and fertilization#Sexual intercourse|ejaculation]].
 
 The **urethra** carriers semen and urine out of the body.
 
 ##### Accessory glands
-The **accessory glands** are a series of glands that <u>secretes of seminal fluid</u>, which includes the seminal vesicles, prostate gland and Cowper's glands. Seminal fluid mixes with sperms during [[Sexual intercourse and fertilization#Sexual intercourse|ejaculation]] to form semen.
+The **accessory glands** are a series of glands that <span style="color: lightgreen">secretes seminal fluid</span>, which includes the <span style="color: violet">seminal vesicles, prostate gland and Cowper's glands</span>. Seminal fluid mixes with sperms during [[Sexual intercourse and fertilization#Sexual intercourse|ejaculation]] to form semen.
 
 The functions of seminal fluid are listed below:
-- It <u>contains nutrients</u> (e.g. sugars; fructose) which <u>nourish the sperms</u>.
-- It provides a <u>liquid medium</u> through which <u>sperms can swim</u>.
-- It <u>neutralizes the acidic secretions of the female's vagina</u>.
+- It <span style="color: peachpuff">contains nutrients</span> (e.g. sugars; fructose) which <span style="color: peachpuff">nourish the sperms</span>.
+- It provides a <span style="color: peachpuff">liquid medium</span> through which <span style="color: peachpuff">sperms can swim</span>.
+- It <span style="color: peachpuff">neutralizes the acidic secretions of the female's vagina</span>.
 
 ##### Penis
-The **penis** contains <u>spongy erectile tissues</u> and <u>many blood vessels</u>. It becomes erect when sexually stimulated so that it can be inserted into the vagina for [[Sexual intercourse and fertilization#Sexual intercourse|sexual intercourse]].
+The **penis** contains <span style="color: lightgreen">spongy erectile tissues</span> and <span style="color: lightgreen">many blood vessels</span>. It becomes erect when sexually stimulated so that it can be inserted into the vagina for [[Sexual intercourse and fertilization#Sexual intercourse|sexual intercourse]].
 
 > [!note]
 > The penis is similar in function to the [[Fertilization in flowering plants|pollen tube]] in flowering plants as they both bring the male gametes closer to the female gametes.

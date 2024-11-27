@@ -8,4 +8,5 @@
 	- [[DNA fingerprinting]]
 	- [[Genetically modified organisms]]
 	- [[Human Genome Project]]
-2. Bioethics
+2. Applications
+3. Bioethics
