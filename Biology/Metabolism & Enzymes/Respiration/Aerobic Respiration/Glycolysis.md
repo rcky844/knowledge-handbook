@@ -1,4 +1,4 @@
-**Glycolysis** is the first stage of respiration. It is a process to <u>break down glucose in the cytoplasm</u>.
+**Glycolysis** is the first stage of respiration. It is a process to <span style="color: lightgreen">break down glucose</span> and <span style="color: aqua">occurs in the cytoplasm</span>.
 - It <span style="color: lightgreen">does not require oxygen</span> and can occur in either aerobic and anaerobic conditions.
 - It involves a series of <span style="color: lightgreen">enzyme-controlled</span> reactions and occurs in two phases.
 
@@ -7,14 +7,14 @@
 - Net gain of 2 ATP
 - 2 NADH (reduced NAD)
 
-> [!note]
-> - There are two pyruvate molecules produced per glucose molecule, everything needs to be multiplied by 2 when thinking about what happens to a single glucose molecule in aerobic respiration.
+> [!tip]
+> There are two pyruvate molecules produced per glucose molecule, everything needs to be multiplied by 2 when thinking about what happens to a single glucose molecule in aerobic respiration.
 
 ![[glycolysis.avif|600]]
 
 1. **Phosphorylation**
    Glucose (6-C) is phosphorylated by 2 ATP to form fructose bisphosphate (6-C).
-   ↪️ $\ce{Glucose + 2ATP → Fructose bisphosphate}$
+   ↪️ $\ce{Glucose + 2ATP → Fructose bisphosphate + 2ADP}$
 
 > [!note]
 > ATP is used to make glucose more reactive (it is usually very stable) and to lower the activation energy of the reaction.
