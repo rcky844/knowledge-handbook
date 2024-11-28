@@ -1,6 +1,6 @@
 ![[Genetic engineering]]
 
-**Polymerase chain reaction** (PCR) is a technique for replicating specific DNA sequences <span style="color: lightgreen">outside cells</span> to many copies quickly and accurately.
+**Polymerase chain reaction** (PCR) is a technique for replicating specific DNA sequences <span style="color: lightgreen">outside cells</span> to many copies quickly and accurately. It is highly sensitive, and can amplify a very small amount of DNA.
 
 #### Principle
 The principle of PCR is similar to [[DNA replication]], but it is performed in a reaction mixture outside cells consisting of:
@@ -39,4 +39,7 @@ B --> C;
    <span style="color: lightgreen">Raise the temperature</span> (to about 70°C) for <span style="color: aqua">DNA polymerase</span> to <span style="color: orange">catalyse the synthesis of new DNA strands</span>.
 
 #### Applications
-//TODO
+- Crime scene investigation
+- Prenatal diagnosis of genetic diseases
+- Detection of infectious diseases
+- Archaeological studies for ancient organic remains
