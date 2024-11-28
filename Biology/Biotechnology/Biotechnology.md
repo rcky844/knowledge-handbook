@@ -7,7 +7,11 @@
 	- [[Polymerase chain reaction]]
 	- [[DNA fingerprinting]]
 	- [[Genetically modified organisms]]
+	- [[Benefits and risks of genetic engineering|Benefits and risks]]
+2. Applications
 	- [[Human Genome Project]]
-	- [[Benefits and risks]]
-1. Applications
-2. Bioethics
+	- [[Production of pharmaceutical products]]
+	- [[Gene therapy]]
+	- [[Stem cells]]
+	- [[Transgenic animals and plants]]
+3. [[Bioethics]]
