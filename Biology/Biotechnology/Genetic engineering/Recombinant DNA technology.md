@@ -7,6 +7,7 @@
 
 **Terminology**:
 - *Plasmids*: Small, circular DNA molecules found in bacteria separate from the bacterial chromosome and can replicate independently.
+- *Bacteriophages*: Viruses that infect bacteria by attaching to the surface of bacteria and injecting their genetic materials into the bacterial cells.
 - *Gene of interest*: Fragment of the required DNA isolated from a donor cell.
 - *Vector*: DNA molecule used for transferring into a <span style="color: skyblue">host cell</span>, usually a <span style="color: skyblue">plasmids</span>.
 - *Restriction enzymes*: Produced by bacteria as a <span style="color: orange">defense mechanism</span> against <span style="color: skyblue">bacteriophages</span> by <span style="color: lightgreen">cutting up viral DNA before it can be integrated into the bacteria chromosome and replicates</span>.
@@ -16,7 +17,7 @@
 - Plasmids replicate independently of the bacteria chromosome.
 - Plasmids contain genes (e.g. antibiotic resistance genes) that can serve as a marker for identifying the host cells that contain the inserted gene of interest
 
-#### Process
+#### Process via plasmids
 ![[recombinant_tech.webp|420]]
 Example with synthesizing human insulin ⤴️
 
@@ -32,6 +33,11 @@ Example with synthesizing human insulin ⤴️
 	- *Ligation*: Gene of interest is inserted into an open plasmid, joined together with the help of <span style="color: skyblue">DNA ligase</span>, acting like molecular glue.
 	- Resulting DNA molecule is called a <span style="color: skyblue">recombinant plasmid</span>.
 
+#### Process via bacteriophages
+//TODO: import pics
+
+- Gene of interest is inserted into the DNA of a bacteriophage.
+- The bacteriophage will be injected into the bacterium along with the bacteriophage DNA, and integrates into the bacterial chromosome.
 #### Applications
 > [!tip]
 > An organism that contains genes from another species is called a <u>transgenic organism</u>, or a <u>genetically modified organism (GMO)</u>.
