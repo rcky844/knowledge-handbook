@@ -1,8 +1,7 @@
-**Sexual reproduction** is the production of offspring through the fusion of gametes (fertilization). These gametes are usually derived from two parents of different sexes and produced by meiotic cell division.
+**Sexual reproduction** is the production of offspring through the <span style="color: lightgreen">fusion of gametes</span> (fertilization). These gametes are usually derived from two parents of different sexes and produced by [[meiotic cell division]].
 
-Upon fertilization, a zygote is formed. It then undergoes mitotic cell division into an offspring.
+Upon fertilization, a <span style="color: violet">zygote</span> is formed. It then undergoes [[mitotic cell division]] into an offspring.
 
-Currently in the Knowledge Handbook, there are two major types of sexual reproduction covered:
-
+#### Sections
 - [[Sexual reproduction in flowering plants]]
 - [[Sexual reproduction in humans]]

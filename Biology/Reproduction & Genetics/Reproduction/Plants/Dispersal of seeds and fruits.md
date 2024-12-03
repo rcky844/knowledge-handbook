@@ -1,17 +1,17 @@
-In the **dispersal of seeds and fruits**, <u>external agents</u> (e.g. animals, wind, water) are often required.
+In the **dispersal of seeds and fruits**, <span style="color: violet">external agents</span> (e.g. animals, wind, water) are often required.
 
-This process is important because it avoids overcrowding, while also allowing the plant species to colonize new areas.
+This process is important because it <span style="color: lightgreen">avoids overcrowding</span>, while also allowing the plant species to colonize new areas.
 
 #### Examples of the methods for dispersal
 ##### By animals
-
 - **Use of brightly coloured, fleshy and scented fruits** (e.g. tomatoes)
-  Attract animals to feed on, then discarding or swallowing the seeds.
-	- **Swallowed seeds**
-	  The seeds are usually small and have hard seed coats to withstand the actions of digestive enzymes. When they are expelled in animals' faeces, the seed coats are softened.
+  <span style="color: lightgreen">Attract animals to feed on</span>, then discarding or swallowing the seeds.
+
+- **Swallowed seeds**
+  Seeds are usually <span style="color: lightgreen">small and have hard seed coats</span> to <span style="color: aqua">withstand the actions of digestive enzymes</span>. By the time they are expelled in animals' faeces, the <span style="color: orange">seed coats are softened</span>.
 
 - **Hooks or spines**
-  These structures allow the fruit to stick to the fur of animals.
+  These structures allow the fruit to <span style="color: lightgreen">stick to the fur of animals</span>.
   (e.g. burdock fruits can cling to the fur of dogs)
 
 ##### By wind
