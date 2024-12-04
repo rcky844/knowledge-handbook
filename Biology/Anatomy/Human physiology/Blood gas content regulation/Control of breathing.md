@@ -2,7 +2,7 @@
 
 **Breathing** is under both [[Voluntary actions|voluntary]] and [[Reflex actions|involuntary]] control.
 
-**Control of breathing by the nervous system**:
+*Control of breathing by the nervous system*:
 - <span style="color: lightgreen">Voluntarily controlled</span> by the [[Central nervous system#Cerebrum|cerebrum]].
 - <span style="color: lightgreen">Involuntarily controlled</span> by the [[Central nervous system#Medulla oblongata (Medulla)|medulla oblongata]].
 	- Sets the <span style="color: violet">basic rhythm</span> of breathing.
@@ -10,14 +10,14 @@
   ↪️ **Example**: during sleeping
 
 #### Ventilation rate
-*Pre-context*: [[Mechanism of ventilation]]
+*Pre-context: [[Mechanism of ventilation]]*
 
 **Ventilation rate** is the volume of air breathed in and out per minute.
 
 | **Ventilation rate** |  =  | **Breathing rate** |  ×  | **Tidal volume** |
 | :------------------: | :-: | :----------------: | :-: | :--------------: |
 |      (mL / min)      |     |  (breaths / min)   |     |  (mL / breaths)  |
-↪️ See also: HKDSE 2020 Paper 2 Q1(b)
+↪️ *See also*: HKDSE 2020 Paper 2 Q1(b)
 
 > [!tip] Tidal volume and breathing rate
 > - **Tidal volume** is the volume of air that moved through the lungs in each inhalation and exhalation <u>during resting</u>.
@@ -30,17 +30,17 @@
 > - Breathing rate = $2.5 / {6\over60}$ = 25 breaths / min
 > - Tidal volume = $\pu{500 mL}$
 
-#### Setting basic breathing rhythm
+#### Basic breathing rhythm
 **Basic rhythm** is controlled by the <span style="color: violet">respiratory centre</span> of the <span style="color: skyblue">medulla oblongata</span>.
 
-**Cycle of inhalation and exhalation**: [[Breathing rhythm.canvas|See diagram]]
+*Cycle of inhalation and exhalation*: [[Breathing rhythm.canvas|See diagram]]
 - **Initiation of inhalation**
   <span style="color: skyblue">Respiratory centre</span> sends nerve impulses to the <span style="color: violet">intercostal muscles and diaphragm muscle</span> to stimulate them to contract, and the lung inflate and inhalation occurs.
 
 - **Stimulation of stretch receptors**
-  <span style="color: skyblue">Stretch receptors</span> send nerve impulses to inhibit the respiratory centre, so it stops sending nerve impulses to the respiratory centre. The muscles would relax, and the lung to deflate and exhalation occurs.
+  <span style="color: skyblue">Stretch receptors</span> send nerve impulses to <span style="color: lightgreen">inhibit the respiratory centre</span>, so it stops sending nerve impulses to the respiratory centre. The muscles would relax, and the lung to deflate and exhalation occurs.
 
-#### Adjusting rate and depth of breathing
+#### Rate and depth of breathing
 The **rate and depth of breathing** is affected by the <span style="color: lightgreen">concentration of carbon dioxide in blood</span>. <span style="color: skyblue">Chemoreceptors</span> <span style="color: violet">detect changes in pH of the blood and send nerve impulses to the respiratory centre</span>. It is controlled by a [[negative feedback mechanism]].
 
 > [!tip] Detection by chemoreceptors
@@ -51,13 +51,13 @@ The **rate and depth of breathing** is affected by the <span style="color: light
 > 
 > Therefore, the conc. of $\ce{O2}$ can be deduced from the change in pH caused by production of bicarbonate ions.
 
-**Location of chemoreceptors**:
+*Location of chemoreceptors*:
 ![[chemoreceptors_location.webp|400]]
 - <span style="color: skyblue">Respiratory centre</span> in [[Central nervous system#Medulla oblongata (Medulla)|medulla oblongata]]
 - <span style="color: skyblue">Carotid bodies</span> in the walls of the carotid arteries in the neck
 - <span style="color: skyblue">Aortic bodies</span> in the wall of the aorta (aortic arch)
 
-**Process of regulation**: [[Breathing rate and depth.canvas|See diagram]]
+*Process of regulation*: [[Breathing rate and depth.canvas|See diagram]]
 1. A <u>rise / fall</u> in blood $\ce{CO2}$ concentration results in a fall in blood pH.
 2. <span style="color: skyblue">Chemoreceptors</span> in the <span style="color: orange">carotid and aortic bodies</span> detect a <u>fall / rise</u> in blood pH, and send nerve impulses to the <span style="color: violet">respiratory centre</span>.
 3. <span style="color: skyblue">Chemoreceptors</span> in the <span style="color: violet">respiratory centre</span> detects a <u>fall / rise</u> in blood (/ cerebrospinal fluid) pH.
