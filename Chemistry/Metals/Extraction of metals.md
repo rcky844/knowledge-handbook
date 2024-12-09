@@ -6,12 +6,12 @@ Metals have <span style="color: lightgreen">some physical properties</span> that
 - Ductility
 - Melleability
 
-However, metals tend to form compound with non-metal to form ores.
+However, metals tend to form compounds with non-metal as ores.
 - <span style="color: lightgreen">The more reactive is the metal, the more stable is the metal compound in the ores.</span>
 - The more stable is the metal compound in the ores, the more complicated the method is required to be invented.
 - The more reactive the metals, the later they can be extracted in history due to time needed for technological development.
 
-**Example**: HKDSE 2015 LQ Q3(a)
+**Example**: HKDSE 2019 Paper 1B Q3(a)
 Suggest why iron was used earlier than aluminium in history.
 ↪️ Iron is less reactive than aluminium.
 

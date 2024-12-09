@@ -33,7 +33,7 @@ $\ce{N2(g) + 3H2(g) <=>[\text{450°C, 250 atm}][\text{finely divided }\ce{Fe(s)}
 
 4. **Condenser and storage tank**
 	- Ammonia is liquefied by the condenser and collected in the storage tank.
-	  ↪️ **See also**: HKDSE 2017 Paper 2 Q1(a)(i)(2)
+	  ↪️ *See also*: HKDSE 2017 Paper 2 Q1(a)(i)(2)
 	- Unreacted $\ce{N2}$ and $\ce{H2}$ are recycled and used to react again.
 
 #### Operating conditions for Haber process
@@ -41,8 +41,8 @@ $\ce{N2(g) + 3H2(g) <=>[\text{450°C, 250 atm}][\text{finely divided }\ce{Fe(s)}
 
 ##### Temperature
 Change in **temperature** affects <span style="color: lightgreen">rate of reaction and equilibrium position</span>.
-- High temperature shifts the equilibrium position to the left and yield of $\ce{NH3(g)}$ will be decreased.
-- Low temperature decreases the rate of reaction.
+- Higher temperatures shifts the equilibrium position to the left and yield of $\ce{NH3(g)}$ will be decreased.
+- Lower temperatures decreases the rate of reaction.
 
 ##### Pressure
 Change in **pressure** affects <span style="color: lightgreen">equilibrium position</span>.

@@ -47,7 +47,7 @@ R_f\,\,\text{value} = {\text{distance travelled by the component}\over\text{dist
 $$
 
 **Example**: HKDSE 2018 Paper 2 Q3(a)(iii)
-What is meany by the '$R_f$ value' of a substance in a paper chromatogram?
+What is meaning of the '$R_f$ value' of a substance in a paper chromatogram?
 - $R_f$ value is the ratio of distance traveled by the component to the distance traveled by the solvent front.
 
 **Example**: HKDSE 2020 Paper 2 Q3(b)(i-iii)

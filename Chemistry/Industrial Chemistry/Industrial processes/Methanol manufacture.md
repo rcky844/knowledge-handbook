@@ -51,6 +51,7 @@ Suggest why methanol is an important compound to chemical industry.
 
 ##### Working principle
 ![[steam_methane.webp]]
+//TODO adjust brightness
 
 1. **Steam-methane reforming chamber**
 	- Natural gas containing methane is first purified to remove sulphur impurity present.

@@ -1,7 +1,4 @@
 .obsidian/plugins
 .obsidian/themes
-.obsidian/appearance.json
-.obsidian/community-plugins.json
-.obsidian/graph.json
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+.obsidian/*.json
+

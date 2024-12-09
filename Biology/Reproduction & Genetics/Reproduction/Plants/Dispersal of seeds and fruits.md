@@ -15,16 +15,16 @@ This process is important because it <span style="color: lightgreen">avoids over
   (e.g. burdock fruits can cling to the fur of dogs)
 
 ##### By wind
-Some plants produce fruits that are <u>very light</u>, and <u>has structures to act as 'parachutes' or 'wings' to float or glide in the wind</u>. They can be dispersed by wind.
+Some plants produce fruits that are <span style="color: lightgreen">very light</span>, and <span style="color: lightgreen">has structures to act as 'parachutes' or 'wings' to float or glide in the wind</span>. They can be dispersed by wind.
 (e.g. dandelion, sugar maple)
 
-This method of dispersal allows them to transport seeds or fruits over long distances.
+This method of dispersal allows them to transport seeds or fruits <span style="color: aqua">over long distances</span>.
 
 ##### By water
 Fruits of some freshwater and coastal plants depend on water for dispersal.
-For example, coconut fruit has <u>air spaces</u> that allow it to <u>float</u> and be dispersed by water currents.
+For example, coconut fruit has <span style="color: orange">air spaces</span> that allow it to <span style="color: lightgreen">float</span> and be dispersed by water currents.
 
 ##### By 'explosion'
 Seeds of pea pods are distributed by this method:
 - When pea pods are mature, their fruit walls dry up and shrink.
-- This gradually builds up pressure within the pods, eventually causing the pods to 'explode', scattering the seeds away.
+- This gradually <span style="color: lightgreen">builds up pressure</span> within the pods, eventually causing the pods to 'explode', scattering the seeds away.

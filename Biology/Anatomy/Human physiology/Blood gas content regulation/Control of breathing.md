@@ -38,7 +38,7 @@
   <span style="color: skyblue">Respiratory centre</span> sends nerve impulses to the <span style="color: violet">intercostal muscles and diaphragm muscle</span> to stimulate them to contract, and the lung inflate and inhalation occurs.
 
 - **Stimulation of stretch receptors**
-  <span style="color: skyblue">Stretch receptors</span> send nerve impulses to <span style="color: lightgreen">inhibit the respiratory centre</span>, so it stops sending nerve impulses to the respiratory centre. The muscles would relax, and the lung to deflate and exhalation occurs.
+  <span style="color: skyblue">Stretch receptors</span> send nerve impulses to <span style="color: lightgreen">inhibit the respiratory centre</span>, so it stops sending nerve impulses to the respiratory muscles. The muscles would relax, and the lung to deflate and exhalation occurs.
 
 #### Rate and depth of breathing
 The **rate and depth of breathing** is affected by the <span style="color: lightgreen">concentration of carbon dioxide in blood</span>. <span style="color: skyblue">Chemoreceptors</span> <span style="color: violet">detect changes in pH of the blood and send nerve impulses to the respiratory centre</span>. It is controlled by a [[negative feedback mechanism]].
@@ -60,7 +60,7 @@ The **rate and depth of breathing** is affected by the <span style="color: light
 *Process of regulation*: [[Breathing rate and depth.canvas|See diagram]]
 1. A <u>rise / fall</u> in blood $\ce{CO2}$ concentration results in a fall in blood pH.
 2. <span style="color: skyblue">Chemoreceptors</span> in the <span style="color: orange">carotid and aortic bodies</span> detect a <u>fall / rise</u> in blood pH, and send nerve impulses to the <span style="color: violet">respiratory centre</span>.
-3. <span style="color: skyblue">Chemoreceptors</span> in the <span style="color: violet">respiratory centre</span> detects a <u>fall / rise</u> in blood (/ cerebrospinal fluid) pH.
+3. <span style="color: skyblue">Chemoreceptors</span> in the <span style="color: violet">respiratory centre</span> detects a <u>fall / rise</u> in blood pH.
 4. The respiratory centre sends <span style="color: lightgreen">more / fewer</span> nerve impulses (via a sympathetic nerve) to the intercostal muscles and diaphragm muscle, causing them to contract <span style="color: lightgreen">more / less</span> frequently and forcefully.
 5. The rate and depth of breathing <u>increase / decrease</U>. $\ce{CO2}$ is removed from the body at a <u>faster / slower</u> rate. Blood pH level is <u>increased / lowered</u> to the normal level.
 

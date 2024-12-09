@@ -5,7 +5,7 @@
 > [!note]
 > - In industrial production, sea water is not used as the feedstock directly, as it contains not only $\ce{NaCl}$, but also other dissolved minerals.
 > - However, seawater can be purified to obtain conc. $\ce{NaCl}$ solution.
-> ↪️ **See also**: HKDSE 2015 Paper 2 Q1(c)(i - iv)
+> ↪️ *See also*: HKDSE 2015 Paper 2 Q1(c)(i - iv)
 
 #### Working principle
 ![[electrolysis_brine.webp|300]]
@@ -37,6 +37,7 @@ $\ce{2NaCl(aq) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + Cl2(g)}$
 
 #### Flowing mercury cell
 ![[flowing_mercury_cell.webp|600]]
+//TODO cleanup
 
 *Design* (advantages):
 - **Production of $\ce{Cl2(g)}$ happens separately from $\ce{H2(g)}$.**
