@@ -1,10 +1,10 @@
-**Translation** leads to the <u>synthesis of a polypeptide (protein)</u>, with the amino acid sequence determined by the series of codons on the mRNA. This process occurs at [[ribosomes]] in the cytoplasm.
+**Translation** leads to the <u>synthesis of a polypeptide (protein)</u>, with the amino acid sequence determined by the series of codons on the mRNA. This process occurs at [[Ribosomes]] in the cytoplasm.
 
 > [!note]
 > Production of proteins occurs in the cytoplasm.
 
 #### Role of transfer RNA
-**Transfer RNA (tRNA)** molecules are <u>carriers of amino acids</u>, bringing specific amino acids to the [[ribosomes]]. There are different tRNA molecules in the cytoplasm.
+**Transfer RNA (tRNA)** molecules are <u>carriers of amino acids</u>, bringing specific amino acids to the [[Ribosomes]]. There are different tRNA molecules in the cytoplasm.
 
 - At one end of the tRNA molecule is a <u>binding site for a specific amino acid</u>.
 - At the other end of the tRNA molecule is a <u>sequence of three unpaired bases (anticodon - complementary to codons of mRNA)</u>. It can pair with complementary mRNA codon.

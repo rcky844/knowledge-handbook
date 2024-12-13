@@ -3,6 +3,7 @@
 > - Flowering plants usually carry out [[sexual reproduction]] under unfavourable conditions. The plants can produce offspring with more genetic variations. Some offspring may be able to survive better in changed conditions, this increases the chance of survival for the species.
 
 #### Asexual reproduction
+*Main article: [[Asexual reproduction]]*
 ##### Advantages
 - **Fast** — one parent plant can <u>produce a large number of offspring</u> under favourable conditions.
 - **Desirable characteristics** of the parent are retained in the offspring.
@@ -16,6 +17,7 @@
 - The chance for **disease transmission** from parent plants to offspring is <u>higher</u>.
 
 #### Sexual reproduction
+*Main article: [[Sexual reproduction]]
 ##### Advantages
 - **Genetic variation** exists among offspring. This allows the species to <u>adapt to environmental changes</u>.
 - Fruits and seeds are usually <u>dispersed away from the parent plants</u>. This can **prevent overcrowding** and <u>reduce competition</u> for resources.

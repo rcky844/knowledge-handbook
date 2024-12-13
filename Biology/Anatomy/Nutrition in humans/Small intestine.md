@@ -58,7 +58,7 @@ The small intestine is also <span style="color: lightgreen">responsible for most
    This <span style="color: lightgreen">shortens the distance for transport of food molecules</span>.
 
 4. **Epithelium cells of each villi contains many mitochondria.**
-   This <span style="color: lightgreen">provides energy</span> for the [[active transport]] of certain food molecules.
+   This <span style="color: lightgreen">provides energy</span> for the [[Active transport]] of certain food molecules.
 
 5. **Each villus has a lymph vessel called lacteal, which is surrounded by a dense network of blood capillaries.**
 	- <span style="color: aqua">The lacteal carries away lipids, while blood capillaries carry away sugars and amino acids.</span>
@@ -68,7 +68,7 @@ The small intestine is also <span style="color: lightgreen">responsible for most
    This brings the digested <u>food molecules into close contact with villi</u> and <span style="color: lightgreen">reduces the distance for diffusion for rapid absorption</span>.
 
 ##### Transport of food molecules
-Food molecules are transported by [[diffusion]], [[osmosis]] and [[active transport]].
+Food molecules are transported by [[Diffusion]], [[Osmosis]] and [[Active transport]].
 
 **Into the blood**:
 - **Diffusion and active transport**

@@ -1,4 +1,4 @@
-**Proteins** are mainly used for <span style="color: lightgreen">growth and repair of body tissues</span> in humans. They are <span style="color: lightgreen">broken down into amino acids</span> in the digestive tract for absorption. When they are in excess, they are broken down in a process called [[deamination]].
+**Proteins** are mainly used for <span style="color: lightgreen">growth and repair of body tissues</span> in humans. They are <span style="color: lightgreen">broken down into amino acids</span> in the digestive tract for absorption. When they are in excess, they are broken down in a process called [[Deamination]].
 
 #### Types of amino acids
 In total, there are 20 types of amino acids.

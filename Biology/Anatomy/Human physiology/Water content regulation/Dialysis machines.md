@@ -13,10 +13,10 @@
 	- However, it <span style="color: aqua">does not contain urea</span> to allow urea to [[Diffusion|diffuse]] into the dialysis fluid down the concentration gradient.
 
 - **Dialysis tubing is highly branched.** (similar to a capillary network)
-  This <span style="color: lightgreen">increases the surface area</span> for rapid [[diffusion]] of urea out of the blood.
+  This <span style="color: lightgreen">increases the surface area</span> for rapid [[Diffusion]] of urea out of the blood.
 
 - **Dialysis fluid and blood flow in opposite directions.**
-  This ensures there will be a difference in concentration in the whole length of the dialysis tubing, this <span style="color: lightgreen">maintains a steep concentration gradient</span> for rapid [[diffusion]], and ensures more urea is removed.
+  This ensures there will be a difference in concentration in the whole length of the dialysis tubing, this <span style="color: lightgreen">maintains a steep concentration gradient</span> for rapid [[Diffusion]], and ensures more urea is removed.
 
 #### Limitations
 - <span style="color: lightgreen">The amount of blood that can be drawn into the dialysis machine per unit time is limited</span>, each treatment may take 4-6 hours to remove most urea from blood.

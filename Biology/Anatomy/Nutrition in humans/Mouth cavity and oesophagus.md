@@ -1,5 +1,5 @@
 #### Saliva
-During [[ingestion]], food is cut into smaller pieces by teeth. **Saliva** then mixes with food and they are rolled into a mass called bolus by the tongue, where chemical digestion by the enzymes in the contents of saliva begins.
+During [[Ingestion]], food is cut into smaller pieces by teeth. **Saliva** then mixes with food and they are rolled into a mass called bolus by the tongue, where chemical digestion by the enzymes in the contents of saliva begins.
 
 **Saliva** is a digestive juice produced by <span style="color: skyblue">salivary glands</span> in the mouth. It consists of:
 - **Water**: <span style="color: lightgreen">Moistens and softens food</span> (99.5% of saliva is water)

@@ -19,7 +19,7 @@ Outside a host, viruses cannot reproduce and eventually disintegrates. However, 
 
 #### Bacteria
 ![[bacteria_structure.webp|400]]
-**Bacteria** are [[Sub-cellular structures in cells#Comparing prokaryotic and eukaryotic cells|prokaryotic, free-living organisms]] usually consisting of one cell. Some types of bacteria form [[Mutualism|mutualistic]] or [[Commensalism|commensal]] relationships within the human body (e.g. in the human [[stomach]]), while some other types of bacteria are pathogenic and can cause diseases in the human body.
+**Bacteria** are [[Sub-cellular structures in cells#Comparing prokaryotic and eukaryotic cells|prokaryotic, free-living organisms]] usually consisting of one cell. Some types of bacteria form [[Mutualism|mutualistic]] or [[Commensalism|commensal]] relationships within the human body (e.g. in the human [[Stomach]]), while some other types of bacteria are pathogenic and can cause diseases in the human body.
 
 Pathogenic bacteria produce enzymes or toxins that can damage cells or interfere with normal functions.
 

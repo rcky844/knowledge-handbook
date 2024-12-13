@@ -8,13 +8,13 @@
 | Water | 99% | [[Osmosis]] |
 | Urea | 50% | [[Diffusion]] |
 
-- <span style="color: violet">Glucose, amino acids and some salts</span> in the glomerular filtrate are reabsorbed into the blood by both [[diffusion]] and [[active transport]].
+- <span style="color: violet">Glucose, amino acids and some salts</span> in the glomerular filtrate are reabsorbed into the blood by both [[Diffusion]] and [[Active transport]].
 
-- The reabsorption of glucose, amino acids and salts causes the <span style="color: aqua">glomerular filtrate to become more dilute and its water potential increases</span>. Water in the filtrate moves into blood by [[osmosis]] down a water potential gradient.
+- The reabsorption of glucose, amino acids and salts causes the <span style="color: aqua">glomerular filtrate to become more dilute and its water potential increases</span>. Water in the filtrate moves into blood by [[Osmosis]] down a water potential gradient.
 	- <span style="color: lightgreen">Amount of water reabsorbed is directly proportional to the amount of solutes reabsorbed.</span> Therefore, the <u>concentration</u> of the filtrate that arrives at the end of the first coiled tubule remains unchanged.
 	  ↪️ See also: HKDSE 2017 Paper 2 Q1(b)(i)
 
-- Reabsorption of water from the glomerular filtrate <span style="color: lightgreen">raises the concentration of urea</span> (to become higher than in blood) along the tubule, resulting in passive reabsorption of urea into blood by [[diffusion]].
+- Reabsorption of water from the glomerular filtrate <span style="color: lightgreen">raises the concentration of urea</span> (to become higher than in blood) along the tubule, resulting in passive reabsorption of urea into blood by [[Diffusion]].
 
 > [!note]
 > - Glucose and amino acids are soluble in water, as they can form extensive [[hydrogen bonds]] with water molecules.
@@ -35,7 +35,7 @@
   This <u>shortens the distance</u> for reabsorption.
 
 - **The cells in the walls of the first coiled tubule contain numerous mitochondria.**
-  This provides a lot of energy for [[active transport]] of useful substances against a concentration gradient.
+  This provides a lot of energy for [[Active transport]] of useful substances against a concentration gradient.
 
 - **Each kidney tubule is richly supplied with blood capillaries.**
   As the reabsorbed substances are transported away quickly, <u>a steep concentration gradient is maintained</u> for rapid reabsorption of substances.

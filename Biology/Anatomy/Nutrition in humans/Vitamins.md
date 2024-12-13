@@ -18,7 +18,7 @@
 
 - **Functions**
 	- For the <span style="color: violet">formation of red blood cells</span>
-	- For [[respiration]]
+	- For [[Respiration]]
 
 - **Deficiency symptoms / diseases**
 	- <span style="color: skyblue">Fatigue</span>

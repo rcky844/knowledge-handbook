@@ -1,6 +1,6 @@
 ![[kidneys_detailed.webp|700]]
 
-The **kidneys** make up the [[urinary system]].
+The **kidneys** make up the [[Urinary system]].
 - Receives blood from the aorta through the <span style="color: skyblue">renal arteries</span> and return blood to the vena cava through the <span style="color: skyblue">renal veins</span>.
 - Filters the blood to form urine and leads to <span style="color: lightgreen">osmoregulation and excretion</span>.
 

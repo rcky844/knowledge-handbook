@@ -4,10 +4,10 @@
 
 #### Methods of digestion
 ##### Physical digestion
-Breaking up of food into smaller pieces by physical means, <span style="color: lightgreen">without changing the chemical structure</span> of food (and does not form new food substances). This <span style="color: lightgreen">increases the surface area</span> of the food for the action of digestive [[enzymes]].
+Breaking up of food into smaller pieces by physical means, <span style="color: lightgreen">without changing the chemical structure</span> of food (and does not form new food substances). This <span style="color: lightgreen">increases the surface area</span> of the food for the action of digestive [[Enzymes]].
 
 **Examples**:
-- **Chewing**: Teeth mechanically cuts food into smaller pieces and mix food with saliva during [[ingestion]].
+- **Chewing**: Teeth mechanically cuts food into smaller pieces and mix food with saliva during [[Ingestion]].
 - **[[Mouth cavity and oesophagus#Peristalsis|Peristalsis]]**: Waves of muscular contractions along the alimentary canal.
 - **[[Stomach#Churning|Churning]]**: Rhythmic, muscular contractions of the stomach
 - **Emulsification of lipids**: By [[Small intestine#Bile|bile salts]] in the small intestine

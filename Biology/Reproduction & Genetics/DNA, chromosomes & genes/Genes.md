@@ -2,7 +2,7 @@
 > [[DNA]] - [[Chromosomes]] - *Genes*
 
 A **gene** is a short length of DNA in a <span style="color: violet">chromosome</span>.
-- The sequence of bases in the DNA of a gene provides the genetic code that determines the sequence of amino acids in a particular **polypeptide**, making up [[proteins]] for building body parts, [[enzymes]] and [[hormones]].
+- The sequence of bases in the DNA of a gene provides the genetic code that determines the sequence of amino acids in a particular **polypeptide**, making up [[Proteins]] for building body parts, [[Enzymes]] and [[hormones]].
 - Genes are the <span style="color: skyblue">basic unit of heredity</span> and determines **traits** (body characteristics) of an organism by controlling how proteins are made. Traits may be controlled by one or more genes.
 
 ![[gene.webp|320]]

@@ -5,4 +5,4 @@ Example with stem tubers ⤴
 
 2. Under <span style="color: lightgreen">favourable conditions</span>, a bud grows and develops a new shoot and adventitious roots using the <span style="color: orange">food reserves</span> in the storage organ.
 
-3. Green leaves carry out [[photosynthesis]] and passes down some of the food to form new storage organs.
+3. Green leaves carry out [[Photosynthesis]] and passes down some of the food to form new storage organs.

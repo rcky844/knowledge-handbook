@@ -1,4 +1,4 @@
-In humans, teeth are embedded in the upper jaw and lower jaw. They are responsible for <span style="color: violet">mastication</span> during [[ingestion]].
+In humans, teeth are embedded in the upper jaw and lower jaw. They are responsible for <span style="color: violet">mastication</span> during [[Ingestion]].
 
 #### Structure
 ![[teeth_structure.avif]]

@@ -14,8 +14,8 @@
 - <span style="color: lightgreen">Carbon dioxide can also be breathed out more quickly</span>, thus a steep concentration gradient of carbon dioxide between the blood and air sacs is maintained for the rapid removal of carbon dioxide by [[diffusion]].
 
 **Response to strenuous exercises**:
-- As the intensity of physical activity increases, the energy demand of muscle cells increases greatly. The rate of [[aerobic respiration]] is limited by the availability of oxygen and may not be fast enough to provide sufficient energy to satisfy the energy demand.
-- Skeletal muscles cells would also undergo [[anaerobic respiration]] to produce extra energy to supply the immediate energy need. Lactic acid is produced as a by-product, accumulation of the acid in skeletal muscles gradually prevents the muscles from contracting normally and they begin to work inefficiently (muscle fatigue).
+- As the intensity of physical activity increases, the energy demand of muscle cells increases greatly. The rate of [[Aerobic respiration]] is limited by the availability of oxygen and may not be fast enough to provide sufficient energy to satisfy the energy demand.
+- Skeletal muscles cells would also undergo [[Anaerobic respiration]] to produce extra energy to supply the immediate energy need. Lactic acid is produced as a by-product, accumulation of the acid in skeletal muscles gradually prevents the muscles from contracting normally and they begin to work inefficiently (muscle fatigue).
 
 ##### After exercise
 - Ventilation rate remains high for some time after exercise ends, gas exchange occurs at a faster rate.

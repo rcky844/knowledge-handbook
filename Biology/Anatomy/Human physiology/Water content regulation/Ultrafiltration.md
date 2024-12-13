@@ -3,7 +3,7 @@
 #### Adaptations
 - Blood inside the glomerulus is under <u>high blood pressure</u> due to the <span style="color: lightgreen">pumping action of the heart</span>, which results in <span style="color: lightgreen">high hydrostatic pressure</span> in the glomerulus.
 - Capillary wall of the glomerulus and the wall of the Bowman's capsule are <span style="color: lightgreen">thin and differentially permeable</span>. They serve as the <u>filter</u> to allow ultrafiltration.
-- The glomerulus has a <span style="color: lightgreen">high surface area</span> for [[diffusion]] due to its capillary network. This allows efficient filtration of blood by <u>maintainining a steep concentration gradient</u> of substances.
+- The glomerulus has a <span style="color: lightgreen">high surface area</span> for [[Diffusion]] due to its capillary network. This allows efficient filtration of blood by <u>maintainining a steep concentration gradient</u> of substances.
 
 > [!note]
 > An <span style="color: lightgreen">increase in the blood volume</span> would <span style="color: aqua">increase the hydrostatic pressure</span> in the glomerulus.

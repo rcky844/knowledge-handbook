@@ -4,7 +4,7 @@
 
 #### Components
 ##### Receptors
-The **receptors** are <span style="color: skyblue">thermoreceptors</span> in the <span style="color: violet">hypothalamus</span> and in the [[skin]].
+The **receptors** are <span style="color: skyblue">thermoreceptors</span> in the <span style="color: violet">hypothalamus</span> and in the [[Skin]].
 - **In the hypothalamus**: Detect the temperature of the blood
 - **In the skin**: Detect the temperature of the skin
 
@@ -51,7 +51,7 @@ The **control centre** is the <span style="color: skyblue">thermoregulatory cent
 #### Shivering
 **Shivering** is brought about by [[Reflex actions|involuntary]] <u>muscles contractions</u>.
 - A fall in temperature stimulates the heat gain centre in the hypothalamus to send more frequent nerve impulses to <span style="color: skyblue">skeletal muscles</span>, causing them to <u>contract in short bursts</u>.
-- Contraction ([[Metabolism]]) of skeletal muscles generates extra heat from increased cellular [[respiration]].
+- Contraction ([[Metabolism]]) of skeletal muscles generates extra heat from increased cellular [[Respiration]].
 
 #### Hormone thyroxine
 **Thyroxine** is a hormone that <span style="color: lightgreen">increases the metabolic rate of body cells</span> so that more heat is generated in the body. It is secreted by the <span style="color: skyblue">thyroid gland</span> as a long-term response to cold conditions.
@@ -68,7 +68,7 @@ The **control centre** is the <span style="color: skyblue">thermoregulatory cent
 **When feeling cold**:
 - Put on more clothes to reduce heat loss.
 - Consume hot food and hot drinks, or switch on a heater to increase heat gain.
-- Do exercise to increase heat production by [[metabolism]].
+- Do exercise to increase heat production by [[Metabolism]].
 
 **When feeling hot**:
 - Wear fewer and thinner clothes to reduce insulation.

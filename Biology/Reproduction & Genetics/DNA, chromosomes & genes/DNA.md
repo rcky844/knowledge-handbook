@@ -3,7 +3,7 @@
 
 ![[chromosome_diagram.webp|500]] 
 
-**Deoxyribonucleic acid (DNA)** is the chemical that stores genetic information in a cell. It is usually found in the [[nucleus]].
+**Deoxyribonucleic acid (DNA)** is the chemical that stores genetic information in a cell. It is usually found in the [[Nucleus]].
 - A DNA molecule consists of <span style="color: lightgreen">two polynucleotide chains</span> (i.e. two DNA strands) that run in <span style="color: skyblue">opposite directions</span> and are twisted together to form a <span style="color: skyblue">double helix</span>. (anti-parallel relationship)
 - The backbone of the DNA molecule is made up of the <span style="color: lightgreen">sugar (deoxyribose)</span> and <span style="color: lightgreen">phosphate groups</span> of nucleotides.
 - Attached to the sugar of each nucleotide is one of <span style="color: lightgreen">four nitrogenous bases</span>: <u>adenine (A), thymine (T), guanine (G) and cytosine (C)</u>. They can do <span style="color: violet">complementary base pairing</span>.

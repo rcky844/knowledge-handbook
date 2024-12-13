@@ -1,6 +1,6 @@
 ![[kidneys.webp|700]]
 
-The **urinary system** is responsible for [[osmoregulation]] in humans.
+The **urinary system** is responsible for [[Osmoregulation]] in humans.
 
 **Two kidneys**: ([[Kidneys|main article]])
 - Receives blood from the aorta through the <span style="color: skyblue">renal arteries</span> and return blood to the vena cava through the <span style="color: skyblue">renal veins</span>.

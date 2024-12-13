@@ -53,7 +53,7 @@
 
 **Functions**:
 - Glycogen is for energy storage in animals.
-- Cellulose from vegetables is a source of [[dietary fibres]].
+- Cellulose from vegetables is a source of [[Dietary fibres]].
 
 
 #### See also

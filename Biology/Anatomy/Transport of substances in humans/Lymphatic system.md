@@ -30,7 +30,7 @@ Furthermore, there are valves in the lymph vessels (similar to those in veins). 
 ##### Lymph nodes
 ![[lymph_nodes.webp]]
 
-**Lymph nodes** are small swellings at intervals along the lymph vessels where [[white blood cells]] are stored. When lymph flows through lymph nodes, the pathogens contained within will be destroyed by the white blood cells.
+**Lymph nodes** are small swellings at intervals along the lymph vessels where [[White blood cells]] are stored. When lymph flows through lymph nodes, the pathogens contained within will be destroyed by the white blood cells.
 
 Lymph is therefore effectively filtered by the lymph node before returning the the bloodstream. It helps in body defence.
 
