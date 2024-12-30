@@ -1,4 +1,4 @@
-#### Experiment on its need in photosynthesis
+# Experiment on its need in photosynthesis
 ![[photosynthesis_chlorophyll_test.webp|320]]
 
 - **Set-up**

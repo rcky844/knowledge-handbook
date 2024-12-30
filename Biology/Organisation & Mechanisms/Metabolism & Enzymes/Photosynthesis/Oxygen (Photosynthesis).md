@@ -1,8 +1,8 @@
-##### Involved processes
+## Involved processes
 - [[Photochemical reactions#Photolysis of water]]
   Oxygen is produced as a by-product of photosynthesis.
 
-##### Burning splint test
+## Burning splint test
 - The gas is collected and then tested with a glowing splint. If the splint relights, it shows that the gas produced has high oxygen content and indicates photosynthesis has occurred.
 - The test is best performed with water plants, as oxygen can be collected easily by displacement of water.
 

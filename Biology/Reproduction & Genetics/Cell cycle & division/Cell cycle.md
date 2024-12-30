@@ -4,13 +4,11 @@
 
 The **cell cycle** refers to the sequence of events in a cell from the time it is formed until the time it divides.
 
-#### Major stages
+# Major stages
 1. [[Interphase]]
 2. [[Nuclear division]]
 3. [[Cytokinesis]]
 
-#### See also
+# See also
 - [[Mitotic cell division]]
 - [[Meiotic cell division]]
-
-![[List article!]]

@@ -7,8 +7,7 @@ The method is carried out by avoiding sexual intercourse five days before and tw
 
 However, the rhythm method has a high failure rate, as menstrual cycles are not always regular and it is difficult to predict the time of ovulation.
 
-#### Methods to estimate the time of ovulation
-
+# Methods to estimate the time of ovulation
 - **Keeping record of the time of menstruation**
   Ovulation usually occurs 14 days before the next menstruation.
 
@@ -18,5 +17,3 @@ However, the rhythm method has a high failure rate, as menstrual cycles are not 
 
 - **Observing vaginal secretions every day**
   Mucus secretions from the cervix become more watery around the time of ovulation.
-
-

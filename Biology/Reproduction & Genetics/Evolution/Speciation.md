@@ -1,4 +1,4 @@
-**Speciation** depends on two factors: <span style="color: skyblue">isolation</span> and <span style="color: skyblue">genetic variation</span>.
+**Speciation** depends on two factors: <span class="hi-blue">isolation</span> and <span class="hi-blue">genetic variation</span>.
 
 - **Isolation of populations of species**
   [[Evolution disruptions#Gene flow|Gene flow]] is stopped between the isolated groups as they <u>cannot reach or breed with each other</u>.
@@ -9,7 +9,7 @@
 - **Accumulation of variations**
   Variations accumulate in each isolated group over many generations. When the population evolve enough genetic change that it can no longer interbreed to produce fertile offspring, it is considered as a new species.
 
-#### Types of isolation
+# Types of isolation
 ![[isolation_types.webp]]
 
 - **Geographical isolation**

@@ -12,8 +12,8 @@
 - <span style="color: violet">Less side effects</span> - Amino acid sequences are highly similar from the human counterpart, and would not trigger immune responses with great side effects
 - <span style="color: violet">More affordable</span> - 
 
-#### Examples
-##### Human insulin
+# Examples
+## Human insulin
 **Background**:
 - Diabetic (type I) patients were treated with insulin extracted from animals (e.g. pigs, cattle).
 
@@ -21,12 +21,12 @@
 - Easily contaminated by pathogens (e.g. bacteria, viruses)
 - Has an amino acid sequence slightly different from human insulin, may trigger immune response and cause side effects.
 
-**Solution**: <span style="color: skyblue">Recombinant human insulin</span>
+**Solution**: <span class="hi-blue">Recombinant human insulin</span>
 - Produced by genetically modified bacteria.
 - Has the same amino acid sequences as natural human insulin.
 - Does not trigger immune responses in the human body and has fewer side effects.
 
-##### Human growth hormone
+## Human growth hormone
 **Background**:
 - Caused by pituitary gland disorders, people affected has slow growth rate, with shorter height than other individuals.
 - Treated by injections of growth hormone extracted from dead bodies.
@@ -35,36 +35,36 @@
 - Supply for extracted HGH is limited.
 - Extracts might have been contaminated with pathogens.
 
-**Solution**: <span style="color: skyblue">Recombinant HGH</span>
+**Solution**: <span class="hi-blue">Recombinant HGH</span>
 - Produced by genetically modified bacteria.
 - Produced in larger quantities and in a purer form.
 
-##### Vaccines
+## Vaccines
 *Pre-context: [[Vaccination]]*
 
 **Problems**:
 - <!-- Virus vaccine may become pathogenic again -->
 
-**Solution \#1**: <span style="color: skyblue">Recombinant protein vaccines</span>
+**Solution \#1**: <span class="hi-blue">Recombinant protein vaccines</span>
 - Produced by GM microorganisms.
 - Free of whole pathogens.
 - Can be produced in large quantities.
 
 **Solution \#2**: <!--TODO-->
 
-##### Monoclonal antibiotics
+## Monoclonal antibiotics
 <!--TODO-->
 
-#### Role of bacteria
-##### Providers of plasmids as vectors
-Plasmids extracted from bacteria are usually <span style="color: lightgreen">used as vectors for transferring a gene of interest into host cells</span>.
+# Role of bacteria
+## Providers of plasmids as vectors
+Plasmids extracted from bacteria are usually <span class="hi-green">used as vectors for transferring a gene of interest into host cells</span>.
 
 **Advantages**:
 - *Plasmids are small in size.* They are readily taken up by bacteria cells and transferred naturally between bacteria.
 - *Plasmids can serve as marker* to allow the selection of transformed bacteria, as they usually carry antibiotic resistance genes.
 - *Plasmids replicate independently of the bacterial chromosome*, and multiple copies of the gene of interest can exist in a single bacterial cell.
 
-##### As host cells
+## As host cells
 Bacteria are commonly used as <span style="color: violet">host cells</span> in [[recombinant DNA technology]].
 
 **Advantages**:

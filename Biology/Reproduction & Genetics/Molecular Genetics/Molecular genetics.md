@@ -1,6 +1,6 @@
 ![[List article!]]
 
-#### Sections
+# Sections
 1. [[Genetic code]]
 2. [[Gene expression and protein synthesis]]
 	- [[Transcription]]

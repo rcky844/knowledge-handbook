@@ -1,6 +1,6 @@
 The **Krebs cycle** is a cyclic series of enzyme-controlled reactions that take place in the mitochondrial matrix.
 
-**Overall products** (per glucose molecule):
+*Overall products* (per glucose molecule):
 - Coenzyme A (CoA) → reused!
 - 4 Carbon dioxide ($\ce{CO2}$)
 - 6 Reduced NAD ($\ce{NADH}$)
@@ -27,5 +27,4 @@ The **Krebs cycle** is a cyclic series of enzyme-controlled reactions that take 
 	- *Substrate-level phosphorylation*: A phosphate is transferred from one of the intermediates to ADP, forming $\ce{1ATP}$.
 
 > [!note]
-> The Kerbs cycle turns twice for each glucose molecule that undergoes [[Glycolysis]].
-
+> The Kerbs cycle turns twice for each glucose molecule that undergoes [[glycolysis]].

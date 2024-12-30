@@ -2,20 +2,20 @@
 
 **DNA fingerprinting**, also **DNA profiling**, is a technique used for <u>identifying individuals using their DNA profiles</u>.
 
-#### Principles
-##### Variable number tandem repeats
+# Principles
+## Variable number tandem repeats
 There are **variable number tandem repeats** (VNTRs) in different loci of the non-coding DNA due to the phenomenon of <span style="color: orange">length polymorphism</span>.
-- Each VNTR contains a variable number of short repetitive sequences of nucleotides, which varies greatly among individuals. This results in <span style="color: lightgreen">different lengths</span> of VNTRs.
-- Each individual have <span style="color: lightgreen">two allele</span> from each parent, with low chance of two persons having the same set of VNTRs (except for identical twins).
+- Each VNTR contains a variable number of short repetitive sequences of nucleotides, which varies greatly among individuals. This results in <span class="hi-green">different lengths</span> of VNTRs.
+- Each individual have <span class="hi-green">two allele</span> from each parent, with low chance of two persons having the same set of VNTRs (except for identical twins).
 
-The VNTR segments with <span style="color: lightgreen">varying lengths</span> can be extracted with <span style="color: skyblue">restriction enzymes</span>.
+The VNTR segments with <span class="hi-green">varying lengths</span> can be extracted with <span class="hi-blue">restriction enzymes</span>.
 - These segments can be separated by <span style="color: violet">gel electrophoresis</span>.
-- This method of generating a DNA fingerprint is called <span style="color: skyblue">restriction fragment length polymorphism analysis</span> (RFLP analysis).
+- This method of generating a DNA fingerprint is called <span class="hi-blue">restriction fragment length polymorphism analysis</span> (RFLP analysis).
 
 //TODO: import pics
 
-##### Gel electrophoresis
-**Gel electrophoresis** is a method for separating DNA fragments <span style="color: lightgreen">based on their size</span>.
+## Gel electrophoresis
+**Gel electrophoresis** is a method for separating DNA fragments <span class="hi-green">based on their size</span>.
 
 //TODO: import pics
 
@@ -24,7 +24,7 @@ The VNTR segments with <span style="color: lightgreen">varying lengths</span> ca
 - Smaller fragments move through the pores of the gel more easily, and move further than larger ones in a given time, separating them according to their size.
 - The DNA is stained with a dye or labeled with a radioactive marker as it is colourless.
 
-#### RFLP analysis
+# RFLP analysis
 *Process*:
 1. **DNA extraction**
    DNA can be extracted from samples (e.g. hair, blood, saliva, semen) from different individuals.
@@ -51,7 +51,7 @@ The VNTR segments with <span style="color: lightgreen">varying lengths</span> ca
 > [!info] Alternatives to RFLP analysis
 > **Short tandem repeats** (STR) are shorter (in length) repetitive sequences of nucleotides. Specific loci are chosen for analysis, less time is required for analysis.
 
-#### Applications
+# Applications
 - **Criminal investigation**
   Hair, saliva, blood or semen sample in the crime scene is collected to create DNA fingerprints for matching with those of victims and suspects.
 

@@ -1,4 +1,4 @@
-**Key**:
+*Key*:
 $N$: dominant allele for long wings
 $n$: recessive allele for vestigial wings
 
@@ -6,8 +6,8 @@ $n$: recessive allele for vestigial wings
 > It is advised to choose symbols with significant differences.
 > Don't use symbols like $S$ or $O$.
 
-#### Genetic diagram
+# Genetic diagram
 ![[genetic_diagram1.webp|280]]
 
-#### Punnett square
+# Punnett square
 ![[punnett_square.svg]]

@@ -7,7 +7,7 @@ Changes in the internal environment are influenced by the external environment (
 
 In humans, the internal environment refers to the immediate environment of cells (blood & tissue fluid). As cells are sensitive to changes in the environment surrounding them, homeostasis ensures that the cells may function properly.
 
-#### Sections
+# Sections
 1. [[Negative feedback mechanism]]
 2. [[Parameters of the internal environment]]
 3. [[Blood glucose levels and regulation]]

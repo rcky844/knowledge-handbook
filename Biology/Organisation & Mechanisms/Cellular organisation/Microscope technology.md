@@ -1,4 +1,4 @@
-#### Light microscope
+# Light microscope
 ![[light_microscope.webp|500]]
 - **Light source**: Transmitted light passes through the specimen
 - **Sample / Specimen**: Living or dead cells
@@ -15,7 +15,7 @@
 
 <hr>
 
-#### Transmission electron microscope (TEM)
+# Transmission electron microscope (TEM)
 - **Light source**: Electron beans passes through the specimen
 - **Sample / Specimen**: Dead cells
 - **View of image**: Two-dimensional, black and white images
@@ -24,7 +24,7 @@
 	- Samples have to be fixed and sectioned in order to preserve and stabilise cell structures.
 	- Ultra-thin sections must be used.
 
-#### Scanning electron microscope (SEM)
+# Scanning electron microscope (SEM)
 - **Light source**: Electrons bounce off the specimen
 - **Sample / Specimen**: Dead cells
 - **View of image**: Three-dimensional, black and white images

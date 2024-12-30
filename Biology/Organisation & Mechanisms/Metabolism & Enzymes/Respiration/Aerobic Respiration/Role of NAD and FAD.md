@@ -3,15 +3,14 @@
 Hydrogen ions and electrons are important in the electron transport chain at the end of respiration as they play a role in the synthesis of ATP.
 ↪️ See also: [[Oxidative phosphorylation]]
 
-#### Sources
-**Reduced NAD**:
-- 2 x 1 = 2 from [[Glycolysis]]
-- 2 x 1 = 2 from the [[Link Reaction]]
+# Sources
+*Reduced NAD*:
+- 2 x 1 = 2 from [[glycolysis]]
+- 2 x 1 = 2 from the [[link Reaction]]
 - 2 x 3 = 6 from the [[Krebs cycle]]
 
-**Reduced FAD**:
+*Reduced FAD*:
 - 2 x 1 = 2 from the [[Krebs cycle]]
 
 > [!note]
-> At all stages there is a doubling (2x) of reduced NAD and FAD. This is because one glucose molecule is split in two in [[Glycolysis]] and so these reactions occur twice per single molecule of glucose.
-
+> At all stages there is a doubling (2x) of reduced NAD and FAD. This is because one glucose molecule is split in two in [[glycolysis]] and so these reactions occur twice per single molecule of glucose.

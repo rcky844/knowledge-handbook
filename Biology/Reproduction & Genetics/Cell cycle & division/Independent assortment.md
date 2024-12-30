@@ -5,4 +5,4 @@
 **Process**:
 - The paired homologous chromosomes line up along the equatorial plane.
 - The arrangement of [[chromosomes]] in each homologous pair at the equatorial plane is random.
-- <span style="color: lightgreen"><u>The two members of each pair of homologous chromosomes are separated independently.</u></span>
+- <span class="hi-green"><u>The two members of each pair of homologous chromosomes are separated independently.</u></span>

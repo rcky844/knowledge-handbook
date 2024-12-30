@@ -1,8 +1,8 @@
-#### Inorganic substances
+# Inorganic substances
 - [[Water]]
 - [[Minerals]]
 
-#### Organic substances
+# Organic substances
 Biomolecules are substances produced by living organisms, which <u>contains carbon</u>.
 - [[Carbohydrates]]
 - [[Lipids]]

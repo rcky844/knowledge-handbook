@@ -2,14 +2,14 @@
 
 ![[photosynthesis_abstract.webp|360]]
 
-#### Word equation
+# Word equation
 carbon dioxide + water  $\xrightarrow[\text{by chlorophyll}]{\text{light energy captured}}$  glucose + oxygen
 
-#### Metabolism
+# Metabolism
 - Photosynthesis is an [[Anabolism|anabolic process]] in which complex organic molecules (carbohydrates) are synthesized from simple inorganic molecules (carbon dioxide and water).
 - Light energy is effectively converted to chemical energy stored in organic molecules.
 
-#### Significance
+# Significance
 - **Sustaining plant life**: Photosynthesis provides essential materials for plants.
 	- **Glucose**: Used in respiration to provide energy for cellular activities. Extra glucose can be converted to starch for storage or synthesized into cellulose for building cell walls.
 	- **Other organic nutrients (e.g. proteins, lipids)**: Can be converted from intermediates of photosynthesis for metabolism and the growth of plants.
@@ -22,18 +22,16 @@ carbon dioxide + water  $\xrightarrow[\text{by chlorophyll}]{\text{light energy 
 	- Respiration and combustion of fossil fuels use oxygen and produce carbon dioxide, lowering atmospheric oxygen levels and increasing carbon dioxide levels.
 	- During photosynthesis, plants take up carbon dioxide from the atmosphere and release oxygen, this helps maintain the balance of oxygen and carbon dioxide in the atmosphere.
 
-#### Adaptations & Structures
+# Adaptations & Structures
 - [[Leaves#Structure & Adaptations|Leaves]]
 - [[Chloroplast]]
 
-
 <hr>
-
-#### Processes
+# Processes
 1. [[Photochemical reactions]]
 2. [[Carbon fixation|Carbon fixation: the Calvin Cycle]]
 
-##### Balanced equation
+## Balanced equation
 6 <span style="color:red">CO<sub>2</sub></span> + 6 <span style="color:lightblue">H<sub>2</sub>O</span>  $\xrightarrow[\text{by chlorophyll}]{\text{light energy captured}}$  <span style="color:red">C<sub>6</sub></span><span style="color:lightblue">H<sub>12</sub></span><span style="color:red">O<sub>6</sub></span> + 6 <span style="color:lightblue">O<sub>2</sub></span>
 
 > [!tip]
@@ -41,19 +39,19 @@ carbon dioxide + water  $\xrightarrow[\text{by chlorophyll}]{\text{light energy 
  > - Glucose is formed from both $\ce{CO2}$ and $\ce{H2O}$
  > - Oxygen came formed from the $\ce{H2O}$
 
-#### Requirements (+ Experiments)
+# Requirements (+ Experiments)
 - [[Light (Photosynthesis)|Light]]
 - [[Carbon dioxide (Photosynthesis)|Carbon dioxide]]
 - [[Chlorophyll]]
 - [[Water (Photosynthesis)|Water]]
 
-#### Photosynthetic products
+# Photosynthetic products
 - [[Carbohydrates (Photosynthesis)#Starch|Starch]]
 - [[Oxygen (Photosynthesis)|Oxygen]]
 - [[Lipids (Photosynthesis)|Lipids]]
 - [[Proteins (Photosynthesis)|Proteins]]
 
-##### Experimental details (TEMP?)
+## Experimental details (TEMP?)
 **Note**: Perform [[Destarching|destarching]] before any experiments!
 
 By the word equation of photosynthesis:
@@ -63,5 +61,5 @@ To study the effects of different factors on the rate of photosynthesis, we can 
 - The rate of formation of products (e.g. oxygen and carbohydrates)
 - The rate of use of raw materials (e.g. carbon dioxide)
 
-#### See also
+# See also
 - [[Respiration]] — the oxidative breakdown of glucose to release energy

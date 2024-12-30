@@ -1,6 +1,6 @@
 ![[List article!]]
 
-#### Sections
+# Sections
 1. [[Male reproductive system]]
 2. [[Female reproductive system]]
 3. [[Menstrual cycle]]
@@ -9,5 +9,5 @@
 6. [[Birth process and parental care]]
 7. [[Birth control methods]]
 
-#### See also
+# See also
 - [[Hormonal control of menstrual cycle]]

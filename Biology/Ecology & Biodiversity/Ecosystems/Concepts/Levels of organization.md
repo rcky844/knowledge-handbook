@@ -1,0 +1,6 @@
+- **Species**: Organisms that can <span class="hi-blue">interbreed</span> to produce <span class="hi-green">fertile offspring</span>.
+- **Population**: Organisms of the <span class="hi-green">same species</span> that live in the same habitat at the same time.
+- **Community**: All the populations of <span class="hi-green">different species</span> that live in the same habitat at the same time.
+- **Ecosystem**: Community of organisms and their <u>physical environment</u>.
+- **Biome**: Group of ecosystems that have a <u>similar climate</u> and types of communities, and it may cover a large geographical area.
+- **Biosphere**: The highest level of organisation, including all of the parts of the Earth that support life.

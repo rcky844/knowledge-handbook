@@ -7,7 +7,7 @@
 | :----------------------------: |
 |          *Plant cell*          |
 
-**Organelles**:
+# Organelles
 1. [[Cell membrane]]
 2. [[Cytoplasm]]
 3. [[Nucleus]]
@@ -18,12 +18,12 @@
 8. [[Cell wall]]
 9. [[Chloroplast]]
 
-#### Size of some organelles
+## Size of some organelles
 Chloroplast > Mitochondrion > Endoplasmic reticulum > Ribosome
 → Light microscope can only be used to observe chloroplasts out of these organelles.
 
 
-#### Comparing animal and plant cells
+# Comparing animal and plant cells
 |                         |       Animal cells        |         Plant cells          |
 | :---------------------: | :-----------------------: | :--------------------------: |
 |        **Shape**        |         Irregular         |    Fixed by the cell wall    |
@@ -35,7 +35,7 @@ Chloroplast > Mitochondrion > Endoplasmic reticulum > Ribosome
 |    **Food reserves**    |     Glycogen granules     |        Starch grains         |
 
 
-#### Comparing prokaryotic and eukaryotic cells
+# Comparing prokaryotic and eukaryotic cells
 | | Prokaryotes | Eukaryotes |
 | :--: | :--: | :--: |
 | Size | Relatively smaller | Relatively larger |

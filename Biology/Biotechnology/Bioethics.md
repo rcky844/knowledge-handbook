@@ -1,4 +1,4 @@
-#### Areas of concern
+# Areas of concern
 - **Ethical issues**: Moral values, human rights, animal rights, religious beliefs
 - **Health issues**: Potential hazards to human health
 - **Legal issues**: Government's policy making, law making and enforcement

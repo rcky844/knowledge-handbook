@@ -1,9 +1,9 @@
-A **mutation** is a <span style="color: lightgreen">sudden and permanent change</span> in the DNA / gene / chromosome of an organism. Mutations can be classified into two types.
+A **mutation** is a <span class="hi-green">sudden and permanent change</span> in the DNA / gene / chromosome of an organism. Mutations can be classified into two types.
 
-#### Gene mutations
-A **gene mutation** is a <u>change in the base sequence of DNA</u> in a gene.
+# Gene mutations
+A **gene mutation** is a <span class="hi-green">change in the base sequence of DNA</span> in a gene.
 
-**Types of gene mutations**:
+*Types of gene mutations*:
 - **Insertion**: One or more bases are added to the sequence.
 - **Deletion**: One or more bases are lost from the sequence.
 - **Substitution**: One or more bases are replaced by others.
@@ -24,20 +24,20 @@ Substitution or inversion of bases does not cause a reading frame shift, but cha
 - **Codon changes the amino acid to a stop codon**
   Translation comes to a stop prematurely. The polypeptide produced will be <u>shorter than normal</u> and probably cannot function.
 
-##### Disorders
+## Disorders
 - [[Sickle-cell anaemia]]
 
-#### Chromosome mutations
-A **chromosome mutation** is a <u>change in the structure</u> of [[Chromosomes]]. It affects <u>large segments of DNA containing many genes</u>.
+# Chromosome mutations
+A **chromosome mutation** is a <span class="hi-green">change in the structure</span> of [[chromosomes]]. It affects <u>large segments of DNA containing many genes</u>.
 
-##### Change in structure
+## Change in structure
 - **Deletion**: A segment of a chromosome is lost.
 - **Duplication**: A segment of a chromosome is inserted to the homologous chromosome.
 - **Inversion**: A segment of a chromosome breaks off and rotates through 180° before rejoining.
 - **Translocation**: A segment of a chromosome breaks off and becomes attached to a non-homologous chromosome.
 ↪️ These changes often arise from errors during the [[crossing over]] of chromosomes in meiosis.
 
-##### Change in number
+## Change in number
 **Non-disjunction** is when the <u>members of a pair of homologous chromosomes fail to separate</u> during [[Meiotic cell division|meiosis]] I, and they end up in the same gamete. Alternatively, sister chromatids may fail to separate during [[Meiotic cell division|meiosis]] II.
 
 The above results in <u>gametes with an abnormal number of chromosomes</u> (e.g. extra or missing chromosome).
@@ -46,12 +46,10 @@ The above results in <u>gametes with an abnormal number of chromosomes</u> (e.g.
 > - [[Mitotic cell division|Mitosis]] passes on the mutation to all the cells derived from the zygote.
 > - Zygotes lacking an entire chromosome rarely survive. Zygotes with an extra chromosome may survive and develop, but usually develops a syndrome of disorders.
 
-//TODO merge with meiosis section
-
-##### Disorders
+## Disorders
 - [[Down syndrome]]
 
-#### Causes of mutations
+# Causes of mutations
 - **Spontaneous mutations**: Occur naturally and randomly with no outside causes.
 - **Induced mutations**: Exposure to mutagens (agents that can increase the rate of mutations).
 
@@ -61,26 +59,26 @@ The above results in <u>gametes with an abnormal number of chromosomes</u> (e.g.
 | Radiation         | - Ultraviolet radiation<br>- X-rays<br>- Gamma rays | - Sunlight<br>- Medical imaging<br>- Radiotherapy               |
 Examples of mutagens ⤴️
 
-**Explanations for mutations**:
+*Explanations for mutations*:
 - Some mutagens affect DNA by changing the structure of the bases and causes them to pair with the wrong base.
 - Some mutagens have structures that resemble nucleotides, so they can be incorporated into the DNA molecule and cause errors in [[DNA replication]].
 - Ultraviolet (UV) radiation changes the structure of DNA and interfere with DNA replication. Ionizing radiation (e.g. X-rays and gamma rays) can damage DNA molecules directly, or they can ionize other molecules (e.g. water) to form free radicals. Free radicals are highly reactive, and can cause DNA damage and give rise to mutations.
 
-#### Effects of mutations
-##### Cell type
-**Occurring in somatic cells**:
+# Effects of mutations
+## Cell type
+*Occurring in somatic cells*:
 - Not passed on to the offspring.
 - Only daughter cells derived from the mutated cells are affected.
 
-**Occurring in gametes or gamete-producing cells**:
+*Occurring in gametes or gamete-producing cells*:
 - Passed on to the offspring.
 - Mutated DNA occurs in every cell of the offspring.
 
-##### Harmful effects to organism
+## Harmful effects to organism
 - Gene mutation can result in a change in the conformation and function of the protein. Many genetic disorders are caused by improper function of proteins.
 - Mutations that result in a significant loss of genetic material (e.g. deletion of a segment of a chromosome) are most likely lethal.
 
-##### Neutral effects to organism
+## Neutral effects to organism
 The gene mutation may cause no change in the phenotype:
 - If the mutation occurs in a non-coding region of the DNA (it does not code for proteins).
 - If the mutation is a silent mutation, the triplet codes still code for the same amino acids, the sequence of amino acids is unchanged.
@@ -91,7 +89,7 @@ The gene mutation may cause no change in the phenotype:
 > - The majority of mutations are neutral.
 > - If a mutation does cause a change in the phenotype, but the change gives no particular advantage or disadvantage to the organisms, then the effect is also regarded as neutral.
 
-##### Beneficial effects to organism
+## Beneficial effects to organism
 Mutations provide a source of genetic variations, and may give rise to new characteristics that help organisms become better adapted to a particular environment.
 
 Well-adapted organisms have a better chance to survive and reproduce, they pass on their genes to the next generation. This is natural selection and the mechanism of evolution.

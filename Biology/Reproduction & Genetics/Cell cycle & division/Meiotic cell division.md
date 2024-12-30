@@ -1,58 +1,58 @@
-**Meiotic cell division** involves meiosis (division of the nucleus) and [[cytokinesis]] (division of the cytoplasm) to form <u>four genetically different, haploid daughter cells</u>. This occurs in <u>gamete-producing cells in reproductive organs</u>.
+**Meiotic cell division** involves meiosis (division of the nucleus) and [[cytokinesis]] (division of the cytoplasm) to form <span class="hi-green">four genetically different, haploid daughter cells</span>. This occurs in <span class="hi-green">gamete-producing cells in reproductive organs</span>.
 
-#### Stages of meiosis
-##### First meiotic cell division (meiosis I): homologous chromosomes separate
-###### Prophase I
+# Stages of meiosis
+## First meiotic cell division (meiosis I): homologous chromosomes separate
+### Prophase I
 ![[meiosis_prophase_i.webp|300]]
 - Replicated DNA coils tightly into chromosomes.
   Each [[Chromosomes|chromosome]] is visible as two sister chromatids.
-- **Homologous chromosome** pair up.
-- The **chromatids** of the homologous pair may exchange segments with each other by [[crossing over]].
-- The **nuclear membrane** breaks down.
-- **Spindle fibres** start to form.
+- <span class="hi-blue">Homologous chromosome</span> pair up.
+- The <span class="hi-blue">chromatids</span> of the homologous pair may exchange segments with each other by [[crossing over]].
+- The <span class="hi-blue">nuclear membrane</span> breaks down.
+- <span class="hi-blue">Spindle fibres</span> start to form.
 
-###### Metaphase I
+### Metaphase I
 ![[meiosis_metaphase_i.webp|300]]
-- **Homologous pairs** line up along the equatorial plane.
-- The **spindle fibres** attach to the chromosomes at the centromeres.
+- <span class="hi-blue">Homologous pairs</span> line up along the equatorial plane.
+- The <span class="hi-blue">spindle fibres</span> attach to the chromosomes at the centromeres.
 
-###### Anaphase I
+### Anaphase I
 ![[meiosis_anaphase_i.webp|300]]
-- The **spindle fibres** shorten and pull the two chromosomes of each homologous pair apart to opposite poles of the cell.
+- The <span class="hi-blue">spindle fibres</span> shorten and pull the two chromosomes of each homologous pair apart to opposite poles of the cell.
 
-###### Telophase I
+### Telophase I
 ![[meiosis_telophase_i.webp|300]]
-- The **spindle fibres** break down.
-- A **nuclear membrane** forms around each group of chromosomes. This is followed by [[cytokinesis]], forming <u>two haploid daughter cells</u>.
+- The <span class="hi-blue">spindle fibres</span> break down.
+- A <span class="hi-blue">nuclear membrane</span> forms around each group of chromosomes. This is followed by [[cytokinesis]], forming <u>two haploid daughter cells</u>.
 	- In some organisms, the nuclear membrane re-forms and the chromosomes decondense, although in others, this step is skipped since cells will soon go through another round of division in meiosis II.
 
-##### Second meiotic cell division (meiosis II): sister chromatids separate
-###### Prophase II
+## Second meiotic cell division (meiosis II): sister chromatids separate
+### Prophase II
 ![[meiosis_prophase_ii.webp|300]]
-- The **nuclear membrane** break down again.
-- **Spindle fibres** start to form.
+- The <span class="hi-blue">nuclear membrane</span> break down again.
+- <span class="hi-blue">Spindle fibres</span> start to form.
 
-###### Metaphase II
+### Metaphase II
 ![[meiosis_metaphase_ii.webp|300]]
 - The [[chromosomes]] line up along the equatorial plane.
-- The **spindle fibres** attach to the chromosome at the centromeres.
+- The <span class="hi-blue">spindle fibres</span> attach to the chromosome at the centromeres.
 
-###### Anaphase II
+### Anaphase II
 ![[meiosis_anaphase_ii.webp|300]]
-- The **spindle fibres** shorten and pull the sister chromatids of each [[Chromosomes|chromosome]] apart, moving them towards opposite poles of the cell.
-- The separated chromatids are now called **daughter chromosomes**.
+- The <span class="hi-blue">spindle fibres</span> shorten and pull the sister chromatids of each [[Chromosomes|chromosome]] apart, moving them towards opposite poles of the cell.
+- The separated chromatids are now called <span class="hi-blue">daughter chromosomes</span>.
 
-###### Telophase II
+### Telophase II
 ![[meiosis_telophase_ii.webp|300]]
-- The **spindle fibres** break down.
-- A **nuclear membrane** forms around each group of daughter chromosomes. This is followed by [[cytokinesis]], four haploid daughter cells are formed.
+- The <span class="hi-blue">spindle fibres</span> break down.
+- A <span class="hi-blue">nuclear membrane</span> forms around each group of daughter chromosomes. This is followed by [[cytokinesis]], four haploid daughter cells are formed.
 	- Each cell contains one member of each homologous pair and only half the chromosomes of the parent cell and are genetically different.
-- The [[chromosomes]] loosen to become **chromatin** again.
+- The [[chromosomes]] loosen to become <span class="hi-blue">chromatin</span> again.
 
 
 <hr>
 
-#### Changes during division
+# Changes during division
 ![[meiosis_graph.webp|450]]
 
 |                | Interphase | Prophase I | Metaphase I | Anaphase I | Telophase I | Cytokinesis |
@@ -68,7 +68,7 @@ Chromosome number (Meiosis I) ⤴
 Chromosome number (Meiosis II) ⤴
 
 
-#### Significance
+# Significance
 1. [[Sexual reproduction]]
    - Meiotic cell division forms haploid gametes for sexual reproduction.
    - When a male gamete and female gamete fuse at fertilisation to form a zygote, the diploid number (2n) of chromosome is restored. This keeps the chromosome number of a species constant from generation to generation.
@@ -82,13 +82,13 @@ Chromosome number (Meiosis II) ⤴
    - Random fusion of gametes at fertilisation
    ↪️ See also: [[Mendel's laws of inheritance#Mendal's laws]]
 
-#### Non-disjunction
-##### Anaphase I
+# Non-disjunction
+## Anaphase I
 ![[nondisjunction_i.webp|400]]
 - Half of the gametes have both members of the homologous pair.
 - Half of the gametes have no members of the homologous pair.
 
-##### Anaphase II
+## Anaphase II
 ![[nondisjunction_ii.webp|400]]
 - Half of the gametes have haploid numbers of chromosomes. (normal)
 - Half of the gametes have both members of the homologous pair.

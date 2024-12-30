@@ -1,7 +1,7 @@
 - **Genetics** is the study of heredity and variations in organisms.
-- **Heredity** is the passing on of <span style="color: skyblue">characteristics</span> from one generation of organisms to the next generation.
+- **Heredity** is the passing on of <span class="hi-blue">characteristics</span> from one generation of organisms to the next generation.
 
-#### Sections
+# Sections
 1. DNA, chromosomes & genes
 	- [[DNA]]
 	- [[Chromosomes]]

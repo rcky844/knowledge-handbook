@@ -4,7 +4,7 @@
 
 **Development** is the irreversible increase in complexity (form) of an organism. This involves differentiation, where cells specialize into different types for performing different functions, achieving a division of labour among cells. These specialized cells may also group together to form tissues, organs or systems.
 
-#### Sections
+# Sections
 1. [[Growth parameters]]
 	- [[Sigmoid growth curves]]
 2. [[Germination of seeds]]

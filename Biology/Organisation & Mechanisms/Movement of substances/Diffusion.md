@@ -5,16 +5,16 @@ The process takes place passively and depends on kinetic energy. It <u>does not 
 
 **Diffusion** is used mostly for the movement of gases in organisms (e.g. [[Gas exchange in the air sacs|gas exchange|]] in [[Lungs and associated structures|lungs]]).
 
-#### Across a membrane
+# Across a membrane
 - Small and non-polar molecules (e.g. oxygen, carbon dioxide) diffuse directly through the bilayer down a conc. gradient without using energy from [[Respiration]] in the cell.
 - Polar molecules (e.g. [[Proteins|amino acids]], [[Carbohydrates#Monosaccharides|glucose]]) diffuse through [[Membrane proteins|channel proteins or carrier proteins]] without using energy from [[Respiration]] in the cell by <u>facilitated diffusion</u>.
 
-#### Importance to organisms
+# Importance to organisms
 - Useful substances (e.g. oxygen, nutrients in extracellular fluid) can diffuse into the cells.
 - Metabolic wastes (e.g. carbon dioxide) can diffuse out of the cells.
 This helps distribute substances within the cytoplasm.
 
-#### Factors that affect the rate of diffusion
+# Factors that affect the rate of diffusion
 1. **Concentration gradient**
 2. **Diffusion distance**
 	- Diffusion is only effective over very short distances, because the further the distance between the two concentrations, the rate of diffusion decreases.

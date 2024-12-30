@@ -1,26 +1,25 @@
-#### Human impact on ecosystems
-##### Overexploitation of wildlife
+# Human impact on ecosystems
+## Overexploitation of wildlife
 Wildlife is being overexploited by humans in the field of:
 - **Food and culinary** — Overfishing of bluefin tuna
 - **Medicines** — Hunting of rhino for their horns
 - **Decorative products** — Hunting of elephants for their tusks for making ivory products
 
-This may result in extinction of the species, and an increase in the population of its prey.
-↪️ HKCEE 2005 P1 Q5
+This may result in extinction of the species, and increase in the population of its prey.
 
-##### Destruction of habitats
-###### Deforestation
+## Destruction of habitats
+### Deforestation
 - Trees are being cut down on a massive scale to obtain timber, or to obtain land for agriculture or urban development. This is especially in tropical rainforests.
 - It destroys the natural habitats of wildlife and leads to a reduction in biodiversity.
 
-###### Monoculture
+### Monoculture
 - Refers to the cultivation of a single crop in a given area.
 - Leads to a loss of species, an increase in pest population and destruction of natural habitats.
 
-##### Pollution
+## Pollution
 Pollutants are being released into the environment in harmful amounts as a result of human activities.
 
-###### Examples
+### Examples
 - **Carbon dioxide from burning fossil fuels**
   When large amounts of carbon dioxide is released into the atmosphere, it enhances the greenhouse effect and results in global warming.
 
@@ -33,7 +32,7 @@ Pollutants are being released into the environment in harmful amounts as a resul
 - **Disposal of solid wastes at landfills**
   As the wastes breakdown, they release methane (also a greenhouse gas) and produce a toxic liquid called leachate. It will contaminate soil and groundwater if it leaks out of landfills.
 
-#### Conservation methods
+# Conservation methods
 - **Protection of natural habitats**
 	- Setting up conservation areas (e.g. national parks)
 
