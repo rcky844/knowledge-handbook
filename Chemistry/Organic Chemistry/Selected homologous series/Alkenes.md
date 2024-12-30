@@ -9,7 +9,7 @@ Carbon-carbon double bond
 
 **Alkanes** are unsaturated hydrocarbons, they have similar physical properties to alkanes.
 
-**Chemical properties**:
+*Chemical properties*:
 Due to the presence of $\ce{C-C}$ double bonds (functional group), alkenes are more reactive than [[alkanes]].
 
-**Reactions**: [[Combustion]], [[Addition reaction]], [[Addition polymerization]]
+*Reactions*: [[Combustion]], [[Addition reaction]], [[Addition polymerization]]

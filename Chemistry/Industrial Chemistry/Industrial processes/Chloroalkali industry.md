@@ -1,41 +1,41 @@
 *Pre-context: [[Electrolysis of sea water]]*
 
-**Chloroalkali industry** involves the production of $\ce{NaOH}$, $\ce{Cl2}$, $\ce{H2}$ by electrolysis of <span style="color: skyblue">brine</span> (conc. $\ce{NaCl}$ — feedstock).
+**Chloroalkali industry** involves the production of $\ce{NaOH}$, $\ce{Cl2}$, $\ce{H2}$ by electrolysis of <span class="hi-blue">brine</span> (conc. $\ce{NaCl}$ — feedstock).
 
 > [!note]
 > - In industrial production, sea water is not used as the feedstock directly, as it contains not only $\ce{NaCl}$, but also other dissolved minerals.
 > - However, seawater can be purified to obtain conc. $\ce{NaCl}$ solution.
 > ↪️ *See also*: HKDSE 2015 Paper 2 Q1(c)(i - iv)
 
-#### Working principle
+# Working principle
 ![[electrolysis_brine.webp|300]]
 
-**Cathode**:
+*Cathode*:
 - $\ce{H+}$ and $\ce{Na+}$ are attracted towards the cathode.
 - $\ce{H+}$ is lower than $\ce{Na+}$ in E.C.S., $\ce{H+}$ are preferentially discharged to give $\ce{H2}$ gas.
 
-**Anode**:
+*Anode*:
 - $\ce{OH-}$ and $\ce{Cl-}$ are attracted towards the anode.
 - Since $\ce{[Cl-(aq)]}$ is higher than $\ce{[OH-(aq)]}$, $\ce{Cl-}$ is preferentially discharged to give $\ce{Cl2}$ gas.
 
-**Resulting electrolyte**:
+*Resulting electrolyte*:
 - $\ce{H+(aq)}$ ions are preferentially discharged, the ions left will be $\ce{Na+(aq)}$ ions. The equilibrium position of self-ionization of water ($\ce{H2O(ℓ) <=> H+(aq) + OH-(aq)}$) will shift to the product side to produce more $\ce{H+(aq)}$ (together with $\ce{OH-(aq)}$ ions).
 - $\ce{Cl-(aq)}$ ions are preferentially discharged, the ions left will be $\ce{OH-(aq)}$.
 ↪️ Sodium hydroxide solution ($\ce{NaOH}$) is formed.
 
-**Overall equation**:
+*Overall equation*:
 $\ce{2NaCl(aq) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + Cl2(g)}$
 
-##### Problems of traditional set-up
-1. $\ce{H2(g)}$ and $\ce{Cl2(g)}$ would mix together, which is <span style="color: lightgreen">an explosive reaction under sunlight</span>.
+## Problems of traditional set-up
+1. $\ce{H2(g)}$ and $\ce{Cl2(g)}$ would mix together, which is <span class="hi-green">an explosive reaction under sunlight</span>.
 
-2. $\ce{Cl2(g)}$ would <span style="color: lightgreen">dissolve in the electrolyte and react directly</span> with $\ce{NaOH(aq)}$.
+2. $\ce{Cl2(g)}$ would <span class="hi-green">dissolve in the electrolyte and react directly</span> with $\ce{NaOH(aq)}$.
 	- $\ce{Cl2(g) + H2O(ℓ) <=> HOCl(aq) + HCl(aq)}$
 	  The products would also react with $\ce{NaOH(aq)}$ in the electrolyte, which makes the resulting electrolyte impure.
 
 3. When $\ce{[Cl-(aq)]}$ < $\ce{[OH-(aq)]}$, $\ce{OH-(aq)}$ will be discharged to give $\ce{O2(g)}$ as one of the products and contaminates the $\ce{Cl2(g)}$ produced.
 
-#### Flowing mercury cell
+# Flowing mercury cell
 ![[flowing_mercury_cell.webp|600]]
 //TODO cleanup
 
@@ -58,25 +58,25 @@ $\ce{2NaCl(aq) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + Cl2(g)}$
 
 ---
 
-**At anode** (titanium or graphite):
+*At anode* (titanium or graphite):
 - $\ce{Cl-(aq)}$ has a higher conc. than $\ce{OH-(aq)}$, $\ce{Cl-(aq)}$ ions are preferentially discharged to give $\ce{Cl2(g)}$.
 - $\ce{2Cl-(aq) -> Cl2(g) + 2e-}$
 
-**At cathode** (*mercury*):
+*At cathode* (<span class="hi-blue">mercury</span>):
 - As mercury is used as cathode, it favours the discharge of $\ce{Na+(aq)}$.
 - $\ce{Na+(aq)}$ is preferentially discharged to give $\ce{Na/Hg(ℓ)}$.
 - $\ce{Na+(aq) + Hg(ℓ) + e- -> Na/Hg(ℓ)}$ (sodium amalgam)
 
-**At the water tank**:
+*At the water tank*:
 - $\ce{2Na/Hg(ℓ) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + 2Hg(ℓ)}$
 - Sodium amalgam reacts with water to give $\ce{NaOH(aq)}$, $\ce{H2(g)}$ and $\ce{Hg(ℓ)}$.
 
-#### Membrane cell
+# Membrane cell
 **Membrane cell** is a more ideal cell compared to flowing mercury cell.
 
 ![[membrane_cell.webp|600]]
 
-**Design** (advantages):
+*Design* (advantages):
 - **It uses a cation-permeable membrane.**
   The membrane only allows the passage of cations ($\ce{Na+, H+}$), but not anions ($\ce{Cl-, OH-}$), water ($\ce{H2O}$) and gas molecules ($\ce{Cl2, H2}$).
 
@@ -88,11 +88,11 @@ $\ce{2NaCl(aq) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + Cl2(g)}$
 
 ---
 
-**At anode** (titanium or graphite):
+*At anode* (titanium or graphite):
 - As $\ce{Cl-(aq)}$ has a higher conc. than $\ce{OH-(aq)}$, $\ce{Cl-(aq)}$ ions are preferentially discharged to give $\ce{Cl2(g)}$.
 - $\ce{2Cl-(aq) -> Cl2(g) + 2e-}$
 
-**At cathode** (*nickel*):
+*At cathode* (<span class="hi-blue">nickel</span>):
 <u>Neutral conditions</u>
 - $\ce{H+(aq)}$ ions are discharged to give $\ce{H2(g)}$.
 - $\ce{2H+(a) + 2e- -> H2(g)}$
@@ -106,4 +106,3 @@ $\ce{2NaCl(aq) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + Cl2(g)}$
 - $\ce{H+(aq)}$ ions are discharged while $\ce{OH-(aq)}$ ions remain in the cathode compartment.
 - $\ce{OH-(aq)}$ ions are continuously formed in the cathode compartment by self-ionization of water ($\ce{H2O(ℓ) <=> H+(aq) + OH-(aq)}$).
 - $\ce{2H2O(ℓ) + 2e- -> H2(g) + 2OH-(aq)}$
-

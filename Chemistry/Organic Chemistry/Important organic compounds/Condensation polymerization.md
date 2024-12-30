@@ -2,13 +2,13 @@
 
 **Condensation polymerization** is a reaction in which <u>monomer molecules</u> join together repeatedly to form polymer molecules, <u>with the elimination of small molecules</u> (e.g. $\ce{H2O}$, $\ce{HCl}$).
 
-#### Polyester
+# Polyester
 **Polyester** are polymers with <u>monomer units linked by ester linkage</u> (![[ester_group.webp|60]]).
 - Monomers should be dicarboxylic acid ($\ce{-COOH}$) and diol ($\ce{-OH}$) such that repeated condensation reaction could occur between polymers to form a large polyester.
 - Monomers should be <u>bifunctional</u>, with the molecules able to react with neighbouring molecules to <u>form a chain</u>.
 
-##### Polyesters from two types of monomers
-**Example**:
+## Polyesters from two types of monomers
+*Example*:
 ![[pet.svg|500]]
 **PET (Polyethylene terephthalate)** is formed by repeated [[esterification]] between benzene-1,4-dioic acid and ethane-1,2-diol.
 
@@ -23,7 +23,7 @@ There are only <u>van der Waals' forces</u> between PET chains.
 > [!note]
 > Even though the O atoms may have a lone pair of electrons, it is <u>insoluble in water</u> as the <u>polymer chains are too long</u>.
 
-**Properties of polyesters**:
+*Properties of polyesters*:
 - **They do not have a sharp melting point**
   Each polyester contains a different number of monomers ($n$).
 
@@ -35,36 +35,36 @@ There are only <u>van der Waals' forces</u> between PET chains.
   Water & chemical resistance
   Tough, Strong, Smooth, Lightweight
 
-**Uses of PET**:
+*Uses of PET*:
 - Synthetic fibres for clothing and bedding
 - Bottles of soft drinks
 - Lightweight sails
 
-##### Polyesters from one type of monomer
-**Example**: polylactide
+## Polyesters from one type of monomer
+*Example*: polylactide
 ![[polylactide.webp|500]]
 The polyester is made from just one type of monomer containing $\ce{-COOH}$ and $\ce{-OH}$ groups.
 
-#### Polyamide
+# Polyamide
 **Polyamide** are polymers with <u>monomer units linked by amide linkage</u> (![[amide_group.webp|60]]).
 <!-- The group might be slightly false, should be without the H -->
 - Monomers should be dicarboxylic acid ($\ce{-COOH}$) and diamine ($\ce{-NH2}$) such that repeated condensation reaction could occur between polymers to form a large polyester.
 - Monomers should be <u>bifunctional</u>, with the molecules able to react with neighbouring molecules to <u>form a chain</u>.
 
-##### Polyamide from two types of monomers
-**Example**:
+## Polyamide from two types of monomers
+*Example*:
 ![[nylon66.svg|500]]
 **Nylon-6,6** is formed by repeated condensation reaction between hexane-1,6-diamine and hexanedioic acid.
 
 > [!note]
 > The stoichiometric ratio of the water produced can also be $2n-1$.
 
-**Intermolecular forces between nylon-6,6 chains**:
+*Intermolecular forces between nylon-6,6 chains*:
 ![[nylon66_hbond.webp|600]]
 There are <u>hydrogen bonds</u> between nylon-6,6 chains.
 
 
-**Properties of polyamide**:
+*Properties of polyamide*:
 - **They do not have a sharp melting point.**
   Each polyamide contains a different number of monomers ($n$).
 
@@ -79,7 +79,7 @@ There are <u>hydrogen bonds</u> between nylon-6,6 chains.
   Water-proof
   Smooth surface, “Waxy touch”
 
-**Uses of PET**:
+*Uses of PET*:
 - Fishing ropes
 - Fishing lines
 - Tennis racket strings

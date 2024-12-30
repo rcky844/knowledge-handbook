@@ -1,5 +1,5 @@
 ![[filtration.webp|320]]
-**Filtration** is a <u>physical process</u> involving the use of <span style="color: lightgreen">filter paper</span> and <span style="color: lightgreen">filter funnel</span> to separate insoluble solids from a liquid. It is more efficient than [[decantation]].
+**Filtration** is a <u>physical process</u> involving the use of <span class="hi-green">filter paper</span> and <span class="hi-green">filter funnel</span> to separate insoluble solids from a liquid. It is more efficient than [[decantation]].
 
 > [!note]
 > <u>Tiny holes</u> exists on the filter paper that <u>only allow small particles (e.g. water molecules, dissolved salts) to pass through</u>. Sand and mud particles are too large to pass through.

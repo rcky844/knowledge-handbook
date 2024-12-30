@@ -11,6 +11,6 @@ Amide group
 
 **Unsubstituted amides** are acid derivatives.
 
-**Reactions**: [[Amide formation]], [[Acid / alkaline hydrolysis]]
+*Reactions*: [[Amide formation]], [[Acid / alkaline hydrolysis]]
 
 //TODO m.p b.p.

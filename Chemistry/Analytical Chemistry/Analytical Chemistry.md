@@ -1,6 +1,6 @@
 ![[List article!]]
 
-#### Sections
+# Sections
 1. [[Hazard warning labels]]
 2. [[Analytical methods]]
 3. Qualitative analysis

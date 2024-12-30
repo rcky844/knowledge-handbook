@@ -1,10 +1,10 @@
-**Quantitative analysis** refers to the analysis of <span style="color: lightgreen">amount</span> of a particular substance in a sample.
+**Quantitative analysis** refers to the analysis of <span class="hi-green">amount</span> of a particular substance in a sample.
 
 **Methods for quantitative analysis**:
 - *Gravimetric analysis* - determination of amount of substance by using <span style="color: aqua">weights and masses</span>
 - *Volumetric analysis* - determination of amount of substance by using <span style="color: aqua">volumes and concentrations</span>
 
-#### Volumetric analysis
+# Volumetric analysis
 *Main article: [[Volumetric analysis]]*
 
 **Acids and Bases**:

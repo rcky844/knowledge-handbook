@@ -7,14 +7,14 @@ When electricity is passed through sea water, chemical reactions are forced to o
 - The solution in the set-up (sea water) becomes sodium hydroxide solution ($\ce{NaOH}$).
 ↪️ $\ce{sea water ->[electrolysis] hydrogen + chloride + sodium hydroxide}$
 
-#### Uses of products of electrolysis of sea water
-##### Hydrogen
+# Uses of products of electrolysis of sea water
+## Hydrogen
 - Hydrogenation of vegetable oil to <u>form margarine</u>
 - <u>Produce hydrazine</u> used as rocket fuel
 - <u>Produce ammonia</u> to make fertilizer
 - To make <u>hydrochloric acid</u> with chlorine gas
 
-##### Chlorine
+## Chlorine
 - To <u>sterilize swimming pool and drinking water</u>
 - To <u>make PVC / hydrochloric acid</u>
 - To <u>make solvents</u> (e.g. $\ce{CCl4}$)
@@ -22,7 +22,7 @@ When electricity is passed through sea water, chemical reactions are forced to o
   ↪️ $\ce{2NaOH(aq) + Cl2(g) → NaCl(aq) + NaClO(aq) + H2O(ℓ)}$
 - To make <u>hydrochloric acid</u> with hydrogen gas
 
-##### Sodium hydroxide
+## Sodium hydroxide
 - To <u>make soap</u>
 - Used as <u>drain cleaners</u>
 - To <u>neutralise acidic waste water</u> from factories

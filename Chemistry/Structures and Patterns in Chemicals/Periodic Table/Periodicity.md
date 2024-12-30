@@ -5,7 +5,7 @@ Variations in the nature of bonding and structure ⤴️
 
 Across a period, elements on different groups show different bondings and structures. They can be used to explain the differences in physical properties of these elements.
 
-#### Explaining variations in melting points
+# Explaining variations in melting points
 ![[variations_melting_points.webp]]
 
 1. **Gradual increase of melting point from Group I to Group III**
@@ -16,13 +16,13 @@ Across a period, elements on different groups show different bondings and struct
 	- They have [[giant covalent structure]], their atoms are held together by strong [[covalent bonds]] in their structures.
 
 3. **Low melting point from Group V to Group 0**
-	- They have [[simple molecular structure]], their <u>discrete molecules</u> are held together by weak [[Intermolecular forces|van der Waals' forces]] only.
+	- They have [[simple molecular structure]], their <u>discrete molecules</u> are held together by weak [[van der Waals' forces]] only.
 
 4. **Group 0 elements have the lowest melting point across the period**
 	- They exist in the form of <u>monoatomic molecules</u>.
 	- Their relative molecular masses are the lowest across the period.
 
-#### Explaining variations in electrical conductivity
+# Explaining variations in electrical conductivity
 ![[variations_electrical.webp|500]]
 
 1. **Increase in electrical conductivity from Group I to Group III**
@@ -41,5 +41,5 @@ Across a period, elements on different groups show different bondings and struct
 	- They are all non-metals with [[simple molecular structure]].
 	- There is no delocalised electrons in their structure.
 
-#### See also
+# See also
 - [[Polarity of bonds and molecules#Electronegativity]]

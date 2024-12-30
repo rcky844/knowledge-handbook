@@ -1,4 +1,4 @@
-#### Substitution of $\ce{-OH}$
+# Substitution of $\ce{-OH}$
 ![[amide_form_sub.webp]]
 
 > alkanoic acid → amide
@@ -7,7 +7,7 @@
 > - thionyl chloride ($\ce{SOCl2}$) / $\ce{PCl3}$ / $\ce{PCl5}$
 > - ammonia, $\ce{NH3 (aq)}$
 
-#### Direct substitution
+# Direct substitution
 ![[amide_form_subd.webp|300]]
 
 > alkanoic acid → amide

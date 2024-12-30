@@ -1,8 +1,8 @@
 > [!note]
 > Many of these tests may be duplicated in other sections, with this being a summary for all of these tests.
 
-#### Colours of substances
-##### Solid ionic compounds
+# Colours of substances
+## Solid ionic compounds
 *Pre-context: [[Reactivity of metals#Reactions with oxygen in air under heating (K - Hg)|Colour of metal oxides]] / [[Test for water]] / [[Acidified silver nitrate test]] / [[Introduction to bases and alkalis#Precipitation|Precipitation reactions]]*
 
 | Solid ionic compound | Colours | Solid ionic compound | Colours |
@@ -32,11 +32,11 @@ Colours of metal oxides / hydroxides / carbonates / sulphates ⤴️
 | $\ce{AgI(s)}$ | yellow |
 Colours of metal halides / miscellaneous substances ⤴️
 
-##### Halogens and aqueous ions
+## Halogens and aqueous ions
 *Main article: [[Group VII elements#Physical properties of the first four halogens|Colours of halogens]]*
 *Main article: [[Giant ionic structure#Colour of ions in aqueous solution|Colours of ions in aqueous solution]]*
 
-#### Smells of some smelly substances
+# Smells of some smelly substances
 *Pre-context: [[Acids and Bases]]*
 
 | Smell | Possible substance |
@@ -46,10 +46,10 @@ Colours of metal halides / miscellaneous substances ⤴️
 | Choking smell of burning sulphur | Sulphur dioxide ($\ce{SO2(g)}$) |
 | Bad egg smell | Hydrogen sulphide gas ($\ce{H2S(g)}$) |
 
-#### Solubility of ionic compounds
+# Solubility of ionic compounds
 *Main article: [[Salts#Solubility of salts]]*
 
-#### Tests for metallic cations
+# Tests for metallic cations
 - [[Introduction to bases and alkalis#Precipitation|Precipitation reactions]]
   Presence of certain cations can be deduced by the colour of precipitate and redissolution on addition of excess reagent.
 
@@ -63,12 +63,12 @@ Colours of metal halides / miscellaneous substances ⤴️
 > [!note]
 > A <u>comparative approach</u> should be taken when deducing a compound between the two provided.
 
-#### Test for halide ions
+# Test for halide ions
 *Main article: [[Acidified silver nitrate test]]*
 
-#### Test for ammonia gas
+# Test for ammonia gas
 **Method 1**: (litmus paper test)
-Ammonia gas is very soluble in water, and <span style="color: lightgreen">partially ionizes in water</span> to give an alkaline solution:
+Ammonia gas is very soluble in water, and <span class="hi-green">partially ionizes in water</span> to give an alkaline solution:
 $$
 \ce{NH3(g) + H2O(ℓ) <=> NH4+(aq) + OH-(aq)}
 $$
@@ -85,20 +85,20 @@ $$
 > [!note]
 > The $\ce{HCl(g)}$ comes from vaporization of concentrated $\ce{HCl(aq)}$.
 
-#### Test for ammonium ion
-To test for **ammonium ion** ($\ce{NH4+(aq)}$) in ammonium-containing compounds (e.g. $\ce{NH4Cl(aq)}$), <span style="color: lightgreen">dilute sodium hydroxide solution</span> can be added <span style="color: aqua">under heating</span>:
+# Test for ammonium ion
+To test for **ammonium ion** ($\ce{NH4+(aq)}$) in ammonium-containing compounds (e.g. $\ce{NH4Cl(aq)}$), <span class="hi-green">dilute sodium hydroxide solution</span> can be added <span style="color: aqua">under heating</span>:
 $$
 \ce{NH4+(aq) + OH-(aq) -> NH3(g) + H2O(ℓ)}
 $$
 - <span style="color: aqua">Heat</span> the solution with $\ce{NaOH(aq)}$.
-- A gas with <span style="color: lightgreen">pungent smell</span> is formed, which <span style="color: lightgreen">turns moist red litmus paper blue</span>.
+- A gas with <span class="hi-green">pungent smell</span> is formed, which <span class="hi-green">turns moist red litmus paper blue</span>.
 
-#### Test for carbon dioxide gas
+# Test for carbon dioxide gas
 *Main article: [[Test for carbon dioxide gas]]*
 - Pass the gas into limewater (until in excess).
 - A white precipitate is formed (and redissolves to form a colourless solution).
 
-#### Test for carbonate ion
+# Test for carbonate ion
 **Method 1**:
 Most carbonates (except $\ce{K2CO3}$ and $\ce{Na2CO3}$) decompose upon heating, and give carbon dioxide gas as a product:
 $$
@@ -120,9 +120,9 @@ $$
 > ↪️ $\ce{PbCO3 + 2HCl(aq) -> PbCl2(s) + H2O(ℓ) + CO2(g)}$
 > ↪️ $\ce{CaCO3 + H2SO4(aq) -> CaSO4(s) + H2O(ℓ) + CO2(g)}$
 
-#### Test for sulphur dioxide gas
+# Test for sulphur dioxide gas
 **Method 1**:
-Sulphur dioxide gas reacts with <span style="color: violet">limewater</span> to give <span style="color: skyblue">insoluble calcium sulphite</span>:
+Sulphur dioxide gas reacts with <span style="color: violet">limewater</span> to give <span class="hi-blue">insoluble calcium sulphite</span>:
 $$
 \ce{SO2(g) + Ca(OH)2(aq) -> CaSO3(s) + H2O(ℓ)}
 $$
@@ -130,7 +130,7 @@ $$
 - A white precipitate is formed (and redissolves to form a colourless solution).
 
 **Method 2**:
-Sulphur dioxide gas is a <span style="color: violet">reducing agent</span> and <span style="color: lightgreen">reacts with an oxidizing agent</span> (e.g. $\ce{Br2(aq)}$, $\ce{Cr2O7^2-(aq)}$, $\ce{MnO4-(aq)}$) in acidic medium to give sulphate ions:
+Sulphur dioxide gas is a <span style="color: violet">reducing agent</span> and <span class="hi-green">reacts with an oxidizing agent</span> (e.g. $\ce{Br2(aq)}$, $\ce{Cr2O7^2-(aq)}$, $\ce{MnO4-(aq)}$) in acidic medium to give sulphate ions:
 $$
 \begin{array} \\
 \ce{SO2(g) + 2H2O(ℓ) + Br2(aq) -> SO4^2-(aq) + 2Br-(aq) + 4H+(aq)} \\
@@ -139,11 +139,11 @@ $$
 \end{array}
 $$
 - Put a filter paper soaked in <span style="color: aqua">acidified</span> $\ce{K2Cr2O7(aq)}$ solution into the gas.
-- The paper turns <span style="color: lightgreen">from orange to green</span>.
+- The paper turns <span class="hi-green">from orange to green</span>.
 
-#### Test for sulphite ion
+# Test for sulphite ion
 **Method 1**:
-Sulphite ion is a <span style="color: violet">reducing agent</span> and <span style="color: lightgreen">reacts with an oxidizing agent</span> (e.g. $\ce{Br2(aq)}$, $\ce{Cr2O7^2-(aq)}$, $\ce{MnO4-(aq)}$) in acidic medium to give sulphate ions:
+Sulphite ion is a <span style="color: violet">reducing agent</span> and <span class="hi-green">reacts with an oxidizing agent</span> (e.g. $\ce{Br2(aq)}$, $\ce{Cr2O7^2-(aq)}$, $\ce{MnO4-(aq)}$) in acidic medium to give sulphate ions:
 $$
 \begin{array} \\
 \ce{SO3^2-(g) + H2O(ℓ) + Br2(aq) -> SO4^2-(aq) + 2Br-(aq) + 2H+(aq)} \\
@@ -152,7 +152,7 @@ $$
 \end{array}
 $$
 - Add <span style="color: aqua">acidified</span> $\ce{K2Cr2O7(aq)}$ solution into the solution sample.
-- The paper turns <span style="color: lightgreen">from orange to green</span>.
+- The paper turns <span class="hi-green">from orange to green</span>.
 
 **Method 2**:
 Sulphite ion also reacts with acid (e.g. $\ce{HCl(aq)}$) to give sulphur dioxide gas as the product:
@@ -160,24 +160,24 @@ $$
 \ce{SO3^2-(aq) + 2H+(aq) -> SO2(g) + H2O(ℓ)}
 $$
 - Add $\ce{HCl(aq)}$ into the solution sample.
-- A gas with choking smell of burning sulphur is formed, which turns <span style="color: aqua">acidified</span> $\ce{K2Cr2O7(aq)}$ <span style="color: lightgreen">from orange to green</span>.
+- A gas with choking smell of burning sulphur is formed, which turns <span style="color: aqua">acidified</span> $\ce{K2Cr2O7(aq)}$ <span class="hi-green">from orange to green</span>.
 
-#### Test for chlorine gas
+# Test for chlorine gas
 Chlorine gas partially dissolves in water to give $\ce{HCl(aq)}$ (<span style="color: violet">acid</span>) and $\ce{HOCl(aq)}$ (<span style="color: violet">bleaching agent</span>):
 $$
 \ce{Cl2(g) + H2O(ℓ) <=> HCl(aq) + HOCl(aq)}
 $$
 - Put a <span style="color: violet">moist blue litmus paper</span> into the gas.
-- The paper <span style="color: lightgreen">turns from blue to red first, then to white</span>.
+- The paper <span class="hi-green">turns from blue to red first, then to white</span>.
 
-#### Test for hypochlorite ion
+# Test for hypochlorite ion
 **Method 1**:
 Hypochlorite ion is a <span style="color: violet">bleaching agent</span> (due to its oxidizing power):
 $$
 \ce{OCl-(aq) + dye -> Cl-(aq) + (dye + O)}
 $$
 - Add <span style="color: violet">blue / red litmus solution</span> into sample solution.
-- The solution turns <span style="color: lightgreen">from blue / red to colourless</span>.
+- The solution turns <span class="hi-green">from blue / red to colourless</span>.
 
 > [!tip]
 > Although a piece of litmus paper would be bleached white, a solution would only turn colourless.
@@ -187,19 +187,19 @@ $$
 \ce{OCl-(aq) + 2H+(aq) + Cl-(aq) -> Cl2(g) + H2O(ℓ)}
 $$
 - Add $\ce{HCl(aq)}$ into the sample solution.
-- A <span style="color: violet">greenish yellow gas</spam> is given out, which turns a <span style="color: lightgreen">moist blue litmus paper to red</span> first, then white.
+- A <span style="color: violet">greenish yellow gas</spam> is given out, which turns a <span class="hi-green">moist blue litmus paper to red</span> first, then white.
 
 > [!warning]
 > The acid used for this test must be $\ce{HCl(aq)}$.
 
-#### Test for hydrogen and oxygen
+# Test for hydrogen and oxygen
 *Main article: [[Test for hydrogen gas]]*
 *Main article: [[Test for oxygen gas]]*
 
-#### Test for water
+# Test for water
 *Main article: [[Test for water]]*
 
-#### Test for hydrogen chloride gas
+# Test for hydrogen chloride gas
 > [!tip]
 > Hydrogen chloride gas is acidic, dissolving it in water produces hydrochloric acid, which can turn blue litmus paper red.
 > ↪️ [[Introduction to acids#Role of water|Dissolving process of hydrogen chloride gas]]
@@ -209,18 +209,18 @@ $$
 \ce{HCl(g) + NH3(g) -> NH4Cl(s)}
 $$
 - Put <span style="color: aqua">concentrated</span> $\ce{NH3(aq)}$ near / into the gas.
-- A <span style="color: lightgreen">dense white fume</span> is formed.
+- A <span class="hi-green">dense white fume</span> is formed.
 
 > [!note]
 > The $\ce{NH3(g)}$ comes from vaporization of concentrated $\ce{NH3(aq)}$.
 
-#### Test for iodine gas or aqueous iodine solution
-When iodine reacts with <span style="color: violet">starch solution</span>, a <span style="color: lightgreen">dark-blue complex</span> is formed.
+# Test for iodine gas or aqueous iodine solution
+When iodine reacts with <span style="color: violet">starch solution</span>, a <span class="hi-green">dark-blue complex</span> is formed.
 
 **Iodine gas** ($\ce{I2(g)}$):
 - Put a filter paper soaked with starch solution.
-- The filter paper turns <span style="color: lightgreen">from white to dark-blue</span>.
+- The filter paper turns <span class="hi-green">from white to dark-blue</span>.
 
 **Aqueous iodine solution** ($\ce{I2(aq)}$):
 - Add starch solution into solution sample.
-- The solution turns <span style="color: lightgreen">from brown to dark-blue / blue-black</span>.
+- The solution turns <span class="hi-green">from brown to dark-blue / blue-black</span>.

@@ -2,6 +2,6 @@
 
 **Polymerization** is the process of joining together many small molecules repeatedly to form very large molecules.
 
-#### Types of polymerization
+# Types of polymerization
 - [[Addition polymerization]]
 - [[Condensation polymerization]]

@@ -1,6 +1,6 @@
 ![[List article!]]
 
-#### Sections
+# Sections
 1. [[Hydrocarbons from fossil fuels]]
 	- [[Combustion]]
 
@@ -33,7 +33,6 @@
 	- [[Dehydration of alcohol]]
 	- [[Oxidation and reduction of carbon compounds]]
 	- [[Esterification]]
-	- [[Condensation polymerization]]
 	- [[Amide formation]]
 	- [[Hydrolysis]]
 

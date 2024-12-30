@@ -1,6 +1,6 @@
 ![[redox_alcohol.webp|450]]
 
-#### Oxidation
+# Oxidation
 ![[alcohol_oxidation_reflux.webp|300]]
 
 > alcohol → aldehyde → alkanoic acid
@@ -10,17 +10,17 @@
 > **Conditions**: Heat / Under reflux
 > **Observation**: Orange ($\ce{Cr2O7^2-}$) → Green ($\ce{Cr^3+}$)
 
-**For 1° alcohol**:
+*For 1° alcohol*:
 ![[1o_alcohol_reaction.webp|400]]
 ↪️ **Application**: breathalyser
 
-**For 2° alcohol**:
+*For 2° alcohol*:
 ![[2o_alcohol_reaction.webp|400]]
 
-**For 3° alcohol**:
+*For 3° alcohol*:
 ![[3o_alcohol_reaction.webp|350]]
 
-#### Reduction (aldehydes & ketones)
+# Reduction (aldehydes & ketones)
 ![[reduction_alc.webp]]
 
 > aldehyde → alcohol
@@ -31,16 +31,15 @@
 > - Sodium borohydride ($\ce{NaBH4}$) / $\ce{H2O}$
 > **Condition**: Treated with dilute acid ($\ce{H+}$) after addition of the reagent
 
-**Reason for addition of dry ether**:
+*Reason for addition of dry ether*:
 $\ce{LiAlH4}$ reacts vigorously with water.
 
-#### Reduction (carboxylic acid)
+# Reduction (carboxylic acid)
 ![[reduction_acid.webp|400]]
 
 > alkanoic acid → aldehyde → alcohol
 > ━━━━━━━━━━
-> **Reagent**:
-> - Lithium aluminium hydride ($\ce{LiAlH4}$) / dry ether
+> **Reagent**: Lithium aluminium hydride ($\ce{LiAlH4}$) / dry ether
 > **Condition**: Treated with dilute acid ($\ce{H+}$) after addition of the reagent
 
 > [!note]

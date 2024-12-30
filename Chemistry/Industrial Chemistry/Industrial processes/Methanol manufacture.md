@@ -1,9 +1,9 @@
-#### Importance of methanol
-**Example**: HKDSE 2012 Paper 2 Q1(b)(i)
+# Importance of methanol
+*Example*: HKDSE 2012 Paper 2 Q1(b)(i)
 Suggest why methanol is an important compound to chemical industry.
-- Methanol is a 1-carbon containing compound which acts as a <span style="color: lightgreen">starting material</span> to produce carbon compounds with larger carbon number.
+- Methanol is a 1-carbon containing compound which acts as a <span class="hi-blue">starting material</span> to <span class="hi-green">produce carbon compounds with larger carbon number</span>.
 
-#### Methods for manufacturing
+# Methods for manufacturing
 1. **Biomass conversion**
    Converting pig's manure to produce methanol.
 	- *Advantage*: Renewable feedstock is used.
@@ -27,15 +27,15 @@ Suggest why methanol is an important compound to chemical industry.
 5. **Conversion by syngas**
    Through steam-methane reforming process.
 
-##### Sources of methane
+## Sources of methane
 
 
 
-#### Conversion by syngas
-##### Process
+# Conversion by syngas
+## Process
 1. **Steam-methane reforming process**
    $\ce{CH4(g) + H2O(g) <=>[\text{700°C, 20 atm}][\ce{NiO}] CO(g) + 3H2(g)}$          $\pu{\Delta H = +206 kJ mol-1}$
-	- Gases produced are <span style="color: skyblue">syngas</span>.
+	- Gases produced are <span class="hi-blue">syngas</span>.
 
 2. **Methanol manufacture**
    $\ce{CO(g) + 2H2(g) <=>[\text{250°C, 100 atm}][\ce{Cu / Al2O3 / ZnO}] CH3OH(g)}$          $\pu{\Delta H = -90 kJ mol-1}$
@@ -49,7 +49,7 @@ Suggest why methanol is an important compound to chemical industry.
 	- Excess $\ce{H2}$ is formed as volume ratio of $\ce{CO : H2}$ is $1:3$ in steam-methane reforming process but it is $1:2$ in methanol production.
 	- This reaction can further increase the yield.
 
-##### Working principle
+## Working principle
 ![[steam_methane.webp]]
 //TODO adjust brightness
 

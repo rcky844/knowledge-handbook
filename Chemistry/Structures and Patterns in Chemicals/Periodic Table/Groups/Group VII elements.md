@@ -1,6 +1,7 @@
-**Group VII elements** are <span style="color: violet">halogens</span>, all non-metals. They all have the same number of outermost shell electrons: 7.
+**Group VII elements** are <span class="hi-blue">halogens</span>, all non-metals. They all have the same number of outermost shell electrons: 7.
 
-#### Physical properties of the first four halogens
+# Physical properties
+
 | Element  | State at r.t.p. | Colour of pure halogen | Colour in aqueous solution | Colour in organic solution |
 | :------: | :-------------: | :--------------------: | :------------------------: | :------------------------: |
 | Flourine |       gas       |      pale yellow       |             /              |             /              |
@@ -11,15 +12,14 @@
 > [!note]
 > Halide ions are colourless.
 
-#### Similarities of Group VII halogens
+# Similarities
 1. They are all toxic and smelly.
 2. They are all non-metals.
 3. They all react with metals to form compounds called salt.
 
-#### Differences of Group VII halogens
-> [!note]
+# Differences
+> [!tip]
 > The strength of van der Waals' forces between halogens molecules increases with the molecular mass.
-> *See also: [[Microscopic World II]]*
 
 1. There is a gradual change in state as we move down the group.
 2. There is a gradual change in colour intensity down the group, from pale yellow to dark purple, becoming darker down the group.

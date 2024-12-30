@@ -7,10 +7,10 @@
 > - ![[silhouete.gif|75]] Health hazard
 > - ![[Aquatic-pollut-red.gif|75]] Hazardous to aquatic lives
 
-#### Corrosive
+# Corrosive
 ![[label_corrosive.webp|100]]
 
-**Examples**
+*Examples*:
 - Concentrated acid (e.g. $\ce{HCl}$, $\ce{H2SO4}$, $\ce{HNO3}$)
 - Concentrated alkalis (e.g. $\ce{NaOH}$, $\ce{KOH}$)
 - Reactive metals (e.g. $\ce{K}$, $\ce{Na}$, $\ce{Ca}$)
@@ -18,10 +18,10 @@
 - Calcium hydroxide
 - Halogens
 
-#### Toxic
+# Toxic
 ![[label_toxic.webp|100]]
 
-**Examples**
+*Examples*:
 - Methanol
 - Halogens (e.g. $\ce{F2}$, $\ce{Cl2}$, $\ce{Br2}$, $\ce{I2}$)
 - Carbon monoxide ($\ce{CO}$)
@@ -34,18 +34,18 @@
 > [!warning]
 > There is no hazardous warning label stating "Poisonous"!
 
-#### Explosive
+# Explosive
 ![[label_explosive.webp|100]]
 
-**Examples**
+*Examples*:
 - Ammonium nitrate ($\ce{NH4NO3}$)
 - Potassium and sodium superoxides ($\ce{NaO2}$, $\ce{KO2}$)
 - Hydrogen ($\ce{H2}$)
 
-#### Flammable (Inflammable)
+# Flammable (Inflammable)
 ![[label_flammable.webp|100]]
 
-**Examples**
+*Examples*:
 - Methanol, ethanol
 - Hydrogen ($\ce{H2}$)
 - Methane ($\ce{CH4}$)
@@ -53,33 +53,33 @@
 - Hydrocarbons (e.g. alcohol, petrol, kerosene)
 - LPG and town gas
 
-#### Oxidizing
+# Oxidizing
 ![[label_oxidizing.webp|100]]
 
-**Examples**
+*Examples*:
 - Nitric acid
 - Concentrated sulphuric acid / Concentrated nitric acid / Dilute nitric acid
 - Potassium permanganate ($\ce{KMnO4}$) / Potassium dichromate ($\ce{K2Cr2O7}$)
 - Oxygen (at high pressure)
 
-#### Irritant
+# Irritant
 ![[label_irritant.webp|100]]
 
-**Examples**
+*Examples*:
 - Halogens
 - Dilute acids
 - Dilute alkalis
 
-#### Harmful
+# Harmful
 ![[label_harmful.webp|100]]
 
-**Examples**
+*Examples*:
 - Trichloromethane ($\ce{CHCl3}$)
 
-#### Carcinogenic
+# Carcinogenic
 ![[carcinogenic.webp|100]]
 
-**Examples**
+*Examples*:
 - Benzene ($\ce{C6H6}$)
 - Asbestos ($\ce{Mg7Si8O22(OH)2}$)
 - Beryllium ($\ce{Be}$)

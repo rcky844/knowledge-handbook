@@ -10,7 +10,7 @@ Halo group
 > **Solubility**: Not soluble in water, soluble in organic solvents
 > **Usage**: As organic solvents (e.g. $\ce{CCl4}$, $\ce{CHCl3}$)
 
-**Explanation for melting points and boiling points**:
+*Explanation for melting points and boiling points*:
 Haloalkanes have polar bonds, there are stronger dipole-dipole attractions.
 
-**Reactions**: [[Substitution reaction#Alkanes|Substitution reaction]]
+*Reactions*: [[Substitution reaction#Alkanes|Substitution reaction]]

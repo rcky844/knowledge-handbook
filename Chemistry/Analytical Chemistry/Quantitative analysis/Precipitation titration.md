@@ -1,4 +1,4 @@
-#### Mohr's method
+# Mohr's method
 **Mohr's method** is used to determine $\ce{[Cl-(aq)]}$ in a sample (e.g. soup, sea water) with <span style="color: violet">silver nitrate solution</span> ($\ce{AgNO3(aq)}$).
 
 $$
@@ -7,8 +7,8 @@ $$
 \ce{2Ag+(aq) + CrO4^2-(aq) <=> Ag2CrO4(s)}
 \end{array}
 $$
-- When all the chloride ions in the sample has reacted, additional silver ions <span style="color: lightgreen">react with chromate ions</span> from the indicator to form a <span style="color: aqua">reddish-brown precipitate</span>.
-- <span style="color: lightgreen">The end point is reached when reddish-brown precipitate forms.</span>
+- When all the chloride ions in the sample has reacted, additional silver ions <span class="hi-green">react with chromate ions</span> from the indicator to form a <span style="color: aqua">reddish-brown precipitate</span>.
+- <span class="hi-green">The end point is reached when reddish-brown precipitate forms.</span>
 
 ![[mohr_titration_timeline.webp]]
 
@@ -20,7 +20,7 @@ $$
 > ↪️ $\ce{CrO4^2-(aq) + H+(aq) <=> HCrO4-(aq)}$
 > ↪️ $\ce{2H+(aq) + 2CrO4^2-(aq) <=> Cr2O7^2-(aq) + H2O(ℓ)}$
 
-#### Volhard method
+# Volhard method
 **Volhard method** is also used to determine $\ce{[Cl-(aq)]}$ in a sample, but with <span style="color: violet">ammonium thiocyanate</span> ($\ce{NH4SCN(aq)}$) and $\ce{Fe^3+(aq)}$ as indicator.
 
 $$

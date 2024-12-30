@@ -1,6 +1,6 @@
 **Green chemistry** is important for achieving sustainable development. It investigates ways to maximize the efficiency of utilization of feedstock, raw materials and energy, while reducing the emission of toxic substances and waste produced during the production process.
 
-#### Twelve principles of green chemistry
+# Twelve principles of green chemistry
 1. **Waste prevention**
    An industrial process is greener when no waste (side products other than products) is produced. <u>(Maximizes atom economy)</u>
 
@@ -49,7 +49,7 @@
 > - **Atom economy** does not involve experimentation, it is <u>based on a 100% completed reaction</u>.
 > - **Percentage yield** is <u>based on experimental data</u>.
 
-**Relationship of atom economy with percentage yield**:
+*Relationship of atom economy with percentage yield*:
 Atom economy and percentage yield do not show any relationships.
 - The calculation of atom economy is <u>based on a 100% complete reaction</u>.
 - However, <u>most of the reactions do not go to completion</u>, and the yield is related to the <u>extent of reaction</u>.

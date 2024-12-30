@@ -2,22 +2,23 @@
 
 **Addition polymerization** is a reaction in which <u>monomer molecules</u> join together repeatedly to form polymer molecules, <u>without the elimination of small molecules</u>.
 
-#### Representations of addition polymers
+# Representations of addition polymers
 ![[addition_polymers.webp|350]]
 
-#### Reaction
+# Reaction
 ![[addition_polymers_reaction.webp|400]]
-**Conditions**:
+
+*Conditions*:
 - High temperature
 - High pressure
 - In the presence of a catalyst
 
-#### Examples of addition polymers
+# Examples of addition polymers
 
-##### Polyethene (PE)
+## Polyethene (PE)
 ![[polyethene.webp|240]]
-###### Low-density polyethene (LDPE)
-**Properties**:
+### Low-density polyethene (LDPE)
+*Properties*:
 - Lightweight
 - Flexible
 - Cheap
@@ -25,43 +26,44 @@
 - Low boiling point and softens in boiling water
 - Non-poisonous
 
-**Uses**:
+*Uses*:
 - Plastic bags
 - Wrapping film for food
 - Flexible cold water pipes
 
-###### High-density polyethene (HDPE)
-**Properties**:
+### High-density polyethene (HDPE)
+*Properties*:
 - Rigid
 - Cheap
 - Resistant to many chemicals
 - Higher boiling point than LDPE
 
-**Uses**:
+*Uses*:
 - Bottles for certain chemicals
 - Buckets & boxes
 
-##### Polypropene (PP)
+## Polypropene (PP)
 ![[polypropene.webp|240]]
-**Properties**:
+
+*Properties*:
 - Higher melting point and more rigid than PE
 - Lightweight
 - Resistant to many chemicals
 
-**Uses**:
+*Uses*:
 - Ropes, fibres
 - Food containers
 - Packaging film
 
-##### Polyvinyl chloride (PVC)
+## Polyvinyl chloride (PVC)
 ![[pvc.webp|240]]
-**Properties**:
+*Properties*:
 - Rigid, but becomes soft and flexible when mixed with a plasticizer
 - Water-resistant
 - Good electrical conductor
 - Poisonous (due to presence of $\ce{Cl}$)
 
-**Uses**:
+*Uses*:
 <u>Without plasticizer</u>
 - Floor tiles
 - Drainage pipes
@@ -70,9 +72,10 @@
 - Shower curtains
 - Insulating covering for electrical wires
 
-##### Polystyrene (PS)
+## Polystyrene (PS)
 ![[polystyrene.webp|240]]
-**Properties**:
+
+*Properties*:
 <u>Normal polystyrene</u>
 - Transparent
 - Hard but brittle
@@ -84,7 +87,7 @@
 - Excellent heat insulator
 - Good shock-absorbent
 
-**Uses**:
+*Uses*:
 <u>Normal polystyrene</u>
 - See-through containers
   (e.g. sample bottles, measuring cups, CD cases)
@@ -94,32 +97,32 @@
 - Lightweight ceiling tiles
 - Disposable food cups and boxes
 
-##### Perspex
+## Perspex
 ![[perspex.webp|300]]
-**Monomer**: 2-methylpropenoate
+*Monomer*: 2-methylpropenoate
 
-**Properties**:
+*Properties:*
 - Highly transparent
 - Tough; hard and rigid
 - Easily stretched
 
-**Uses**:
+*Uses*:
 - Aircraft windows
 - Optical lens
 - Illuminated signs
 - Plastic optical fibres
 
-#### Environmental issues
-**Problems**:
+# Environmental issues
+*Problems*:
 - Poisonous plastic articles
 - Fire risk
 - Disposal of plastic waste
     - Non-biodegradable (landfill)
     - Poisonous gas produced during combustion (incineration)
 
-**Solutions**:
+*Solutions*:
 - **4Rs**: Reduce, Reuse, Recycle, Replace
 - Make biodegradable plastics
 
-#### See also
+# See also
 - [[Thermoplastics]] — Property of addition polymers

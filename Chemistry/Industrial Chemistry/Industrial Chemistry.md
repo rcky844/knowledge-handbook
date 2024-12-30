@@ -2,7 +2,7 @@
 
 *See also: [[Rate of Reaction]] / [[Chemical Equilibrium]]*
 
-#### Sections
+# Sections
 1. [[Importance of industrial chemistry]]
 2. [[Rate equation]]
 	- [[Determining initial rate of reaction]]

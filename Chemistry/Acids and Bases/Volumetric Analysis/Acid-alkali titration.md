@@ -1,4 +1,4 @@
-#### Procedure
+# Procedure
 **Example**: You are provided a sample of $\pu{50.0 cm3}$ $\ce{NaOH(aq)}$ solution. In order to find the concentration of the solution, volumetric analysis has to be carried out. You will titrate it with $\ce{HCl(aq)}$ as neutralization reaction can occur.
 
 0. [[Cleaning of apparatus]]
@@ -26,8 +26,8 @@
 	- When needed, assist the titration by flushing distilled water to the wall of conical flasks.
 	- Repeat the titration for several times (3-4 times) by repeating step 3 to 5.
 
-#### Timeline
+# Timeline
 ![[titration_timeline.webp]]
 
-#### Calculations
+# Calculations
 //TODO import

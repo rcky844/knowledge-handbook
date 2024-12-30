@@ -10,18 +10,15 @@ An **acid** ionizes in water to give hydrogen as the only cation.
 > [!note]
 > Other examples include citric acid and lactic acid.
 
-**Hazards of acids**:
+*Hazards of acids*:
 - Concentrated acids are corrosive.
 - Dilute acids are irritant.
 
-**Production of $\ce{HCl(aq)}$**:
-By dissolving hydrogen chloride gas ($\ce{HCl(g)}$) into water.
-
-**Miscellaneous characteristics**:
+*Miscellaneous characteristics*:
 - Most dilute acids taste sour.
 - Dilute acids contain mobile ions to conduct electricity.
 
-#### Reactions
+# Reactions
 1. **With metals**
    Products: salt + hydrogen
    ↪️ Main article: [[Reactivity of metals]]
@@ -32,26 +29,26 @@ By dissolving hydrogen chloride gas ($\ce{HCl(g)}$) into water.
 3. **With carbonates / hydrogencarbonates**
    Products: salt + carbon dioxide + water
 
-> [!note]
+> [!tip]
 > The reaction of acid and carbonates / hydrogencarbonates is [[Endothermic and exothermic reactions#Endothermic reaction|endothermic]].
 
-#### Role of water
+# Role of water
 - An **acid** only exhibits its acidic property when water is present.
   They <u>cannot exhibit its acidic property when water is not present</u>.
-- When an acid molecule dissolves in water, it will undergo <span style="color: skyblue">ionization</span> to form ions.
+- When an acid molecule dissolves in water, it will undergo <span class="hi-blue">ionization</span> to form ions.
 
-**Dissolving process of hydrogen chloride gas**:
+*Dissolving process of hydrogen chloride* gas:
 ![[dissolve_hcl.webp]]
 - When $\ce{HCl(g)}$ dissolves in water, the number of mole of gas in the system decreases and the pressure decreases.
-- An <span style="color: violet">inverted funnel</span> set-up is used in order to <span style="color: lightgreen">prevent suck back</span> of the solution.
+- An <span class="hi-blue">inverted funnel</span> set-up is used in order to <span class="hi-green">prevent suck back</span> of the solution.
 
 > [!note]
 > Hydromium ion $\ce{H3O+}$ is also formed when $\ce{H+}$ ions react with $\ce{H2O}$ by forming [[Covalent bonds#Dative covalent bonds|dative covalent bond]].
 > - The number of $\ce{H3O+}$ ions is equal to the number of $\ce{H+}$ ions, so they are often ignored for simplicity.
 > - $\ce{H3O+}$ ions also carry acidic property.
 
-#### Basicity
-**Basicity** is the <span style="color: lightgreen">maximum number of ionizable hydrogen atoms</span> in an acid molecule.
+# Basicity
+**Basicity** is the <span class="hi-green">maximum number of ionizable hydrogen atoms</span> in an acid molecule.
 
 | Basicity | Example |
 | :--: | :--: |
@@ -59,10 +56,10 @@ By dissolving hydrogen chloride gas ($\ce{HCl(g)}$) into water.
 | Dibasic | $\ce{H2SO4(aq)}$ |
 | Tribasic | $\ce{H3PO4(aq)}$ |
 
-**Explanation** *(exemplified with dibasic acid)*:
+*Explanation*: (exemplified with dibasic acid)
 A dibasic acid consists of <u>2 ionizable hydrogen atoms</u> in <u>an acid molecule</u>.
 
-**Ionization of ethanoic acid**:
+*Ionization of ethanoic acid*:
 
 ![[ethanoic_acid_ionize.webp|400]]
 

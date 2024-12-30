@@ -9,13 +9,13 @@ Hydroxyl group
 > **Density**: Less dense than water (except for diol and triol)
 > **Solubility**: Soluble in water (for no. of $\ce{C}$ < 4)
 
-**Explanation for melting points and boiling points**:
+*Explanation for melting points and boiling points*:
 There are [[hydrogen bonds]] between molecules.
 
-**Solubility of alkanol**:
+*Solubility of alkanol*:
 ![[alkanol_solubility.webp|400]]
 
-**Types of alcohol**:
+*Types of alcohol*:
 - Primary alcohol (1° alcohol)
   ![[primary_alcohol.webp|100]]
 
@@ -25,4 +25,4 @@ There are [[hydrogen bonds]] between molecules.
 - Tertiary alcohol (3° alcohol)
   ![[tertiary_alcohol.webp|100]]
 
-**Reactions**: [[Substitution reaction#Alcohols|Substitution reaction]], [[Dehydration of alcohol]], [[Oxidation and reduction of carbon compounds]], [[Esterification]]
+*Reactions*: [[Substitution reaction#Alcohols|Substitution reaction]], [[Dehydration of alcohol]], [[Oxidation and reduction of carbon compounds]], [[Esterification]]

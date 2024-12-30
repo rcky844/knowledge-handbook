@@ -1,25 +1,25 @@
 ![[aspirin.webp|250]]
-**Aspirin** (acetylsalicylic acid) is a common active ingredient found in <span style="color: lightgreen">pain killers</span>. It has a <u>carboxyl group</u> ($\ce{-COOH}$) and <u>ester group</u> ($\ce{-OCOCH3}$).
+**Aspirin** (acetylsalicylic acid) is a common active ingredient found in <span class="hi-green">pain killers</span>. It has a <u>carboxyl group</u> ($\ce{-COOH}$) and <u>ester group</u> ($\ce{-OCOCH3}$).
 
-#### Production of Aspirin
+# Production of Aspirin
 ![[aspirin_reaction.webp|600]]
 
-#### Uses of Aspirin
+# Uses of Aspirin
 - Pain killer
 - Reduce inflammation
 - Lowers body temperature quickly if one has fever
 - Prevent heart attack and strokes (as it thins the blood)
 
-##### Side effects
+## Side effects
 - Stomach upset & ulcers
 - Increased bleeding
 
-##### Alternatives
-**Paracetamol**:
+## Alternatives
+*Paracetamol*:
 ![[paracetomal.webp|250]]
 
-#### Solubility of Aspirin
-**Aspirin** is <span style="color: lightgreen">non-polar</span> and only <span style="color: lightgreen">slightly soluble</span> in water.
+# Solubility of Aspirin
+**Aspirin** is <span class="hi-green">non-polar</span> and only <span class="hi-green">slightly soluble</span> in water.
 
 In order to make it work more quickly, it is reacted with $\ce{NaOH}$ to produce sodium salt of aspirin, which it has a giant ionic structure with ionic bond to dissolve inside stomach acid and get into the bloodstream more rapidly.
 

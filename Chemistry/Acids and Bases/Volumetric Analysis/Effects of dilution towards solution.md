@@ -1,22 +1,22 @@
 **Dilution** involves the addition of $\ce{H2O(ℓ)}$ into a solution. However, the mole of the substance remain unchanged.
 
-#### Illustration
+# Illustration
 Consider $\pu{10.0 cm3}$ of $\pu{1.0 M}$ $\ce{HCl(aq)}$:
 
-**Before dilution**:
+*Before dilution*:
 - mole of $\ce{HCl(aq)}$ = $1.0 \times {10.0\over1000}$ = $\pu{0.01 mol}$
 - concentration of $\ce{HCl(aq)}$ = $\pu{1.0 M}$
 
-**Upon dilution**:
+*Upon dilution*:
 $\pu{10.0 cm3}$ of $\pu{1.0 M}$ $\ce{HCl(aq)}$ is diluted to $\pu{100.0 cm3}$ by addition of $\pu{90.0 cm3}$ distilled water.
 
-**After dilution**: 
-- mole of $\ce{HCl(aq)}$ → <span style="color: lightgreen">unchanged</span>
+*After dilution*: 
+- mole of $\ce{HCl(aq)}$ (→ <span class="hi-green">unchanged</span>)
   = $1.0 \times {10.0\over1000}$ = $\pu{0.01 mol}$
-- concentration of $\ce{HCl(aq)}$ → <span style="color: lightgreen">decreased</span>
+- concentration of $\ce{HCl(aq)}$ (→ <span class="hi-green">decreased</span>)
   = $0.01 / ({{10+\color{red}{90}}\over1000}) = 1.0\times10^{-3}$
 
-#### Dilution formula
+# Dilution formula
 $$
 \array{
 M_1 V_1 = M_2 V_2 \\

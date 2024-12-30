@@ -12,35 +12,34 @@
 - Every atom must have protons and electrons, but every atom does not necessarily have neutrons. Some hydrogen atoms do not have neutrons.
 - The number of neutrons in an atom may not be identical to the number of protons.
 
-#### Atomic number and mass number
+# Atomic number and mass number
 Atoms of different elements have different number of protons.
 ↪️ The number of protons of an element is referred to the atomic number.
 
 The mass number of an atom is the sum of the number of protons and atoms in an atom. The number of electrons is not counted as their mass is negligible.
 - The number of neutrons in an atoms can be deduced by subtracting the mass number by the atomic number.
 
-#### Chemical shorthand
+# Chemical shorthand
 ![[chemical_shorthand.webp|500]]
 
 Sometimes, either the mass number or atomic number would be omitted, but they are still displayed at the positions labelled above.
 
 It is possible to deduce the number of protons, neutrons and electrons present in an atom with the information provided by the chemical shorthand.
 
-#### Electronic arrangement
+# Electronic arrangement
 Electrons move around the nucleus in circular orbits called electron shell.
 
-
 Each electron shell is marked with a number $n$, the maximum number of electrons that a certain electron shell can hold is formulated as $2n^2$.
-- There can be an infinite number of electron shells for any atom, the shells with electrons are referred to as "<span style="color: violet">occupied electron shells</span>".
+- There can be an infinite number of electron shells for any atom, the shells with electrons are referred to as "<span class="hi-blue">occupied electron shells</span>".
 
-##### Electronic configuration
+## Electronic configuration
 The **electron configuration** is for representing the number of electrons of each shell, with each value separated by a comma (",").
 
-**Examples**:
+*Examples*:
 Electronic configuration of sodium atom: 2,8,1
 Electronic configuration of oxygen atom: 2,6
 
-##### Electron diagram
+## Electron diagram
 
 | ![[electron_diagram_full_cl.svg\|200]] | ![[electron_diagram_full_na.svg\|200]] |
 | :--: | :--: |
@@ -50,11 +49,11 @@ Electron diagram showing <u>all electron shells</u> ⤴️
 > [!note]
 > Sometimes, an electron diagram showing the <u>outermost shell</u> only is used.
 
-#### Isotopes
+# Isotopes
 All atoms of the same element have the same number of protons, but atoms of the same element may differ in the number of neutrons.
 
-> **Definition**:
-> Isotopes are different atoms of the same element, with the same number of protons and different number of neutrons.
+*Definition*:
+Isotopes are different atoms of the same element, with the same number of protons and different number of neutrons.
 
 |  Isotope  |     Symbol      |           No. of $p^+$            | No. of $n$ | No. of $e^-$ |
 | :-------: | :-------------: | :-------------------------------: | :--------: | :----------: |

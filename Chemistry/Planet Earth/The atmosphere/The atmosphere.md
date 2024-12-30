@@ -1,6 +1,6 @@
 **The atmosphere** consists of layers of gases surrounding the Earth. We live in the troposphere, which contains a <u>mixture</u> of gases called **air**.
 
-#### Composition of air
+# Composition of air
 
 |                 Component                 | Percentage by volume |
 | :---------------------------------------: | :------------------: |
@@ -11,5 +11,7 @@
 |       Water vapour / $\ce{H2O (g)}$       |       variable       |
 Air measured by volume of $\pu{100 cm3}$ ⤴️
 
-- Individual components of air have [[Components of air|different uses]].
+- Individual components of air have different uses.
+  ![[Components of air]]
+
 - They are not found in nature, and has to be [[Fractional distillation of liquefied air|separated from air]].

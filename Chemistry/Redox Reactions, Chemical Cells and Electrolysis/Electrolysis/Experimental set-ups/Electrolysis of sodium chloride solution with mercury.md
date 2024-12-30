@@ -1,9 +1,9 @@
 ![[electrolysis_mercury.webp|450]]
 
 **Design of set-up**:
-- A <span style="color: skyblue">U-shaped tube</span> is used as <span style="color: violet">mercury is a liquid</span> at room conditions.
-- The <span style="color: skyblue">layer of water</span> on mercury is to <span style="color: lightgreen">prevent the mercury from vaporization</span>.
-- The <span style="color: skyblue">plastic cover on the electrical wire</span> is to <span style="color: lightgreen">prevent the electrolysis of water</span>.
+- A <span class="hi-blue">U-shaped tube</span> is used as <span style="color: violet">mercury is a liquid</span> at room conditions.
+- The <span class="hi-blue">layer of water</span> on mercury is to <span class="hi-green">prevent the mercury from vaporization</span>.
+- The <span class="hi-blue">plastic cover on the electrical wire</span> is to <span class="hi-green">prevent the electrolysis of water</span>.
 
 **At cathode**:
 - Both $\ce{H+(aq)}$ and $\ce{Na+(aq)}$ are attracted towards the cathode.
@@ -14,7 +14,7 @@
 
 **At anode**:
 - Both $\ce{Cl-(aq)}$ and $\ce{OH-(aq)}$ ions are attracted towards the anode.
-- As $\ce{Cl-(aq)}$ has a <span style="color: lightgreen">higher concentration</span> than $\ce{OH-(aq)}$, $\ce{Cl-(aq)}$ is preferentially discharged to give $\ce{Cl2(g)}$.
+- As $\ce{Cl-(aq)}$ has a <span class="hi-green">higher concentration</span> than $\ce{OH-(aq)}$, $\ce{Cl-(aq)}$ is preferentially discharged to give $\ce{Cl2(g)}$.
 - *Half equation*: $\ce{2Cl-(aq) -> Cl2(g) + 2e-}$
 - *Observation*: Greenish yellow gas is formed at anode.
 

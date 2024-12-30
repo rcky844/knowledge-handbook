@@ -1,6 +1,6 @@
 ![[List article!]]
 
-#### Sections
+# Sections
 1. Redox reactions
 	- [[Oxidation and reduction]]
 	- [[Electrochemical series]]

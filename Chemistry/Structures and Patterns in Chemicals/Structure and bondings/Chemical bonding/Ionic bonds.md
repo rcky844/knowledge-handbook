@@ -5,23 +5,26 @@ An **ionic bond** is the electrostatic force of attraction between cations and a
 - Group V, VI and VII elements tend to gain outermost shell electron(s) to attain duplet / octet structure, becoming anions (-).
 - Group IV and 0 elements generally do not form ions.
 
-→ Ionic compounds are formed during an electron transferring process between a metal and a non-metal.
+↪️ Ionic compounds are formed during an electron transferring process between a metal and a non-metal.
 
-**Examples**:
+*Examples*:
 For $\ce{Li2O}$:
 ![[li2o_electron_diagram.webp|300]]
 
 For $\ce{Mg3N2}$:
 ![[mg3n2_electron_diagram.webp|300]]
 
-#### Polyatomic ions
+# Polyatomic ions
 **Polyatomic ions** are ions formed by a group of ions. There are covalent bonds holding the different atoms together in a polyatomic ion.
 
-#### Names of some common ions
-##### Cations
+# Names of some common ions
+## Cations
 **Cations** are mostly metallic ions, they can be named by appending 'ion' to their names.
 
-###### With 1+ charge
+> [!tip]
+> Some metals can form more than one type of positive ions with different charges.
+
+### With 1+ charge
 | Name | Formula |
 | :--: | :--: |
 | Lithium ion | $\ce{Li+}$ |
@@ -33,7 +36,7 @@ For $\ce{Mg3N2}$:
 | Hydrogen ion (formed by non-metal) | $\ce{H+}$ |
 | Ammonium ion (formed by non-metal) | $\ce{NH4+}$ |
 
-###### With 2+ charge
+### With 2+ charge
 | Name | Formula |
 | :--: | :--: |
 | Beryllium ion | $\ce{Be^2+}$ |
@@ -48,21 +51,18 @@ For $\ce{Mg3N2}$:
 | Zinc ion | $\ce{Zn^2+}$ |
 | Mercury(II) ion | $\ce{Hg^2+}$ |
 
-###### With 3+ charge
+### With 3+ charge
 | Name | Formula |
 | :--: | :--: |
 | Aluminium ion | $\ce{Al^3+}$ |
 | Iron(III) ion | $\ce{Fe^3+}$ |
 | Chromium(III) ion | $\ce{Ca^3+}$ |
 
-> [!note]
-> Some metals can form more than one type of positive ions with different charges.
-
-##### Anions
+## Anions
 - To name <u>negative ions</u>, append '-ide ion' to their names.
 - To name <u>polyatomic ions</u> containing oxygen, end their names with '-ite' or '-ate'. The ion with less oxygen is named '-ite', while the one with more oxygen is named '-ate'.
 
-###### With 1- charge
+### With 1- charge
 | Name | Formula |
 | :--: | :--: |
 | Hydride ion | $\ce{H-}$ |
@@ -80,7 +80,7 @@ For $\ce{Mg3N2}$:
 | Chlorate ion | $\ce{ClO3-}$ |
 | Hypochlorite ion | $\ce{OCl-}$ |
 
-###### With 2- charge
+### With 2- charge
 | Name | Formula |
 | :--: | :--: |
 | Oxide ion | $\ce{O^2-}$ |
@@ -93,7 +93,7 @@ For $\ce{Mg3N2}$:
 | Chromate ion | $\ce{CrO4^2-}$ |
 | Dichromate ion | $\ce{Cr2O7^2-}$ |
 
-###### With 3- charge
+### With 3- charge
 | Name | Formula |
 | :--: | :--: |
 | Nitride ion | $\ce{N^3-}$ |

@@ -3,14 +3,14 @@
 - There will be <u>electron flow</u> in the external circuit of the chemical cell.
 
 > [!warning]
-> - <span style="color: lightgreen">Electrons only flow through the external circuit.</span> They do not flow through the electrolyte solution.
+> - <span class="hi-green">Electrons only flow through the external circuit.</span> They do not flow through the electrolyte solution.
 > - Current flow occurs in the reverse direction to the electron flow.
-> - There is <span style="color: lightgreen">no attraction between electrodes and ions</span> by charge.
+> - There is <span class="hi-green">no attraction between electrodes and ions</span> by charge.
 
-The <u>voltage produced</u> by chemical cells are measured using <span style="color: skyblue">voltmeter or multimeter</span>.
+The <u>voltage produced</u> by chemical cells are measured using <span class="hi-blue">voltmeter or multimeter</span>.
 
-#### Types of chemical cells
-**Simple chemical cells**:
+# Types of chemical cells
+*Simple chemical cells*:
 - [[Metal couple cells]]
 - [[Lemon cells]]
 - [[Two half-cells]]
@@ -18,20 +18,20 @@ The <u>voltage produced</u> by chemical cells are measured using <span style="co
 - [[Daniell cell]]
 - [[Electrolyte redox cell using inert electrodes]]
 
-**Fuel cells**:
+*Fuel cells*:
 - [[Hydrogen-oxygen fuel cell]]
 - [[Proton exchange membrane fuel cell]]
 - [[Direct methanol fuel cell]]
 
 > [!note]
-> - Fuel cells are <span style="color: skyblue">primary cells</span>.
+> - Fuel cells are <span class="hi-blue">primary cells</span>.
 > - They are not secondary cells as they <u>cannot be recharged</u>.
 
-#### Electrode arrangements
+# Electrode arrangements
 | Electrode | Reaction at electrode | Charge |
 | :--: | :--: | :--: |
 | Cathode | Reduction | +ve electrode |
 | Anode | Oxidation | -ve electrode |
 
-#### See also
+# See also
 - [[Chemical cells in daily life]]

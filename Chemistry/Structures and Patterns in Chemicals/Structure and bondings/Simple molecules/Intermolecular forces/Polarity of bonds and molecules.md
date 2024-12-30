@@ -1,7 +1,7 @@
-#### Electronegativity
+# Electronegativity
 **Electronegativity** is the ability of the atom (of that element) to attract bond pair electrons towards itself.
 
-On a [[periodic table]], several trends in electronegativity can be observed:
+*Trends in electronegativity on the Periodic table*:
 - **The electronegativity increases from left to right across a period.**
   The <u>number of protons in an atom of an element increases</u> from left to right. The effective nuclear <u>charge</u> increases.
 
@@ -16,33 +16,33 @@ On a [[periodic table]], several trends in electronegativity can be observed:
 
 
 ![[variations_electronegativity.webp|500]]
-- <u>The most electronegative elements are nitrogen, oxygen and fluorine.</u>
+- The most electronegative elements are <span class="hi-blue">nitrogen, oxygen and fluorine</span>.
 
-#### Bond polarity
+# Bond polarity
 Consider the situations below:
 ![[cl-cl.webp|180]] $\ce{Cl-Cl}$ bond
 - In this bond, there is no electronegativity difference between the bonded atoms.
 - The electron cloud is evenly distributed / shared.
-↪️ It is a <u>non-polar bond</u>.
+↪️ It is a <span class="hi-blue">non-polar bond</span>.
 
 ![[h-cl_dipole.webp|180]] $\ce{H-Cl}$ bond
 - In this bond, there is electronegativity difference between the bonded atoms.
 - The electron cloud is unevenly distributed / shared.
-↪️ It is a <u>polar bond</u>.
+↪️ It is a <span class="hi-blue">polar bond</span>.
 
 > [!note]
 > The symbol underneath the $\ce{H-Cl}$ diagram can be used to indicate the dipole moments of the polar bond.
 
 The <u>difference in electronegativities</u> between the two atoms of a covalent bonds results in polar bonds.
 
-#### Molecular polarity
+# Molecular polarity
 > [!note]
 > In diatomic molecules, the molecular polarity is also the bond polarity.
 > 
-> **Example**:
+> *Example*:
 > ![[h-cl_dipole.webp|180]]
 
-To deduce the polarity of a molecule, two factors are under consideration:
+*Factors under consideration*:
 1. **Presence of polar covalent bonds**
    The molecule must contain one of more polar bonds for it to be polar.
 
@@ -58,15 +58,15 @@ Consider $\ce{CHCl3}$ and $\ce{CCl4}$:
 > [!note]
 > There is net dipole moment in the molecule of $\ce{CHCl3}$. It can be represented with the same symbols as in the case of bond polarity.
 
-#### Physical test for polarity of chemical species
+# Physical test for polarity of chemical species
 ![[polarity_test.webp|450]]
 Physical test of <u>liquid jet</u> can be used to determine whether a chemical species (liquid) is polar.
 
-**Procedures**:
+*Procedures*:
 - A sample is added into a burette and allowed to run.
 - A charge rod is placed close to the liquid jet.
 
-**Results**:
+*Results*:
 - <u>If the liquid is polar, deflection occurs and the liquid jet is brought closer to the charged rod.</u>
 - If the liquid is non-polar, deflection does not occur and the liquid jet keeps running as normal.
 

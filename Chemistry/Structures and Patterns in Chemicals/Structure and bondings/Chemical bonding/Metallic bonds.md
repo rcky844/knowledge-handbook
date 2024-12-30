@@ -2,15 +2,15 @@ A **metallic bond** is the electrostatic force of attraction between metallic io
 
 ![[giant_metallic_structure.webp|550]]
 
-In metals, metallic atoms tend to lose their outermost shell electrons to become a positively charged ion. This process is called <u>ionization</u>.
+In metals, metallic atoms tend to lose their outermost shell electrons to become a positively charged ion. This process is called <span class="hi-blue">ionization</span>.
 ↪️ See also: [[Ionic bonds]]
 
 The atoms of metals are closely packed together. The outermost shell electron of each atom continually moves from one atom to another. They are called delocalized electrons.
 
-> [!note]
+> [!warning]
 > There are no anions formed in an metallic bond, only cations.
 
-#### Reactivity of metals
+# Reactivity of metals
 > [!note]
 > The information below is mostly exclusive to Group I and Group II metals.
 
@@ -20,5 +20,5 @@ The atoms of metals are closely packed together. The outermost shell electron of
 - **The reactivity of the metals decreases from Group I to Group II.**
   Since the strength of metallic bonds in the metals decreases from Group I to Group II, the tendency of the metal to lose the outermost shell electrons decreases from Group I to Group II.
 
-#### See also
+# See also
 - [[Giant metallic structure]]

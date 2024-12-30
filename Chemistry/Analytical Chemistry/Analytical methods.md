@@ -16,7 +16,7 @@ B --> D;
 B --> E;
 ```
 
-#### Sections
+# Sections
 - Qualitative analysis
 	- [[Inorganic preliminary tests]]
 	- [[Organic preliminary tests]]

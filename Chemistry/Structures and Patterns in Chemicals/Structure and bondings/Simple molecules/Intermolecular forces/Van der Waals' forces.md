@@ -1,11 +1,11 @@
 **Van der Waals' forces** is a weak force that forms between molecules.
 
-#### Formation of van der Waals' forces
-##### Polar molecules
+# Formation of van der Waals' forces
+## Polar molecules
 ![[hcl_polar_vdw.webp|450]]
 **Polar molecules** have permanent partial positive and partial negative charges, allowing them to be attracted to an end of another molecule by van der Waals’ forces (dipole-dipole forces).
 
-##### Non-polar molecules
+## Non-polar molecules
 ![[n2_vdw.webp|450]]
 **Non-polar molecules** have no permanent partial positive and partial negative charges.
 
@@ -13,7 +13,7 @@ However, the random movements of electrons causes an uneven distribution of elec
 
 This force is also know as dispersion forces / London forces.
 
-#### Factors affecting the strength of van der Waals’ forces
+# Factors affecting the strength of van der Waals’ forces
 1. **Molecular size**
    Molecules with larger molecular size has <u>greater contact surface area</u> with neighbouring molecules.
    The strength of van der Waals' forces between molecules of larger molecular size is stronger.
@@ -29,6 +29,6 @@ This force is also know as dispersion forces / London forces.
 
 > [!tip] Shape of molecules and boiling / melting points
 > ![[mpbp_shapes_of_molecules.webp|500]]
-> - Pentane has a higher boiling point as it is <span style="color: lightgreen">more linear in shape</span> than 2,2-dimethylpropane, the contact surface area between molecules is larger. The strength of van der Waals' forces is higher <u>in liquid state</u>.
-> - 2,2-dimethylpropane has a higher melting point as it has a <span style="color: lightgreen">higher packing efficiency</span> than pentane. The strength of van der Waals' forces is higher <u>in solid state</u>.
+> - Pentane has a higher boiling point as it is <span class="hi-green">more linear in shape</span> than 2,2-dimethylpropane, the contact surface area between molecules is larger. The strength of van der Waals' forces is higher <u>in liquid state</u>.
+> - 2,2-dimethylpropane has a higher melting point as it has a <span class="hi-green">higher packing efficiency</span> than pentane. The strength of van der Waals' forces is higher <u>in solid state</u>.
 

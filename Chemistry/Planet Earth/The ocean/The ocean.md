@@ -2,7 +2,7 @@
 
 Some oceans or bodies of water have differing amounts of dissolved salts. For example, the sea water in the Dead Sea has an unusually high salt content (27%), enabling one to float effortlessly.
 
-#### Sections
+# Sections
 1. [[Solute, solvent and solution]]
 2. Separation of insoluble solid from a solution
 	- [[Decantation]]

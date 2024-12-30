@@ -1,6 +1,6 @@
 ![[List article!]]
 
-#### Sections
+# Sections
 1. Fundamentals of Chemistry
 	- The laboratory
 		- [[Important apparatus]]
@@ -11,7 +11,6 @@
 	- [[Particle Theory]]
 	- [[Classification of matter]]
 2. [[The atmosphere]]
-	- [[Components of air]]
 	- [[Fractional distillation of liquefied air]]
 3. [[The ocean]]
 	- [[Solute, solvent and solution]]

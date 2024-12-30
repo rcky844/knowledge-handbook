@@ -1,4 +1,4 @@
-#### Determining oxidations and reductions
+# Determining oxidations and reductions
 1. **Gain or loss of electrons**
    $\ce{Zn(s) + Cu^2+(aq) -> Zn^2+(aq) + Cu(s)}$
 	- $\ce{Zn(s) -> Zn^2+(aq) + 2e-}$
@@ -26,11 +26,10 @@
 	- Sum of O.N. = 0 for neutral compounds.
 	- Some elements have variable O.N. (e.g. C, N, S and [[transition metals]])
 
-#### Describing O.N. changes
-**Answer pattern**:
-The O.N. of {atom} is (increased / decreased) from \_\_ in {species A} to \_\_ in {species B}.
+# Describing O.N. changes
+*Answer pattern*: The O.N. of {atom} is (increased / decreased) from \_\_ in {species A} to \_\_ in {species B}.
 
-#### Determining redox reactions
+# Determining redox reactions
 A reaction must be a redox reaction when there is a change in O.N. of any chemical species.
 
 Some types of reactions are <u>not redox reactions</u>:

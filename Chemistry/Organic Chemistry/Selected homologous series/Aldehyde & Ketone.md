@@ -20,7 +20,7 @@ Carbonyl group
 > **Density**: Less dense than water
 > **Solubility**: Soluble in water (for no. of $\ce{C}$ < 4)
 
-**Explanation for melting points and boiling points**:
+*Explanation for melting points and boiling points*:
 Their molecules <u>does not form hydrogen bonds</u>, but they can form <u>polar bonds</u>.
 
-**Reactions**: [[Oxidation and reduction of carbon compounds]]
+*Reactions*: [[Oxidation and reduction of carbon compounds]]

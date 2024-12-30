@@ -1,6 +1,6 @@
 1. **Chromatography**
    *Main article: [[Chromatography]]*
-	- <span style="color: lightgreen"><u>A pure substance produces only one spot in the chromatogram.</u></span>
+	- <span class="hi-green"><u>A pure substance produces only one spot in the chromatogram.</u></span>
 	- A substance that is not pure produces two or more spots in the chromatogram.
 	![[chromatogram_purity.webp|350]]
 

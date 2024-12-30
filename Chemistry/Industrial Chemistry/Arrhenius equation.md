@@ -2,7 +2,7 @@
 
 ![[arrhenius_equation.webp|450]]
 
-**Effects of temperature on rate constant**:
+*Effects of temperature on rate constant*:
 Reaction rate increases when the temperature increases.
 ↪️ Rate constant increases.
 
@@ -11,11 +11,11 @@ Reaction rate increases when the temperature increases.
 >   $R = \pu{8.31 J K-1 mol-1}$
 > - Note that natural log = 2.73
 
-#### Determination of $E_a$
+# Determination of $E_a$
 The **Arrhenius equation** is usually used by taking $\pu{log}$ on both sides of the equation:
 $\log k = \log A - {E_a\over 2.3R}({1\over T})$
 
-##### Graphical method
+## Graphical method
 Consider $\log k = \log A - {E_a\over 2.3R}({1\over T})$, it can be plotted into the following graph:
 ![[arrhenius_graph.webp|400]]
 
@@ -24,19 +24,19 @@ By $y=mx+c$:
 - y-axis ($y$): $\log k$
 - slope ($m$): $-{E_a\over 2.3R}$
 - constant ($c$): $\log A$
-↪️ **See also**: HKDSE 2013 Paper 2 Q1(a)
+↪️ *See also*: HKDSE 2013 Paper 2 Q1(a)
 
 > [!note]
 > - To find the $E_a$ by graph, find the slope of the line.
 > - Only the data values of the <u>best-fit line</u> should be used for calculation.
 > - Remember to check the units given on the graph.
 
-##### Mathematical method
+## Mathematical method
 To find the activation energy mathematically, the reactions have to be carried out under two different temperatures. Both equations are then combined together:
 
 $\log({k_1 \over k_2}) = -{E_a\over2.3R}({1\over T_1}-{1\over T_2})$
 
-**Example**:
+*Example*:
 Consider: $\ce{2N2O5(g) -> 2N2O4(g) + O2(g)}$
 <table>
 <tr>

@@ -6,5 +6,5 @@ Note that in general:
 > - Numbers of bonds
 > - Types of bonds
 
-#### See also
+# See also
 - [[Solubility and miscibility]]

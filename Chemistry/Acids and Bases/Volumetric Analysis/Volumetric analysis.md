@@ -4,11 +4,11 @@ A sufficient volume of a solution of <u>known concentration</u> is allowed to <u
 
 **Titration** is a volumetric analysis technique using 'just sufficient' volume of reactant.
 
-#### Sections
-**Acids and Bases**:
+# Sections
+*Acids and Bases*:
 - [[Apparatus used in volumetric analysis]]
 - [[Acid-alkali titration]]
 
-**Analytical Chemistry**:
+*Analytical Chemistry*:
 - [[Precipitation titration]]
 - [[Redox titration]]

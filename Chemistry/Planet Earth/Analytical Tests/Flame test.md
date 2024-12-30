@@ -1,19 +1,19 @@
-**Flame test** is a <span style="color: lightgreen">physical test</span>. When the metallic ion is burnt in a Bunsen flame, they will give off different colours. The metallic element in a compound can be identified by the flame colour produced.
+**Flame test** is a <span class="hi-green">physical test</span>. When the metallic ion is burnt in a Bunsen flame, they will give off different colours. The metallic element in a compound can be identified by the flame colour produced.
 
-A platinum or nichrome (alloy of nickel and chromium) wire will be used for the test, as they have <span style="color: aqua">high melting point and corrosion resistance</span>.
-
-> [!warning]
-> The wire used should be <span style="color: lightgreen">cleaned before the experiment</span>.
+> [!tip] Choice and cleaning of apparatus
+> A platinum or nichrome (alloy of nickel and chromium) wire will be used for the test, as they have <span class="hi-blue">high melting point and corrosion resistance</span>.
 > 
-> To clean the platinum wire, <span style="color: aqua">dip the wire into concentrated hydrochloric acid and then heat it in the Bunsen flame until no characteristic flame colour is observed</span>.
+> The wire used should be <span class="hi-green">cleaned before the experiment</span>.
+> 
+> To clean the platinum wire, <u>dip the wire into concentrated hydrochloric acid</u> and then heat it in the Bunsen flame until no characteristic flame colour is observed.
 
-#### Procedure
+# Procedure
 1. Dip a clean nichrome wire into <u>concentrated hydrochloric acid</u>.
-2. Dip the nichrome wire into the <u>solid sample</u>. If the sample is in aqueous form, consider using one of the methods in "[[Obtaining soluble solid from a solution]]".
+2. Dip the nichrome wire into the <u>solid sample</u>. If the sample is in aqueous form, use [[evaporation]] or [[crystallization]] first.
 3. Put the end of the wire in the <u>Bunsen flame</u> and observe the colour of the flame.
 
 > [!warning]
-> The wire should be <span style="color: lightgreen">heated under naked flame</span>.
+> The wire should be <span class="hi-green">heated under naked flame</span>.
 > 
 > Heating the compound when it is placed inside of a test tube does not produce enough heat for the formation of the characteristic flame colours (spectral colours).
 

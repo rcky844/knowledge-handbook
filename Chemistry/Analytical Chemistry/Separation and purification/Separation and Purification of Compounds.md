@@ -1,6 +1,6 @@
 ![[List article!]]
 
-#### Separation
+# Separation
 1. [[Decantation]]
 2. [[Filtration]]
 3. [[Evaporation]]
@@ -11,10 +11,10 @@
 	- [[Fractional distillation of petroleum]]
 7. [[Liquid-liquid extraction]] (\*)
 
-#### Purification
+# Purification
 1. [[Separating funnel]]
 2. [[Recrystallization]]
 3. [[Chromatography]]
 
-#### See also
+# See also
 - [[Test for purity of substances]]

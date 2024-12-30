@@ -5,9 +5,9 @@
 > **Reagent**: Conc. $\ce{H2SO4}$
 > **Condition**: Under reflux
 
-**Functions of the reagent**:
+*Functions of the reagent*:
 - **As a catalyst**
-  Addition of sulphuric acid will <u>speed up the reaction</u> and therefore the equilibrium is achieved more quickly.
+  Addition of sulphuric acid will <span class="hi-green">speed up the reaction</span> and therefore the equilibrium is achieved more quickly.
 
 - **As a dehydrating agent**
-  Sulphuric acid helps in <u>removing the water content</u> of the reaction, and shifts the equilibrium position to the product side.
+  Sulphuric acid helps in <span class="hi-green">removing the water content</span> of the reaction, and shifts the equilibrium position to the product side.

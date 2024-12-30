@@ -1,6 +1,6 @@
 ![[List article!]]
 
-#### Sections
+# Sections
 1. [[Introduction to acids]]
 2. [[Introduction to bases and alkalis]]
 3. [[Hygroscopic and deliquescent]]
@@ -13,4 +13,4 @@
 	- [[Preparation of salts]]
 9. [[Volumetric analysis]]
 	- [[Apparatus used in volumetric analysis]]
-	- [[Volumetric analysis]]]]
+	- [[Acid-alkali titration]]

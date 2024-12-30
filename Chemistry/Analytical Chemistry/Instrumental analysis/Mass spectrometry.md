@@ -1,11 +1,11 @@
 ![[mass_spectrometry.webp]]
 
 1. **Vaporization**
-	- The sample is first vaporized to <span style="color: lightgreen">gaseous</span> form.
+	- The sample is first vaporized to <span class="hi-green">gaseous</span> form.
 	- It can be an element or a compound.
 
 2. **Ionization**
-	- The gaseous sample is bombarded by a <span style="color: lightgreen">beam of fast-moving electrons</span>.
+	- The gaseous sample is bombarded by a <span class="hi-green">beam of fast-moving electrons</span>.
 	- Electrons from the molecules of the sample are knocked out, forming positive ions, called molecular ion ($\ce{M+}$).
 	  $$
 	  \begin{array} \\

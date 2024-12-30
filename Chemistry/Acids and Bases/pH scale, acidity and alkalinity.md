@@ -1,4 +1,4 @@
-#### Calculations involving pH
+# Calculations involving pH
 $$
 pH = -\log_{10}\ce{[H+(aq)]}
 $$
@@ -13,7 +13,7 @@ $$
 > [!note]
 > $\ce{[OH-(aq)]}$ cannot be used for this calculation.
 
-#### pH and acid-base nature of solution
+# pH and acid-base nature of solution
 ![[pH_scale.webp]]
 The **pH scale** can be used to define whether a solution is acidic, neutral or alkaline only at 25°C. When the temperature is not 25°C, pH has no relationship with acidity and alkalinity.
 - When $\ce{[H+(aq)]}$ increase, the pH value of the solution decreases.
@@ -28,7 +28,7 @@ The **pH scale** can be used to define whether a solution is acidic, neutral or 
 > [!note]
 > The value of pH can be below 0 or above 14.
 
-#### Determining pH value
+# Determining pH value
 1. **Universal indicator solution**
    It is a mixture of several indicators and changes colour gradually. The colour is compared to a standard pH colour chart.
 
@@ -38,5 +38,5 @@ The **pH scale** can be used to define whether a solution is acidic, neutral or 
 3. **pH meter / data-logger with pH sensor**
    Dip the electrode into the solution, an accurate pH value will be shown.
 
-#### See also
+# See also
 - [[Acid-base Indicators]]

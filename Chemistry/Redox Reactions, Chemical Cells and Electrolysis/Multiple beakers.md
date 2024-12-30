@@ -9,7 +9,7 @@
 - *Cathode* (-ve): $\ce{2H+(aq) + 2e- -> H2(g)}$
   ↪️ Colourless gas bubble evolves
 
-**Set-up B**: <span style="color: aqua">Chemical cell</span>
+**Set-up B**: <span class="hi-blue">Chemical cell</span>
 - *Anode* (-ve): $\ce{}$$\ce{Mg(s) -> Mg^2+(aq) + 2e-}$
   ↪️ Magnesium dissolves
 - *Cathode* (+ve): $\ce{2H+(aq) + 2e- -> H2(g)}$
