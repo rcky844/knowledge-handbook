@@ -7,7 +7,7 @@ The **skin** is mainly responsible for <span class="hi-green">thermoregulation</
 - For excretion (through sweating)
 
 # Structure
-//TODO image
+![[skin.webp]]
 
 ## Epidermis
 **Innermost layer** (Malpighian layer):
