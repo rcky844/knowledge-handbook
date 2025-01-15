@@ -60,7 +60,7 @@ As the cerebellum is responsible for <span class="hi-green">precision and fine c
 The **medulla oblongata** controls <span class="hi-blue">involuntary actions</span> not under conscious control (e.g. vital processes — heart rate, breathing), and also serves as the reflex centre coordinating many reflex actions in the head (e.g. sneezing, coughing, saliva secretion, swallowing)
 
 *Distribution of grey matter and white matter*:
-- **Grey matter**: Makes up the <span class="hi-green">inner layer</span>.
+- **Grey matter**: Makes upgreen the <span class="hi-green">inner layer</span>.
 - **White matter**: Makes up the relatively smooth <span class="hi-green">outer layer</span>.
 
 # Spinal cord

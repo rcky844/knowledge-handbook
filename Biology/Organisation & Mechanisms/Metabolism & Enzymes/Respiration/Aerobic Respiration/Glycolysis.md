@@ -1,4 +1,4 @@
-**Glycolysis** is the first stage of respiration. It is a process to <span class="hi-green">break down glucose</span> and <span class="hi-green">occurs in the cytoplasm</span>.
+**Glycolysis** is the first stage of respiration. It is a process to <span class="hi-green">break down glucose</span> and occurs in the <span class="hi-blue">cytoplasm</span>.
 - It <span class="hi-green">does not require oxygen</span> and can occur in either aerobic and anaerobic conditions.
 - It involves a series of <span class="hi-green">enzyme-controlled</span> reactions and occurs in two phases.
 

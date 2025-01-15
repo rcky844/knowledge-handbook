@@ -5,8 +5,8 @@ The **endoplasmic reticulum** (ER) is an <span class="hi-green">extensive networ
 *Specialised types of ER*:
 - **Rough endoplasmic reticulum**
 	- A series of convoluted, flattened membranes.
-	- Attached with [[Ribosomes]] on the surface.
-	- Transports [[Proteins]] produced at the ribosomes.
+	- Attached with [[ribosomes]] on the surface.
+	- Transports [[proteins]] produced at the ribosomes.
 	- Large quantities are present in protein-secreting cells.
 	  (e.g. cells that secrete insulin in the pancreas)
 

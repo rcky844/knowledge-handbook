@@ -2,7 +2,7 @@
 
 *Types of protists and nutrition*:
 - <span class="hi-blue">Algae</span> <span class="hi-green">(<u>plant-like protists</u>)</span> (e.g. *Spirogyra*, kelps)
-	- <span class="hi-blue">Autotrophic</span>: By [[Photosynthesis]], acts as a producer.
+	- <span class="hi-blue">Autotrophic</span>: By [[photosynthesis]], acts as a producer.
 
 - <span class="hi-blue">Protozoans</span> <span class="hi-green">(<u>animal-like protists</u>)</span> (e.g. *Amoeba*, *Paramecium*)
 	- <span class="hi-blue">Heterotrophs</span>: By eating other organisms, acts as a consumer.

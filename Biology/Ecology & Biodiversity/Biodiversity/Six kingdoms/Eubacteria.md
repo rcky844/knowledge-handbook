@@ -16,7 +16,7 @@
 - Some secrete a slime layer and ooze over surfaces like slugs.
 
 *Nutrition & energy*:
-- <span class="hi-blue">Autotrophic</span>: By [[Photosynthesis]], acts as a producer.
+- <span class="hi-blue">Autotrophic</span>: By [[photosynthesis]], acts as a producer.
   (e.g. cyanobacteria contains chlorophyll)
 - <span class="hi-blue">Heterotrophs</span>: Breaks down and absorb material in dead or decaying organisms, acts as decomposer.
 

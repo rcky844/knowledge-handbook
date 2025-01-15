@@ -1,4 +1,4 @@
-The **Krebs cycle** is a cyclic series of enzyme-controlled reactions that take place in the mitochondrial matrix.
+The **Krebs cycle** is a cyclic series of enzyme-controlled reactions that take place in the <span class="hi-blue">mitochondrial matrix</span>.
 
 *Overall products* (per glucose molecule):
 - Coenzyme A (CoA) → reused!

@@ -11,7 +11,7 @@ carbon dioxide + water  $\xrightarrow[\text{by chlorophyll}]{\text{light energy 
 
 # Significance
 - **Sustaining plant life**: Photosynthesis provides essential materials for plants.
-	- **Glucose**: Used in respiration to provide energy for cellular activities. Extra glucose can be converted to starch for storage or synthesized into cellulose for building cell walls.
+	- **Glucose**: Used in respiration to provide energy for cellular activities. <span class="hi-green">Extra glucose can be converted to starch for storage or synthesized into cellulose for building cell walls.</span>
 	- **Other organic nutrients (e.g. proteins, lipids)**: Can be converted from intermediates of photosynthesis for metabolism and the growth of plants.
 
 - **Providing food and maintaining the energy flow in ecosystems**

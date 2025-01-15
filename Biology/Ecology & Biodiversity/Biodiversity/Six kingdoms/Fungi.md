@@ -9,13 +9,13 @@
 - Have a cell wall made of <span class="hi-blue">chitin</span> (nitrogen containing polysaccharide).
 - <span class="hi-green">Immovable and stationary</span> (but yeasts may show limited movement).
 - Can be <span class="hi-blue">parasites</span> that cause [[Types of pathogens#Fungi|diseases]] (in animals and plants).
-- Some have <span class="hi-green">antibacterial properties</span>, so they are used for the production of [[Antibiotics]] (e.g. Penicillium moulds).
+- Some have <span class="hi-green">antibacterial properties</span>, so they are used for the production of [[antibiotics]] (e.g. Penicillium moulds).
 
 *Nutrition*:
 - <span class="hi-blue">Heterotrophic nutrition</span> only, as they do not have chlorophyll.
 - Most are <span class="hi-blue">saprophytes</span>, feeding on dead organisms or non-living organic matter.
-- Their <span class="hi-green">hyphae secrete enzymes</span> onto the food to carry out <span style="color: violet">external digestion</span>.
-- Saprophytic fungi play a major role in the [[Source of energy#Classification of organisms|recycling of materials in an ecosystem]] as a decomposer.
+	- Their <span class="hi-green">hyphae secrete enzymes</span> onto the food to carry out <span class="hi-blue">external digestion</span>.
+	- Saprophytic fungi play a major role in the [[Source of energy#Classification of organisms|recycling of materials in an ecosystem]] as a decomposer.
 
 *Reproduction*: [[Asexual reproduction|Asexual]]
 - **Budding in yeast and *Hydra***

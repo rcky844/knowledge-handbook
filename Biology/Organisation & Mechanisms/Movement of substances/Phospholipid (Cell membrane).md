@@ -10,5 +10,5 @@
 # Arrangement in cell membranes
 ![[cell_membrane_arrangement.webp]]
 
-- **Hydrophobic tails** point inwards.
-- **Hydrophilic heads** face the watery environment inside and outside the cell (aqueous solution in cytoplasm and extracellular fluid respectively).
+- **Hydrophobic tails** point inwards towards each other.
+- **Hydrophilic heads** face the <span class="hi-green">aqueous environment</span> inside and outside the cell (aqueous solution in cytoplasm and extracellular fluid respectively).

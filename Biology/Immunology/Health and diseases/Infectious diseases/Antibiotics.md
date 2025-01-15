@@ -4,7 +4,7 @@
 Antibiotics kill or inhibit the growth of bacteria by disrupting essential processes or structures. Their actions include:
 
 1. **Inhibiting formation of bacterial cell walls**
-   <span class="hi-blue">Bacterial cell walls</span> may not form properly during cell division and becomes weakened.
+   <span class="hi-blue">Bacterial cell walls</span> may not form properly during <span class="hi-blue">cell division</span> and becomes weakened.
    It eventually <span class="hi-blue">burst (lyse)</span> due to the influx of water by [[osmosis]].
 
 2. **Disruption of cell membrane functions**

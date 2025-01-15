@@ -1,5 +1,5 @@
 - Darkly stained spherical structure under the light microscope.
-- Surrounded by the nuclear membrane (a double membrane).
-	- **Nuclear pores**: Allow exchange between nucleus and cytoplasm.
+- Surrounded by the <span class="hi-blue">nuclear membrane</span> (a double membrane).
+	- **Nuclear pores**: <span class="hi-green">Allow exchange</span> between nucleus and cytoplasm.
 	- **Nucleolus** (organelle in nucleus): Plays a key role in the large-scale production of rDNAs and assembly of ribosomal subunits.
 - Contains DNA which controls protein synthesis and thus all activities of a cell (e.g. growth and repair).

@@ -37,6 +37,6 @@ The cell membrane is thin but strong enough to hold the cell contents. This is b
 - Cell membrane is <u>impermeable to ions and polar molecules</u> (e.g. water, water-soluble substances), as they are repelled by the bilayer. Instead, they move across the cell membrane through [[Membrane proteins|channel proteins or carrier proteins]].
 
 ## Bilayer structure
-- Due to the hydrophobic nature of fatty acids, phospholipid form a bilayer in aqueous situations.
+Due to the hydrophobic nature of fatty acids, phospholipid form a bilayer in aqueous situations.
 - The bilayer makes the membrane a <span class="hi-green">good physical barrier for compartmentalization</span> and can help <span class="hi-green">restrict the entry / exit of ions and polar molecules</span>, thus establishing concentration gradients across membranes.
 - The bilayer <span class="hi-green">forms a structural framework for embedment of proteins</span>.

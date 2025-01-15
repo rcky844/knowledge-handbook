@@ -16,7 +16,7 @@ The <span class="hi-blue">amniotic cavity</span> between the amnion and embryo i
 - <span class="hi-green">Prevents</span> the embryo from <span class="hi-green">drying out</span> (desiccation).
 - <span class="hi-green">Provides a stable environment</span> (e.g constant temperature, pH, etc.) for the embryo.
 - Allows the embryo some <span class="hi-green">freedom of movement</span>.
-- Helps <span class="hi-green">lubricate the birth canal during childbirth</span>.
+- Helps <span class="hi-green">lubricate</span> the <span class="hi-blue">birth canal</span> during childbirth.
 
 # Formation of the placenta
 ![[placenta.webp|666]]

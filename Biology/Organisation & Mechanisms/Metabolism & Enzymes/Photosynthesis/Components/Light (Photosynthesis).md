@@ -33,7 +33,7 @@
 7. Calculate the rate of photosynthesis (volume of gas collected per unit time) in different light intensities (∝ 1/d<sup>2</sup>).
 8. Plot a graph of the rate of photosynthesis against light intensities (See the graph below).
 
-This experimental procedure is also used in [[carbon dioxide (Photosynthesis)#Experiment]].
+This experimental procedure is also used in [[Carbon dioxide (Photosynthesis)#Experiment]].
 Instead, the concentration of $\ce{NaHCO3}$ solution varies.
 
 > [!tip]
@@ -46,7 +46,7 @@ Instead, the concentration of $\ce{NaHCO3}$ solution varies.
 
 1. When there is no light, no photosynthesis takes place.
 
-2. At low light intensities, the light intensity (a limiting factor) limits the rate of photosynthesis. As the light intensity increases, more energy is supplied to the [[photochemical reactions]] and stomata open wider to allow carbon dioxide (a substrate for [[carbon fixation]]) to diffuse into the leaves. Therefore, the rate of photosynthesis increases.
+2. At low light intensities, the light intensity (a limiting factor) limits the rate of photosynthesis. As the light intensity increases, more energy is supplied to the [[Photochemical reactions]] and stomata open wider to allow carbon dioxide (a substrate for [[Carbon fixation]]) to diffuse into the leaves. Therefore, the rate of photosynthesis increases.
 
 3. At a certain light intensity, photosynthesis reaches its maximum rate (saturation point).
    The light intensity at the saturation point is called optimum light intensity.

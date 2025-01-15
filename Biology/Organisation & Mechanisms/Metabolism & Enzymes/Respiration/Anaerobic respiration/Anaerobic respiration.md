@@ -1,4 +1,4 @@
-**Anaerobic respiration** takes place with there is little or no oxygen. However, some organisms or cell types can carry out anaerobic respiration and remain alive in low oxygen conditions.
+**Anaerobic respiration** takes place in the [[cytoplasm]] when there is little or no oxygen. However, some organisms or cell types can carry out anaerobic respiration and remain alive in low oxygen conditions.
 
 **Anaerobic respiration** does not replace [[aerobic respiration]], but both occur at the same time. 
 

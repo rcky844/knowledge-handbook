@@ -20,7 +20,7 @@
   Consists of one glycerol molecule, two fatty acid molecules and a phosphate group.
 
 - **Functions**:
-  As the main component of the [[Cell membrane]].
+  As the main component of the [[cell membrane]].
 
 ## See also
 - [[Phospholipid (Cell membrane)]]
@@ -33,7 +33,7 @@
   Complex molecule consisting of carbon rings.
 
 - **Functions**:
-	- Essential component of the [[Cell membrane]].
+	- Essential component of the [[cell membrane]].
 	- Used in the synthesis of lipid hormones.
 	- Needed for making vitamin D.
 

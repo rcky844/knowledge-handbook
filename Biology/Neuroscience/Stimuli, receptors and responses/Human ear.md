@@ -10,7 +10,7 @@ The **human ear** is a mechanoreceptor for detecting sound (pressure waves). The
 *Middle ear*:
 - <span class="hi-blue">Eardrum</span>: <span class="hi-green">Thin and elastic</span> membrane that vibrates when sound waves reach it and converts sound waves to mechanical vibrations.
 - <span class="hi-blue">Ear bones</span>: <span class="hi-green">Amplifies the vibrations</span> from the eardrum and transmits them to the oval window.
-- <span class="hi-blue">Eustachian tube</span>: Helps <span class="hi-green">maintain equal pressure</span> on either side of the eardrum by allowing air to enter or leave the middle ear.
+- <span class="hi-blue">Eustachian tube</span>: Helps <span class="hi-green">maintain equal pressure</span> on either side of the <span class="hi-blue"><u>eardrum</u></span> by allowing air to enter or leave the middle ear.
 
 ![[human_ear_cochlea.webp|550]]
 

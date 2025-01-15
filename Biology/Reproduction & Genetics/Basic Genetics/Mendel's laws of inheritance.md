@@ -27,13 +27,13 @@
 
 ## Monohybrid Cross
 ![[monohybrid_cross.webp|400]]
-- Mendel took two pea plants of opposite traits (one short and one tall) and crossed them. He found the $F_1$ generation offspring were tall.
-- Then, he crossed the $F_1$ filial generation and obtained both tall and short plants in the ratio $3:1$ (monohybrid ratio) in the $F_2$ generation.
+- Mendel took two pea plants of opposite traits (one short and one tall - <span class="hi-green">homozygous</span>) and crossed them. He found the $F_1$ generation offspring were tall (<span class="hi-green">homozygous dominant</span>).
+- Then, he crossed the $F_1$ filial generation and obtained both tall and short plants in the ratio $3:1$ (<span class="hi-blue">monohybrid ratio</span>) in the $F_2$ generation.
 
 ## Dihybrid cross
 ![[dihybrid_cross.webp|500]]
-- Mendel crossed wrinkled-green seed and round-yellow seeds and observed that all the $F_1$ generation were round-yellow. This meant that dominant traits were the round shape and yellow colour.
-- He then self-pollinated the $F_1$ generation and obtained 4 different traits: round-yellow, round-green, wrinkled-yellow, and wrinkled-green seeds in the ratio $9:3:3:1$ (dihybrid ratio) in the $F_2$ generation.
+- Mendel crossed wrinkled-green seed and round-yellow seeds and observed that all the $F_1$ generation were round-yellow (<span class="hi-green">heterozygous</span>). This meant that dominant traits were the round shape and yellow colour.
+- He then self-pollinated the $F_1$ generation and obtained 4 different traits: round-yellow, round-green, wrinkled-yellow, and wrinkled-green seeds in the ratio $9:3:3:1$ (<span class="hi-blue">dihybrid ratio</span>) in the $F_2$ generation.
 
 # Deducing dominant and recessive allele
 Consider the colour of pea flowers, where $R$ represents the dominant allele for red colour, $r$ represents the recessive allele for white colour.

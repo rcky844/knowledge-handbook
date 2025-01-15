@@ -3,7 +3,7 @@
 > [!note]
 > The end product of [[glycolysis]] is pyruvate, which still contains a substantial amount of chemical energy that can be further utilised in respiration to produce more ATP.
 
-When <u>oxygen is available</u>, pyruvate will enter the <span class="hi-blue">mitochondrial matrix</span> and <span class="hi-blue">aerobic respiration</span> will continue.
+When <span class="hi-green">oxygen is available</span>, pyruvate will enter the <span class="hi-blue">mitochondrial matrix</span> and <span class="hi-blue">aerobic respiration</span> will continue.
 - As pyruvate moves across the double membrane of the mitochondria via [[active transport]], it requires a transport protein and a small amount of ATP.
 
 *Overall products* (per glucose molecule):

@@ -4,7 +4,7 @@
 | :--: | :--: |
 | Exergonic reaction | Endergonic reaction |
 
-To start any chemical reactions, sufficient activation energy must be supplied to the reactants. Enzymes provide a reaction pathway with lower activation energy in order to allow the reaction to occur and/or speed up the reaction. Note that the energy levels of both reactants and products are not changed by the action of enzymes.
+To start any chemical reactions, sufficient <span class="hi-blue">activation energy</span> must be supplied to the reactants. Enzymes provide a reaction pathway with lower activation energy in order to allow the reaction to occur and/or speed up the reaction. Note that the energy levels of both reactants and products are not changed by the action of enzymes.
 
 # Mechanism
 ![[enzymes_mechanism.webp|500]]
