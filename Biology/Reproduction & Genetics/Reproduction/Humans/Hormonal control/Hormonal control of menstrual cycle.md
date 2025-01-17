@@ -9,7 +9,7 @@
 | Progesterone | Yellow body in ovary | Uterine lining; Pituitary gland | Maintains thickened uterine lining |
 
 # Events in the menstrual cycle
-//TODO image
+![[hormonal_menstrual_cycle.webp|600]]
 
 ## Before ovulation (day 1-13)
 > [!tip]
