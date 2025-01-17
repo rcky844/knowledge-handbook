@@ -8,13 +8,13 @@
 
 # Examples for actions of antibodies
 - **Making holes to cause lysis**
-  The antibody bind to antigens of the pathogen and make holes on the pathogen surface, causing the pathogen to break apart.
+  The antibody bind to antigens of the pathogen and <span class="hi-green">make holes</span> on the pathogen surface, causing the pathogen to break apart.
 
 - **Helping detection by phagocytes**
   The antibody bind to antigens of the pathogen and help phagocytes detect the pathogen more easily, thus making [[phagocytosis]] easier.
 
 - **Clumping of pathogens**
-  The antibody cause pathogens to clump together (agglutination). It prevents pathogens from reproducing or entering body cells, and helps phagocytes engulf the pathogens.
+  The antibody cause pathogens to clump together (<span class="hi-blue">agglutination</span>). It <span class="hi-green">prevents pathogens from reproducing or entering body cells</span>, and helps phagocytes engulf the pathogens.
 
 - **Neutralising toxins**
-  The antibody (antitoxins) bind to the toxins secreted by pathogens and neutralise them, making them harmless.
+  The antibody (antitoxins) bind to the <span class="hi-blue">toxins</span> secreted by pathogens and <span class="hi-green">neutralise</span> them, making them harmless.

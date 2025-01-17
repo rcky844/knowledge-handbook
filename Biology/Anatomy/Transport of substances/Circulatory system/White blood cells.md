@@ -7,9 +7,9 @@
 - Colourless
 - Have a nucleus / lobed nucleus
 
-**Size**:
-- **Phagocytes**: 10 ~ 20 μm in diameter
-- **Lymphocytes**: 6 ~ 10 μm in diameter
+**Size and types**:
+- *Phagocytes*: 10 ~ 20 μm in diameter
+- *Lymphocytes*: 6 ~ 10 μm in diameter
 
 **Site of production**: Bone marrow
 (Lymphocytes mature in the bone marrow or thymus gland)
@@ -20,3 +20,4 @@
 - Some are killed by pathogens
 - Some are egested in the faeces
 **Function**: Part of the immune system to defend the body against pathogens
+

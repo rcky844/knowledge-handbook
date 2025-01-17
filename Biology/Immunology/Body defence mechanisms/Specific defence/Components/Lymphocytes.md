@@ -29,6 +29,9 @@ When a B cell becomes activated, it <span class="hi-green">divides repeatedly</s
 
 ![[Lymphokines]]
 
+> [!warning]
+> <span class="hi-blue">Phagocytes</span> are not a type of lymphocyte, as they can generate the same response to any pathogen (non-specific).
+
 # Memorisation of antigens
 Some of the lymphocytes produced includes memory cells, which relates to their functionality:
 - [[Primary and secondary response]]

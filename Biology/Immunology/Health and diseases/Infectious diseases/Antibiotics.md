@@ -4,17 +4,16 @@
 Antibiotics kill or inhibit the growth of bacteria by disrupting essential processes or structures. Their actions include:
 
 1. **Inhibiting formation of bacterial cell walls**
-   <span class="hi-blue">Bacterial cell walls</span> may not form properly during <span class="hi-blue">cell division</span> and becomes weakened.
-   It eventually <span class="hi-blue">burst (lyse)</span> due to the influx of water by [[osmosis]].
+   <span class="hi-blue">Bacterial cell walls</span> may not form properly during <span class="hi-blue">cell division</span> and becomes weakened. It eventually <span class="hi-blue">burst (lyse)</span> due to the influx of water by [[osmosis]].
 
 2. **Disruption of cell membrane functions**
-   Antibiotics binds to or inserts into the bacterial membrane and cause <span class="hi-blue">permeabilization and depolarization</span>. The interference with the membrane's integrity compromises bacterial structural stability and impairs vital functions, resulting in <span class="hi-blue">cell lysis</span>.
+   Antibiotics binds to or inserts into the bacterial membrane and cause <span class="hi-blue">permeabilization and depolarization</span>. The interference with the membrane's integrity <span class="hi-green">compromises bacterial structural stability</span> and impairs vital functions, resulting in <span class="hi-blue">cell lysis</span>.
 
 3. **Inhibiting protein synthesis**
    Antibiotics bind to bacterial [[ribosomes]] and disrupts processes such as [[translation]] or [[transcription]]. Growth and repair may not occur, growth of bacteria is inhibited.
 
 4. **Inhibiting synthesis of nucleic acids**
-   Bacterial cells cannot reproduce, inhibiting the growth of bacteria.
+   Bacterial cells <span class="hi-green">cannot reproduce</span>, inhibiting the growth of bacteria.
 
 # Indiscriminate use of antibiotics
 > **Indiscriminate use of antibiotics** without proper jurisdiction might create a <u>future threat for another pandemic due to antibiotic resistance</u>. According to WHO, antibiotics become less effective against different strains of bacteria. *(Daria S, Islam MR., 2022)*
