@@ -25,8 +25,8 @@ Tendons are <span class="hi-green">tough and inelastic</span>. They can effectiv
 Skeletal muscles usually work in pairs as opposing muscles to move bones in opposite directions.
 
 One muscle contracts to pull a bone into one position, while another muscle contracts to return the bone to its original position. Pairs of muscles working in this manner are called <span class="hi-blue">opposing muscles</span> or <span class="hi-blue">antagonistic muscles</span>.
-- A <span class="hi-blue">flexor</span> <span class="hi-green">bends a limb</span> when it contracts.
-- An <span class="hi-blue">extensor</span> <span class="hi-green">straightens the same limb</span> when it contracts.
+- A <span class="hi-blue">flexor</span> <span class="hi-green">bends a limb at a joint</span> when it contracts.
+- An <span class="hi-blue">extensor</span> <span class="hi-green">straightens the same limb at a joint</span> when it contracts.
 
 ## Opposing muscles in the arm
 ![[opposing_muscles_arm.webp|450]]
