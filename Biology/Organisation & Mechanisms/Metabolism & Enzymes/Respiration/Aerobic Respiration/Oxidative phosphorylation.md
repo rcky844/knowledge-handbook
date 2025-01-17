@@ -10,12 +10,14 @@
    *See also: [[Role of NAD and FAD]]*
 	- Hydrogen atoms <u>split into protons</u> ($\ce{H+}$) <u>and electrons</u> ($\ce{e-}$).
 	- The high energy electrons release energy as they move through the <span class="hi-blue">electron transport chain</span>.
-	- The released energy is used to transport protons across the inner mitochondrial membrane from the matrix into the intermembrane space.
+	- The released energy is used to <span class="hi-green">transport protons across the inner mitochondrial membrane</span> from the matrix into the intermembrane space.
 	- A concentration gradient of protons is established between the intermembrane space and the matrix.
-	- The protons return to the matrix via facilitated diffusion through the channel protein <span class="hi-blue">ATP synthase</span>.
+	- The protons return to the matrix via <span class="hi-green">facilitated diffusion</span> through the channel protein <span class="hi-blue">ATP synthase</span>.
 	- <u>The movement of protons down their concentration gradient provides energy for ATP synthesis.</u>
 
-4. **Formation of water**
+3. **Formation of water**
 	- Oxygen is the <u>final electron acceptor</u> in the electron transport chain.
 	- It combines with protons and electrons at the end of the electron transport chain from $\ce{NADH}$ and $\ce{FADH2}$ to form water.
-	- Without oxygen, electron transport chain will stop functioning, and NAD and FAD cannot be regenerated. The [[link reaction]] and the [[Krebs cycle]] will stop.
+
+> [!warning]
+> Without oxygen, electron transport chain will stop functioning, and NAD and FAD cannot be regenerated. The [[link reaction]] and the [[Krebs cycle]] will stop.

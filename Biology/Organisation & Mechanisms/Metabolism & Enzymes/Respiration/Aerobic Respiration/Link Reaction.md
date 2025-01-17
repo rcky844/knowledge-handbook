@@ -23,7 +23,7 @@ When <span class="hi-green">oxygen is available</span>, pyruvate will enter the 
 
 > [!note]
 > - Decarboxylation and dehydrogenation involves reactions catalysed by enzymes in the mitochondrial matrix.
-> - Coenzymes are not enzymes. They work with enzymes to catalyse reactions by transferring certain chemical groups.
+> - <span class="hi-green">Coenzymes are not enzymes.</span> They work with enzymes to catalyse reactions by transferring certain chemical groups.
 
 2. **Combination with coenzyme A**
    The acetyl group combines with coenzyme A to form acetyl-CoA. It acts as a carrier to transfer the acetyl group to the [[Krebs cycle]].

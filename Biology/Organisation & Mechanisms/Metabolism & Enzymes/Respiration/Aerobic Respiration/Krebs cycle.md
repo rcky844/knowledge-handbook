@@ -13,11 +13,12 @@ The **Krebs cycle** is a cyclic series of enzyme-controlled reactions that take 
 ![[krebs_cycle.avif|500]]
 
 > [!note]
-> Spelling of oxaloacetate or citrate is not required.
+> - Spelling of oxaloacetate or citrate is not required.
+> - Knowledge of step involving intermediate 5-C compound is not required.
 
 1. **Combination of acetyl-CoA with oxaloacetate (4-C)**
-	- Acetyl CoA (2-C) enters the circular pathway via the [[Link Reaction]]. Oxaloacetate (4-C) accepts the 2-C acetyl fragment from acetyl-CoA to form citrate (6-C).
-	- Coenzyme A is released for reuse in the [[Link Reaction]] to carry another acetyl group.
+	- Acetyl CoA (2-C) enters the circular pathway via the [[link reaction]]. Oxaloacetate (4-C) accepts the 2-C acetyl fragment from acetyl-CoA to form citrate (6-C).
+	- Coenzyme A is released for reuse in the [[link reaction]] to carry another acetyl group.
 
 2. **Regeneration of oxaloacetate (4-C)**
    ![[oxaloacetate_regen.avif|450]]

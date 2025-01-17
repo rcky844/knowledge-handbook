@@ -1,7 +1,7 @@
 ![[mitochondrion.webp]]
 
 > [!warning]
-> The reactions of [[Anaerobic respiration]] and the initial stage of [[Aerobic respiration]] take place in the cell cytoplasm, where specific enzymes are present.
+> The reactions of [[anaerobic respiration]] and the initial stage of [[aerobic respiration]] take place in the cell cytoplasm, where specific enzymes are present.
 
 **Mitochondria** is a rod-shaped organelle <span class="hi-green">surrounded by a double membrane</span>, where reactions of [[aerobic respiration]] take place.
 
