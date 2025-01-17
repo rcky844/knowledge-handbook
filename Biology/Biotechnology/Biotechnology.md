@@ -4,11 +4,13 @@
 # Sections
 1. Genetic engineering
 	- [[Recombinant DNA technology]]
+		- [[Sticky and blunt ends]]
 	- [[Polymerase chain reaction]]
 	- [[DNA fingerprinting]]
 	- [[Genetically modified organisms]]
 	- [[Benefits and risks of genetic engineering|Benefits and risks]]
 2. Applications
+	- [[Animal and plant cloning]]
 	- [[Human Genome Project]]
 	- [[Production of pharmaceutical products]]
 	- [[Gene therapy]]
