@@ -15,5 +15,7 @@
 	- [[Production of pharmaceutical products]]
 	- [[Gene therapy]]
 	- [[Stem cells]]
-	- [[Transgenic animals and plants]]
+	- [[Uses of transgenic animals and plants]]
+		- [[Stem cell therapy]]
+	- [[Uses of transgenic animals and plants]]
 3. [[Bioethics]]

@@ -6,14 +6,6 @@
 *Method*: [[Recombinant DNA technology]]
 A gene of interest is introduced to a bacterium by using <span class="hi-blue">plasmids or bacteriophages</span>.
 
-| Protein | GMO | Usage |
-| :--: | :--: | :--: |
-| Human insulin | Bacteria | Treating diabetes |
-| Human growth hormone (GH) | Bacteria | Treating dwarfism |
-| Hepatitis B vaccine | Yeast | Prevention |
-| Collagen | Plants | Reconstructive surgery |
-| Fibrinogen | Cattle | Treating blood clotting disorder |
-
 # Genetically modified plants
 ## Agrobacterium
 Soil bacterium *Agrobacterium* can be utilized to transfer a gene of interest (e.g. herbicide resistant gene) into plants.
