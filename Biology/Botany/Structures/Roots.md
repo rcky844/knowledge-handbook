@@ -12,7 +12,7 @@
 - The epidermis is <span class="hi-green">not covered by cuticle</span>, so <span class="hi-blue">water and minerals</span> can enter the root easily, and allow [[Gas exchange in plants|gas exchange]] to occurs freely.
 - The epidermis consists of one layer of <span class="hi-blue">closely-packed thin-walled cells</span>, while root hair cells have <span class="hi-blue">thin cell walls</span>. This provides a short [[diffusion]] distance for water and minerals.
 - Roots are <span class="hi-blue">highly branched</span> and <span class="hi-blue">root hairs are numerous</span>. This <span class="hi-green">increases the surface area for absorption</span> of water and minerals.
-- Roots have <span class="hi-blue">long and fine root hairs</span> (outgrowths). This allows the roots to reach into spaces between soil particles to <span class="hi-green">absorb water and minerals more efficiently</span>.
+- Roots have <span class="hi-blue"><u>long and fine</u> root hairs</span> (outgrowths). This allows the roots to reach into spaces between soil particles to <span class="hi-green">absorb water and minerals more efficiently</span>.
 - Root hair cells contain many [[mitochondria]] to provide energy for the absorption of minerals by [[active transport]].
 
 *Absorption (water in roots)*:

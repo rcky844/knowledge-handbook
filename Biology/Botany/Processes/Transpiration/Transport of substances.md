@@ -8,7 +8,7 @@ The **xylem** transports water and minerals.
 - Thick and lignified
 
 > [!tip] Adaptations of xylem
-> - The lack of end walls allow a free flow of water with <span class="hi-green">little resistance</span>.
+> - The xylem vessels form a hollow tube with <span class="hi-green">little resistance</span>.
 > - Thick and lignified vessels provide <span class="hi-green">mechanical support</span> to keep the vessels open, even with negative pressure created during transpiration pull.
 
 # Phloem

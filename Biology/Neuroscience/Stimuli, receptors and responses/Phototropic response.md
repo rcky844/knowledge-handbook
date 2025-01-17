@@ -3,11 +3,11 @@
 **Phototropism** is the directional growth movement of a plant part in response to unilateral light. It is controlled by auxins.
 
 # Growth responses
-*Shoots*: positive phototropism (towards light)
+*Shoots*: <span class="hi-blue">positive phototropism</span> (towards light)
 - Leaves are brought to face the light source.
 - Maximum amount of light can be absorbed for [[photosynthesis]].
 
-*Roots*: negative phototropism (away from light)
+*Roots*: <span class="hi-blue">negative phototropism</span> (away from light)
 - Roots can grow downward into the soil for <span class="hi-green">anchorage</span>.
 
 # Control by auxins
