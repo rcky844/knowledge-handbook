@@ -5,8 +5,8 @@ Restriction enzymes can produce different **DNA ends** when they cut across DNA.
 
 *Example*:
 ```
-5'-GATCTGACTGATGCGTATGCTAGT-3'
-3'-CTAGACTGACTACGCATACGATCA-5'
+5'-GATCTGACTGAT  GCGTATGCTAGT-3'
+3'-CTAGACTGACTA  CGCATACGATCA-5'
 ```
 
 # Sticky ends
