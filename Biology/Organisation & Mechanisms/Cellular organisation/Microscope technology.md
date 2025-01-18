@@ -16,7 +16,7 @@
 <hr>
 
 # Transmission electron microscope (TEM)
-- **Light source**: Electron beans passes through the specimen
+- **Light source**: Electron beams passes through the specimen
 - **Sample / Specimen**: Dead cells
 - **View of image**: Two-dimensional, black and white images
 - **Resolution / Magnification**: Highest, sub-cellular structures can be observed

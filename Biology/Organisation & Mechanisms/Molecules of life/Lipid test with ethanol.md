@@ -1,8 +1,11 @@
 ![[lipid_test.avif]]
 
-- Mix the food sample with **4 cm<sup>3</sup> of ethanol** and shake
+*Test*:
+- Mix the food sample with a small amount of ethanol and shake
 - Allow time for the sample to dissolve in the ethanol
-- Strain the ethanol solution into another test tube
-- Add the ethanol solution to an equal volume of **cold distilled water (4 cm<sup>3</sup>)**
 
+*Control*:
+- Add the ethanol solution to an equal volume of cold distilled water.
+
+*Result*:
 - A positive test will show a **cloudy emulsion** forming
