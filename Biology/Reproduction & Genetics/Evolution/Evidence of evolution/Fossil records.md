@@ -16,7 +16,7 @@ Comparing layer 1 and 3, layer 1 consists of fossils of organisms that:
 
 *Uses for determining evolutionary relationships*:
 - By comparing <span class="hi-blue">anatomy</span> of organisms
-- By comparing <span class="hi-blue">>morphology</span> of organisms
+- By comparing <span class="hi-blue">morphology</span> of organisms
 - Determining <span class="hi-blue">chronological order of existence</span> of organisms
 
 *Dating of fossil layers*:

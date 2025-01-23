@@ -1,5 +1,5 @@
 ![[osmosis_diagram.webp|320]]
-**Osmosis** refers to the <u>net movement of water molecules from a region of higher water potential to a region of lower water potential across a differentially / selectively permeable membrane</u>.
+**Osmosis** refers to the <u>net movement of water molecules from a region of higher water potential to a region of lower water potential across a differentially-permeable membrane</u>.
 
 # Water potential
 ![[water_potential_diagram.webp|120]]

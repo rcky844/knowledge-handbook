@@ -38,7 +38,7 @@
 # Deducing dominant and recessive allele
 Consider the colour of pea flowers, where $R$ represents the dominant allele for red colour, $r$ represents the recessive allele for white colour.
 
-To deduce the dominant allele, find a pair of <span class="hi-green">parents with the same phenotype</span> but their <span class="hi-green">offsprings have different phenotypes</span>.
+To deduce the dominant allele, find a pair of <span class="hi-green">parents with the same phenotype</span> but their <span class="hi-green">offspring has different phenotypes</span>.
 
 ![[deduction_white.webp|280]]
 

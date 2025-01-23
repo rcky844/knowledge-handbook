@@ -1,5 +1,5 @@
 ![[active_transport_diagram.webp|320]]
-**Active transport** is an active process of transporting substances <u>across the cell membrane against the conc. gradient</u> with the use of energy from [[respiration]].
+**Active transport** is an active process of transporting substances <u>across the (selectively permeable) cell membrane against the conc. gradient</u> with the use of energy from [[respiration]].
 - Involves specific [[Membrane proteins#Carrier proteins|carrier proteins]] on the cell membrane and <u>occurs only in living cells</u>.
 
 <u>Factors influencing the rate of respiration (e.g. temperature, oxygen concentration) affect the rate of active transport.</u>
