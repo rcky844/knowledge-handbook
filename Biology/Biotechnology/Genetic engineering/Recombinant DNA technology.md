@@ -20,7 +20,8 @@
 	- <span class="hi-blue">Vectors</span> (plasmids) are isolated from bacteria.
 
 - **Restriction** (cutting of DNA fragments and plasmids)
-	- Restriction enzymes <span class="hi-green">recognize</span> specific base sequences (<span class="hi-blue">restriction sites</span>) on a piece of DNA and <span class="hi-green">cut</span> at specific base sequences. The same restriction enzyme is used to cut open the plasmids.
+	- Restriction enzymes <span class="hi-green">recognize</span> specific base sequences (<span class="hi-blue">restriction sites</span>) on a piece of DNA and <span class="hi-green">cut</span> at specific base sequences.
+	- The <span class="hi-green">same restriction enzyme</span> is used to cut open the plasmids.
 	- Different types of [[Sticky and blunt ends|ends of a DNA fragment]] are produced.
 
 > [!note]
