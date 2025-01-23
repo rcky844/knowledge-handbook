@@ -1,11 +1,11 @@
 # Xylem
-The **xylem** transports water and minerals.
+The **xylem** transports water and minerals by <span class="hi-blue">transpiration pull</span> (physical process).
 
 *Structural features*:
 - Long and hollow
-- Made up of dead, elongated cells with no cytoplasm and nuclei
+- Formed by thick and lignified cells
+- Vessel cells are dead and elongated with <span class="hi-green">no cell content</span> (organelles)
 - Has no end walls between adjacent cells
-- Thick and lignified
 
 > [!tip] Adaptations of xylem
 > - The xylem vessels form a hollow tube with <span class="hi-green">little resistance</span>.

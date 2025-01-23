@@ -10,7 +10,7 @@ Most plants <u>absorb water from soil continuously</u>. Most of the water absorb
 ![[transpiration_process.webp]]
 
 # Significance
-- **Creation of transpiration pull**
+- **Setting up transpiration pull**
   Transpiration pull is the main force which [[Transport of substances|transports water and dissolved minerals up the xylem vessels from the roots to the leaves]].
 
 - **Absorption of water and dissolved minerals**
@@ -19,7 +19,7 @@ Most plants <u>absorb water from soil continuously</u>. Most of the water absorb
 - **Prevents over-heating in hot weather**
   Water takes away heat from the plant surfaces when it evaporates, reducing the temperature of the plant.
 
-# Experimental set-ups for measuring rate of transpiration
+# Experimental set-ups
 - [[Bubble potometer]]
 - [[Weight potometer]]
 
@@ -67,7 +67,7 @@ Most plants <u>absorb water from soil continuously</u>. Most of the water absorb
 - Adequate soil water allow plants to transpire at higher rates as the soil can provide enough water to replenish the loss.
 - Dry soil will make the plant undergo <span class="hi-blue">water stress</span>, as water loss is not replenished, the <span class="hi-green">stomata closes</span>, decreasing the rate of transpiration.
 
-# Internal factors affecting transpiration
+# Effects of internal factors
 - **Density and distribution of stomata on leaves**
   In <span class="hi-blue">terrestrial dicotyledonous plants</span>, there are fewer stomata on the upper epidermis of the leaves. This reduces water loss when the leaves are directly exposed to sunlight.
 

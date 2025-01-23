@@ -10,8 +10,9 @@
 3. [[Gas exchange in plants|Gas exchange]]
 	- [[Effects of light intensity on gas exchange]]
 4. [[Transpiration]]
-	- [[Bubble potometer]]
-	- [[Weight potometer]]
+	- Experimental set-ups
+		- [[Bubble potometer]]
+		- [[Weight potometer]]
 	- [[Support in plants]]
 	- [[Transport of substances]]
 6. [[Phototropic response]] (external)
