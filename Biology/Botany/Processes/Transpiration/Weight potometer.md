@@ -6,7 +6,7 @@
 - A potometer can only measure the rate of water uptake.
 
 *Assumptions*:
-- The rate of water uptake is the same as the rate of transpiration.
+- Any loss of mass is due to transpiration.
 
 *Precautions*:
 - A leafy shoot should be <u>cut under water</u> to <span class="hi-green">prevent air bubbles</span> from entering the xylem vessels and <span class="hi-green">blocking water uptake</span>.
