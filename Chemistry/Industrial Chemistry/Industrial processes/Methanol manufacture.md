@@ -31,7 +31,7 @@ Suggest why methanol is an important compound to chemical industry.
 
 
 
-# Conversion by syngas
+# Production by syngas
 ## Process
 1. **Steam-methane reforming process**
    $\ce{CH4(g) + H2O(g) <=>[\text{700°C, 20 atm}][\ce{NiO}] CO(g) + 3H2(g)}$          $\pu{\Delta H = +206 kJ mol-1}$

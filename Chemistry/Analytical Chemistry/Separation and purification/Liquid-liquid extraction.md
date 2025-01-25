@@ -50,7 +50,7 @@ You are provided with dilute $\ce{Na2CO3(aq)}$ and dilute $\ce{H2SO4(aq)}$. Outl
 - Add $\ce{Na2CO3(aq)}$ (in excess) into X and Y in dichloromethane.
 - Transfer the mixture into separating funnel. Shake thoroughly. (The mixture is allowed to settle.)
 - Run off to obtain aqueous layer which contains salt (/ anion) of Y.
-- Add dilute $\ce{H2SO4(aq)}$ into the aqueous later until no more precipitate is formed.
+- Add dilute $\ce{H2SO4(aq)}$ into the aqueous layer until no more precipitate is formed.
 - Filter to obtain the solid Y.
 
 > [!tip]

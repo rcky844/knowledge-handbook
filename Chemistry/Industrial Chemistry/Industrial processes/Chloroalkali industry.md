@@ -49,7 +49,7 @@ $\ce{2NaCl(aq) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + Cl2(g)}$
 - **The anode used is titanium or graphite.**
   They do not participate in the reaction and has high corrosion resistance.
 
-> [!note]
+> [!warning]
 > Platinum ($\ce{Pt}$) must not be used as the electrode, as $\ce{Cl2(g)}$ produced will attack the electrode.
 
 *Limitations* (disadvantages):
@@ -95,7 +95,7 @@ $\ce{2NaCl(aq) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + Cl2(g)}$
 *At cathode* (<span class="hi-blue">nickel</span>):
 <u>Neutral conditions</u>
 - $\ce{H+(aq)}$ ions are discharged to give $\ce{H2(g)}$.
-- $\ce{2H+(a) + 2e- -> H2(g)}$
+- $\ce{2H+(aq) + 2e- -> H2(g)}$
 
 <u>Presence of sodium ion</u>
 - As $\ce{H+(aq)}$ has a lower E.C.S. position, $\ce{H+(aq)}$ ions are preferentially discharged to give $\ce{H2(g)}$.

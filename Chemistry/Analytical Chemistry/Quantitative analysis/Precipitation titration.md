@@ -26,7 +26,7 @@ $$
 $$
 \begin{array} \\
 \ce{Ag+(aq) + Cl-(aq) -> AgCl(s)} \\
-\ce{2Ag+(aq) + SCM-(aq) -> AgSCN(s)} \\
+\ce{2Ag+(aq) + SCN-(aq) -> AgSCN(s)} \\
 \ce{Fe^3+(aq) + SCN-(aq) -> FeSCN^2+(aq)}
 \end{array}
 $$
