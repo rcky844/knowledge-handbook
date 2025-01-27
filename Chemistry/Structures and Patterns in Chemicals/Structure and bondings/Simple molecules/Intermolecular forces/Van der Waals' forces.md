@@ -6,7 +6,7 @@
 **Polar molecules** have permanent partial positive and partial negative charges, allowing them to be attracted to an end of another molecule by van der Waals’ forces (dipole-dipole forces).
 
 ## Non-polar molecules
-![[n2_vdw.webp|450]]
+![[n2_vdw.webp|500]]
 **Non-polar molecules** have no permanent partial positive and partial negative charges.
 
 However, the random movements of electrons causes an uneven distribution of electrons in atoms of non-polar molecules. This causes the molecule to become polar (the atoms carry partial positive and partial negative charge) instantaneously.
@@ -31,4 +31,3 @@ This force is also know as dispersion forces / London forces.
 > ![[mpbp_shapes_of_molecules.webp|500]]
 > - Pentane has a higher boiling point as it is <span class="hi-green">more linear in shape</span> than 2,2-dimethylpropane, the contact surface area between molecules is larger. The strength of van der Waals' forces is higher <u>in liquid state</u>.
 > - 2,2-dimethylpropane has a higher melting point as it has a <span class="hi-green">higher packing efficiency</span> than pentane. The strength of van der Waals' forces is higher <u>in solid state</u>.
-

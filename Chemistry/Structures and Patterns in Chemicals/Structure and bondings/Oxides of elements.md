@@ -32,7 +32,12 @@ $\ce{Al2O3}$ is <span class="hi-blue">amphoteric</span>. It shows both acidic an
 ## Sulphur dioxide ($\ce{SO2}$)
 > [!note]
 > $\ce{SO2}$ has double bonds in its structure, and the $\ce{S}$ atom is non-octet.
-> ![[so2_structure.webp|80]]
+> ```tikz
+> \usepackage{chemfig}
+> \begin{document}
+> \chemfig{\lewis{2:,S}(=[5]\lewis{4:6:,O})(=[7]\lewis{0:6:,O})}
+> \end{document}
+> ```
 
 - **Reaction with water**
   $\ce{SO2(g) + H2O(ℓ) ⇌ H2SO3(aq)}$

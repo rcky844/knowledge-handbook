@@ -51,7 +51,26 @@ The <u>difference in electronegativities</u> between the two atoms of a covalent
    When polar bonds are <u>arranged asymmetrically</u>, the molecule is <u>polar</u>.
 
 Consider $\ce{CHCl3}$ and $\ce{CCl4}$:
-![[chcl3.webp|180]] ![[ccl4.webp|180]]
+```tikz
+\usepackage{chemfig}
+\begin{document}
+\chemfig{
+  C
+  ([::-45]<:Cl)
+  ([:-90]<Cl)
+  ([::-135]-Cl)
+  ([:90]-H)
+}
+\qquad\qquad\qquad
+\chemfig{
+  C
+  ([::-45]<:Cl)
+  ([:-90]<Cl)
+  ([::-135]-Cl)
+  ([:90]-Cl)
+}
+\end{document}
+```
 - For $\ce{CHCl3}$, it has a tetrahedral structure. The dipole moments of the $\ce{C-H}$ and $\ce{C-Cl}$ bonds cannot exactly cancel out. Therefore, it is a polar molecule.
 - For $\ce{CCl4}$, it has a tetrahedral structure. The dipole moments of the $\ce{C-Cl}$ bonds exactly cancel out. Therefore, it is a non-polar molecule.
 

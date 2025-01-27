@@ -23,9 +23,14 @@ In general: [[ionic bonds]] ≈ [[hydrogen bonds]] >> [[van der Waals' forces]]
 # Predominant force
 Molecules which can form hydrogen bond with water is not necessarily soluble in water.
 
-![[c10h21oh.webp|500]]
+```tikz
+\usepackage{chemfig}
+\begin{document}
+\chemfig{H-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-\underline{OH}}
+\end{document}
+```
 
-Although the above molecule possess an $\ce{O-H}$ bond and can form [[hydrogen bonds|hydrogen bond]] with water, it is insoluble in water.
+Although the above molecule possess an $\ce{O-H}$ bond and can form [[hydrogen bonds]] with water, it is insoluble in water.
 - The molecule has a large molecular size, the carbon parent chain is very long.
   (longer than $\ce{C4 - C6}$)
 - The [[van der Waals' forces]] becomes predominant between molecules instead of hydrogen bonds.
