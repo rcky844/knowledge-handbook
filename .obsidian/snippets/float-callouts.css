@@ -1,0 +1,23 @@
+/* callout alts */
+.callout[data-callout-metadata~="right"] {
+    float: right;
+    clear: right;
+    width: 50%;
+    margin: 0.5em;
+}
+
+.callout[data-callout-metadata~="left"] {
+    float: left;
+    clear: left;
+    width: 50%;
+    margin: 0.5em;
+}
+
+.callout:is([data-callout-metadata^="noicon"]) .callout-icon {
+  display: none;
+}
+
+.infobox-tables {
+    border: 1px solid black;
+    float: right;
+}

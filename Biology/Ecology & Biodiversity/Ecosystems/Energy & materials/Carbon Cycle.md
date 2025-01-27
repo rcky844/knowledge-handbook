@@ -15,7 +15,7 @@
 
 > [!info] Formation of fossil fuels
 > Plants and animals that died and are buried underground may turn into fossil fuels (e.g. coal and oil) over millions of years.
-   ↪️ See also: [[Hydrocarbons from fossil fuels]]
+   ↪️ See also: [[Hydrocarbons]]
 
 > [!info] Formation of limestones
 > - Some marine organisms have shells made up of calcium carbonate. When they die, they sink to the seabed and their shell eventually form limestone (a kind of sedimentary rock).

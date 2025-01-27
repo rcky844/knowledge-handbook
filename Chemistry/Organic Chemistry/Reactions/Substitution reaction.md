@@ -2,14 +2,10 @@
 
 # Alkanes
 ## Reaction with halogens
-![[substitution_alkane_halogen.webp|500]]
+> [!callout | noicon] alkane → haloalkane
+> <table class="infobox-tables"><tr><th>Reagent:</th><td><span class="math display">\ce{F2 / Cl2 / Br2 / I2}</span> dissolved in organic solvent</td></tr><tr><th>Condition:</th><td>Under sunlight (<span class="math display">h\nu</span>) / heating</td></tr><tr><th>Observations:</th><td>Colour changes <span class="hi-green">slowly</span> (compared to addition reaction)</td></tr><tr><th>Application:</th><td><a href="Testing for alkanes and alkenes" class="internal-link">Testing for alkanes and alkenes</a></td></tr></table>
 
-> alkanes → haloalkanes
-> ━━━━━━━━━━
-> **Reagent**: $\ce{F2}$ / $\ce{Cl2}$ / $\ce{Br2}$ / $\ce{I2}$ dissolved in organic solvent (e.g. $\ce{CCl4}$)
-> **Condition**: Under sunlight ($h\nu$) / heating
-> **Observations**: Colour changes <span class="hi-green">slowly</span> (compared to addition reaction)
-> **Application**: [[Testing for alkanes and alkenes]]
+![[substitution_alkane_halogen.webp|500]]
 
 *Steps of substitution* (free radical process):
 1. **Initiation** (Production of free radicals)
@@ -27,10 +23,8 @@
 ## Substitution with $\ce{OH-}$
 ![[alcohol_sub_oh.webp|400]]
 
-> haloalkane → alcohol
-> ━━━━━━━━━━
-> **Reagent**: Dilute $\ce{NaOH}$ / $\ce{KOH}$
-> **Condition**: Heating (increase the rate of reaction)
+> [!callout | noicon] haloalkane → alcohol
+> <table class="infobox-tables"><tr><th>Reagent:</th><td>Dilute <span class="math display">\ce{NaOH / KOH}</span></td></tr><tr><th>Condition:</th><td>Heating (increase the rate of reaction)</td></tr></table>
 
 *Rate of reaction of the haloalkane*:
 $\ce{C-I}$ > $\ce{C-Br}$ > $\ce{C-Cl}$ > $\ce{C-F}$
@@ -40,15 +34,11 @@ $\ce{C-I}$ > $\ce{C-Br}$ > $\ce{C-Cl}$ > $\ce{C-F}$
 ### By $\ce{H-X}$
 $\ce{R-OH + HCl -> R-Cl + H2O}$
 
-> alcohol → haloalkane
-> ━━━━━━━━━━
-> **Reagent**: Conc. $\ce{HCl}$ / $\ce{HBr}$ / $\ce{HI}$
-> **Condition**: Under reflux
+> [!callout | noicon] alcohol → haloalkane
+> <table class="infobox-tables"><tr><th>Reagent:</th><td>Conc. <span class="math display">\ce{HCl / HBr / HI}</span></td></tr><tr><th>Condition:</th><td>Under reflux</td></tr></table>
 
 ### By $\ce{PX3}$
 $\ce{3R-OH + PCl3 -> 3R-Cl + H3PO4}$
 
-> alcohol → haloalkane
-> ━━━━━━━━━━
-> **Reagent**: $\ce{PCl3}$ / $\ce{PBr3}$ / $\ce{PI3}$
-> **Condition**: Under reflux
+> [!callout | noicon] alcohol → haloalkane
+> <table class="infobox-tables"><tr><th>Reagent:</th><td>Conc. <span class="math display">\ce{PCl3 / PBr3 / PI3}</span></td></tr><tr><th>Condition:</th><td>Under reflux</td></tr></table>

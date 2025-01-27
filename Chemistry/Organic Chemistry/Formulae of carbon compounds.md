@@ -1,23 +1,33 @@
 # Unique nature of carbon
-1. Carbon can <u>form strong covalent bonds with itself</u> to give chains and rings of carbon atoms.
-2. Each carbon atom can <u>form four covalent bonds</u>. The four covalent bonds of a carbon atom are arranged in a tetrahedral shape.
-3. Carbon can <u>form multiple bonds</u> (e.g. double / triple bonds).
+1. Carbon can form strong [[covalent bonds]] <u>with itself</u> to give <span class="hi-blue">chains and rings</span> of carbon atoms.
+2. Each carbon atom can <span class="hi-green">form four covalent bonds</span>. The four covalent bonds of a carbon atom are arranged in a tetrahedral shape.
+3. Carbon can <span class="hi-green">form multiple bonds</span> (e.g. double / triple bonds).
 
-> [!note]
-> - Carbon compounds with double or triple bonds are <span class="hi-blue">unsaturated compounds</span>.
-> - Carbon compounds with only carbon single bonds are <span class="hi-blue">saturated compounds</span>.
+> [!tip]
+> - **Unsaturated compounds**: Carbon compounds with double or triple bonds.
+> - **Saturated compounds**: Carbon compounds with only carbon single bonds.
 
-# Types of formulaes
+# Examples of formulaes
 ## Structural formula
-*Examples*:
-![[c4h10_straight.webp|200]] ![[c4h10_branched.webp|150]]
+```tikz
+\usepackage{chemfig}
+\begin{document}
+\chemfig{H-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-H}
+\qquad
+\chemfig{H-C(-[2]H)(-[6]H)-C(-[2]H)(-[6,2]C(-[4]H)(-[6]H)(-[8]H))-C(-[2]H)(-[6]H)-H}
+\end{document}
+```
 
 ## Condensed structural formula
-*Examples*:
 $\ce{CH3CH2CH2CH3}$
 $\ce{CH3CH(CH3)CH3}$
 
 ## Skeletal formula
-*Examples*:
-![[c4h10_skeletal.webp|120]] ![[c4h10_branched_skeletal.webp|80]]
-
+```tikz
+\usepackage{chemfig}
+\begin{document}
+\chemfig{[:330]-[:30]-[:330]-[:30]}
+\qquad
+\chemfig{[:330]-[:30](-[:90])-[:330]}
+\end{document}
+```

@@ -9,8 +9,8 @@
 
 *Examples of species that can form hydrogen* bonds:
 - $\ce{NH3, H2O, HF}$
-- [[Alkanol|Alcohol]]
-- [[Alkanoic acid|Carboxylic acids]]
+- [[Alkanols|Alcohol]]
+- [[Alkanoic acids|Carboxylic acids]]
 
 # Strength of hydrogen bonds
 1. **Average number of hydrogen bond formation per molecule** (more important)

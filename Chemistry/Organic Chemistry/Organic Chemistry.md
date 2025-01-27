@@ -1,8 +1,8 @@
 ![[List article!]]
 
 # Sections
-1. [[Hydrocarbons from fossil fuels]]
-	- [[Combustion]]
+1. [[Hydrocarbons]]
+	- [[Fractional distillation of petroleum]]
 
 2. Homologous series, structural formulae and naming of carbon compounds
 	- [[Formulae of carbon compounds]]
@@ -13,12 +13,12 @@
 	- [[Alkanes]]
 	- [[Haloalkanes]]
 	- [[Alkenes]]
-	- [[Alkanol]] (alcohol)
-	- [[Alkanoic acid]]
-	- [[Aldehyde & Ketone]]
-	- [[Ester]]
-	- [[Unsubstituted amide]]
-	- [[Primary amides]]
+	- [[Alkanols]] (alcohols)
+	- [[Alkanoic acids]]
+	- [[Aldehydes & Ketones]]
+	- [[Esters]]
+	- [[Amides]]
+	- [[Amines]]
 
 4. [[Isomerism]]
 
@@ -44,3 +44,5 @@
 	- [[Condensation polymerization|Condensation polymers]]
 		- [[Carbohydrates]] / [[Condensation & Hydrolysis]]
 		- [[Proteins]]
+
+7. [[Organic preliminary tests]] (external)

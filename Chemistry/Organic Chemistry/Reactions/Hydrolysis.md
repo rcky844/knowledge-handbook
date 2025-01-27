@@ -4,35 +4,27 @@
 ## Acid hydrolysis
 ![[esters_acid_hydrolysis.webp|450]]
 
-> ester ⇌ alkanoic acid + alcohol (<u>Reversible reaction</u>)
-> ━━━━━━━━━━
-> **Reagent**: Dilute acid ($\ce{HCl}$ / $\ce{H2SO4}$)
-> **Condition**: Under reflux
+> [!callout | noicon] ester ⇌ alkanoic acid + alcohol
+> (<u>Reversible reaction</u>)
+> <table class="infobox-tables"><tr><th>Reagent:</th><td>Dilute acid (<span class="math display">\ce{HCl} / \ce{H2SO4}</span>)</td></tr><tr><th>Condition:</th><td>Under reflux</td></tr></table>
 > 
 > *See also: [[Esterification]]*
 
 ## Alkaline hydrolysis
 ![[esters_alkaline_hydrolysis.webp|480]]
 
-> ester → alkanoic acid + alcohol
-> ━━━━━━━━━━
-> **Reagent**: Dilute alkali ($\ce{NaOH}$)
-> **Condition**: Under reflux
+> [!callout | noicon] ester ⇌ alkanoic acid + alcohol
+> <table class="infobox-tables"><tr><th>Reagent:</th><td>Dilute alkali (<span class="math display">\ce{NaOH}</span>)</td></tr><tr><th>Condition:</th><td>Under reflux</td></tr></table>
 
 # Amides
 ## Acid hydrolysis
 ![[amides_acid_hydrolysis.webp|450]]
 
-> amide → alkanoic acid
-> ━━━━━━━━━━
-> **Reagent**: Dilute acid ($\ce{HCl}$ / $\ce{H2SO4}$)
-> **Condition**: Under reflux
+> [!callout | noicon] amide → alkanoic acid + ammonium ion
+> <table class="infobox-tables"><tr><th>Reagent:</th><td>Dilute alkali (<span class="math display">\ce{HCl} / \ce{H2SO4}</span>)</td></tr><tr><th>Condition:</th><td>Under reflux</td></tr></table>
 
 ## Alkaline hydrolysis
 ![[amides_alkaline_hydrolysis.webp|450]]
 
-> amide → alkanoic acid
-> ━━━━━━━━━━
-> **Reagent**: Dilute alkali ($\ce{NaOH}$)
-> **Condition**: Under reflux
-
+> [!callout | noicon] amide → alkanoic acid + amine (/ ammonia)
+> <table class="infobox-tables"><tr><th>Reagent:</th><td>Dilute alkali (<span class="math display">\ce{NaOH}</span>)</td></tr><tr><th>Condition:</th><td>Under reflux</td></tr></table>

@@ -1,9 +1,7 @@
 ![[esterification.webp|450]]
 
-> alkanoic acid + alcohol ⇌ ester (Reversible reaction)
-> ━━━━━━━━━━
-> **Reagent**: Conc. $\ce{H2SO4}$
-> **Condition**: Under reflux
+> [!callout | noicon] alkanoic acid → alcohol
+> <table class="infobox-tables"><tr><th>Reaction:</th><td>alkanoic acid + alcohol ⇌ ester (Reversible reaction)</td></tr><tr><th>Reagent:</th><td>Conc. <span class="math display">\ce{H2SO4}</span></td></tr><tr><th>Condition:</th><td>Under reflux</td></tr></table>
 
 *Functions of the reagent*:
 - **As a catalyst**

@@ -1,10 +1,8 @@
 # With conc. $\ce{H2SO4}$
 ![[h2so4_dehydration.webp|300]]
 
-> alcohols → alkenes
-> ━━━━━━━━━━
-> **Reagent**: Conc. $\ce{H2SO4}$
-> **Condition**: Under heating (180°C)
+> [!callout | noicon] alcohol → alkene
+> <table class="infobox-tables"><tr><th>Reagent:</th><td>Conc. <span class="math display">\ce{H2SO4}</span> dissolved in organic solvent</td></tr><tr><th>Condition:</th><td>Under heating (180°C)</td></tr></table>
 
 *Zaitzev’s Rule*:
 The $\ce{H}$ atom of the $\ce{C}$ atom that has the least $\ce{H}$ atom attached is reacted.

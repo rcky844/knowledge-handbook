@@ -32,3 +32,8 @@ body {
 .hi-blue {
     color: skyblue;
 }
+
+.block-language-tikz {
+    margin-block-end: 2.5em;
+    /* float: left; */
+}
