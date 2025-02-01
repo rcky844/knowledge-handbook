@@ -1,5 +1,5 @@
 # Physical change and physical property
-**Physical change** is a change <u>without new substance formed</u>. These changes can be reversed easily.
+**Physical change** is a change <span class="hi-green">without new substance formed</span>. These changes can be reversed easily.
 
 *Examples*:
 - Changing the state of a substance (e.g. boiling water)
@@ -20,7 +20,7 @@ The **physical properties** of a substance are properties that can be observed o
 > For example, ice melting into water at 0°C is a physical property of ice.
 
 # Chemical change and chemical property
-**Chemical change** is a change <u>with new substance formed</u>. These changes are difficult to reverse.
+**Chemical change** is a change <span class="hi-green">without new substance formed</span>. These changes are difficult to reverse.
 
 *Examples*:
 - Burning magnesium to form a white powder

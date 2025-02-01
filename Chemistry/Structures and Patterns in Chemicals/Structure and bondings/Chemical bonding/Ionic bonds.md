@@ -14,6 +14,9 @@ For $\ce{Li2O}$:
 For $\ce{Mg3N2}$:
 ![[mg3n2_electron_diagram.webp|300]]
 
+> [!warning]
+> Remember to specify the charge of the ion, instead of only saying "X ion".
+
 # Polyatomic ions
 **Polyatomic ions** are ions formed by a group of ions. There are covalent bonds holding the different atoms together in a polyatomic ion.
 

@@ -1,4 +1,4 @@
-**Flame test** is a <span class="hi-green">physical test</span>. When the metallic ion is burnt in a Bunsen flame, they will give off different colours. The metallic element in a compound can be identified by the flame colour produced.
+**Flame test** is a <span class="hi-blue">physical test</span>. When the metallic ion is burnt in a Bunsen flame, they will give off different colours. The metallic element in a compound can be identified by the flame colour produced.
 
 > [!tip] Choice and cleaning of apparatus
 > A platinum or nichrome (alloy of nickel and chromium) wire will be used for the test, as they have <span class="hi-blue">high melting point and corrosion resistance</span>.

@@ -28,22 +28,22 @@ In tube D:
 
 Upon rusting, iron would turn to rust. Rust is hydrated iron(III) oxide: $\ce{Fe2O3 . nH2O (s)}$
 
-The overall chemical equation for rusting is:
+*Overall chemical equation*:
 $\ce{4Fe (s) + 3O2 (g) + 2nH2O (ℓ) -> 2Fe2O3 . nH2O (s)}$
 
-> [!note]
+> [!tip]
 > Rusting is a [[Redox Reactions, Chemical Cells and Electrolysis|redox reaction]].
 
-## Reaction of iron
+*Reaction of iron*:
 Iron undergoes oxidation and loses electrons:
 $\ce{Fe (s) -> Fe^2+ (aq) + 2e-}$
 $\ce{Fe^2+ (aq) -> Fe^3+ (aq) + e-}$
 
-> [!note]
+> [!warning]
 > Iron will not be directly oxidised to give iron(III) ion:
 > $\ce{Fe (s) -> Fe^3+ (aq) + 3e-}$
 
-## Reaction of oxygen and water
+*Reaction of oxygen and water*:
 Oxygen and water gain electrons to become hydroxide ion.
 $\ce{O2 (g) + 2H2O (ℓ) + 4e- -> 4OH- (aq)}$
 
@@ -76,7 +76,7 @@ However, if the iron nail is replaced by other metals such as zinc:
 Acids speed up the rusting of iron. $\ce{H+ (aq)}$ in the acid can react with $\ce{Fe (s)}$ to speed up the formation of $\ce{Fe^2+ (aq)}$.
 ↪️ $\ce{Fe(s) + 2H+(aq) → Fe2+(aq) + H2(g)}$
 
-> [!note]
+> [!tip]
 > - Normal rainwater is acidic as it contains carbonic acid. It can speed up rusting.
 > - Acid rain contains dissolved $\ce{SO2}$ and $\ce{NO_x}$, which can form acids and increases the rate of rusting. This can happen in industrial areas.
 
@@ -91,13 +91,13 @@ Acids speed up the rusting of iron. $\ce{H+ (aq)}$ in the acid can react with $\
 - Soluble ionic compounds contain mobile ions, which increase the electrical conductivity of substances in the environment.
 - Since rusting involve electron transfer, soluble ionic compounds speed up rusting.
 
-> [!note]
+> [!tip]
 > Iron objects near sea will rust faster since seawater contains salts, which are soluble ionic compound.
 
 ## High temperature
 Higher temperature increases the rate of chemical reaction.
 
-> [!note]
+> [!tip]
 > Iron-made car exhaust pipes rusts easily since they become hot when the cars are running.
 
 ## Attachment to less reactive metals

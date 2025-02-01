@@ -25,7 +25,7 @@ P --> C;
 - Distilled water ($\ce{H2O}$)
 
 ## Elements
-**Elements** are substances which <u>cannot be broken down into anything simpler by chemical methods</u>. Substances that can be broken down into simpler substances by electricity, for example, are not elements.
+**Elements** are substances which <span class="hi-green">cannot be broken down into anything simpler by chemical methods</span>. Substances that can be broken down into simpler substances by electricity, for example, are not elements.
 
 *Examples*:
 - Carbon ($\ce{C}$)
@@ -33,7 +33,7 @@ P --> C;
 - Copper ($\ce{Cu}$)
 
 ## Compounds
-**Compounds** are substances composed of <u>two or more elements chemically joined together</u>. They can be broken down into simpler substances by chemical methods.
+**Compounds** are substances composed of <span class="hi-green">two or more elements chemically joined together</span>. They can be broken down into simpler substances by chemical methods.
 
 *Examples*:
 - Sodium chloride ($\ce{NaCl}$)
@@ -41,10 +41,9 @@ P --> C;
 - Ammonia ($\ce{NH3}$)
 
 # Mixtures
-**Mixtures** consists of <u>two or more pure substances</u> which are <u>not chemically joined together</u>. Different pure substances in mixtures can be <u>separated by a physical method</u>.
+**Mixtures** consists of <u>two or more substances</u> which are <span class="hi-green">not chemically joined together</span>. Different pure substances in mixtures can be <u>separated by a physical method</u>.
 
 *Examples*:
 - Soda water ($\ce{CO2}$ and $\ce{H2O}$)
 - Wine ($\ce{H2O}$, $\ce{C6H12O6}$, $\ce{CH3CH2OH}$ and other substances)
 - Rock salt ($\ce{NaCl}$, $\ce{SiO2}$ and other substances)
-

@@ -9,21 +9,20 @@ When electricity is passed through sea water, chemical reactions are forced to o
 
 # Uses of products of electrolysis of sea water
 ## Hydrogen
-- Hydrogenation of vegetable oil to <u>form margarine</u>
-- <u>Produce hydrazine</u> used as rocket fuel
-- <u>Produce ammonia</u> to make fertilizer
-- To make <u>hydrochloric acid</u> with chlorine gas
+- Hydrogenation of vegetable oil to form <span class="hi-blue">margarine</span>
+- Produce <span class="hi-blue">hydrazine</span> used as rocket fuel
+- Produce <span class="hi-blue">ammonia</span> to make fertilizer
+- To make <span class="hi-blue">hydrochloric acid</span> with chlorine gas
 
 ## Chlorine
-- To <u>sterilize swimming pool and drinking water</u>
-- To <u>make PVC / hydrochloric acid</u>
-- To <u>make solvents</u> (e.g. $\ce{CCl4}$)
-- To <u>make chlorine bleach</u> by dissolving in sodium hydroxide
+- To <span class="hi-green">sterilize</span> swimming pool and drinking water
+- To make <span class="hi-blue">PVC</span>
+- To make solvents (e.g. $\ce{CCl4}$)
+- To make <span class="hi-blue">chlorine bleach</span> by dissolving in sodium hydroxide
   ↪️ $\ce{2NaOH(aq) + Cl2(g) → NaCl(aq) + NaClO(aq) + H2O(ℓ)}$
-- To make <u>hydrochloric acid</u> with hydrogen gas
+- To make <span class="hi-blue">hydrochloric acid</span> with hydrogen gas
 
 ## Sodium hydroxide
-- To <u>make soap</u>
-- Used as <u>drain cleaners</u>
-- To <u>neutralise acidic waste water</u> from factories
-
+- To make <span class="hi-blue">soap</span> ([[Detergents#Production of soap in laboratory]])
+- Used as <span class="hi-blue">drain cleaners</span>
+- To <span class="hi-blue">neutralise acidic waste water</span> from factories
