@@ -61,6 +61,9 @@ Hydroxides will not produce $\ce{CO2(g)}$ with stomach acid, while carbonates do
 - **Redissolved metal ions**: $\ce{Zn^2+}$ $\ce{Cu^2+}$, $\ce{Ag+}$
 - **Final product**: $\ce{M(NH3)4^?-}$ (? needs to be calculated)
 
+*Observation*:
+(Coloured) <span class="hi-blue">precipitate</span> forms at first, then <span class="hi-green">dissolves</span> to form a colourless (/ coloured) solution upon addition of excess $\ce{NaOH(aq)}$ / $\ce{NH3(aq)}$.
+
 ## With ammonium compounds
 *Example*: $\ce{NH4Cl(aq), NH4NO3(aq)}$
 - They are ammonium containing compounds, heating their solids or solutions with solid base liberates ammonia gas ($\ce{NH3(g)}$).
