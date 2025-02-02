@@ -1,12 +1,12 @@
 # Electronegativity
-**Electronegativity** is the ability of the atom (of that element) to attract bond pair electrons towards itself.
+**Electronegativity** is the <u>ability</u> of the atom (of that element) to <span class="hi-green">attract bond pair electrons towards itself</span>.
 
 *Trends in electronegativity on the Periodic table*:
-- **The electronegativity increases from left to right across a period.**
-  The <u>number of protons in an atom of an element increases</u> from left to right. The effective nuclear <u>charge</u> increases.
+- **Electronegativity increases from left to right across a period.**
+  The <span class="hi-green">number of protons</span> in an atom of an element <u>increases</u> from left to right. The effective nuclear <u>charge</u> increases.
 
-- **The electronegativity increases from bottom to top across a group.**
-  The <u>number of occupied electron shells decreases</u> from bottom to the top. The <u>bond pair electrons can get closer to the nucleus of the atom</u> of that element and it is more attracted.
+- **Electronegativity increases from bottom to top across a group.**
+  The <u>number of occupied electron shells decreases</u> from bottom to the top. The <span class="hi-green">bond pair electrons can get closer</span> to the <span class="hi-blue">nucleus</span> of the atom of that element and it is more attracted.
 
 - **Noble gases do not have electronegativities.**
   They usually do not form bonds with other atoms.

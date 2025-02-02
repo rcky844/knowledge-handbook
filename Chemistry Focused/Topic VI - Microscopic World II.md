@@ -3,7 +3,7 @@
 
 ## Definitions
 [[Polarity of bonds and molecules]]:
-- **Electronegativity**: Electronegativity is the ability of an atom of that element to <span class="hi-green">attract bond pair electrons</span> towards itself.
+- **Electronegativity**: Electronegativity is the <u>ability</u> of an atom of that element to <span class="hi-green">attract bond pair electrons</span> towards itself.
 - **Bond polarity**: The <span class="hi-green">uneven distribution of electrons</span> creates polarity in a chemical bond.
 - **Van der Waals' forces**: Van der Waals' forces is a weak intermolecular force existing between the partial negative pole of a molecule and the partial positive pole of another molecule.
 
