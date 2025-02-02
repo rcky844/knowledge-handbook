@@ -11,10 +11,28 @@
 
 *Density*: Less dense than water (except for diol and triol)
 
-*Solubility in water*:
+## Solubility in water
+*Distribution of bondings*:
 ![[alkanol_solubility.webp|400]]
 
-*Types of alcohols*:
+*Example*:
+```tikz
+\usepackage{chemfig}
+\begin{document}
+\chemname
+	{\chemfig{[:330]-[:30]-[:330]-[:30]-[:330]-[:30]-[:330]-[:30]-[:330]-[:30]OH}}
+	{Compound A}
+\qquad\qquad\qquad\qquad
+\chemname
+	{\chemfig{[:330]-[:30]-[:330]OH}}
+	{Compound B}
+\end{document}
+```
+- Compound B has higher solubility in water than compound A.
+- Both compound A and B has $\ce{-OH}$ group to form [[hydrogen bonds]] with <span class="hi-blue">water molecules</span>.
+- Compound A has a <span class="hi-green">large molecular size / longer hydrocarbon chain</span> than compound B, the [[van der Waals' forces]] becomes the <span class="hi-green"><u>predominant</u></span> forces between molecules of compound A.
+
+## Types of alcohols
 - **Primary alcohol** (1° alcohol)
 ```tikz
 \usepackage{chemfig}

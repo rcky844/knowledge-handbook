@@ -12,7 +12,7 @@
 
 *Density*: Less dense than water
 
-*Types of amines*:
+## Types of amines
 - **Primary amine** (1° amine)
 ```tikz
 \usepackage{chemfig}

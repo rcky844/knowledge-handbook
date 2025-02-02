@@ -19,7 +19,7 @@
 
 *Density*: Slightly denser than water
 
-*Types of amides*:
+## Types of amides
 - **Primary amide** (1° amide)
 ```tikz
 \usepackage{chemfig}
