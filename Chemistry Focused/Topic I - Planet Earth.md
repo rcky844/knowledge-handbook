@@ -31,6 +31,7 @@
 - [[Crystallization]]: Allow the hot <span class="hi-blue">saturated solution</span> to cool so that crystals start to form. <span class="hi-blue">Filter</span> to obtain the crystals (and collect as residue). Wash with <span class="hi-green">small amount of cold distilled water</span> and dry with filter paper.
 
 [[Simple distillation]]:
+![[simple_distillation_quickfit.webp|500]]
 - Solution is <span class="hi-green">heated up slowly</span>, and then the <span class="hi-blue">distillate</span> will be collected at the end of the condenser.
 - The <span class="hi-blue">condenser</span> has flowing cold tap water that enters from the lower end to increase the effectiveness of cooling.
 - The <span class="hi-blue">anti-bumping granules</span> is to ensure <span class="hi-green">even heating and prevents bumping</span> of sea water.
