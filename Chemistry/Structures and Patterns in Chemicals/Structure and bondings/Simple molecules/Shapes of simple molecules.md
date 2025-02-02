@@ -1,4 +1,3 @@
-Shapes of simple molecules are based on the arrangement of the electron pairs around the central atom. They tend to be arranged to minimize repulsion between atoms (as far from each other as possible). This is predicted by the Valence shell electron pair repulsion theory (VSEPR).
 
 | Shape and formula | Examples | Diagram |
 | :--: | :--: | :--: |
@@ -10,6 +9,8 @@ Shapes of simple molecules are based on the arrangement of the electron pairs ar
 | Trigonal bipyramidal<br>$\ce{AX5E0}$ | $\ce{PCl5}$ | ![[bipyramidal_ball.webp\|100]] ![[bipyramidal_structure.webp\|100]] |
 | Octahedral<br>$\ce{AX6E0}$ | $\ce{SF6}$ | ![[octahedral_ball.webp\|100]] ![[octahedral_structure.webp\|100]] |
 
-> [!note]
+> [!warning]
 > $\ce{BeF2}$ and $\ce{BeCl2}$ are covalent molecules instead of ionic compounds. This is due to the highly polarized nature of the $\ce{B}$ and $\ce{F}$ / $\ce{Cl}$ atoms.
 
+> [!tip]
+> Shapes of simple molecules are based on the arrangement of the electron pairs around the central atom. They tend to be arranged to <u>minimize repulsion between atoms</u> (as far from each other as possible). This is predicted by the Valence shell electron pair repulsion theory (VSEPR).

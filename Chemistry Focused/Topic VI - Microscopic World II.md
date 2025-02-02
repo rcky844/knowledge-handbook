@@ -10,6 +10,9 @@
 [[Hydrogen bonds]]:
 - Hydrogen bond is a strong intermolecular force existing between a <span class="hi-blue">hydrogen atom</span> bonded to highly electronegative atom (e.g. N / O / F) in a molecule and the <span class="hi-blue">lone pair electrons</span> from a highly electronegative atom (e.g. N / O / F) in another molecule.
 
+## Molecular shapes
+![[Shapes of simple molecules]]
+
 ## Hydrogen bonds in ice
 ![[Molecular crystals#Ice ($ ce{H2O}$)]]
 
