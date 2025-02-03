@@ -12,6 +12,9 @@
 - **Corrosion**: The deterioration of a metal due to its reaction with oxygen, moisture or other substances in the environment.
 - **Aluminium anodization**: Aluminium anodization is an electrolytic process which <u>increases the thickness of the oxide layer</u> on aluminium, thus to <span class="hi-green">increase corrosion resistance of aluminium</span>(, but does not increase the strength of aluminium).
 
+[[Protection of metals]]:
+- **Alloy**: An alloy is a mixture formed by meting <span class="hi-green">two or more elements</span> together, in which <span class="hi-green">at least one of them is a metal</span>.
+
 ## Processes & Designs
 ### Chemistry of rusting
 *Refer to: [[Rusting#Chemistry of rusting]]*

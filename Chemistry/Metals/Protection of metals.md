@@ -53,11 +53,16 @@ The blocks of metal used in protecting iron needs to be replaced from time to ti
   Some underground water pipes are made of iron. Magnesium blocks are attached to the underground pipelines to prevent iron from rusting.
 
 # Alloying
-An alloy is made by mixing other elements (e.g. carbon and chromium) with iron in a mixture. The other elements will react more readily than iron / form protective (oxide) layer.
+An **alloy** is a mixture formed by meting <span class="hi-green">two or more elements</span> (e.g. carbon and chromium) together, in which <span class="hi-green">at least one of them is a metal</span>.
 
-Stainless steel is an alloy of iron made by mixing iron with specific amounts of <u>carbon, chromium and nickel</u>.
+*Example*:
+- **Stainless steel** is an alloy of iron made by mixing iron with specific amounts of <span class="hi-blue">carbon, chromium and nickel</span>.
 
 However, this method is the most expensive method.
+
+> [!tip] Strength of alloys
+> - The introduction of other elements <span class="hi-green">disturbs the regular arrangement of metals</span> in its [[giant metallic structure]].
+> - The metallic ions <span class="hi-green">cannot slide over each other easily</span> when force is applied.
 
 # Cathodic protection
 ![[metal_cathodic_protection.webp|500]]
