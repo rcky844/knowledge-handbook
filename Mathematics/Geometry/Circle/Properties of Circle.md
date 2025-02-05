@@ -35,3 +35,24 @@
 | :--: | :--: |
 
 # Angles in alternate segments
+| ![[circle_angle_alt_seg.webp\|200]] | ![[circle_angle_alt_seg_converse.webp\|200]] |
+| :--: | :--: |
+| $\angle\text{ in alt. seg.}$<br>${\angle AKC} = {\angle CDK}$ | $\text{converse of }\angle\text{ in alt. seg.}$<br>$AB\text{ is the tangent of the circle.}$ |
+
+# Cyclic quadrilaterals
+![[circle_cyclic.webp|250]]
+
+*Properties*:
+- opp. $\angle s$, cyclic quad. ($x+y=180\degree$)
+- ext. $\angle s$, cyclic quad. ($x=z$)
+
+*Converse properties*:
+- opp. $\angle s$ supp.
+  If $x+y=180\degree$, then A, B, C and D are concyclic.
+
+- ext. $\angle$ = int. opp. $\angle$
+  If $x=z$, then A, B, C and D are concyclic.
+
+![[circle_cyclic_same_seg.webp|200]]
+- converse of $\angle s$ in same segment
+  If $a=b$ or $m=n$, then A, B, C and D are concyclic.
