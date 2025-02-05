@@ -32,7 +32,11 @@ carbon dioxide + water  $\xrightarrow[\text{by chlorophyll}]{\text{light energy 
 2. [[Carbon fixation|Carbon fixation: the Calvin Cycle]]
 
 ## Balanced equation
-6 <span style="color:red">CO<sub>2</sub></span> + 6 <span style="color:lightblue">H<sub>2</sub>O</span>  $\xrightarrow[\text{by chlorophyll}]{\text{light energy captured}}$  <span style="color:red">C<sub>6</sub></span><span style="color:lightblue">H<sub>12</sub></span><span style="color:red">O<sub>6</sub></span> + 6 <span style="color:lightblue">O<sub>2</sub></span>
+$$
+\ce{6\color{red}CO2} + \ce{6\color{teal}H2O}
+\;\xrightarrow[\text{by chlorophyll}]{\text{light energy captured}}\;
+\ce{\color{red}C6\color{teal}H12\color{red}O6} + \ce{6\color{teal}O2}
+$$
 
 > [!tip]
  > Be aware of the sources for the products produced!
