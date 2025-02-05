@@ -80,7 +80,7 @@ A **cardiac cycle** is a sequence of events starting from one contraction of the
 ## Nervous control
 *Factors influencing control of cardiac output*:
 - **Blood pH** (concentration of $\ce{CO2}$ in blood)
-  Changes in blood (/ cerebrospinal fluid) pH are detected by <span class="hi-blue">chemoreceptors</span> in the <span style="color: orange">carotid and aortic bodies</span> which send nerve impulses to the <span style="color: violet">cardiovascular centre</span>.
+  Changes in blood (/ cerebrospinal fluid) pH are detected by <span class="hi-blue">chemoreceptors</span> in the <span class="hi-orange">carotid and aortic bodies</span> which send nerve impulses to the <span style="color: violet">cardiovascular centre</span>.
 
 - **Blood pressure**
   <span class="hi-blue">Stretch receptors</span> in the walls of <span style="color: violet">vena cava, carotid arteries and the aorta</span> are sensitive to stretching of blood vessels caused by increased blood flow.

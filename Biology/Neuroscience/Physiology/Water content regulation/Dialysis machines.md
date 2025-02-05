@@ -20,7 +20,7 @@
 
 # Limitations
 - <span class="hi-green">The amount of blood that can be drawn into the dialysis machine per unit time is limited</span>, each treatment may take 4-6 hours to remove most urea from blood.
-- The treatment has to be <span class="hi-green">repeated</span> 2-3 times a week as urea is <span style="color: orange">continuously produced by the liver</span>.
+- The treatment has to be <span class="hi-green">repeated</span> 2-3 times a week as urea is <span class="hi-orange">continuously produced by the liver</span>.
 
 # Nutrition considerations
 - Eat foods with less proteins / less protein-rich foods

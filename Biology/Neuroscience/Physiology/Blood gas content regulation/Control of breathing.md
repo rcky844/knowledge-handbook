@@ -59,7 +59,7 @@ The **rate and depth of breathing** is affected by the <span class="hi-green">co
 
 *Process of regulation*: [[Breathing rate and depth.canvas|See diagram]]
 1. A <u>rise / fall</u> in blood $\ce{CO2}$ concentration results in a fall in blood pH.
-2. <span class="hi-blue">Chemoreceptors</span> in the <span style="color: orange">carotid and aortic bodies</span> detect a <u>fall / rise</u> in blood pH, and send nerve impulses to the <span style="color: violet">respiratory centre</span>.
+2. <span class="hi-blue">Chemoreceptors</span> in the <span class="hi-orange">carotid and aortic bodies</span> detect a <u>fall / rise</u> in blood pH, and send nerve impulses to the <span style="color: violet">respiratory centre</span>.
 3. <span class="hi-blue">Chemoreceptors</span> in the <span style="color: violet">respiratory centre</span> detects a <u>fall / rise</u> in blood pH.
 4. The respiratory centre sends <span class="hi-green">more / fewer</span> nerve impulses (via a sympathetic nerve) to the intercostal muscles and diaphragm muscle, causing them to contract <span class="hi-green">more / less</span> frequently and forcefully.
 5. The rate and depth of breathing <u>increase / decrease</U>. $\ce{CO2}$ is removed from the body at a <u>faster / slower</u> rate. Blood pH level is <u>increased / lowered</u> to the normal level.

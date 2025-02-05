@@ -2,7 +2,7 @@
 
 # Experimental procedure
 ![[liquid_liquid_extraction.webp]]
-Consider the extraction of iodine from <span style="color: orange">aqueous iodine solution</span> (brown in colour) in <span style="color: violet">heptane</span> (purple in colour):
+Consider the extraction of iodine from <span class="hi-orange">aqueous iodine solution</span> (brown in colour) in <span style="color: violet">heptane</span> (purple in colour):
 - <span class="hi-green">Iodine is more soluble in organic solvents</span> than in aqueous solvents.
 - (a): Water and heptane is immiscible, they remain as two separate layers. 
 - (b): After shaking, most of the iodine will dissolve into the heptane layer.

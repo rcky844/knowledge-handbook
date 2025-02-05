@@ -33,6 +33,10 @@ body {
     color: skyblue;
 }
 
+.hi-orange {
+    color: orange;
+}
+
 .block-language-tikz {
     margin-block-end: 2.5em;
     /* float: left; */

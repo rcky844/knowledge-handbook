@@ -33,8 +33,8 @@
 **Separation of components**:
 ![[paper_chromatography_separated.webp|420]]
 <span class="hi-blue">Different components</span> (with different colours) <span class="hi-green">have different absorptivities / solubilities in the mobile phase and stationery phase</span>.
-- The <span class="hi-green"><u>more soluble</u></span> the component in <span style="color: aqua">stationary phase</span>, the <span style="color: orange">slower</span> it travels up the stationary phase.
-- The <span class="hi-green"><u>more soluble</u></span> the component in <span style="color: aqua">mobile phase</span>, the <span style="color: orange">faster</span> it travels up the stationary phase.
+- The <span class="hi-green"><u>more soluble</u></span> the component in <span style="color: aqua">stationary phase</span>, the <span class="hi-orange">slower</span> it travels up the stationary phase.
+- The <span class="hi-green"><u>more soluble</u></span> the component in <span style="color: aqua">mobile phase</span>, the <span class="hi-orange">faster</span> it travels up the stationary phase.
 
 **Example**: HKDSE 2019 Paper 2 Q3(c)(iii)
 Explain briefly why chromatography can be used to separate a mixture.
@@ -83,4 +83,4 @@ $$
 - Column is held <span style="color: aqua">vertically</span>.
 - <span style="color: aqua">Eluting solvent is kept adding</span> from the top and it runs through the column under <span style="color: aqua">gravitational force</span>.
 - Components are separated as they move down the column.
-- To perform the experiment in a <span style="color: violet">small scale</span>, <span style="color: orange">a dropper containing alumina</span> can be used instead of a column.
+- To perform the experiment in a <span style="color: violet">small scale</span>, <span class="hi-orange">a dropper containing alumina</span> can be used instead of a column.
