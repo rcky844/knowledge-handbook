@@ -2,7 +2,7 @@
 ![[limewater_test.webp|400]]
 **Limewater** produced in "[[Calcium carbonate and its reactions]]" can be used for detecting carbon dioxide.
 
-- *Test description*: Carbon dioxide gas <u>turns limewater from colourless to milky</u>.
+- *Test description*: Carbon dioxide gas turns <span class="hi-blue">limewater</span> from <span class="hi-green">colourless to milky</u>.
 - *Reaction*: $\ce{Ca(OH)2 (aq) + CO2 (g) -> CaCO3 (s) + H2O (ℓ)}$
 	- Insoluble calcium carbonate is formed upon <u>passing</u> carbon dioxide into limewater, turning the limewater milky.
 

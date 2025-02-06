@@ -6,7 +6,7 @@
 # Anhydrous copper(II) sulphate
 ![[cuso4_test.avif|520]] ($\ce{CuSO4 (s)}$)
 
-- *Test description*: Water turns the anhydrous copper(II) sulphate paper from white to blue.
+- *Test description*: Water turns the anhydrous copper(II) sulphate from white to blue.
 - *Reaction*: $\ce{CuSO4 (s) + 5H2O (ℓ) -> CuSO4 . 5H2O (s)}$
 
 # Testing samples

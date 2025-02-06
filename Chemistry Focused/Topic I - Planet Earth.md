@@ -39,13 +39,20 @@
 [[Calcium carbonate and its reactions]]:
 ![[caco3_cycle.svg]]
 
-Preliminary analytical tests
-- [[Test for hydrogen gas]]
-- [[Test for oxygen gas]]
-- [[Test for carbon dioxide gas]]
-- [[Test for water]]
-- [[Flame test]]
-- [[Acidified silver nitrate test]]
+*Preliminary analytical tests*:
+- [[Test for hydrogen gas]]: Hydrogen gives a 'pop' sound with a <span class="hi-green">burning splint</span>.
+- [[Test for oxygen gas]]: Oxygen relights a <span class="hi-green">glowing splint</span>.
+- [[Test for carbon dioxide gas]]:
+  Carbon dioxide gas turns <span class="hi-blue">limewater</span> from <span class="hi-green">colourless to milky</u>.
+- [[Test for water]]:
+	- **Dry cobalt(II) chloride paper**: from blue to pink
+	- **Anhydrous copper(II) sulphate**: from white to blue
+- [[Flame test]]:
+	- **$\ce{K+}$ ions**: lilac flame
+	- **$\ce{Na+}$ ions**: golden yellow flame
+	- **$\ce{Ca^2+}$ ions**: brick-red flame
+	- **$\ce{Cu^2+}$ ions**: bluish green flame
+- [[Acidified silver nitrate test]]: Presence of <span class="hi-blue">chloride / bromide / iodide ions</span> results in the production of <span class="hi-green">white / pale yellow / yellow precipitate</span> ($\ce{AgCl/AgBr/AgI}$).
 
 # Important questions
 ## HKDSE 2013 Paper 1B Q1(b)(i)
