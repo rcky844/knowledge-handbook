@@ -4,12 +4,12 @@
 ## Definitions
 [[Introduction to acids]]:
 - **Acid**: An acid <span class="hi-green">ionizes in water</span> to give <span class="hi-blue">hydrogen ion</span> as the <u>only cation</u>.
-- **Basicity**: Basicity is the maximum amount of <span class="hi-blue">ionizable</span> hydrogen atom in an acid molecule.
+- **Basicity** is the maximum amount of <span class="hi-blue">ionizable</span> hydrogen atom in an acid molecule.
 
 [[Introduction to bases and alkalis]]:
-- **Alkali**: Alkali is a <span class="hi-green">water <u>soluble</u> substance (/ base)</span> reacting with an <u>acid</u> to give <span class="hi-green"><u>salt and water only</u></span>. / Alkali is a substance when <u>dissolved in water</u> to give <u>hydroxide ions</u> as the <u>only anion</u>. (HKDSE 2020 Paper 1B Q7(b))
+- **Alkali** is a <span class="hi-green">water <u>soluble</u> substance (/ base)</span> reacting with an <u>acid</u> to give <span class="hi-green"><u>salt and water only</u></span>. / Alkali is a substance when <u>dissolved in water</u> to give <u>hydroxide ions</u> as the <u>only anion</u>. (HKDSE 2020 Paper 1B Q7(b))
 - **Base**: A base reacts with an acid to give salt and water only.
-- **Neutralization**: Neutralization is a chemical reaction where an acid reacts with a base to produce <span class="hi-blue">salt and water</span> as the <span class="hi-green"><u>only</u></span> products.
+- **Neutralization** is a chemical reaction where an acid reacts with a base to produce <span class="hi-blue">salt and water</span> as the <span class="hi-green"><u>only</u></span> products.
 
 [[Strength of acid and alkali]]:
 - **Strength of acid / alkali**: The strength of an acid / alkali depends on the <span class="hi-blue">degree of ionization / dissociation</span> of that acid / alkali.

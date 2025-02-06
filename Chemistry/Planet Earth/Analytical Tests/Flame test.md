@@ -8,9 +8,9 @@
 > To clean the platinum wire, <u>dip the wire into concentrated hydrochloric acid</u> and then heat it in the Bunsen flame until no characteristic flame colour is observed.
 
 # Procedure
-1. Dip a <span class="hi-blue">clean platinum / nichrome wire</span> into <u>concentrated hydrochloric acid</u>.
-2. Dip the nichrome wire into the <u>solid sample</u>. If the sample is in aqueous form, use [[evaporation]] or [[crystallization]] first.
-3. Put the end of the wire in the (non-luminous) <span class="hi-blue">Bunsen flame</span> and observe the colour of the flame.
+1. Dip a <span class="hi-blue">clean platinum / nichrome wire</span> into <u>concentrated hydrochloric acid</u> and heat in <u>Bunsen flame</u> (until no characteristic flame is observed).
+2. Dip the nichrome wire into the <u>concentrated hydrochloric acid</u> and then the <u>solid sample</u>. (If the sample is in aqueous form, use [[evaporation]] or [[crystallization]] first)
+3. Put the end of the wire in the (non-luminous) <span class="hi-blue">Bunsen flame</span> and observe the flame colour.
 
 > [!warning]
 > The wire should be <span class="hi-green">heated under naked flame</span>.

@@ -4,6 +4,7 @@
 1. Redox reactions
 	- [[Oxidation and reduction]]
 	- [[Electrochemical series]]
+	- [[Disproportionation reaction]]
 2. [[Chemical cells]]
 3. [[Electrolysis]]
 4. [[Discharging and recharging chemical cells]]

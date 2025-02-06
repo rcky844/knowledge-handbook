@@ -1,4 +1,4 @@
-**Substitution reaction** is a reaction that involves the replacement of an atom (or a group of atoms) of an organic molecule by another atom (or groups of atoms).
+**Substitution reaction** is a reaction in which an atom or a group of atoms in an organic molecule is <span class="hi-green">replaced</span> by another atom or groups of atoms.
 
 # Alkanes
 ## Reaction with halogens

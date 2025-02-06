@@ -1,6 +1,6 @@
 *Pre-context: [[Polymerization]]*
 
-**Addition polymerization** is a reaction in which <u>monomer molecules</u> join together repeatedly to form polymer molecules, <u>without the elimination of small molecules</u>.
+**Addition polymerization** is a reaction in which <span class="hi-blue">monomer molecules</span> join together repeatedly to form polymer molecules, <span class="hi-green">without the elimination of small molecules</span>.
 
 # Representations of addition polymers
 ![[addition_polymers.webp|350]]

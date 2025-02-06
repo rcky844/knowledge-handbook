@@ -1,5 +1,5 @@
 # Average rate of reaction
-**Average rate of reaction** is the rate of reaction at a <u>certain period of time</u>.
+**Average rate of reaction** is the rate of reaction at a <u>particular moment of time</u> / from the beginning to the finished moment of reaction.
 
 If not specified, the average rate of reaction usually refers to the <span class="hi-green">rate of reaction at the time period from the beginning to the finished moment of reaction</span>.
 
@@ -13,6 +13,6 @@ To calculate the instantaneous rate of reaction, <span class="hi-green">draw a t
 *Formula*: ${y_2 - y_1}\over{x_2 - x_1}$ (Slope of tangent)
 
 # Initial rate of reaction
-**Initial rate of reaction** is the <span style="color: aqua">instantaneous rate at t = 0</span> (the beginning of the reaction).
+**Initial rate of reaction** is the <span class="hi-blue">instantaneous rate at t = 0</span> (the beginning of the reaction).
 
 To calculate the initial rate of reaction, <span class="hi-green">draw a tangent to the curve passing through the origin</span>. <span class="hi-orange">The slope of the tangent represents the initial rate of reaction.</span>

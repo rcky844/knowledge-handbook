@@ -1,3 +1,5 @@
+**Addition reaction** is a reaction in which two or more molecules are <span class="hi-green">joined together</span> to form a single product <span class="hi-green">without the elimination of small molecules</span>.
+
 # Halogenation (Reaction with halogens)
 ```tikz
 \usepackage{chemfig}

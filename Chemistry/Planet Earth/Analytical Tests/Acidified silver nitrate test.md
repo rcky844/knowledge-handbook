@@ -5,7 +5,7 @@
 > - Astatine is radioactive and cannot be tested,
 
 # Procedure
-1. <span class="hi-green">Add excess dilute nitric acid</span> ($\ce{HNO3}$) into the sample solution.
+1. Add <span class="hi-blue">dilute nitric acid</span> ($\ce{HNO3}$) into the sample solution <u>until in excess</u>.
 	- The purpose of acidification is to <span class="hi-green">remove interfering ions</span> (e.g. $\ce{SO3^2-}$, $\ce{CO3^2-}$) to prevent the formation of precipitate irrelevant to halide ions.
 	  ↪️ $\ce{CO3^2- (aq) + 2H+ (aq) -> CO2 (g) + H2O (ℓ)}$
 	  ↪️ $\ce{SO3^2- (aq) + 2H+ (aq) -> SO2 (g) + H2O (ℓ)}$
