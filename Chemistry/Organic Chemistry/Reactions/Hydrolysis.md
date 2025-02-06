@@ -57,7 +57,7 @@
 \end{document}
 ```
 
-> [!callout | noicon] ester ⇌ alkanoic acid + alcohol
+> [!callout | noicon] ester → alkanoic acid + alcohol
 > <table class="infobox-tables"><tr><th>Reagent:</th><td>Dilute alkali (<span class="math display">\ce{NaOH}</span>)</td></tr><tr><th>Condition:</th><td>Under reflux</td></tr></table>
 
 # Amides
