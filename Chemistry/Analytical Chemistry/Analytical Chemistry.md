@@ -14,3 +14,4 @@
 	- [[Colorimetry]]
 	- [[Infrared spectroscopy]]
 	- [[Mass spectrometry]]
+7. [[Applications of Analytical Chemistry|Applications]]
