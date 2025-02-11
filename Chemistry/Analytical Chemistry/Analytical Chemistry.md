@@ -10,7 +10,7 @@
 4. [[Separation and Purification of Compounds]]
 	- [[Test for purity of substances]] 
 5. [[Quantitative analysis]]
-6. Instrumental analysis
+6. [[Instrumental analysis]]
 	- [[Colorimetry]]
 	- [[Infrared spectroscopy]]
 	- [[Mass spectrometry]]
