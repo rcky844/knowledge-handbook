@@ -20,6 +20,5 @@ There are 20 types of amino acids, which are divided into two groups:
 - Nuts, peas, soya beans (plant sources)
 
 # Functions
-- Form [[enzymes]], [[Antibodies]], some hormones, receptors, haemoglobin
-- As a <u>source of energy</u> when the body is short of carbohydrates and lipids
-  (1 g → 18.2 kJ)
+- Form [[enzymes]], [[antibodies]], some hormones, receptors, haemoglobin
+- As a <u>source of energy</u> when the body is short of carbohydrates and lipids (energy value: $\pu{18.2 kJ g-1}$)

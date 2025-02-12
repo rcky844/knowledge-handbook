@@ -1,6 +1,6 @@
 *Pre-context: [[Carbohydrates]]*
 
-**Carbohydrates** can be used by the human body as a <u>source of energy</u> (1 g → 17.1 kJ). When it is in excess, they are <span class="hi-green">stored as glycogen or lipids in the body</span>.
+**Carbohydrates** can be used by the human body as a <u>source of energy</u> ($\pu{17.1 kJ g-1}$). When it is in excess, they are <span class="hi-green">stored as glycogen or lipids in the body</span>.
 
 <span class="hi-green">Monosaccharides are readily absorbed</span> in the [[small intestines]], while <span class="hi-green">disaccharides and polysaccharides must be broken down</span> into monosaccharides before absorption as they are <span class="hi-blue">too large to be absorbed directly</span>.
 

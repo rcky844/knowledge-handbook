@@ -1,37 +1,51 @@
-**Balanced diet** provides us with enough energy and nutrients for maintaining metabolism (including growth), muscle contractions when performing physical activities, and generating heat to keep the body temperature constant.
+**Balanced diet** provides us with enough energy and nutrients for maintaining [[metabolism]] (including growth), <span class="hi-green">muscle contractions</span> when performing physical activities, and <span class="hi-green">generating heat</span> to keep the body temperature constant.
 
-The **food pyramid** is a guide containing a variety of food substances in the right amounts and proportions to help achieve a balanced diet.
+The **food pyramid** is a guide containing a variety of food substances in the <span class="hi-green">right amounts and proportions</span> to help achieve a balanced diet.
 
 ![[balanced_diet_diagram.webp|400]]
 
 # Factors influencing dietary requirements
-1. **Age**
-   Children have a <span class="hi-green">higher metabolic rate</span> (stage of rapid development) and <span class="hi-green">lose heat faster</span> (larger surface area to volume ratio than adults), so they have higher energy requirement per unit body mass, diet should include relative large amounts of energy-rich food.
+1. **Age and growth**
+	- <span class="hi-green">Children and teenagers</span> require a <span class="hi-blue">higher proportion of proteins</span>, as they are in a [[Growth and development in humans|stage of rapid development]] with higher metabolic rate.
+	- They also <span class="hi-blue">lose heat faster</span>, as they have a larger surface area to volume ratio than adults.
+	- They have <u>higher energy requirement per unit body mass</u>, diet should include relative large amounts of energy-rich food.
 
-2. **Gender and body size**
-	- *Males*: <span class="hi-green">larger body size and more muscle mass</span>, resulting in a higher metabolic rate than females and requires more energy and proteins.
-	- *Females*: <span class="hi-green">need more iron</span> to compensate for the iron lost each month in <span class="hi-blue">menstrual blood</span>.
+2. **Activity levels**
+	- Individuals who perform <span class="hi-green">heavy physical activities</span> require more energy for movement as <u>muscles are contracting more and respiring faster</u>.
+	- They need a diet rich in <span class="hi-blue">carbohydrates and proteins</span>.
 
-3. **Level of physical activity**
-   People who perform heavy physical activities (e.g. construction worker, professional athlete) need a diet rich in carbohydrates and proteins.
-
-4. **Body status**
-	- *Pregnant women*: need more carbohydrates, proteins and a range of vitamins and minerals to support the growth and development of the fetus.
-	- *Breast-feeding mothers*: need nutrients for milk production.
+3. **Body status**
+	- *Pregnancy*: Extra <span class="hi-blue">carbohydrates, proteins, minerals (e.g. calcium) and vitamins</span> are needed to support the <span class="hi-green">growth and development of the fetus</span> and the larger mass of the mother.
+	- *Breastfeeding*: Extra energy and calcium is needed to produce high-quality <span class="hi-green">breast milk</span>.
+	- *Higher muscle mass*: <span class="hi-green">Larger body size and more muscle mass</span> results in a higher metabolic rate in males than females and requires more energy and proteins.
 
 # Malnutrition and health issues
 *See also: [[Body mass index]]*
 
-![[diet_balance_diagram.webp|300]]
-
 ## Undernutrition
-**Undernutrition** occurs when energy intake from food is lower than energy output. It may occur during <span class="hi-blue">fasting</span>.
+**Undernutrition** (starvation) is when the <span class="hi-green">energy intake</span> (from food) <span class="hi-green">is lower than energy expenditure</span> (over a long period). It may occur during <span class="hi-blue">fasting</span>.
 
-During this condition, our bodies will use (1) <span class="hi-green">glycogen in liver and skeletal muscles</span> and (2) <span class="hi-green">subcutaneous fat</span>, causing weight loss. Prolonged starvation and the absence of fat reserves will cause our bodies to use (3) <span class="hi-green">muscle proteins</span> as a source of energy.
+*Effects*:
+- The body first mobilise <span class="hi-blue">glycogen</span> in <span class="hi-orange">liver and skeletal muscles</span> as energy source.
+- Then, <span class="hi-blue">subcutaneous fat</span> is broken down, which results in severe weight loss.
+- Eventually, <span class="hi-blue">muscle proteins</span> are broken down, which can result in <span class="hi-green">damage to the heart and immune system</span>, increasing the risk of diseases.
 
-Severe protein deficiency can lead to <span class="hi-blue">kwashiorkor</span>, symptoms include stunted growth, anaemia, hair loss, <u>swollen belly</u> (tissue fluid accumulates in the abdomen).
+> [!tip] Carbohydrates malnutrition
+> A **low carbohydrate diet** reduces the <span class="hi-blue">glycogen store</span> of the body, which forces the body to <span class="hi-green">increase usage of fat and proteins</span> for metabolism, while people may feel tired easily as fat and protein breakdown is a slow process.
+
+> [!tip] Protein malnutrition
+> **Kwashiorkor** is a disease caused by <u>severe protein deficiency</u> in the diet. This is common in children under two, and they are always underweight and often have a <span class="hi-green">swollen abdomen</span>.
 
 ## Overnutrition
-**Overnutrition** occurs when energy intake from food is higher than energy output. It may occur when the person <u>eat too much or lack sufficient physical activity</u>. During this condition, out bodies will <span class="hi-green">store the excess as fat and cause weight gain</span>.
+**Overnutrition** is when the <span class="hi-green">energy intake</span> (from food) <span class="hi-green">is higher than energy expenditure</span>. Common causes are when people ear too much or <span class="hi-orange">lack sufficient physical activity</span>.
 
-Serious condition of overweight is obesity which leads to high blood pressure, heart diseases, diabetes, gallstones or serious damage to the joints.
+*Effects*:
+- Extra energy is <span class="hi-green">stored as fat</span>, resulting in <span class="hi-blue">weight gain and obesity</span>.
+- Obesity contributes to the development of diseases such as [[Cardiovascular diseases|heart disease]] and [[Diabetes mellitus|diabetes]].
+
+## Constipation
+**Constipation** is caused by the lack of [[dietary fibres]] in the diet.
+
+*Effects*:
+- Food lacks bulk for muscles to push it through the alimentary canal, the person develops <span class="hi-green">uncomfortable or infrequent bowel movements</span>.
+- The chance for developing diseases like <span class="hi-blue">bowel cancer</span> are increased.

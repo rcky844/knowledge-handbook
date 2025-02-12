@@ -1,6 +1,9 @@
 *Pre-context: [[Lipids]]*
 
-**Lipids** can be used by the human body as a <u>source of energy</u> (1 g → 38.9 kJ). It must <span class="hi-green">first be broken down into smaller molecules</u> (glycerol and fatty acids) by [[enzymes]] to be absorbed in the digestive tract.
+**Lipids** can be used by the human body as a <u>source of energy</u> ($\pu{38.9 kJ g-1}$). It must <span class="hi-green">first be broken down into smaller molecules</u> (glycerol and fatty acids) by [[enzymes]] to be absorbed in the digestive tract.
+
+> [!warning]
+> Lipid stores energy than the <span class="hi-green">same mass</span> of proteins and carbohydrates, but this comparison may not stand at different masses.
 
 # Types of fats
 ## Saturated fats
