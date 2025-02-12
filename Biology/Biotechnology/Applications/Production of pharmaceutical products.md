@@ -7,11 +7,22 @@
 | Collagen | Plants | Reconstructive surgery |
 | Fibrinogen | Cattle | Treating blood clotting disorder |
 
-*Benefits of production via modern biotechnology*:
-- **More pure**: Will not be contaminated by pathogens (e.g. bacteria, viruses)
-- **Much larger quantities & more afforable**:
-  Can solve the inadequate supply problem of extracting from natural sources
-- **Less side effects**: Amino acid sequences are highly similar from the human counterpart, and would not trigger immune responses with great side effects
+*Benefits of production with GMOs*:
+- **Higher product yield**
+  GMOs typically have a <span class="hi-green">higher growth rate</span>, product yield from GMOs is much higher than animal sources, which takes a long time to rear.
+
+- **More pure & lower risk of infection**
+  The <span class="hi-green">process of purification is much easier</span> from GMOs than animal sources, whereas products extracted from animal sources are easily contaminated by pathogens.
+
+- **Continuous production**
+  Production <span class="hi-green">occurs continuously</span> from bacterial culture, whereas animals provide only a limited amount of products.
+
+- **Less side effects**
+  Products with <span class="hi-green">amino acid sequences highly similar</span> to human counterparts can be produced, so it <u>would not be rejected</u> by the body as <span class="hi-orange">immune responses</span> would not be triggered that degrade its functions.
+
+↪️ *Overall effect*: Lower cost of production
+
+*Example*: HKDSE 2013 Paper 2 Q4(a)
 
 # Examples
 ## Human insulin
@@ -83,7 +94,7 @@ Plasmids extracted from bacteria are usually <span class="hi-green">used as vect
 - Plasmids **replicate independently of the bacterial chromosome**, and <span class="hi-green">multiple copies</span> of the gene of interest can exist in a single bacterial cell.
 
 ## As host cells
-Bacteria are commonly used as <span class="hi-blue">host cells</span> in [[recombinant DNA technology]].
+Bacteria are commonly used as <span class="hi-blue">host cells</span> in [[Recombinant DNA technology]].
 
 *Advantages*:
 - **Bacteria are easy to manipulate.**

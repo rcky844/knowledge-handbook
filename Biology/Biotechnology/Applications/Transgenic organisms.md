@@ -30,16 +30,17 @@ Transgenic crops are genetically modified to <span class="hi-green">improve yiel
 ## Traits improving quality of crops
 1. **Enhanced nutritional value**
    *Example*: Omega-3 fatty acids; helps prevent cardiovascular diseases
-   *Example*: Beta-carotene (Golden Rice); precursor of [[Vitamins#Vitamin A|vitamin A]]
+   *Example*: $\beta$-carotene (Golden Rice); precursor of [[Vitamins#Vitamin A|vitamin A]]
 
 2. **Longer shelf life**
-   Their ripening is controlled, which reduces the loss of fruits and food wastage caused by early ripening and softening before reaching consumers. They can be stored for a longer time under controlled conditions and transported to more distant markets.
+	- Ripening of fruits can be controlled, reducing loss of fruits and food wastage from early ripening and softening before reaching consumers.
+	- They can be stored for a longer time under controlled conditions, and can be transported to more distant markets.
 
 # Usage in agriculture and food industry
 ## Traits increasing productivity
 1. **Faster growth**
    *Example*: Transgenic salmon
-	- Increased productivity - Grows twice as fast as non-transgenic ones
+	- Increased productivity; grows twice as fast as non-transgenic ones
 	- Lowers unit costs
 	- Reduces overfishing of wild salmon
 
@@ -56,4 +57,5 @@ Transgenic crops are genetically modified to <span class="hi-green">improve yiel
 
 ## Traits reducing environmental impact of rearing animals
 Transgenic pigs are made to be able to <span class="hi-green">digest and absorb phosphate more efficiently</span> to significantly <u>reduce the phosphate content</u> in their <span class="hi-blue">manure</span>.
-- If it is washed into a river, it would not contaminate the water and cause excessive growth of algae (<span class="hi-blue">algal bloom</span>).
+
+If their manure washed into a river, it would not contaminate the water and cause excessive growth of algae (<span class="hi-blue">algal bloom</span>).

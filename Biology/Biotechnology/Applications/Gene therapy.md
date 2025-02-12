@@ -3,11 +3,11 @@
 - The normal gene is expressed and directs protein synthesis to produce the functional proteins.
 
 > [!note]
-> This section focuses mainly on **somatic cell gene therapy**, where the <span class="hi-green">genetic material of their germ cells (gametes) is not changed</span>.
+> This section focuses mainly on **somatic cell gene therapy**, where the genetic material of their <span class="hi-blue">germ cells</span> (gametes) is <u>not changed</u>. The changes in gene is <span class="hi-green">not inheritable</span>.
 
 # Selection of target cells
 *Criteria*:
-- [[Stem cells]] should be selected, as they are capable of producing cells continuously.
+- [[Nature of stem cells|Stem cells]] should be selected, as they are capable of producing cells continuously.
 - Only cells that can express the correct version of the gene to produce the correct products are selected.
 
 # Benefits & Hazards
@@ -18,7 +18,7 @@
 - Only successfully transformed cells are returned to the patient's body, the results are highly effective.
 - Gene used comes from humans only, and does not break the normal species barrier nature has set.
 - The trait is not heritable and will not change the genetic composition permanently.
-- Does not upset the ecological balance (unlike [[Uses of transgenic animals and plants|transgenic animals]]).
+- Does not upset the ecological balance (unlike [[Transgenic organisms|transgenic animals]]).
 
 *Hazards*:
 - It is possible to develop viral diseases, even if viral vectors are made harmless.

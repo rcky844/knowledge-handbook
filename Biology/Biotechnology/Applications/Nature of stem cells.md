@@ -1,4 +1,4 @@
-**Stem cells** are unspecialized cells. They can divide numerous times by [[mitotic cell division]] to form new stem cells or differentiate into various types of cells in the body.
+**Stem cells** are unspecialized cells. They can divide numerous times by [[mitotic cell division]] to form new stem cells or <span class="hi-green">differentiate</span> into various types of cells in the body.
 
 # Types of stem cells
 ## Embryonic stem cells
@@ -29,7 +29,7 @@ Isolated stem cells can be grown in culture media and stimulated to differentiat
    ![[Stem cell therapy]]
 
 ## Limitations
-1. **Ethical issues**
+1. **Ethical issues** ([[Bioethics]])
    Human embryos are destroyed when isolating embryonic stem cells.
 
 2. **Safety concerns**

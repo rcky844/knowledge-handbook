@@ -1,21 +1,22 @@
-![[List article!]]
+**Biotechnology** refers to any technological applications involving <span class="hi-green">organisms, biological systems or processes</span> to produce goods or provide services.
 
-**Biotechnology** refers to any <u>technological application</u> that uses <u>organisms, biological systems or processes</u> to produce goods or to provide services.
+<span class="hi-blue">Genetic engineering</span> is a common technique in biotechnology, which involves the <u>direct manipulation of genetic material</u> in organisms.
+
 # Sections
-1. Genetic engineering
+1. Techniques
 	- [[Recombinant DNA technology]]
 		- [[Sticky and blunt ends]]
+		- [[Production of human insulin]]
 	- [[Polymerase chain reaction]]
 	- [[DNA fingerprinting]]
 	- [[Genetically modified organisms]]
+	- [[Animal and plant cloning]]
 	- [[Benefits and risks of genetic engineering|Benefits and risks]]
 2. Applications
-	- [[Animal and plant cloning]]
-	- [[Human Genome Project]]
 	- [[Production of pharmaceutical products]]
 	- [[Gene therapy]]
-	- [[Stem cells]]
-	- [[Uses of transgenic animals and plants]]
-		- [[Stem cell therapy]]
-	- [[Uses of transgenic animals and plants]]
+	- [[Stem cell therapy]]
+		- [[Nature of stem cells]]
+	- [[Transgenic organisms]]
+	- [[Human Genome Project]]
 3. [[Bioethics]]
