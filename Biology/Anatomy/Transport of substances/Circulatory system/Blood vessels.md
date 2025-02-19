@@ -34,9 +34,9 @@
 - *Valves*: Present
 - *Rate of blood flow*: Slower
 
-**Force to move the blood**:
-- *Contraction of skeletal muscles* adjacent to the veins aids blood flow. When these skeletal muscles contract, the <span class="hi-green">veins are squeezed</span> and the blood inside is forced towards the heart.
-- *Inhalation* creates <span class="hi-blue">negative pressure</span> in the <span class="hi-blue">thoracic cavity</span> that facilitates the flow of blood in veins back to the heart.
+*Force to move the blood*:
+- **Contraction of skeletal muscles** adjacent to the veins aids blood flow. When these skeletal muscles contract, the <span class="hi-green">veins are squeezed</span> and the blood inside is forced towards the heart.
+- **Inhalation** creates <span class="hi-blue">negative pressure</span> in the <span class="hi-blue">thoracic cavity</span> that facilitates the flow of blood in veins back to the heart.
 
 ## Structural adaptations
 - Veins have a <span class="hi-blue">larger lumen than arteries</span>, which <span class="hi-green">reduces resistance</span> so that blood can continue to flow in the veins at low pressure.

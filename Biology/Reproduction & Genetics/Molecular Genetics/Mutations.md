@@ -24,6 +24,10 @@ Substitution or inversion of bases does not cause a reading frame shift, but cha
 - **Codon changes the amino acid to a stop codon**
   Translation comes to a stop prematurely. The polypeptide produced will be <u>shorter than normal</u> and probably cannot function.
 
+> [!tip]
+> - Change in a nucleotide in the base sequence may lead to a change in the triplet code. This may change the amino acid sequence of the protein produced.
+> - As a result, the protein produced may fold into a different shape and lose its function.
+
 ## Disorders
 - [[Sickle-cell anaemia]]
 

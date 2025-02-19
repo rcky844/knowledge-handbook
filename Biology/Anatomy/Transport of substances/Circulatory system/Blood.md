@@ -9,7 +9,7 @@
 # Composition of blood
 ## Plasma
 **Plasma** is the liquid part of blood made up of mostly water (90%) with a variety of dissolved substances.
-- **Plasma proteins** ([[Blood clotting|fibrinogen]], [[Antibodies]]) for blood clotting and body defence.
+- **Plasma proteins** ([[Blood clotting|fibrinogen]], [[antibodies]]) for blood clotting and body defence.
 - **Inorganic ions** for regulating blood pH and [[osmosis]].
 - **Nutrients** act as <span class="hi-green">energy sources</span> or for the <span class="hi-green">synthesis</span> of other biomolecules.
 - **Respiratory gases** are transported within blood. Oxygen is used in [[respiration]] to release energy, while carbon dioxide is a waste product of respiration.
@@ -36,7 +36,7 @@
 2. **Body defence**
 	- [[Blood clotting]]: <span class="hi-blue">Blood platelets</span> play a role in blood clotting; the formation of blood clots at wounds prevents entry of pathogens and further loss of blood.
 	- [[Phagocytosis (body defence)|Phagocytosis]]: <span class="hi-blue">Phagocytes</span> engulf and digest invading pathogens.
-	- Production of [[Antibodies]]: Lymphocytes produce <span class="hi-blue">antibodies</span> which destroy pathogens or neutralize the toxins produced by pathogens.
+	- Production of [[antibodies]]: Lymphocytes produce <span class="hi-blue">antibodies</span> which destroy pathogens or neutralize the toxins produced by pathogens.
 
 3. **Distribution of heat**
    Blood <span class="hi-green">absorbs heat from metabolically active organs</span> (e.g. liver and muscles), and distributes it throughout the body, which helps maintain a constant body temperature.
