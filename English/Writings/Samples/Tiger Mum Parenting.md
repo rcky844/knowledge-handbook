@@ -1,0 +1,16 @@
+> Write a letter in response to Amy Chua's article which supports strict parenting.
+
+Dear Ms. Chua,
+
+Having read your renowned work "Why Chinese Mothers are superior", I would like to take a moment to express my thoughts on your parenting style. Mounting suicide rates among teenagers have raised alarms about the stress of students under Asian education system. While I acknowledge the merit in your arguments about discipline and high expectations, I must respectfully disagree with several points based on my own experiences.
+
+To begin with, I believe your tiger mum approach imposes a heavy mental toll on children. The academic pressure to excel in every subject, to achieve perfect grades can lead to severe anxiety and burnout. Research has shown that high levels of parental pressure can lead to mental health issues in children, including anxiety and depression. While teenage suicide rates have hit the headlines in Hong Kong and other Asian communities, the decline in happiness among school children has posed a headache to parents. If students experience chronic stress, it will affect both their physical and mental well-being. Authoritarian parenting has undoubtedly created a traumatic childhood for all Asian children and teenagers.
+
+Additionally, I believe that the strict parenting style stifle(s) creativity. A helicopter parent may limit a child's ability to explore their own interests and passions. From my experience, having the freedom to pursue my interest develops my imagination and motivation. When children are allowed to explore their creativity in arts, sports, or other fields - they often discover unique talents and develop a sense of self. An array of research from renowned universities has revealed the negative impact of fierce shouting and scolding on a child's creative development. Celebrities like J.K. Rowling, Elon Musk and Steve Jobs are all intrinsically motivated. Who can deny the fact that the most powerful tool is trusting one's inner voice instead of being strictly instructed? It should be stressed that a more lenient and supportive parenting approach is essential to nurturing a talented kid.
+
+Furthermore, mounting parental pressure can create tension in the parent-child relationship. A study conducted by researchers at the University of California found that children who felt their parents were overly controlling reported negative feelings to their parents. This can hinder open communication and emotional connection. Imagine a society filled with arguments and family conflicts, if not domestic violence. What would it be like? It is undeniable that behind every nagging and harsh word, every parent just hopes the best for their kids. It would put the cart before the horse to build a so-called promising future for children at the cost of trust in parent-child relationship.
+
+I truly appreciate your insights and I understand your desire to do what is best for children. However, I believe a more balanced approach to support our young ones is essential. Afterall, who doesn't want a bright yet loving and affectionate child? Who doesn't hope for the best and the happiest life for a child? Thank you for your thoughtful essay, and I hope my opinions can inspire all on a more desirable parenting approach.
+
+Yours truly,
+Chris Wong
