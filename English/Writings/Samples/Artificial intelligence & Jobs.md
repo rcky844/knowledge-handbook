@@ -1,7 +1,6 @@
-With the advancement of artificial intelligence, many suggest that human jobs will be replaced by artificial intelligence eventually.
-Write a debate speech for or against the following motion: "Artificial Intelligence will take away human jobs eventually."
+> With the advancement of artificial intelligence, many suggest that human jobs will be replaced by artificial intelligence eventually.
+> Write a debate speech for or against the following motion: "Artificial Intelligence will take away human jobs eventually."
 
----
 Good morning adjudicators, teachers and our respected opponents,
 
 Today our motion is ‘Artificial Intelligence will take away human jobs eventually’. As the representative of the opposition side, I hold a firm belief that today’s motion is under no circumstances justifiable. Prior to elucidating our arguments, May I ask the affirmative side a few questions: who invented the artificial intelligence from the outset? In the absence of human beings, could the AI have prospered in recent decades? Without human beings’ intelligence and unrelenting effort in inventing AI, would we still be surrounded by such a vast array of convenient gadgets? Siri on Macbook, food-delivery robots, and the self-driving functions in Tesla – all of them are developed by the human beings. Ladies and gentlemen, our side’s argument is simple: we fervently believe that AI is wholly subject to human beings, and is inferior to human beings in terms of its capacity to handle high-order work. In no way can the robots supersede us.

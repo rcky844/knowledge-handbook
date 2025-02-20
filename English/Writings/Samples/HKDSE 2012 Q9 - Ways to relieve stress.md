@@ -1,6 +1,5 @@
-Your school magazine is going to include a special feature on mental health. Recently, one of your friends was suffering from depression. Write an article for the school magazine about your friend’s depression and how he/she overcame it. Give advice to others on how to help fight depression.
+> Your school magazine is going to include a special feature on mental health. Recently, one of your friends was suffering from depression. Write an article for the school magazine about your friend’s depression and how he/she overcame it. Give advice to others on how to help fight depression.
 
----
 <p style="text-align: center;">Ways to confront stress directly!</p>
 
 Plagued by the insurmountable stress and can’t find a way out? This is probably the daily life of nowadays teenagers. If you are also one of those who have no idea about how to get rid of your pressure, please stay tuned and read on!

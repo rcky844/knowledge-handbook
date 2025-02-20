@@ -1,47 +1,47 @@
-**<u>Learning English through Workplace Communication</u>**
-It has recently been claimed that in the workplace many Hong Kong fresh university graduates are less hard-working and less willing to face challenges compared to those in the past You strongly disagree with this opinion. Write a letter to the editor of the Hong Kong Daily disagreeing with this opinion. Support your view with three reasons and/or examples.
+> <u>Learning English through Workplace Communication</u>
+> It has recently been claimed that in the workplace many Hong Kong fresh university graduates are less hard-working and less willing to face challenges compared to those in the past You strongly disagree with this opinion. Write a letter to the editor of the Hong Kong Daily disagreeing with this opinion. Support your view with three reasons and/or examples.
 
 
 Dear Editor,
 
-##### Sample 1
+# Sample 1
 
 1. **Introduction**
-    - **Reason for writing:**
+    - *Reason for writing*:
       I am writing in response to the letter entitled “Fresh university graduates lack the willingness to work hard and overcome challenges” dated 7 April 2017.
-    - **State your stance directly:**
+    - *State your stance directly*:
       As a young entrepreneur, I am strongly against such a claim due to the following seasons.
 2. **They are willing to explore new business opportunities in society.**
-    - **Topic sentence:**
+    - *Topic sentence*:
       In fact, fresh university graduates in Hong Kong are willing to explore new business opportunities in society, which reveals that they are not afraid of challenges.
-    - **Explain the idea clearly:**
+    - *Explain the idea clearly*:
       The 21st century is a century of technological advancement and the Internet has provided the young generation with a flood of new business opportunities. Not afraid of possible failures, a lot of new university graduates in our city actually set up their own business online, ranging from online shops to online mass media. One glaring example of this new type of business is 9GAG, which is a Facebook page posting memes and jokes, and has become viral not only in Hong Kong but also in foreign countries. Their willingness to develop this brand-new type of business illustrates the fact that they are willing to face challenges, not to mention the hard work they have devoted to maintaining the operation of their own business and achieving phenomenal success.
-    - **Point of conclusion:**
+    - *Point of conclusion*:
       How would it be reasonable to call the fresh university graduates in Hong Kong “lazy” and “easily defeated by challenges” given the phenomenon mentioned above, which is becoming more common among the young generation?
 3. **They spend time on social networking sites during their work hours.**
-    - **Topic sentence:**
+    - *Topic sentence*:
       Yet, some employers may complain that their new employees are spending their precious time on social networking sites instead of their work during their working hours.
-    - **Explain the idea clearly:**
+    - *Explain the idea clearly*:
       It must be acknowledged that some the fresh university graduates are not paying full attention to their work, but the work culture in Hong Kong, instead of the young generation, is to be blamed. In myriads of foreign companies, employers are trying to incorporate entertainment into work, with Google being one of the most notable companies. My own company has already adopted similar approaches, such as installing television sets in the office, and I have never complained that my employees are not industrious enough. Unfortunately, in most of the companies in Hong Kong, employees are still required to sit front of the computer and work ceaselessly, which is boring especially for the young generation who ranks creativity and novel ideas on the top of their priority lists. Yet, such a problem can actually be tackled by the above-mentioned approach. With more entertainment in the work culture, I strongly believe that young employees will find more incentives to work and become more hardworking.
-    - **Point of conclusion:**
+    - *Point of conclusion*:
       Therefore, it can be seen that the monotonous and dreary work culture in Hong Kong is the culprit of the problems and dissatisfaction experienced by the senior staff, and the fresh university graduates should not be blamed for it.
 4. **They quit their jobs easily.**
-    - **State other’s stance:**
+    - *State other’s stance*:
       Some people in the workplace may also claim that fresh university graduates in Hong Kong quit their jobs easily.
-    - **Politely address the other’s stance + Point of rebuttal:**
+    - *Politely address the other’s stance + Point of rebuttal*:
       At first glance, this may indicate that they are easily defeated by challenges, but this actually reveals that a more participative leadership is the ideal choice for leading the new employees.
-    - **Explain the idea clearly:**
+    - *Explain the idea clearly*:
       Recently, there has been a piece of news about an employee of the 90s quitting his job within a few days as his employer scolded him, which has stirred a lot of controversy in our society. Some of the senior staff claim that the fresh university graduates are not willing to admit their own mistakes and lack the ability to overcome obstacles in the workplace. These people, however, overlook the fact that the young generation is seeking acceptance as equals from the other generations. In my own company, the employees and I have a weekly gathering during lunch, in which they can express views on their work and exchange ideas with one another. Through this type of leadership will the employees have an impression that they are treated equally and given valuable advice, instead of orders for their work. This can provide them with a sense of achievement when they overcome an obstacle as they have more decision-making power and a sense of empowerment.
-    - **Point of conclusion:**
+    - *Point of conclusion*:
       From my personal experience, I believe that with an appropriate leadership style, the fresh university graduates actually have a strong willingness to face challenges.
 5. **Conclusion**
-    - **Summary:**
+    - *Summary*:
       As a young entrepreneur, I deeply understand what strengths the young generation is equipped with and what they are seeking.
-    - **End in high spirits (What others employees should do):**
+    - *End in high spirits* (What others employees should do):
       It is hoped that other employees in the city can try to communicate more with their fresh employees, trusting the future pillars of our society.
 
 --- 
-###### Scoring
+## Scoring
 |              | M1    | M2    |
 | ------------ | ----- | ----- |
 | Content      | 6/7   | 6/7   |
@@ -53,7 +53,7 @@ Dear Editor,
 
 ---
 
-##### Sample 2
+# Sample 2
 
 1. **Introduction**
     - **Reason for writing:**
@@ -90,7 +90,7 @@ Dear Editor,
       To provide them with work-life balance and change their destiny, collaborative effort from the government and employers is definitely required.
 
 --- 
-###### Scoring
+## Scoring
 | | M1 | M2 |
 |-|-|-|
 |Content|7/7|7/7|

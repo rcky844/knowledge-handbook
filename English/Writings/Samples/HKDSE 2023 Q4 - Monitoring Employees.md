@@ -1,9 +1,9 @@
-**<u>Learning English through Debating</u>**
-The following topic was discussed at a debate workshop:
-
-*Some employers use cameras and computer software to monitor what employees are doing in the workplace. How do you think this affects productivity and job sanctification?*
-
-Write an essay about the pros and cons of monitoring employees in the workplace.
+> <u>Learning English through Debating</u>
+> The following topic was discussed at a debate workshop:
+> 
+> *Some employers use cameras and computer software to monitor what employees are doing in the workplace. How do you think this affects productivity and job sanctification?*
+> 
+> Write an essay about the pros and cons of monitoring employees in the workplace.
 
 <p style="text-align: center;">Monitoring Employees——Is It a Wise Move?</p>
 

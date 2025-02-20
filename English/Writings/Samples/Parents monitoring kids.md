@@ -1,7 +1,6 @@
-It is known that kids have little ability to take good care of themselves and thus parents should monitor their safety most of the time. However, from parents’ perspectives, to monitor kids all the time is impractical.
-Argue for or against the motion that ‘parents who leave their kids under the age of 15 unattended at home should be punished.’ Write a debate speech.
+> It is known that kids have little ability to take good care of themselves and thus parents should monitor their safety most of the time. However, from parents’ perspectives, to monitor kids all the time is impractical.
+ > Argue for or against the motion that ‘parents who leave their kids under the age of 15 unattended at home should be punished.’ Write a debate speech.
 
---
 Chairperson, adjudicators and fellow opponents,
 
 Good afternoon. The motion today is ‘that it is necessary to punish parents who leave their kids under 15 unattended at home.’ As a representative of the affirmative side, I strongly believe that today’s motion must stand, for the very reason that children’s safety should be the fundamental responsibility of any parents.

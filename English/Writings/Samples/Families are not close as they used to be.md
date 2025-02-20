@@ -1,10 +1,9 @@
-It has been revealed in news articles that many families are not as close as they used to be.
-- Write a letter to the editor.
-- Explain why family relationships are getting worse and suggest how family relationships can be improved.
+> It has been revealed in news articles that many families are not as close as they used to be.
+> - Write a letter to the editor.
+> - Explain why family relationships are getting worse and suggest how family relationships can be improved.
 
 **(Social issues?)**
 
----
 Dear editor,
 
 I am writing this letter regarding the recent news article “demising family”, which discussed the alarming phenomenon that family members are drifting apart from each other, and I could not agree more. Hence, I would like to shed light on the rationale behind and suggest a solution that helps restore family harmony.

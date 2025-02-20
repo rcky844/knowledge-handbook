@@ -1,8 +1,7 @@
-Some people think that social media platforms have facilitated the development of relationships. On the other hand, some people think that such platforms have resulted in more shallow connections.
-- Write a debate speech.
-- Argue against the motion “Social media platforms are the places for enhancing social relationships.”
+> Some people think that social media platforms have facilitated the development of relationships. On the other hand, some people think that such platforms have resulted in more shallow connections.
+> - Write a debate speech.
+> - Argue against the motion “Social media platforms are the places for enhancing social relationships.”
 
----
 Good morning respected adjudicators, my learned friends from the affirmative and ladies and gentlemen in the audience. I hereby argue against the motion that social media platforms are the places for enhancing social relationships by presenting two main arguments and a rebuttal against the affirmative’s propositions.
 
 To begin with, social media platforms hinder genuine communications. Should we step back and think about how we make acquaintances at school, it is without a doubt that face-to-face interactions are the key to reinforcing friendships. Try to recall the beautiful moments when you share your innermost feelings with your buddies and hang around with them at the school campus to enjoy a little escape from chemical equations or comprehension exercise. It is not hard to realize that your tone and facial expressions are equally crucial for your peers to interpret your emotions and thoughts. Face-to-face communications enable people to convey their messages more effectively, enhancing intimacy and hence social relationships. On the other hand, people can use fake names on social media sites. Moreover, messages in the form of words and emojis, which are ambiguous in the way that different people can interpret them differently, are prevalent on social media sites. Despite being able to send messages in the form of audios, the inability to look at the speakers’ facial expressions renders the expression of meaning less effective. Given that it is an uphill battle to have genuine communications on social media sites, they should not be considered the seedbed for enhancing social relationships.

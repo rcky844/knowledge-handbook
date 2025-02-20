@@ -1,11 +1,9 @@
-#### Sample 1
+# Sample 1
+> Your year group has been asked to produce student essays about yourselves for a school display on graduating students. Think of three events that show significant moments in your school life and write your essay. Write one paragraph for each event, describing the moments and explaining why that moment is significant to you. You may write on these three events:
+> - Your first school day
+> - Christmas singing contest
+> - Graduation Day
 
-Your year group has been asked to produce student essays about yourselves for a school display on graduating students. Think of three events that show significant moments in your school life and write your essay. Write one paragraph for each event, describing the moments and explaining why that moment is significant to you. You may write on these three events:
-- Your first school day
-- Christmas singing contest
-- Graduation Day
-
----
 Time flies in the blink of an eye and now every tick of the clock is bringing the graduation closer. Although the past six years passed like a sweet dream, the memories are real. All those good old days have transformed the once innocent boy into a mature man who is ready to navigate any obstacles. Rewind to the past and we’ll discover there are moments that send me pangs of nostalgia...... Marking the start of my voyage in this school is the student photo taken on the first school day. I remember the day I entered the school gate with tiny but heavy steps, exploring a whole new world in this campus. Everything was obscured by a fog of mystery and I had to step into the unknown as a freshman. Without the companionship of friends, travelling along the corridor alone was the only choice left for me. The corridor was so long that it seemed like an endless tunnel and I started getting butterflies in my stomach on my way to phototaking. Yet, I had to act like amature secondary student so I mustered the courage to maintain my poise. Swallowing the trepidation, I took my very first photo in this school. “3,2,1, smile.” I squeezed an awkward smile which was tinged with a bit of apprehension and a pulse of anticipation and my journey had since begun.
 
 Since then, I met a lot of friends and cultivated strong bonds with them — I never ever had to walk along the corridor by myself again. Our unbreakable friendship is reflected in the next photo taken on the Christmas singing contest. Inside the frame, we were holding hands in hands. Everyone was bearing the brightest grin on stage, presenting our fruit of hard work to the audience. Though we were no prodigies in music, we were determined to create an original song that carried our memories in the past six years. We formulated the melody notes by notes, revising it thousands of times and making modifications to perfect the music. We joined our emotions together and translated them into words, writing all the tears and laughter into the lyrics. Finally, a song named “Butterfly Effect” was born. Just like the meaning of its name that a small effect can trigger a series of events, our encounter had altered our life trajectories. Our fates had intertwined together since the day we met. Our fellowship had become so deep that we became inseparable buddies. By looking at the photo, I can still feel the music humming in my ears and the lyrics lingering on my lips. Thanks to your companionship along the journey, I am no longer lonely.
@@ -14,16 +12,13 @@ However, every journey has a destination and my secondary school life is no diff
 
 This life journey has been a long way: we have come so far and done so much that we go from greet to graduation, from sobs to smiles. All these cherishable memories have converted into the fertilisers that make us exuberant. We are no longer the buds which are shy to shine but the flowers which dare to blossom; we are no longer the caterpillars that crawl on the ground with no hope but the butterflies that dance in the wildest dreams. Now we are about to turn over a new chapter in our lives and there are much more episodes ahead of us. Fascinating as the new chapters may be, this story will forever be the best memory in my life.
 
----
-#### Sample 2
+# Sample 2
+> You are graduating from F6 soon, and as the publication secretary of the Student Union of your school, you are writing a yearbook entry to be published to all schoolmates.
+> 
+> Write on:
+> 1. One of the most memorable experience you have encountered among the six years of your secondary school life, and
+> 2. Your dream, which may be about your career, who you would like to become, or how you would like to change the world.
 
-You are graduating from F6 soon, and as the publication secretary of the Student Union of your school, you are writing a yearbook entry to be published to all schoolmates.
-
-Write on:
-1. One of the most memorable experience you have encountered among the six years of your secondary school life, and
-2. Your dream, which may be about your career, who you would like to become, or how you would like to change the world.
-
----
 **My motivational booster – Miss Josephine!**
 
 Glancing at the series of class photos 6C took truly dragged me down the memory lane of reminiscent. All the genuine emotions started pouring out, I simply cannot comprehend them all. From an innocent sophomore to a mature highschooler, I can still clearly recall each and every snippet of the journey. Looking back, I was this

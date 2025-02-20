@@ -1,7 +1,6 @@
-**<u>Learning English through Popular Culture</u>**
-Asian singers and movie stars are gaining popularity all over the world and are no longer appealing only to Asian audiences. Write an article for your school newspaper explaining why Asian stars are gaining popularity in Western countries. Give a title to your article.
+> <u>Learning English through Popular Culture</u>
+> Asian singers and movie stars are gaining popularity all over the world and are no longer appealing only to Asian audiences. Write an article for your school newspaper explaining why Asian stars are gaining popularity in Western countries. Give a title to your article.
 
----
 <p style="text-align: center;">Asian Pop Culture: Drivers Behind Asian Stars’ Irresistible Appeal to Westerners</p>
 
 The showbiz-industry, in both the fields of music and film, was once dominated by the west, with all those Hollywood movies breaking box-office record and songs sung by Western bands like One Direction sweeping across the streets like a strain of flu. It is not until recently that the tide has vanished into thin air – Asian movie stars and singers are gaining traction and an unprecedented popularity among western audience, taking over the showbiz-industry from the hands of western stars. Let’s delve deep into the drivers behind the rise of Asian stars, and what contributes to their increasing influence in the world.

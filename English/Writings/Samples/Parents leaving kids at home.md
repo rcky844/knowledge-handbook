@@ -1,7 +1,5 @@
-Argue for or against the motion that ‘parents who leave their kids under the age of 15 unattended
-at home should be punished.’ Write a debate speech.
+> Argue for or against the motion that ‘parents who leave their kids under the age of 15 unattended at home should be punished.’ Write a debate speech.
 
----
 Good morning adjudicators, ladies and gentlemen,
 
 Today our debate motion is ‘parents who leave their kids under the age of 15 unattended at home should be punished’. As the captain of the affirmative team, I hold a fervent belief that today’s motion must under all circumstances justifiable.

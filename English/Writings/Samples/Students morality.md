@@ -1,6 +1,5 @@
-It is found that schoolmates in your school are in severe lack of morality. You believe that the school has a great role to play for enhancing students’ morality. Write a letter to the principal giving you views that our school should enhance students’ morality.
+> It is found that schoolmates in your school are in severe lack of morality. You believe that the school has a great role to play for enhancing students’ morality. Write a letter to the principal giving you views that our school should enhance students’ morality.
 
----
 Dear Ms Lee,
 
 I am writing to express my opinion on our students’ declining morality and the desperate need to train their morality. Walking along the corridor, we teachers are not surprised to see students littering, hear them saying foul languages, or even witness them fighting with one another. It is really worth noting that students pay no heed to their behaviour at school, not to mention outside the campus. Not bearing such a worrying sight, I am going to shed light on the three reasons why the school authority should prioritize cultivating students’ morality.

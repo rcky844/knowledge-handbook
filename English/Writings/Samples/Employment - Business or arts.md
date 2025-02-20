@@ -1,8 +1,7 @@
-In light of the soaring unemployment rate, the government has proposed to subsidise $10,000 to some employers that are hiring talents. Should the government subsidise companies in the business sectors, or companies in the arts industry?
-- Write a debate speech.
-- Argue whether the government should subsidise companies in the business sector or companies in the arts industry.
+> In light of the soaring unemployment rate, the government has proposed to subsidise $10,000 to some employers that are hiring talents. Should the government subsidise companies in the business sectors, or companies in the arts industry?
+> - Write a debate speech.
+> - Argue whether the government should subsidise companies in the business sector or companies in the arts industry.
 
----
 Good morning adjudicators and our respected opponents,
 
 Today our debate motion is “whether the government should subsidize companies in business sectors, or companies in the art industry. As the representative of the latter, I hold a firm belief that the arts industry is under all circumstances worth investing. Prior to elucidating my arguments, may I take this opportunities to ask our respected opponents a couple of questions: How much has the government invested in the business sector from the outset of pandemic? In the absence of arts, could Hong Kong be dubbed as a “Vibrant cultural diversified city”? The answer is patently a “no”. Ladies and gentlemen, our side’s argument is simple: We fervently believe that the arts industry is currently in dire straits and only through subsidising art companies, namely music, film, design or visual arts industries could we retain these talents in our metropolis. In no way should the business sector outweigh the value of arts.

@@ -1,8 +1,6 @@
-You have participated in a debate competition. Write a debate speech for or against the motion ‘that
-students should be given a gap year before the start of university to explore their own interests’.
+> You have participated in a debate competition. Write a debate speech for or against the motion ‘that students should be given a gap year before the start of university to explore their own interests’.
 
----
-#### Sample 1
+# Sample 1
 
 Good morning adjudicators, fellow opponents, ladies and gentlemen,
 
@@ -16,8 +14,7 @@ While our fellow opponents may contend that delaying university study for a year
 
 In conclusion, our side have solid grounds supporting the motion ‘that students should be given a gap year before the start of university to explore their own interests’. Students should be granted their deserved resting time to improve their mental well-being, enrich their experiences apart from academics and carefully considering their career planning. Therefore, today’s motion must stand. Thank you.
 
----
-#### Sample 2
+# Sample 2
 
 Good morning adjudicators, ladies and gentlemen,
 
