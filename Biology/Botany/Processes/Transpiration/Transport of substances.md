@@ -23,7 +23,7 @@ The **phloem** transports organic nutrients (e.g. sucrose and amino acids) withi
 - **In leaves**: xylem is above phloem
   ![[vasculardist_leaves.webp|450]]
 
-- **In stems**: xylem (outer), phloem (inner)
+- **In stems**: xylem (inner), phloem (outer)
   ![[vasculardist_stems.webp|380]]
 
 - **In roots**: xylem (star), phloem (‘planets’)
