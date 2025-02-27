@@ -1,5 +1,5 @@
 > [!callout | noicon | right] Amides
-> <table class="infobox-tables"><tr><th>Suffix:</th><td>-oate</td></tr><tr><th>General formula:</th><td><span class="math display">\ce{RN(R')(R'')}</span></span></td></tr><tr><th>Intermolecular forces:</th><td>Van der Waals' forces;<br>Hydrogen bonds</td></tr><tr><th>Soluble in water?</th><td>✓<br>(for <span class="math display">n\le4</span>)</td></table>
+> <table class="infobox-tables"><tr><th>Suffix:</th><td>-amine</td></tr><tr><th>General formula:</th><td><span class="math display">\ce{RN(R')(R'')}</span></span></td></tr><tr><th>Intermolecular forces:</th><td>Van der Waals' forces;<br>Hydrogen bonds</td></tr><tr><th>Soluble in water?</th><td>✓<br>(for <span class="math display">n\le4</span>)</td></table>
 
 **Amines** can be formed from amides through [[hydrolysis]].
 
