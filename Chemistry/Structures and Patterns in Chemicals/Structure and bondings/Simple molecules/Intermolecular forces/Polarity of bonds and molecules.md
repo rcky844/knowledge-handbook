@@ -79,15 +79,20 @@ Consider $\ce{CHCl3}$ and $\ce{CCl4}$:
 
 # Physical test for polarity of chemical species
 ![[polarity_test.webp|450]]
-Physical test of <u>liquid jet</u> can be used to determine whether a chemical species (liquid) is polar.
+Physical test of <span class="hi-blue">liquid jet</span> can be used to determine whether a chemical species (liquid) is <span class="hi-green">polar</span>.
 
 *Procedures*:
-- A sample is added into a burette and allowed to run.
+- A sample is added into a <span class="hi-blue">burette</span> and allowed to run.
 - A charge rod is placed close to the liquid jet.
 
 *Results*:
-- <u>If the liquid is polar, deflection occurs and the liquid jet is brought closer to the charged rod.</u>
+- If the liquid is polar, the liquid jet will be <span class="hi-orange">deflected towards</span> the charged rod.
 - If the liquid is non-polar, deflection does not occur and the liquid jet keeps running as normal.
 
-> [!note]
-> A charged rod of either polarity (negative or positive) can be used as the molecules can rearrange themselves to face the charged rod with a side of opposite charges to the charged rod.
+> [!tip] Polarity of charged rods
+> A charged rod of either polarity (negative or positive) can be used, as the molecules can <span class="hi-green">rearrange / orientate</span> themselves to face the charged rod with a <span class="hi-orange">side of opposite charges</span> to the charged rod.
+
+> [!info] Induced charges
+> It is possible for some <span class="hi-green">non-polar</span> liquids to be deflected.
+> 
+> A charged rod induces an <span class="hi-blue">instantaneous dipole</span> in the molecule, so the molecules will face in alignment with the electric field of the charged rod.

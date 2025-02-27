@@ -113,16 +113,42 @@
 - Plastic optical fibres
 
 # Environmental issues
-*Problems*:
-- Poisonous plastic articles
-- Fire risk
-- Disposal of plastic waste
-    - Non-biodegradable (landfill)
-    - Poisonous gas produced during combustion (incineration)
+> [!info] Biodegradable plastics
+> Most plastics are <span class="hi-green">non-biodegradable</span>, which will <u>accumulate</u> in the environment and pollute soil and water.
+> 
+> One of the solution to solve environmental problems is making <span class="hi-blue">biodegradable plastics</span>. Examples include PLAs, starch blends or cellulose-based plastics.
 
-*Solutions*:
-- **4Rs**: Reduce, Reuse, Recycle, Replace
-- Make biodegradable plastics
+## Disposal methods
+### Incineration
+*Advantages*:
+- Can reduce the volume of solid waste
+- Converts plastic wastes into energy ([[combustion]])
+
+*Disadvantages*:
+- Releases toxic gases ($\ce{CO}$ / dioxin)
+- Releases greenhouse gas $\ce{CO2}$
+- Releases particulates which cause respiratory diseases (/ darkening of buildings)
+- Cost to remove air pollutants from flue gas is high
+
+### Landfilling
+*Advantages*:
+- Does not cause much air pollution
+- Produces methane which can be collected as fuel
+
+*Disadvantages*:
+- A lot of landfill sites are required
+- Causes underground water pollution
+
+### Recycling
+*Advantages*:
+- Saves petroleum, which is a non-renewable energy source
+- Reduces the volume of solid waste
+- Can help to conserve plastic materials
+- Does not cause much air pollution
+
+*Disadvantages*:
+- Difficult to separate specific materials from other wastes
+- Recycling is energy consuming and not cost effective
 
 # See also
 - [[Thermoplastics]] — Property of addition polymers
