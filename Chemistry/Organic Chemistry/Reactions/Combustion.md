@@ -63,6 +63,9 @@ Greenhouse gases (e.g. $\ce{CO2}$, $\ce{CH4}$, $\ce{H2O}$) can trap heat which i
 ## Catalytic converters
 **Catalytic converters** are installed to vehicles to reduce the amount of pollutants ($\ce{NO_x}$, $\ce{CO}$, unburnt hydrocarbons and soot / suspended particulates) in the exhaust.
 
+> [!warning]
+> "Catalytic convert<u>or</u>" is not an accepted spelling.
+
 They contain <span class="hi-blue">catalysts (Pt / Pd)</span> to <span class="hi-green">speed up the rate of reaction</span>.
 - Leaded fuels should not be used with catalytic converters, as it would <u>'poison' the catalyst</u>.
 - Catalytic converters are shaped like a <span class="hi-green">honeycomb / beehive</span>, this is to <u>increase the surface area for reaction</u>.
