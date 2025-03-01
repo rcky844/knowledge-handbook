@@ -4,7 +4,7 @@ Bonding and stoichiometric compositions of oxides of Period 3 ⤴️
 ![[table_acid_base.webp]]
 Acid-base properties of oxides of Period 3 ⤴️
 
-> [!note]
+> [!important]
 > - $\ce{P4O10}$ is also called "Phosphorous(V) oxide" by its empirical formula of $\ce{P2O5}$. Phosphorous does not form ions with +5 charge, but it refers to the oxidation number of P in $\ce{P4O10}$.
 
 # Demonstrating their acid-base properties
@@ -44,6 +44,13 @@ $\ce{Al2O3}$ is <span class="hi-blue">amphoteric</span>. It shows both acidic an
 
 - **Reaction with alkali**
   $\ce{SO2(g) + 2NaOH(aq) ⇌ Na2SO3(aq) + H2O(ℓ)}$
+
+## Dichlorine oxide ($\ce{Cl2O}$)
+- **Reaction with water**
+  $\ce{Cl2O(g) + H2O(ℓ) ⇌ 2HOCl(aq)}$
+
+- **Reaction with alkali**
+  $\ce{Cl2O(g) + 2NaOH(aq) -> 2NaClO(aq) + H2O(ℓ)}$
 
 ## Silicon dioxide ($\ce{SiO2}$)
 > [!note]
