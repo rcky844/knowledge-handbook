@@ -1,14 +1,12 @@
 # Structure
 ![[phospholipids_cell_membrane.webp|180]]
 
-*Phosphate group*: Hydrophilic
+*Phosphate group*: Hydrophilic / water-loving
 - Polar and attracted to polar molecules (e.g. water)
 
-*Fatty acids*: Hydrophobic
+*Fatty acids*: Hydrophobic / water-hating
 - Non-polar and repel polar molecules (e.g. water)
 
 # Arrangement in cell membranes
-![[cell_membrane_arrangement.webp]]
-
-- **Hydrophobic tails** point inwards towards each other.
-- **Hydrophilic heads** face the <span class="hi-green">aqueous environment</span> inside and outside the cell (aqueous solution in cytoplasm and extracellular fluid respectively).
+- **Hydrophobic tails** <span class="hi-green">point inwards</span> towards each other.
+- **Hydrophilic heads** face the <span class="hi-green">aqueous medium</span> inside and outside the cell (cell sap in cytoplasm and extracellular fluid respectively).
