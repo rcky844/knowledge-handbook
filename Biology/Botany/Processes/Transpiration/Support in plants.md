@@ -15,7 +15,7 @@
 **Rigidity** is a means of mechanical support in <span class="hi-green">woody plants</span>. They rely mainly on the rigidity of <span class="hi-blue">thick-walled cells</span> of <span class="hi-blue">xylem vessels</span>.
 
 *Properties of xylem vessels for support*:
-- Cell walls of xylem vessels are <span class="hi-blue">thick and lignified</span>, making them <span class="hi-green">hard and rigid</span>.
+- <span class="hi-orange">Cell walls</span> of xylem vessels are <span class="hi-blue">thick and lignified</span>, making them <span class="hi-green">hard and rigid</span>.
 - Supports plants even without sufficient water supply, as they consists of <span class="hi-green">dead cells</span>.
 
 > [!note] Wood
