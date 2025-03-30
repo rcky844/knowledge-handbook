@@ -41,7 +41,7 @@ $$
 > [!tip]
  > Be aware of the sources for the products produced!
  > - Glucose is formed from both $\ce{CO2}$ and $\ce{H2O}$
- > - Oxygen came formed from the $\ce{H2O}$
+ > - Oxygen came from $\ce{H2O}$ only.
 
 # Requirements (+ Experiments)
 - [[Light (Photosynthesis)|Light]]

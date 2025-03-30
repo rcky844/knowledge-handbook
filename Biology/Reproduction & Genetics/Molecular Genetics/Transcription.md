@@ -13,12 +13,12 @@
 2. **Pairing of free and complementary RNA nucleotides**
 	- The RNA polymerase makes use of one DNA strand as a <u>template (the template strand)</u>.
 	- Exposed nitrogenous bases of the DNA attract and form [[hydrogen bonds]] with their <span class="hi-green">complementary and free</span> <span class="hi-blue">RNA nucleotides</span> in the <u>presence of RNA polymerase</u>. (see [[Genes|complementary base pairing]])
-	- The RNA polymerase moves along the template strand. The process is <u>repeated</u> until the it <u>reaches the end of the gene</u>. A long messenger RNA is formed.
+	- The RNA polymerase moves along the template strand. The process is <u>repeated</u> until it <u>reaches the end of the gene</u>. A long messenger RNA is formed.
 
 > [!note]
 > The base sequence of mRNA is <u>identical to the coding strand</u> and complementary to the template strand, except it has the <u>base uracil (U) instead of thymine (T)</u>.
 
 3. **Rewinding of DNA strands**
 	- The RNA polymerase <u>separates from the DNA and releases the mRNA</u>.
-	- The mRNA produced then <u>leaves the nucleus through nuclear pores</u> and enters the <u>cytoplasm</u>. It then rests on a [[Ribosomes|ribosome]] (free or ER-bounded) for translation.
-	- The <u>DNA rewinds</u> to reform a double helix.
+	- The mRNA produced then leaves the nucleus through <span class="hi-blue">nuclear pores</span> and enters the <span class="hi-blue">cytoplasm</span>. It then rests on a [[Ribosomes|ribosome]] (free or ER-bounded) for translation.
+	- The <u>DNA rewinds</u> to re-form a double helix.
