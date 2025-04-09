@@ -78,7 +78,7 @@ $\ce{2NaCl(aq) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + Cl2(g)}$
 
 *Design* (advantages):
 - **It uses a cation-permeable membrane.**
-  The membrane only allows the passage of cations ($\ce{Na+, H+}$), but not anions ($\ce{Cl-, OH-}$), water ($\ce{H2O}$) and gas molecules ($\ce{Cl2, H2}$).
+  The membrane <span class="hi-green">only allows the passage of cations</span> ($\ce{Na+, H+}$), <span class="hi-green">but not anions</span> ($\ce{Cl-, OH-}$), water ($\ce{H2O}$) and gas molecules ($\ce{Cl2, H2}$).
 
 - **Flow of $\ce{Cl-(aq)}$ from the anodic to cathodic compartment is prevented.**
   The cell produces sodium hydrogen of high purity.
