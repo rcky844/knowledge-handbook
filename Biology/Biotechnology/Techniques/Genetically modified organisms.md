@@ -6,7 +6,7 @@
 A gene of interest is introduced to a bacterium by using <span class="hi-blue">plasmids or bacteriophages</span>.
 
 # Genetically modified plants
-## Agrobacterium
+## Infection with Agrobacterium
 Soil bacterium *Agrobacterium* can be utilized to transfer a target gene into plant cells (most <span class="hi-blue">dicotyledonous plants</span>) to integrate it with the plant genome, as the bacterium contains $T_i$ (<span class="hi-blue">tumour inducing</span>) plasmid.
 
 *Limitations*:
@@ -18,8 +18,8 @@ Soil bacterium *Agrobacterium* can be utilized to transfer a target gene into pl
 > [!info]
 > Plants do not have an adaptive immune system like animals, so the bacterium will not induce immune responses.
 
-## Gene gun
-A <span class="hi-blue">gene gun</span> can be used to transfer target genes into plant cells. 
+## Plant tissue culture / Micropropagaion
+The technique **micropropagaion** involves the use of a <span class="hi-blue">gene gun</span> to <span class="hi-green">transfer target genes into plant cells</span>.
 
 *Process*:
 - DNA fragments containing the gene of interest are coated onto the surface of gold or tungsten nano-sized beads.
