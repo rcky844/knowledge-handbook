@@ -9,13 +9,10 @@
 **Osmoregulation** is controlled by a [[negative feedback mechanism]]. This involves urine production, which is brought about by <span class="hi-blue">antidiuretic hormone (ADH)</span>.
 
 *Details of antidiuretic hormone (ADH)*:
-- **Production**: <span class="hi-green">Produced</span> by the <span class="hi-blue">hypothalamus</span> of the brain continuously
+- **Production**: <span class="hi-green">Produced</span> by the <span class="hi-blue">hypothalamus</span> of the brain <u>continuously</u>.
 - **Release**: <span class="hi-green">Stored and released</span> by the <span class="hi-blue">pituitary gland</span>. Amount of ADH released depends on the <u>changes in water potential of blood</u> detected by <span class="hi-blue">osmoreceptors</span> in the hypothalamus.
-- **Effects**: <span class="hi-green">Increases the permeability of the walls of the collecting duct</span> so that the <span class="hi-green">proportion of water reabsorbed along the collecting duct increases</span>.
+- **Effects**: <span class="hi-green">Increases the permeability of the walls of the collecting duct</span> so that <span class="hi-green">a proportion of water is reabsorbed</span>.
 - **Goal**: Conserve water / Remove excess water
-
-> [!note]
-> The release of ADH actually occurs continuously.
 
 ## Fall in water potential of blood
 - <span class="hi-blue">Osmoreceptors</span> in the <span class="hi-blue">hypothalamus</span> detect a fall in water potential in blood, and <u>signals</u> the <span class="hi-blue">pituitary gland</span> to <u>release more ADH</u>.
