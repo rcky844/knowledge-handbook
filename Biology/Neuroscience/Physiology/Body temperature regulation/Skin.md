@@ -1,6 +1,6 @@
 The **skin** is mainly responsible for <span class="hi-green">thermoregulation</span> in humans.
 
-**Functions**:
+*Functions*:
 - Regulate body temperature
 - For body defence (acts as a [[Physical barriers|physical barrier]])
 - For sensation
@@ -16,11 +16,11 @@ The **skin** is mainly responsible for <span class="hi-green">thermoregulation</
 	- Melanin absorbs ultraviolet (UV) light to protect the tissues from damage.
 - Produces [[Vitamins#Vitamin D|vitamin D]] in sunlight.
 
-**Middle layer**:
+*Middle layer*:
 - Contains living cells produced by the Malpighian layer.
 - Contents of its cells are gradually replaced by the fibrous protein keratin as they are pushed towards the skin surface. Their nuclei then disappears and they die.
 
-**Outermost layer** (cornified layer):
+*Outermost layer* (cornified layer):
 - Contains flattened, dead cells that are constantly shed and replaced by cells from inner layers.
 - Serves as a [[Physical barriers|barrier]] preventing the invasion of pathogens and protects the body from minor mechanical injuries.
 - Cells are waterproof and help minimize water loss from the skin surface.
@@ -28,10 +28,10 @@ The **skin** is mainly responsible for <span class="hi-green">thermoregulation</
 ## Dermis
 ### Hair follicles, hairs and erector muscles
 **Hair follicles** are sac-like structures that extend from the epidermis to the dermis.
-- **Hair root** is where a hair develops, it is at the base of the hair follicle.
-- An **erector muscle** is attached to each hair follicle.
+- <span class="hi-blue">Hair root</span> is where a hair develops, it is at the base of the hair follicle.
+- An <span class="hi-blue">erector muscle</span> is attached to each hair follicle.
 
-**Action of erector muscle**:
+*Action of erector muscle*:
 - Contraction of erector muscle causes the hair to become erect.
 - Relaxation of erector muscle causes the hair to lie flat.
 
@@ -57,10 +57,10 @@ The **skin** is mainly responsible for <span class="hi-green">thermoregulation</
 **Sensory neurones** carry nerve impulses from the receptors to the CNS. Motor neurones carry nerve impulses from the CNS to the muscles and glands in the dermis.
 
 ### Blood vessels
-**General function**:
+*General function*:
 - Supply living cells in the skin with oxygen and nutrients, and remove carbon dioxide and metabolic wastes.
 
-**Shunt vessels**:
+*Shunt vessels*:
 - Connect arterioles and venules, allowing blood to bypass certain capillaries.
 - Controlling the amount of blood flowing through the capillaries near the skin surface can control the heat loss from the skin.
 
