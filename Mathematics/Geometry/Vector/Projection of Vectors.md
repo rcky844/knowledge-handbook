@@ -1,13 +1,21 @@
-# Projection on lines
 ![[vector_projection_line.webp|300]]
 
-*Calculation*:
+*Formula*:
 $$
 \newcommand{\vectorproj}[2][]{\textit{proj}_{#1}#2}
 \vectorproj[\vec{v}]{\vec{u}} = \frac{\vec{u}\cdot\vec{v}}{|\vec{v}|^2} \vec{v}
 $$
 
-# Projection on planes
+*Proof*:
+$$
+\array{
+\text{Scaler proj.} = |\vec{u}|\cos\theta = |\vec{u}|(\frac{\vec{u}\cdot\vec{v}}{|\vec{u}||\vec{v}|}) = \frac{\vec{u}\cdot\vec{v}}{|\vec{v}|}\\
+\newcommand{\vectorproj}[2][]{\textit{proj}_{#1}#2}
+\vectorproj[\vec{v}]{\vec{u}} = \frac{\vec{u}\cdot\vec{v}}{|\vec{v}|}(\frac{\vec{v}}{|\vec{v}|}) = \frac{\vec{u}\cdot\vec{v}}{|\vec{v}|^2} \vec{v}
+}
+$$
+
+# Plane projections
 ![[vector_projection_plane.webp|250]]
 
 > [!tip]
