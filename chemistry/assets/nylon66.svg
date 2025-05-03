@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="101.6mm" height="50.8mm" viewBox="0 0 10160 5080" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xml:space="preserve">
+ <defs class="ClipPathGroup">
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="0" y="0" width="10160" height="5080"/>
+  </clipPath>
+  <clipPath id="presentation_clip_path_shrink" clipPathUnits="userSpaceOnUse">
+   <rect x="10" y="5" width="10140" height="5070"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_1" horiz-adv-x="2048">
+   <font-face font-family="Trebuchet MS embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1926" descent="466"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="→" horiz-adv-x="1895" d="M 1555,876 C 1644,779 1720,706 1785,656 1850,605 1911,568 1968,543 L 1968,498 C 1902,466 1838,425 1776,376 1714,326 1640,253 1554,157 L 1477,157 C 1540,291 1605,394 1674,466 L 79,466 79,567 1674,567 C 1623,632 1588,680 1568,711 1548,742 1518,797 1479,876 L 1555,876 Z"/>
+   <glyph unicode="n" horiz-adv-x="853" d="M 794,0 L 794,623 C 794,737 777,817 743,863 708,908 651,931 570,931 527,931 481,918 434,892 387,866 350,834 325,796 L 325,0 135,0 135,1071 265,1071 325,933 C 388,1038 490,1091 632,1091 867,1091 984,948 984,663 L 984,0 794,0 Z"/>
+   <glyph unicode="O" horiz-adv-x="1225" d="M 80,745 C 80,957 133,1134 240,1277 346,1420 489,1491 670,1491 873,1491 1029,1425 1138,1294 1246,1163 1300,980 1300,745 1300,504 1246,316 1137,180 1028,43 873,-25 670,-25 485,-25 341,47 237,191 132,335 80,520 80,745 Z M 290,745 C 290,577 323,437 390,324 456,211 549,155 670,155 807,155 911,207 983,310 1054,413 1090,558 1090,745 1090,1122 950,1311 670,1311 546,1311 452,1260 387,1159 322,1058 290,920 290,745 Z"/>
+   <glyph unicode="N" horiz-adv-x="1011" d="M 1097,-20 L 340,1051 340,0 150,0 150,1465 230,1465 967,452 967,1465 1157,1465 1157,-20 1097,-20 Z"/>
+   <glyph unicode="H" horiz-adv-x="1045" d="M 990,0 L 990,708 350,708 350,0 150,0 150,1465 350,1465 350,878 990,878 990,1465 1190,1465 1190,0 990,0 Z"/>
+   <glyph unicode="C" horiz-adv-x="1069" d="M 1085,1411 L 1018,1240 C 954,1287 853,1310 716,1310 587,1310 484,1255 407,1144 329,1033 290,891 290,716 290,549 330,414 410,311 489,207 592,155 718,155 855,155 961,204 1035,301 L 1145,148 C 1029,33 880,-25 697,-25 506,-25 355,44 245,182 135,320 80,502 80,728 80,947 139,1128 256,1273 373,1418 525,1490 711,1490 870,1490 995,1464 1085,1411 Z"/>
+   <glyph unicode="=" horiz-adv-x="842" d="M 960,876 L 960,735 122,735 122,876 960,876 Z M 960,536 L 960,395 122,395 122,536 960,536 Z"/>
+   <glyph unicode="6" horiz-adv-x="909" d="M 672,1491 L 769,1384 C 710,1361 626,1282 515,1148 404,1013 342,910 330,837 385,890 462,917 561,917 690,917 794,876 872,793 950,710 989,597 989,452 989,309 949,193 869,106 788,19 687,-25 566,-25 245,-25 84,188 84,614 84,791 147,973 273,1159 398,1344 531,1455 672,1491 Z M 294,458 C 294,249 380,145 551,145 623,145 680,172 722,227 763,281 784,353 784,442 784,535 762,609 718,664 674,719 617,747 548,747 379,747 294,651 294,458 Z"/>
+   <glyph unicode="4" horiz-adv-x="1009" d="M 882,399 L 882,0 692,0 692,399 25,399 25,513 812,1471 882,1471 882,553 1030,553 1030,399 882,399 Z M 692,1072 L 262,553 692,553 692,1072 Z"/>
+   <glyph unicode="2" horiz-adv-x="914" d="M 69,0 L 69,40 528,743 C 624,890 672,1015 672,1118 672,1253 596,1321 443,1321 389,1321 338,1307 291,1279 244,1250 209,1214 188,1171 L 59,1277 C 82,1342 126,1394 193,1433 259,1472 339,1491 433,1491 574,1491 684,1459 763,1394 842,1329 882,1237 882,1118 882,1008 829,869 724,702 L 395,180 969,180 969,0 69,0 Z"/>
+   <glyph unicode="+" horiz-adv-x="842" d="M 611,706 L 960,706 960,565 611,565 611,220 470,220 470,565 122,565 122,706 470,706 470,1049 611,1049 611,706 Z"/>
+   <glyph unicode=")" horiz-adv-x="428" d="M 193,-428 L 193,-323 C 325,-171 391,122 391,557 391,923 325,1201 193,1392 L 193,1475 C 307,1416 406,1294 491,1109 576,924 618,740 618,559 618,346 581,152 507,-24 432,-199 328,-334 193,-428 Z"/>
+   <glyph unicode="(" horiz-adv-x="428" d="M 618,1475 L 618,1392 C 486,1201 420,923 420,557 420,122 486,-171 618,-323 L 618,-428 C 483,-334 379,-199 305,-24 230,152 193,346 193,559 193,740 235,924 320,1109 405,1294 504,1416 618,1475 Z"/>
+  </font>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_2" horiz-adv-x="2048">
+   <font-face font-family="Trebuchet MS embedded" units-per-em="2048" font-weight="bold" font-style="normal" ascent="1926" descent="466"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="—" horiz-adv-x="1374" d="M 63,502 L 63,703 1432,703 1432,502 63,502 Z"/>
+  </font>
+ </defs>
+ <defs class="TextShapeIndex">
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50 id51 id52 id53 id54 id55 id56 id57 id58 id59 id60 id61 id62 id63 id64 id65 id66 id67 id68 id69"/>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template-57354" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template-10146" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template-10132" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template-10007" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template-10004" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template-9679" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template-8226" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template-8211" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+  <g id="bullet-char-template-61548" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 173,740 C 173,903 231,1043 346,1159 462,1274 601,1332 765,1332 928,1332 1067,1274 1183,1159 1299,1043 1357,903 1357,740 1357,577 1299,437 1183,322 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z"/>
+  </g>
+ </defs>
+ <g>
+  <g id="id2" class="Master_Slide">
+   <g id="bg-id2" class="Background"/>
+   <g id="bo-id2" class="BackgroundObjects"/>
+  </g>
+ </g>
+ <g class="SlideGroup">
+  <g>
+   <g id="container-id1">
+    <g id="id1" class="Slide" clip-path="url(#presentation_clip_path)">
+     <g class="Page">
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id3">
+        <rect class="BoundingBox" stroke="none" fill="none" x="9651" y="874" width="288" height="353"/>
+        <path fill="rgb(255,238,88)" stroke="none" d="M 9795,1226 L 9651,1226 9651,874 9938,874 9938,1226 9795,1226 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id4">
+        <rect class="BoundingBox" stroke="none" fill="none" x="6270" y="877" width="288" height="353"/>
+        <path fill="rgb(255,238,88)" stroke="none" d="M 6414,1229 L 6270,1229 6270,877 6557,877 6557,1229 6414,1229 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id5">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4298" y="880" width="569" height="353"/>
+        <path fill="rgb(255,238,88)" stroke="none" d="M 4582,1232 L 4298,1232 4298,880 4866,880 4866,1232 4582,1232 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id6">
+        <rect class="BoundingBox" stroke="none" fill="none" x="754" y="879" width="569" height="353"/>
+        <path fill="rgb(255,238,88)" stroke="none" d="M 1038,1231 L 754,1231 754,879 1322,879 1322,1231 1038,1231 Z"/>
+       </g>
+      </g>
+      <g class="TextShape">
+       <g id="id7">
+        <rect class="BoundingBox" stroke="none" fill="none" x="39" y="646" width="636" height="743"/>
+        <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="289" y="1169"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(255,0,0)" stroke="none" style="white-space: pre">n</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="TextShape">
+       <g id="id8">
+        <rect class="BoundingBox" stroke="none" fill="none" x="7739" y="3046" width="636" height="743"/>
+        <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="7989" y="3569"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">+</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="TextShape">
+       <g id="id9">
+        <rect class="BoundingBox" stroke="none" fill="none" x="8164" y="3037" width="1056" height="743"/>
+        <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="8465" y="3560"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(255,0,0)" stroke="none" style="white-space: pre">2n</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="TextShape">
+       <g id="id10">
+        <rect class="BoundingBox" stroke="none" fill="none" x="8763" y="3035" width="1271" height="743"/>
+        <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9053" y="3558"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">H</tspan></tspan><tspan class="TextPosition" y="3592"><tspan font-family="Trebuchet MS, sans-serif" font-size="245px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">2</tspan></tspan><tspan class="TextPosition" y="3558"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">O</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="Group">
+       <g class="Group">
+        <g class="com.sun.star.drawing.LineShape">
+         <g id="id11">
+          <rect class="BoundingBox" stroke="none" fill="none" x="7078" y="2310" width="229" height="29"/>
+          <path fill="none" stroke="rgb(0,176,255)" stroke-width="28" stroke-linejoin="round" d="M 7292,2324 L 7092,2324"/>
+         </g>
+        </g>
+        <g class="com.sun.star.drawing.LineShape">
+         <g id="id12">
+          <rect class="BoundingBox" stroke="none" fill="none" x="7278" y="2310" width="29" height="2395"/>
+          <path fill="none" stroke="rgb(0,176,255)" stroke-width="28" stroke-linejoin="round" d="M 7292,4690 L 7292,2324"/>
+         </g>
+        </g>
+        <g class="com.sun.star.drawing.LineShape">
+         <g id="id13">
+          <rect class="BoundingBox" stroke="none" fill="none" x="7078" y="4674" width="229" height="29"/>
+          <path fill="none" stroke="rgb(0,176,255)" stroke-width="28" stroke-linejoin="round" d="M 7292,4688 L 7092,4688"/>
+         </g>
+        </g>
+       </g>
+       <g class="Group">
+        <g class="com.sun.star.drawing.LineShape">
+         <g id="id14">
+          <rect class="BoundingBox" stroke="none" fill="none" x="1445" y="2310" width="229" height="29"/>
+          <path fill="none" stroke="rgb(0,176,255)" stroke-width="28" stroke-linejoin="round" d="M 1659,2324 L 1459,2324"/>
+         </g>
+        </g>
+        <g class="com.sun.star.drawing.LineShape">
+         <g id="id15">
+          <rect class="BoundingBox" stroke="none" fill="none" x="1445" y="2310" width="29" height="2395"/>
+          <path fill="none" stroke="rgb(0,176,255)" stroke-width="28" stroke-linejoin="round" d="M 1459,4690 L 1459,2324"/>
+         </g>
+        </g>
+        <g class="com.sun.star.drawing.LineShape">
+         <g id="id16">
+          <rect class="BoundingBox" stroke="none" fill="none" x="1445" y="4674" width="229" height="29"/>
+          <path fill="none" stroke="rgb(0,176,255)" stroke-width="28" stroke-linejoin="round" d="M 1659,4688 L 1459,4688"/>
+         </g>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id17">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1599" y="2446" width="852" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1882" y="2969"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">O</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id18">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1629" y="2685" width="757" height="852"/>
+         <text class="SVGTextShape" transform="rotate(-90 2152 3221)"><tspan class="TextParagraph"><tspan class="TextPosition" x="2152" y="3221"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id19">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1583" y="3046" width="852" height="757"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1882" y="3569"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">C</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id20">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1941" y="3095" width="713" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2191" y="3516"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="com.sun.star.drawing.PolyPolygonShape">
+        <g id="id21">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1160" y="3408" width="641" height="32"/>
+         <path fill="rgb(0,176,255)" stroke="none" d="M 1160,3439 L 1160,3408 1800,3408 1800,3439 1160,3439 Z"/>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id22">
+         <rect class="BoundingBox" stroke="none" fill="none" x="3368" y="3095" width="713" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3618" y="3516"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id23">
+         <rect class="BoundingBox" stroke="none" fill="none" x="3619" y="2444" width="852" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3902" y="2967"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">O</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id24">
+         <rect class="BoundingBox" stroke="none" fill="none" x="3649" y="2683" width="757" height="852"/>
+         <text class="SVGTextShape" transform="rotate(-90 4172 3219)"><tspan class="TextParagraph"><tspan class="TextPosition" x="4172" y="3219"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id25">
+         <rect class="BoundingBox" stroke="none" fill="none" x="3601" y="3044" width="854" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3901" y="3567"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">C</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id26">
+         <rect class="BoundingBox" stroke="none" fill="none" x="3961" y="3093" width="714" height="744"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4211" y="3514"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id27">
+         <rect class="BoundingBox" stroke="none" fill="none" x="4233" y="3044" width="753" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4483" y="3567"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">N</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id28">
+         <rect class="BoundingBox" stroke="none" fill="none" x="4192" y="3716" width="854" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4480" y="4239"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">H</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id29">
+         <rect class="BoundingBox" stroke="none" fill="none" x="4319" y="3339" width="746" height="852"/>
+         <text class="SVGTextShape" transform="rotate(-90 4711 3868)"><tspan class="TextParagraph"><tspan class="TextPosition" x="4711" y="3868"><tspan font-family="Trebuchet MS, sans-serif" font-size="282px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id30">
+         <rect class="BoundingBox" stroke="none" fill="none" x="4568" y="3095" width="713" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4818" y="3516"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id31">
+         <rect class="BoundingBox" stroke="none" fill="none" x="6332" y="3046" width="753" height="757"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6582" y="3569"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">N</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id32">
+         <rect class="BoundingBox" stroke="none" fill="none" x="6295" y="3716" width="854" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6583" y="4239"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">H</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id33">
+         <rect class="BoundingBox" stroke="none" fill="none" x="6422" y="3341" width="744" height="852"/>
+         <text class="SVGTextShape" transform="rotate(-90 6814 3870)"><tspan class="TextParagraph"><tspan class="TextPosition" x="6814" y="3870"><tspan font-family="Trebuchet MS, sans-serif" font-size="282px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id34">
+         <rect class="BoundingBox" stroke="none" fill="none" x="6009" y="3097" width="714" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6259" y="3518"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="com.sun.star.drawing.PolyPolygonShape">
+        <g id="id35">
+         <rect class="BoundingBox" stroke="none" fill="none" x="6886" y="3409" width="641" height="32"/>
+         <path fill="rgb(0,176,255)" stroke="none" d="M 6886,3440 L 6886,3409 7526,3409 7526,3440 6886,3440 Z"/>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id36">
+         <rect class="BoundingBox" stroke="none" fill="none" x="7159" y="4342" width="656" height="587"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="7409" y="4734"><tspan font-family="Trebuchet MS, sans-serif" font-size="282px" font-weight="400" fill="rgb(255,0,0)" stroke="none" style="white-space: pre">n</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id37">
+         <rect class="BoundingBox" stroke="none" fill="none" x="2174" y="3046" width="1695" height="755"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2472" y="3569"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">(CH</tspan></tspan><tspan class="TextPosition" y="3603"><tspan font-family="Trebuchet MS, sans-serif" font-size="245px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">2</tspan></tspan><tspan class="TextPosition" y="3569"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">)</tspan></tspan><tspan class="TextPosition" y="3603"><tspan font-family="Trebuchet MS, sans-serif" font-size="245px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">4</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id38">
+         <rect class="BoundingBox" stroke="none" fill="none" x="4809" y="3046" width="1695" height="755"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="5107" y="3569"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">(CH</tspan></tspan><tspan class="TextPosition" y="3603"><tspan font-family="Trebuchet MS, sans-serif" font-size="245px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">2</tspan></tspan><tspan class="TextPosition" y="3569"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">)</tspan></tspan><tspan class="TextPosition" y="3603"><tspan font-family="Trebuchet MS, sans-serif" font-size="245px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">6</tspan></tspan></tspan></text>
+        </g>
+       </g>
+      </g>
+      <g class="Group">
+       <g class="TextShape">
+        <g id="id39">
+         <rect class="BoundingBox" stroke="none" fill="none" x="6664" y="687" width="753" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6914" y="1210"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">N</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id40">
+         <rect class="BoundingBox" stroke="none" fill="none" x="6625" y="1359" width="852" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6912" y="1882"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">H</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id41">
+         <rect class="BoundingBox" stroke="none" fill="none" x="6752" y="983" width="744" height="852"/>
+         <text class="SVGTextShape" transform="rotate(-90 7144 1512)"><tspan class="TextParagraph"><tspan class="TextPosition" x="7144" y="1512"><tspan font-family="Trebuchet MS, sans-serif" font-size="282px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id42">
+         <rect class="BoundingBox" stroke="none" fill="none" x="6999" y="739" width="714" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="7249" y="1160"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id43">
+         <rect class="BoundingBox" stroke="none" fill="none" x="8765" y="689" width="753" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9015" y="1212"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">N</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id44">
+         <rect class="BoundingBox" stroke="none" fill="none" x="8728" y="1359" width="852" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9015" y="1882"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">H</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id45">
+         <rect class="BoundingBox" stroke="none" fill="none" x="8855" y="985" width="744" height="852"/>
+         <text class="SVGTextShape" transform="rotate(-90 9247 1514)"><tspan class="TextParagraph"><tspan class="TextPosition" x="9247" y="1514"><tspan font-family="Trebuchet MS, sans-serif" font-size="282px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id46">
+         <rect class="BoundingBox" stroke="none" fill="none" x="8442" y="740" width="713" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="8692" y="1161"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id47">
+         <rect class="BoundingBox" stroke="none" fill="none" x="7242" y="689" width="1695" height="755"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="7540" y="1212"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">(CH</tspan></tspan><tspan class="TextPosition" y="1246"><tspan font-family="Trebuchet MS, sans-serif" font-size="245px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">2</tspan></tspan><tspan class="TextPosition" y="1212"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">)</tspan></tspan><tspan class="TextPosition" y="1246"><tspan font-family="Trebuchet MS, sans-serif" font-size="245px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">6</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id48">
+         <rect class="BoundingBox" stroke="none" fill="none" x="6371" y="739" width="714" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6621" y="1160"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id49">
+         <rect class="BoundingBox" stroke="none" fill="none" x="9100" y="739" width="713" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9350" y="1160"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id50">
+         <rect class="BoundingBox" stroke="none" fill="none" x="5990" y="682" width="852" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="6277" y="1205"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">H</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id51">
+         <rect class="BoundingBox" stroke="none" fill="none" x="9368" y="682" width="854" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9656" y="1205"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">H</tspan></tspan></tspan></text>
+        </g>
+       </g>
+      </g>
+      <g class="TextShape">
+       <g id="id52">
+        <rect class="BoundingBox" stroke="none" fill="none" x="41" y="3026" width="658" height="743"/>
+        <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="291" y="3549"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">→</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="TextShape">
+       <g id="id53">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4929" y="655" width="636" height="743"/>
+        <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="5179" y="1178"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">+</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="TextShape">
+       <g id="id54">
+        <rect class="BoundingBox" stroke="none" fill="none" x="5531" y="655" width="636" height="743"/>
+        <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="5781" y="1178"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(255,0,0)" stroke="none" style="white-space: pre">n</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="Group">
+       <g class="TextShape">
+        <g id="id55">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1402" y="87" width="854" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1686" y="610"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">O</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id56">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1432" y="326" width="758" height="852"/>
+         <text class="SVGTextShape" transform="rotate(-90 1955 862)"><tspan class="TextParagraph"><tspan class="TextPosition" x="1955" y="862"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id57">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1386" y="686" width="852" height="757"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1685" y="1209"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">C</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id58">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1744" y="736" width="714" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1994" y="1157"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id59">
+         <rect class="BoundingBox" stroke="none" fill="none" x="3171" y="736" width="714" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3421" y="1157"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id60">
+         <rect class="BoundingBox" stroke="none" fill="none" x="3421" y="85" width="852" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3704" y="608"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">O</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id61">
+         <rect class="BoundingBox" stroke="none" fill="none" x="3451" y="322" width="757" height="854"/>
+         <text class="SVGTextShape" transform="rotate(-90 3974 859)"><tspan class="TextParagraph"><tspan class="TextPosition" x="3974" y="859"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">=</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id62">
+         <rect class="BoundingBox" stroke="none" fill="none" x="3406" y="685" width="852" height="758"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="3705" y="1208"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">C</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id63">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1979" y="686" width="1693" height="755"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="2276" y="1209"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">(CH</tspan></tspan><tspan class="TextPosition" y="1243"><tspan font-family="Trebuchet MS, sans-serif" font-size="245px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">2</tspan></tspan><tspan class="TextPosition" y="1209"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">)</tspan></tspan><tspan class="TextPosition" y="1243"><tspan font-family="Trebuchet MS, sans-serif" font-size="245px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">4</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id64">
+         <rect class="BoundingBox" stroke="none" fill="none" x="1144" y="736" width="713" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="1394" y="1157"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id65">
+         <rect class="BoundingBox" stroke="none" fill="none" x="3757" y="736" width="713" height="624"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4007" y="1157"><tspan font-family="Trebuchet MS, sans-serif" font-size="318px" font-weight="700" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">—</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id66">
+         <rect class="BoundingBox" stroke="none" fill="none" x="4055" y="685" width="1065" height="1238"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="4306" y="1208"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">OH</tspan></tspan></tspan></text>
+        </g>
+       </g>
+       <g class="TextShape">
+        <g id="id67">
+         <rect class="BoundingBox" stroke="none" fill="none" x="504" y="685" width="1065" height="1238"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="755" y="1208"><tspan font-family="Trebuchet MS, sans-serif" font-size="423px" font-weight="400" fill="rgb(0,176,255)" stroke="none" style="white-space: pre">HO</tspan></tspan></tspan></text>
+        </g>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id68">
+        <rect class="BoundingBox" stroke="none" fill="none" x="2230" y="1356" width="1174" height="31"/>
+        <path fill="none" stroke="rgb(0,169,51)" stroke-width="28" stroke-linejoin="round" d="M 2245,1371 L 3388,1371"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id69">
+        <rect class="BoundingBox" stroke="none" fill="none" x="7531" y="1356" width="1174" height="31"/>
+        <path fill="none" stroke="rgb(0,169,51)" stroke-width="28" stroke-linejoin="round" d="M 7546,1371 L 8689,1371"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
