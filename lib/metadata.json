@@ -1,6 +1,6 @@
 {
   "vaultName": "Knowledge Handbook",
-  "lastExport": 1746263089085,
+  "lastExport": 1746293127803,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -1120,7 +1120,6 @@
     "Chinese/作文/題一/一次旅行所見有感.md",
     "Chinese/作文/題一/不要輕易說不.md",
     "Chinese/作文/題一/以身作則的重要.md",
-    "Chinese/作文/題一/最美不過xx.md",
     "Chinese/作文/題一/唐老師引路人.md",
     "Chinese/作文/題一/唐老師讓我刻骨銘心的舉動.md",
     "Chinese/作文/題一/喬遷新居有感.md",
@@ -1131,6 +1130,7 @@
     "Chinese/作文/題一/新的方向.md",
     "Chinese/作文/題一/明白到自己的缺點.md",
     "Chinese/作文/題一/時間不會讓記憶風化.md",
+    "Chinese/作文/題一/最美不過xx.md",
     "Chinese/作文/題一/某某的背後.md",
     "Chinese/作文/題一/某某的訴說.md",
     "Chinese/作文/題一/歡笑過後，我卻感到失望.md",
@@ -1325,6 +1325,22 @@
     "Templates/List article!.md",
     "LICENSE",
     "README.md",
+    "lib/media/inflammatory_response_diagram.webp",
+    "lib/media/phagocytosis_body_defence.webp",
+    "lib/media/lymphocytes_types.webp",
+    "lib/media/heart_adv.webp",
+    "lib/media/skin.webp",
+    "lib/media/photosynthesis_abstract.webp",
+    "lib/media/cell_membrane_structure.webp",
+    "lib/media/cell_membrane_arrangement.webp",
+    "lib/media/cell_membrane_permeability.webp",
+    "lib/media/phospholipids_cell_membrane.webp",
+    "lib/media/dna_strands.webp",
+    "lib/media/hormonal_menstrual_cycle.webp",
+    "lib/media/electrolysis_brine.webp",
+    "lib/media/flowing_mercury_cell.webp",
+    "lib/media/membrane_cell.webp",
+    "lib/media/steam_methane.webp",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -1430,7 +1446,6 @@
     "lib/media/isolation_biomolecules.webp",
     "lib/media/vntr.webp",
     "lib/media/gel_electrophoresis.webp",
-    "lib/media/photosynthesis_abstract.webp",
     "lib/media/light_intensity_effecs_gas_exchange.webp",
     "lib/media/gas_exchange_roots.webp",
     "lib/media/bubble_potometer.webp",
@@ -1470,10 +1485,7 @@
     "lib/media/line_transect2.webp",
     "lib/media/belt_transect1.webp",
     "lib/media/kite_diagram.webp",
-    "lib/media/inflammatory_response_diagram.webp",
-    "lib/media/phagocytosis_body_defence.webp",
     "lib/media/antibodies.webp",
-    "lib/media/lymphocytes_types.webp",
     "lib/media/immunity_graph.webp",
     "lib/media/lymphocytes_memory_graph.webp",
     "lib/media/antibiotic_resistance_development.webp",
@@ -1526,8 +1538,6 @@
     "lib/media/homeostasis_water_salt.webp",
     "lib/media/ventilation_rate_graph.webp",
     "lib/media/chemoreceptors_location.webp",
-    "lib/media/heart_adv.webp",
-    "lib/media/skin.webp",
     "lib/media/dialysis_machine.webp",
     "lib/media/photomicro_blood_vessels.webp",
     "lib/media/kidneys.webp",
@@ -1628,9 +1638,6 @@
     "lib/media/protein_condensation.webp",
     "lib/media/active_transport_diagram.webp",
     "lib/media/active_transport_process.webp",
-    "lib/media/cell_membrane_structure.webp",
-    "lib/media/cell_membrane_arrangement.webp",
-    "lib/media/cell_membrane_permeability.webp",
     "lib/media/diffusion_diagram.webp",
     "lib/media/osmosis_diagram.webp",
     "lib/media/water_potential_diagram.webp",
@@ -1640,7 +1647,6 @@
     "lib/media/osmosis_hypertonic_animal.webp",
     "lib/media/osmosis_hypertonic_plant.webp",
     "lib/media/phagocytosis_exocytosis_diagram.webp",
-    "lib/media/phospholipids_cell_membrane.webp",
     "lib/media/genetic_diagram1.webp",
     "lib/media/punnett_square.svg",
     "lib/media/karyotype.webp",
@@ -1707,14 +1713,12 @@
     "lib/media/growth_humans.webp",
     "lib/media/growth_rate_bodypart.webp",
     "lib/media/sigmoid_growth_curves.webp",
-    "lib/media/dna_strands.webp",
     "lib/media/diaphragm.webp",
     "lib/media/contraceptive_pills.webp",
     "lib/media/iud.webp",
     "lib/media/rhythm_method_estbdtmp.webp",
     "lib/media/male_sterilization.webp",
     "lib/media/tubal_ligation.webp",
-    "lib/media/hormonal_menstrual_cycle.webp",
     "lib/media/labour1.webp",
     "lib/media/labour2.webp",
     "lib/media/labour3.webp",
@@ -1789,11 +1793,7 @@
     "lib/media/gc_ms.webp",
     "lib/media/2020_p2_q3ci.webp",
     "lib/media/forms_of_energy.webp",
-    "lib/media/electrolysis_brine.webp",
-    "lib/media/flowing_mercury_cell.webp",
-    "lib/media/membrane_cell.webp",
     "lib/media/haber_process.webp",
-    "lib/media/steam_methane.webp",
     "lib/media/energy_profile.avif",
     "lib/media/catalysed_energy_profile.webp",
     "lib/media/arrhenius_equation.webp",
@@ -4699,8 +4699,8 @@
       ]
     },
     "Biology/Biotechnology/Techniques/Genetically modified organisms.md": {
-      "modifiedTime": 1746261202783,
-      "sourceSize": 3559,
+      "modifiedTime": 1746293127803,
+      "sourceSize": 3675,
       "exportedPath": "biology/biotechnology/techniques/genetically-modified-organisms.html",
       "dependencies": []
     },
@@ -5037,19 +5037,19 @@
       ]
     },
     "Biology/Immunology/Body defence mechanisms/Non-specific defence/Blood clotting.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 638,
       "exportedPath": "biology/immunology/body-defence-mechanisms/non-specific-defence/blood-clotting.html",
       "dependencies": []
     },
     "Biology/Immunology/Body defence mechanisms/Non-specific defence/Chemical barriers.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1060,
       "exportedPath": "biology/immunology/body-defence-mechanisms/non-specific-defence/chemical-barriers.html",
       "dependencies": []
     },
     "Biology/Immunology/Body defence mechanisms/Non-specific defence/Inflammatory responses.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1635,
       "exportedPath": "biology/immunology/body-defence-mechanisms/non-specific-defence/inflammatory-responses.html",
       "dependencies": [
@@ -5057,7 +5057,7 @@
       ]
     },
     "Biology/Immunology/Body defence mechanisms/Non-specific defence/Phagocytosis (body defence).md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 843,
       "exportedPath": "biology/immunology/body-defence-mechanisms/non-specific-defence/phagocytosis-(body-defence).html",
       "dependencies": [
@@ -5065,7 +5065,7 @@
       ]
     },
     "Biology/Immunology/Body defence mechanisms/Non-specific defence/Physical barriers.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1186,
       "exportedPath": "biology/immunology/body-defence-mechanisms/non-specific-defence/physical-barriers.html",
       "dependencies": []
@@ -5079,13 +5079,13 @@
       ]
     },
     "Biology/Immunology/Body defence mechanisms/Specific defence/Components/Antigens.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 405,
       "exportedPath": "biology/immunology/body-defence-mechanisms/specific-defence/components/antigens.html",
       "dependencies": []
     },
     "Biology/Immunology/Body defence mechanisms/Specific defence/Components/Lymphocytes.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 2534,
       "exportedPath": "biology/immunology/body-defence-mechanisms/specific-defence/components/lymphocytes.html",
       "dependencies": [
@@ -5389,7 +5389,7 @@
       "dependencies": []
     },
     "Biology/Neuroscience/Homeostasis/Negative feedback mechanism.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 820,
       "exportedPath": "biology/neuroscience/homeostasis/negative-feedback-mechanism.html",
       "dependencies": []
@@ -5413,7 +5413,7 @@
       ]
     },
     "Biology/Neuroscience/Physiology/Blood gas content regulation/Control of heartbeat.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 7884,
       "exportedPath": "biology/neuroscience/physiology/blood-gas-content-regulation/control-of-heartbeat.html",
       "dependencies": [
@@ -5433,19 +5433,19 @@
       "dependencies": []
     },
     "Biology/Neuroscience/Physiology/Body temperature regulation/Body temperature regulation.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 910,
       "exportedPath": "biology/neuroscience/physiology/body-temperature-regulation/body-temperature-regulation.html",
       "dependencies": []
     },
     "Biology/Neuroscience/Physiology/Body temperature regulation/Mechanism of body temperature regulation.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 5472,
       "exportedPath": "biology/neuroscience/physiology/body-temperature-regulation/mechanism-of-body-temperature-regulation.html",
       "dependencies": []
     },
     "Biology/Neuroscience/Physiology/Body temperature regulation/Skin.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 3640,
       "exportedPath": "biology/neuroscience/physiology/body-temperature-regulation/skin.html",
       "dependencies": [
@@ -5467,7 +5467,7 @@
       "dependencies": []
     },
     "Biology/Neuroscience/Physiology/Water content regulation/Osmoregulation.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 4811,
       "exportedPath": "biology/neuroscience/physiology/water-content-regulation/osmoregulation.html",
       "dependencies": []
@@ -5820,7 +5820,7 @@
       ]
     },
     "Biology/Organisation & Mechanisms/Metabolism & Enzymes/Photosynthesis/Photosynthesis.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 3559,
       "exportedPath": "biology/organisation-&-mechanisms/metabolism-&-enzymes/photosynthesis/photosynthesis.html",
       "dependencies": [
@@ -6032,7 +6032,7 @@
       ]
     },
     "Biology/Organisation & Mechanisms/Movement of substances/Cell membrane.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 3174,
       "exportedPath": "biology/organisation-&-mechanisms/movement-of-substances/cell-membrane.html",
       "dependencies": [
@@ -6050,7 +6050,7 @@
       ]
     },
     "Biology/Organisation & Mechanisms/Movement of substances/Membrane proteins.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 2059,
       "exportedPath": "biology/organisation-&-mechanisms/movement-of-substances/membrane-proteins.html",
       "dependencies": [
@@ -6086,7 +6086,7 @@
       ]
     },
     "Biology/Organisation & Mechanisms/Movement of substances/Phospholipid (Cell membrane).md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 538,
       "exportedPath": "biology/organisation-&-mechanisms/movement-of-substances/phospholipid-(cell-membrane).html",
       "dependencies": [
@@ -6410,7 +6410,7 @@
       "dependencies": []
     },
     "Biology/Reproduction & Genetics/Molecular Genetics/Transcription.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1780,
       "exportedPath": "biology/reproduction-&-genetics/molecular-genetics/transcription.html",
       "dependencies": [
@@ -6471,7 +6471,7 @@
       ]
     },
     "Biology/Reproduction & Genetics/Reproduction/Humans/Hormonal control/Hormonal control of menstrual cycle.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 2864,
       "exportedPath": "biology/reproduction-&-genetics/reproduction/humans/hormonal-control/hormonal-control-of-menstrual-cycle.html",
       "dependencies": [
@@ -6675,7 +6675,7 @@
       "dependencies": []
     },
     "Chemistry/Acids and Bases/Volumetric Analysis/Preparation of standard solution.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1309,
       "exportedPath": "chemistry/acids-and-bases/volumetric-analysis/preparation-of-standard-solution.html",
       "dependencies": []
@@ -6835,8 +6835,8 @@
       "dependencies": []
     },
     "Chemistry/Analytical Chemistry/Qualitative analysis/Organic preliminary tests.md": {
-      "modifiedTime": 1746261202783,
-      "sourceSize": 4866,
+      "modifiedTime": 1746293127803,
+      "sourceSize": 4699,
       "exportedPath": "chemistry/analytical-chemistry/qualitative-analysis/organic-preliminary-tests.html",
       "dependencies": []
     },
@@ -8432,7 +8432,7 @@
       ]
     },
     "Chemistry/Industrial Chemistry/Industrial processes/Chloroalkali industry.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 5176,
       "exportedPath": "chemistry/industrial-chemistry/industrial-processes/chloroalkali-industry.html",
       "dependencies": [
@@ -8450,7 +8450,7 @@
       ]
     },
     "Chemistry/Industrial Chemistry/Industrial processes/Methanol manufacture.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 3715,
       "exportedPath": "chemistry/industrial-chemistry/industrial-processes/methanol-manufacture.html",
       "dependencies": [
@@ -10176,19 +10176,19 @@
       "dependencies": []
     },
     "Chinese/十二篇範文/六國論/第一段.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1822,
       "exportedPath": "chinese/十二篇範文/六國論/第一段.html",
       "dependencies": []
     },
     "Chinese/十二篇範文/六國論/第三段 (反面論述).md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 5136,
       "exportedPath": "chinese/十二篇範文/六國論/第三段-(反面論述).html",
       "dependencies": []
     },
     "Chinese/十二篇範文/六國論/第二段 (正面論述).md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 6542,
       "exportedPath": "chinese/十二篇範文/六國論/第二段-(正面論述).html",
       "dependencies": []
@@ -10254,7 +10254,7 @@
       "dependencies": []
     },
     "Chinese/十二篇範文/勸學/第一段.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1984,
       "exportedPath": "chinese/十二篇範文/勸學/第一段.html",
       "dependencies": []
@@ -10278,7 +10278,7 @@
       "dependencies": []
     },
     "Chinese/十二篇範文/始得西山宴遊記/第一段.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 2351,
       "exportedPath": "chinese/十二篇範文/始得西山宴遊記/第一段.html",
       "dependencies": []
@@ -10494,13 +10494,13 @@
       "dependencies": []
     },
     "Chinese/十二篇範文/逍遙遊/第一段.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 4314,
       "exportedPath": "chinese/十二篇範文/逍遙遊/第一段.html",
       "dependencies": []
     },
     "Chinese/十二篇範文/逍遙遊/第二段.md": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 4419,
       "exportedPath": "chinese/十二篇範文/逍遙遊/第二段.html",
       "dependencies": []
@@ -11259,7 +11259,7 @@
       "dependencies": []
     },
     "lib/media/photosynthesis_abstract.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 11932,
       "exportedPath": "lib/media/photosynthesis_abstract.webp",
       "dependencies": []
@@ -11499,13 +11499,13 @@
       "dependencies": []
     },
     "lib/media/inflammatory_response_diagram.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 52262,
       "exportedPath": "lib/media/inflammatory_response_diagram.webp",
       "dependencies": []
     },
     "lib/media/phagocytosis_body_defence.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 26724,
       "exportedPath": "lib/media/phagocytosis_body_defence.webp",
       "dependencies": []
@@ -11517,7 +11517,7 @@
       "dependencies": []
     },
     "lib/media/lymphocytes_types.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 7944,
       "exportedPath": "lib/media/lymphocytes_types.webp",
       "dependencies": []
@@ -11835,13 +11835,13 @@
       "dependencies": []
     },
     "lib/media/heart_adv.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 117936,
       "exportedPath": "lib/media/heart_adv.webp",
       "dependencies": []
     },
     "lib/media/skin.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 183410,
       "exportedPath": "lib/media/skin.webp",
       "dependencies": []
@@ -12447,19 +12447,19 @@
       "dependencies": []
     },
     "lib/media/cell_membrane_structure.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 32686,
       "exportedPath": "lib/media/cell_membrane_structure.webp",
       "dependencies": []
     },
     "lib/media/cell_membrane_arrangement.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 60016,
       "exportedPath": "lib/media/cell_membrane_arrangement.webp",
       "dependencies": []
     },
     "lib/media/cell_membrane_permeability.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 53326,
       "exportedPath": "lib/media/cell_membrane_permeability.webp",
       "dependencies": []
@@ -12519,7 +12519,7 @@
       "dependencies": []
     },
     "lib/media/phospholipids_cell_membrane.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 8610,
       "exportedPath": "lib/media/phospholipids_cell_membrane.webp",
       "dependencies": []
@@ -12921,7 +12921,7 @@
       "dependencies": []
     },
     "lib/media/dna_strands.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 17882,
       "exportedPath": "lib/media/dna_strands.webp",
       "dependencies": []
@@ -12963,7 +12963,7 @@
       "dependencies": []
     },
     "lib/media/hormonal_menstrual_cycle.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 93262,
       "exportedPath": "lib/media/hormonal_menstrual_cycle.webp",
       "dependencies": []
@@ -13413,19 +13413,19 @@
       "dependencies": []
     },
     "lib/media/electrolysis_brine.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 7536,
       "exportedPath": "lib/media/electrolysis_brine.webp",
       "dependencies": []
     },
     "lib/media/flowing_mercury_cell.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 14060,
       "exportedPath": "lib/media/flowing_mercury_cell.webp",
       "dependencies": []
     },
     "lib/media/membrane_cell.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 12878,
       "exportedPath": "lib/media/membrane_cell.webp",
       "dependencies": []
@@ -13437,7 +13437,7 @@
       "dependencies": []
     },
     "lib/media/steam_methane.webp": {
-      "modifiedTime": 1746261202783,
+      "modifiedTime": 1746293127803,
       "sourceSize": 19658,
       "exportedPath": "lib/media/steam_methane.webp",
       "dependencies": []
@@ -14793,313 +14793,313 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 591882,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 75560,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1746263089085,
-      "sourceSize": 138258,
+      "modifiedTime": 1746293127803,
+      "sourceSize": 137466,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 369350,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1746263089085,
-      "sourceSize": 481,
+      "modifiedTime": 1746293127803,
+      "sourceSize": 544,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1746263089085,
+      "modifiedTime": 1746293127803,
       "sourceSize": 1316,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
