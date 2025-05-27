@@ -6,7 +6,7 @@
 |   **Host**    |        0         |
 
 *Examples*:
-- **Epiphytes** (e,g, orchids)
+- **Epiphytes** (e.g. orchids)
   Grow on trunks or branches of other plants to obtain more sunlight, only using moisture and nutrients from the air.
 
 - **Remoras**
