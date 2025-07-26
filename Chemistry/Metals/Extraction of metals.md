@@ -19,7 +19,7 @@ However, metals tend to form compounds with non-metal as ores.
 In order of decreasing reactivity:
 Potassium > Sodium > Calcium > Magnesium > Aluminium > Zinc > Iron > Lead > Copper > Mercury > Silver > Platinum > Gold
 
-↪️ See also: [[Reactivity of metals]] / [[Electrochemical series]]
+↪ See also: [[Reactivity of metals]] / [[Electrochemical series]]
 
 # Extraction methods
 ## Physical methods
@@ -37,7 +37,7 @@ These are suitable for extracting very unreactive metals (e.g. gold and platinum
 This method is suitable for extracting silver and mercury.
 - When their oxides are heated, they undergo thermal decomposition to give metals.
 
-↪️ Heating mercury(II) oxide: $\ce{2HgO (s) ->[heat] 2Hg (ℓ) + O2 (g)}$
+↪ Heating mercury(II) oxide: $\ce{2HgO (s) ->[heat] 2Hg (ℓ) + O2 (g)}$
 
 ### Heating the metal ore with reducing agent
 This method is suitable for extracting copper, lead, iron and zinc.
@@ -45,13 +45,13 @@ This method is suitable for extracting copper, lead, iron and zinc.
 These metals require heating with reducing agents like carbon or graphite to extract.
 ![[metal_reduction.webp|320]]
 
-↪️ Heating lead(II) oxide with carbon: $\ce{2PbO (s) + C (s) ->[heat] 2Pb (s) + CO2 (g)}$
+↪ Heating lead(II) oxide with carbon: $\ce{2PbO (s) + C (s) ->[heat] 2Pb (s) + CO2 (g)}$
 
 Besides carbon, other reducing agents such as carbon monoxide gas, hydrogen gas or town gas (contain both carbon monoxide gas and hydrogen gas) can also be used.
 ![[metal_reduction_town_gas.webp|500]]
 
-↪️ Heating zinc(II) oxide with hydrogen: $\ce{ZnO (s) + H2 (g) ->[heat] Zn (s) + H2O (ℓ)}$
-↪️ Heating zinc(II) oxide with carbon monoxide: $\ce{CuO (s) + CO (g) ->[heat] Cu (s) + CO2 (g)}$
+↪ Heating zinc(II) oxide with hydrogen: $\ce{ZnO (s) + H2 (g) ->[heat] Zn (s) + H2O (ℓ)}$
+↪ Heating zinc(II) oxide with carbon monoxide: $\ce{CuO (s) + CO (g) ->[heat] Cu (s) + CO2 (g)}$
 
 > [!note]
 > - An opening is made to prevent the excess build up of gas, which may cause the boiling tube to crack.
@@ -64,13 +64,13 @@ This method is suitable for extracting <u>aluminium, magnesium, calcium, sodium,
 
 ![[electrolysis_molten_metal.webp|600]]
 - The metal ore must be heated to <span class="hi-blue">molten (liquid) state</span>.
-  ↪️ $\ce{Al2O3 (s) ->[heat] Al^3+ (ℓ) + O^2- (ℓ)}$
+  ↪ $\ce{Al2O3 (s) ->[heat] Al^3+ (ℓ) + O^2- (ℓ)}$
 
 - The positive $\ce{Al^3+ (ℓ)}$ ions are attracted towards the negative electrode (cathode), and is <span class="hi-green">reduced to aluminium metal</span>:
-  ↪️ $\ce{Al^3+ (ℓ) + 3e- -> Al(ℓ)}$
+  ↪ $\ce{Al^3+ (ℓ) + 3e- -> Al(ℓ)}$
 
 - The negative $\ce{O^2- (ℓ)}$ ions are attracted towards the positive electrode (anode), and is <span class="hi-green">oxidized to oxygen</span>:
-  ↪️ $\ce{2O^2- (ℓ) -> O2 (g) + 4e-}$
+  ↪ $\ce{2O^2- (ℓ) -> O2 (g) + 4e-}$
 
 - *Overall chemical equation*: $\ce{2Al2O3 (ℓ) -> 4Al (ℓ) + 3O2 (g)}$
 

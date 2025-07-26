@@ -7,7 +7,7 @@
 - <span class="hi-green">Involuntarily controlled</span> by the [[Central nervous system#Medulla oblongata (Medulla)|medulla oblongata]].
 	- Sets the <span style="color: violet">basic rhythm</span> of breathing.
 	- Adjusts the <span style="color: violet">rate and depth of breathing</span>.
-  ↪️ **Example**: during sleeping
+  ↪ **Example**: during sleeping
 
 # Ventilation rate
 *Pre-context: [[Mechanism of ventilation]]*
@@ -17,7 +17,7 @@
 | **Ventilation rate** |  =  | **Breathing rate** |  ×  | **Tidal volume** |
 | :------------------: | :-: | :----------------: | :-: | :--------------: |
 |      (mL / min)      |     |  (breaths / min)   |     |  (mL / breaths)  |
-↪️ *See also*: HKDSE 2020 Paper 2 Q1(b)
+↪ *See also*: HKDSE 2020 Paper 2 Q1(b)
 
 > [!tip] Tidal volume and breathing rate
 > - **Tidal volume** is the volume of air that moved through the lungs in each inhalation and exhalation <u>during resting</u>.
@@ -47,7 +47,7 @@ The **rate and depth of breathing** is affected by the <span class="hi-green">co
 > Respiration consumes $\ce{O2}$ and produces $\ce{CO2}$ simultaneously, so the rate of consumption of $\ce{O2}$ is directly proportional to the rate of production of $\ce{CO2}$.
 > 
 > Moreover, carbon dioxide can dissolve in blood and undergo the following reaction: $\ce{CO2 + H2O <=> H+ + HCO3-}$
-> ↪️ See also: [[Transport of respiratory gases#Carbon dioxide]]
+> ↪ See also: [[Transport of respiratory gases#Carbon dioxide]]
 > 
 > Therefore, the conc. of $\ce{O2}$ can be deduced from the change in pH caused by production of bicarbonate ions.
 

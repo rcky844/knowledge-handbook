@@ -7,15 +7,15 @@
 # Mendal's laws
 - **Law of Dominance** (First law of inheritance)
   Heterozygote (hybrid) will only express the dominant trait in the phenotype.
-  ↪️ See also: [[Genes#Common terms for genetics]]
+  ↪ See also: [[Genes#Common terms for genetics]]
 
 - **Law of Segregation** (Third law of inheritance)
   During the production of gametes, two copies of each hereditary factor segregate so that <u>offspring acquire one factor from each parent</u> when the gametes re-unite randomly <u>during fertilization</u>.
-  ↪️ See also: [[Meiotic cell division#Significance of meiotic cell division]]
+  ↪ See also: [[Meiotic cell division#Significance of meiotic cell division]]
 
 - **Law of Independent Assortment** (Second law of inheritance)
   A pair of traits segregates independently of another pair during gamete formation.
-  ↪️ See also: [[Independent assortment]]
+  ↪ See also: [[Independent assortment]]
 
 # Mendel's experiments
 **Mendel's laws of inheritance** was proposed by Gregor Mendel in the 1860s after conducting <u>breeding experiments</u> on <span class="hi-blue">pea plants</span>.

@@ -3,7 +3,7 @@ A **metallic bond** is the electrostatic force of attraction between metallic io
 ![[giant_metallic_structure.webp|550]]
 
 In metals, metallic atoms tend to lose their outermost shell electrons to become a positively charged ion. This process is called <span class="hi-blue">ionization</span>.
-↪️ See also: [[Ionic bonds]]
+↪ See also: [[Ionic bonds]]
 
 The atoms of metals are closely packed together. The outermost shell electron of each atom continually moves from one atom to another. They are called delocalized electrons.
 

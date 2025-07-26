@@ -8,7 +8,7 @@
 - Metals
 - Non-metals
 - Semi-metals / Metalloids
-↪️ Different classes of elements have completely different physical and chemical properties.
+↪ Different classes of elements have completely different physical and chemical properties.
 
 > [!tip]
 > The most abundant element (overall) on Earth is <span class="hi-blue">oxygen</span>, while the most abundant metal on Earth is <span class="hi-blue">aluminium</span>.

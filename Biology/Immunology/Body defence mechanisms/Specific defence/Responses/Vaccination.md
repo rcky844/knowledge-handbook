@@ -4,7 +4,7 @@
 - Parts of the pathogen (e.g. viral proteins)
 - Inactivated toxins produced by pathogens
 
-↪️ As vaccines do not contain <u>active pathogens</u>, they do not cause diseases.
+↪ As vaccines do not contain <u>active pathogens</u>, they do not cause diseases.
 
 *Explanation*:
 - <span class="hi-blue">Antigens</span> present in a vaccine are <span class="hi-green">recognized by lymphocytes</span> to produce a [[Primary and secondary response#Primary response|primary response]].

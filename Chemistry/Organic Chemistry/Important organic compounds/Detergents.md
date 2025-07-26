@@ -55,7 +55,7 @@ Detergents are a <span class="hi-blue">wetting agent</span> and <span class="hi-
 
 By [[Hydrolysis#Alkaline hydrolysis|alkaline hydrolysis]] of triglyceride, an alcohol and carboxylate salt can be obtained.
 ![[saponification.webp|700]]
-↪️ This process is called <span class="hi-blue">saponification</span>.
+↪ This process is called <span class="hi-blue">saponification</span>.
 
 ### Production of soap in laboratory
 1. Heat the <u>vegetable oil</u> with *concentrated $\ce{NaOH}$ solution* (which allows saponification).

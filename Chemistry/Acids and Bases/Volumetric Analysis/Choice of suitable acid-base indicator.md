@@ -25,7 +25,7 @@
 - **Strong alkali only**: Phenolphthalein
 - **Strong acid and alkali**: Methyl orange or phenolphthalein
 - **Weak acid and alkali**: No suitable indicator
-  ↪️ Use a method in [[pH scale, acidity and alkalinity#Determining pH value]]
+  ↪ Use a method in [[pH scale, acidity and alkalinity#Determining pH value]]
 
 *Reason for avoiding litmus solution*:
 - It <span class="hi-green">does not give a sharp colour colour change</span> at the <span class="hi-blue">end point</span>.

@@ -8,7 +8,7 @@
 2. [[Comparative anatomy]]
 3. [[Comparative embryology]]
 4. [[Comparative molecular biology]]
-↪️ Representing evidences: [[Evolutionary tree]]
+↪ Representing evidences: [[Evolutionary tree]]
 
 # Mechanisms of evolution and speciation
 - [[Theory of natural selection]]

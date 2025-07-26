@@ -21,11 +21,11 @@ Transition metals can exist in more than one oxidation state in their compounds.
 2. **Manganese**
 	- *In acidic solution*
 	  $\ce{2MnO4-(aq) + 5SO2(g) + 2H2O(ℓ) → 2Mn^2+(aq) + 5SO4^2-(aq) + 4H+(aq)}$
-	  ↪️ The solution turns from purple to very pale pink.
+	  ↪ The solution turns from purple to very pale pink.
 
 	- *In alkaline solution*
 	  $\ce{2MnO4-(aq) + 3SO2(g) + 2H2O(ℓ) → 2MnO2(s) + 3SO4^2-(aq) + 4H+(aq)}$
-	  ↪️ Brown precipitate is formed due to the formation of manganese(IV) oxide.
+	  ↪ Brown precipitate is formed due to the formation of manganese(IV) oxide.
 
 ## Catalytic property
 Transition metal ion usually forms an intermediate compound with one more of the reactants. The intermediate compound then participates in the formation of products. When the reaction is completed, the transition metal ion is regenerated.

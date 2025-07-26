@@ -20,7 +20,7 @@
 
 # Soluble salts (except $\ce{Na+}$, $\ce{K+}$, $\ce{NH4+}$)
 **Soluble salts** that are not formed by $\ce{Na+}$, $\ce{K+}$, $\ce{NH4+}$ ions are prepared by reaction of water-insoluble base / alkali / metal carbonate with acid to give the soluble salts. The salt is then separated by [[crystallization]].
-↪️ See also: HKDSE 2023 Paper 1B Q9
+↪ See also: HKDSE 2023 Paper 1B Q9
 
 > [!note]
 > - The reactants cannot both be solutions. One should be an insoluble base / metal / carbonate and one should be an acid.

@@ -15,7 +15,7 @@
 
 *Reason for using hydroxides as antacids*:
 Hydroxides will not produce $\ce{CO2(g)}$ with stomach acid, while carbonates does, which cause unwellness.
-↪️ See also: HKDSE 2022 Paper 1B Q3(d)
+↪ See also: HKDSE 2022 Paper 1B Q3(d)
 
 *Production of aqueous ammonia*:
 - Aqueous ammonia is made by dissolving ammonia gas into water.
@@ -75,15 +75,15 @@ Hydroxides will not produce $\ce{CO2(g)}$ with stomach acid, while carbonates do
 
 > [!note]
 > Heating $\ce{NH4Cl(aq)}$ with addition of $\ce{NaOH(aq)}$ also liberates $\ce{NH3(g)}$.
-> ↪️ $\ce{NH4Cl(aq) + NaOH(aq) -> NH3(g) + H2O(ℓ) + NaCl(aq)}$
+> ↪ $\ce{NH4Cl(aq) + NaOH(aq) -> NH3(g) + H2O(ℓ) + NaCl(aq)}$
 
 ## Neutralization
 **Neutralization** is a reaction between an alkali with an acid to form salt and water only.
-↪️ $\ce{NaOH(aq) + HCl(aq) -> NaCl(aq + H2O(ℓ)}$
+↪ $\ce{NaOH(aq) + HCl(aq) -> NaCl(aq + H2O(ℓ)}$
 
 > [!note]
 > The reaction between an acid and a carbonate is not neutralization, as $\ce{CO2(g)}$ is produced.
-> ↪️ $\ce{CaCO3(s) + 2HCl(aq) -> CaCl2(aq) + H2O(ℓ) + CO2(g)}$
+> ↪ $\ce{CaCO3(s) + 2HCl(aq) -> CaCl2(aq) + H2O(ℓ) + CO2(g)}$
 
 # Role of water
 *Sodium hydroxide ($\ce{NaOH}$)*:

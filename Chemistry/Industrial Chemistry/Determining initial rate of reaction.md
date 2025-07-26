@@ -44,14 +44,14 @@ Iodine clock reaction is used to study the rate of reaction in cases where the r
 
 Consider the reaction:
 $\ce{H2O2 (aq) + 2I- (aq) + 2H+ (aq) -> I2 (aq) + 2H2O (ℓ)}$
-↪️ $\ce{I2 (aq)}$ can form a <span class="hi-blue">dark blue complex</span> with starch.
+↪ $\ce{I2 (aq)}$ can form a <span class="hi-blue">dark blue complex</span> with starch.
 
 *Description and explanation*:
 - Add a <u>small and fixed amount</u> of $\ce{Na2S2O3(aq)}$ and starch solution <u>at the beginning of reaction</u>.
 - The $\ce{I2 (aq)}$ produced will be <u>consumed</u> by $\ce{S2O3^2-(aq)}$ <u>immediately</u>.
 - When all $\ce{S2O3^2-(aq)}$ is used up, any <u>excess</u> $\ce{I2 (aq)}$ produced will react with starch solution to <u>form a dark-blue complex</u>.
 - Time $t$ can be found by measuring the time to form the dark-blue complex.
-  ↪️ The initial rate is the reciprocal of the time to form the dark-blue complex.
+  ↪ The initial rate is the reciprocal of the time to form the dark-blue complex.
 
 *Reason for $\ce{S2O3^2-(aq)}$ solution is needed in a small and fixed amount*:
 - Fixed amount ensures fair comparison.

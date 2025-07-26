@@ -55,7 +55,7 @@ Colours of metal halides / miscellaneous substances ⤴️
 
 > [!tip]
 > When testing solid substances, the <u>dissolving process should be done using deionized water</u> to ensure there are no interfering ions.
-> ↪️ **Example**: HKDSE 2023 Paper 2 Q3(a)(i)
+> ↪ **Example**: HKDSE 2023 Paper 2 Q3(a)(i)
 
 - [[Flame test]]
   The characteristic flames can be used to deduce the metallic ion present.
@@ -117,8 +117,8 @@ $$
 
 > [!warning]
 > Beware that if the salt produced is insoluble, the test will not be feasible. As it will result in the formation of a barrier for the reactants that prevent further reaction.
-> ↪️ $\ce{PbCO3 + 2HCl(aq) -> PbCl2(s) + H2O(ℓ) + CO2(g)}$
-> ↪️ $\ce{CaCO3 + H2SO4(aq) -> CaSO4(s) + H2O(ℓ) + CO2(g)}$
+> ↪ $\ce{PbCO3 + 2HCl(aq) -> PbCl2(s) + H2O(ℓ) + CO2(g)}$
+> ↪ $\ce{CaCO3 + H2SO4(aq) -> CaSO4(s) + H2O(ℓ) + CO2(g)}$
 
 # Test for sulphur dioxide gas
 **Method 1**:
@@ -202,7 +202,7 @@ $$
 # Test for hydrogen chloride gas
 > [!tip]
 > Hydrogen chloride gas is acidic, dissolving it in water produces hydrochloric acid, which can turn blue litmus paper red.
-> ↪️ [[Introduction to acids#Role of water|Dissolving process of hydrogen chloride gas]]
+> ↪ [[Introduction to acids#Role of water|Dissolving process of hydrogen chloride gas]]
 
 Hydrogen chloride gas can react with <span style="color: violet">ammonia gas</span> to form $\ce{NH4Cl(s)}$.
 $$

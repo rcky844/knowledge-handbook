@@ -14,11 +14,11 @@ $$
 
 > [!tip] Acidification of reaction mixture
 > If pH is too high (high $\ce{[OH-(aq)]}$), silver ions would react with hydroxide ions to form $\ce{Ag2O}$ precipitate.
-> ↪️ $\ce{2Ag+(aq) + 2OH-(aq) -> Ag2O(s) + H2O(ℓ)}$
+> ↪ $\ce{2Ag+(aq) + 2OH-(aq) -> Ag2O(s) + H2O(ℓ)}$
 >
 > If pH is too low (high $\ce{[H+(aq)]}$), chromate ions will turn to hydrogen chromate ions or dichromate ions.
-> ↪️ $\ce{CrO4^2-(aq) + H+(aq) <=> HCrO4-(aq)}$
-> ↪️ $\ce{2H+(aq) + 2CrO4^2-(aq) <=> Cr2O7^2-(aq) + H2O(ℓ)}$
+> ↪ $\ce{CrO4^2-(aq) + H+(aq) <=> HCrO4-(aq)}$
+> ↪ $\ce{2H+(aq) + 2CrO4^2-(aq) <=> Cr2O7^2-(aq) + H2O(ℓ)}$
 
 # Volhard method
 **Volhard method** is also used to determine $\ce{[Cl-(aq)]}$ in a sample, but with <span style="color: violet">ammonium thiocyanate</span> ($\ce{NH4SCN(aq)}$) and $\ce{Fe^3+(aq)}$ as indicator.

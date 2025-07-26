@@ -13,7 +13,7 @@
 
 > [!note]
 > Glucose is soluble in water and affects the water potential of the blood.
-> ↪️ See also: [[Parameters of the internal environment#Glucose level in blood]]
+> ↪ See also: [[Parameters of the internal environment#Glucose level in blood]]
 
 - **Intense thirst**
   The decrease in water potential of the blood stimulates the 'thirst centre' in the brain, making the person thirsty.

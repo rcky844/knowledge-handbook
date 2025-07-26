@@ -24,7 +24,7 @@ The **Krebs cycle** is a cyclic series of enzyme-controlled reactions that take 
    ![[oxaloacetate_regen.avif|450]]
 	- *Decarboxylation of citrate*: Releasing $\ce{2CO2}$ as waste gas.
 	- *Dehydrogenation of citrate*: Releasing $\ce{H}$ atoms that reduce coenzymes NAD and FAD.
-	  ↪️ $\ce{8H + 3NAD + FAD → 3NADH + 3H+ + FADH2}$
+	  ↪ $\ce{8H + 3NAD + FAD → 3NADH + 3H+ + FADH2}$
 	- *Substrate-level phosphorylation*: A phosphate is transferred from one of the intermediates to ADP, forming $\ce{1ATP}$.
 
 > [!note]

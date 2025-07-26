@@ -23,12 +23,12 @@ Consider the situations below:
 ![[cl-cl.webp|180]] $\ce{Cl-Cl}$ bond
 - In this bond, there is no electronegativity difference between the bonded atoms.
 - The electron cloud is evenly distributed / shared.
-↪️ It is a <span class="hi-blue">non-polar bond</span>.
+↪ It is a <span class="hi-blue">non-polar bond</span>.
 
 ![[h-cl_dipole.webp|180]] $\ce{H-Cl}$ bond
 - In this bond, there is electronegativity difference between the bonded atoms.
 - The electron cloud is unevenly distributed / shared.
-↪️ It is a <span class="hi-blue">polar bond</span>.
+↪ It is a <span class="hi-blue">polar bond</span>.
 
 > [!note]
 > The symbol underneath the $\ce{H-Cl}$ diagram can be used to indicate the dipole moments of the polar bond.

@@ -20,7 +20,7 @@
 - **Less side effects**
   Products with <span class="hi-green">amino acid sequences highly similar</span> to human counterparts can be produced, so it <u>would not be rejected</u> by the body as <span class="hi-orange">immune responses</span> would not be triggered that degrade its functions.
 
-↪️ *Overall effect*: Lower cost of production
+↪ *Overall effect*: Lower cost of production
 
 *Example*: HKDSE 2013 Paper 2 Q4(a)
 

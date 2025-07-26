@@ -5,7 +5,7 @@ An **ionic bond** is the electrostatic force of attraction between cations and a
 - Group V, VI and VII elements tend to gain outermost shell electron(s) to attain duplet / octet structure, becoming anions (-).
 - Group IV and 0 elements generally do not form ions.
 
-↪️ Ionic compounds are formed during an electron transferring process between a metal and a non-metal.
+↪ Ionic compounds are formed during an electron transferring process between a metal and a non-metal.
 
 *Examples*:
 For $\ce{Li2O}$:

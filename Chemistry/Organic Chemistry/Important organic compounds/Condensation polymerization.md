@@ -29,7 +29,7 @@ There are only <u>van der Waals' forces</u> between PET chains.
 
 - **Decomposition by acids and alkalis**
   PET undergoes [[hydrolysis]] in the presence of acids or alkalis, it breaks the ester linkages and lead to a formation of a hole on fabridcs made from polyester.
-  ↪️ This allows them to be readily degraded in the environment.
+  ↪ This allows them to be readily degraded in the environment.
 
 - **Miscellaneous**
   Water & chemical resistance
@@ -70,7 +70,7 @@ There are <u>hydrogen bonds</u> between nylon-6,6 chains.
 
 - **Decomposition by acids and alkalis**
   Nylon-6,6 undergoes [[hydrolysis]] in the presence of acids or alkalis, it breaks the amide linkages and lead to a formation of a hole on fabridcs made from polyester.
-  ↪️ This allows them to be readily degraded in the environment.
+  ↪ This allows them to be readily degraded in the environment.
 
 - **High tensile strength**
   As there are intermolecular hydrogen bonds between the polyamides (also van der Waals' forces), the strength of nylon-6,6 should be greater than PET if they both have the same number of monomers or polymeric lengths ($n$).

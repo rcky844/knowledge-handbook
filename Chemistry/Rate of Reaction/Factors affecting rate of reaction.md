@@ -3,7 +3,7 @@ Generally, a <u>higher concentration of reactants</u> results in a <u>higher rat
 
 > [!tip]
 > Some reactions are not affected by the concentration of reactants.
-> ↪️ See also: [[Rate equation]] / [[Rate equation#Order of reaction]]
+> ↪ See also: [[Rate equation]] / [[Rate equation#Order of reaction]]
 
 Consider the reaction: $\ce{Mg + 2HCl → MgCl2 + H2}$
 

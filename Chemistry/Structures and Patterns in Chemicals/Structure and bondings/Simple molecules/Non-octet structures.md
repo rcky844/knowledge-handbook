@@ -1,7 +1,7 @@
 Octet structure states that all atoms tend to attain the stable electronic configuration of a noble gas.
 
 However, some molecules have less than or more than eight electrons in their outermost electron shell / do not have a stable octet electronic configuration.
-↪️ They have a **non-octet structure**.
+↪ They have a **non-octet structure**.
 
 *Examples of non-octet substances*:
 

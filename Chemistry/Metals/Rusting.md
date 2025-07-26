@@ -6,22 +6,22 @@ Consider the following experiment:
 In tube A:
 - There is oxygen but no water.
 - Anhydrous calcium chloride absorbs water in air.
-↪️ Rusting does not occur.
+↪ Rusting does not occur.
 
 In tube B:
 - There is water but no oxygen in water.
 - Boiling the distilled water dries away dissolved oxygen, and the oil layer on top prevents air from dissolving in water again.
-↪️ Rusting does not occur.
+↪ Rusting does not occur.
 
 In tube C:
 - There is both water and oxygen.
 - Distilled water contains dissolved air.
-↪️ Rusting occurs.
+↪ Rusting occurs.
 
 In tube D:
 - There is water, oxygen and dissolved ions.
 - Sea water contains dissolved air and ions, which increases the electrical conductivity and further speeds up rusting.
-↪️ Rusting occurs, and faster than in tube C.
+↪ Rusting occurs, and faster than in tube C.
 
 # Chemistry of rusting
 *See also: [[Redox Reactions, Chemical Cells and Electrolysis]]*
@@ -74,7 +74,7 @@ However, if the iron nail is replaced by other metals such as zinc:
 # Factors affecting speed of rusting
 ## Acidic pollutants
 Acids speed up the rusting of iron. $\ce{H+ (aq)}$ in the acid can react with $\ce{Fe (s)}$ to speed up the formation of $\ce{Fe^2+ (aq)}$.
-↪️ $\ce{Fe(s) + 2H+(aq) → Fe2+(aq) + H2(g)}$
+↪ $\ce{Fe(s) + 2H+(aq) → Fe2+(aq) + H2(g)}$
 
 > [!tip]
 > - Normal rainwater is acidic as it contains carbonic acid. It can speed up rusting.

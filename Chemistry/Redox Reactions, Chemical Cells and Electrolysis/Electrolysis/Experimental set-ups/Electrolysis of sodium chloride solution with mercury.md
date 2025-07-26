@@ -8,9 +8,9 @@
 **At cathode**:
 - Both $\ce{H+(aq)}$ and $\ce{Na+(aq)}$ are attracted towards the cathode.
 - As mercury is used as a cathode, it favours the discharge to give $\ce{Na/Hg}$ (/ $\ce{Na}$).
-  ↪️ *Half equation*: $\ce{Na+(aq) + e- + Hg(ℓ) -> Na/Hg(ℓ)}$
+  ↪ *Half equation*: $\ce{Na+(aq) + e- + Hg(ℓ) -> Na/Hg(ℓ)}$
 - The $\ce{Na/Hg(ℓ)}$ dissolves in water to give $\ce{Hg(ℓ)}$, $\ce{H2(g)}$ and $\ce{NaOH(aq)}$.
-  ↪️ *Equation*: $\ce{2Na/Hg(ℓ) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + 2Hg(ℓ)}$
+  ↪ *Equation*: $\ce{2Na/Hg(ℓ) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + 2Hg(ℓ)}$
 
 **At anode**:
 - Both $\ce{Cl-(aq)}$ and $\ce{OH-(aq)}$ ions are attracted towards the anode.

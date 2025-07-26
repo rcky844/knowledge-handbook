@@ -7,13 +7,13 @@
 # Procedure
 1. Add <span class="hi-blue">dilute nitric acid</span> ($\ce{HNO3}$) into the sample solution <u>until in excess</u>.
 	- The purpose of acidification is to <span class="hi-green">remove interfering ions</span> (e.g. $\ce{SO3^2-}$, $\ce{CO3^2-}$) to prevent the formation of precipitate irrelevant to halide ions.
-	  ↪️ $\ce{CO3^2- (aq) + 2H+ (aq) -> CO2 (g) + H2O (ℓ)}$
-	  ↪️ $\ce{SO3^2- (aq) + 2H+ (aq) -> SO2 (g) + H2O (ℓ)}$
+	  ↪ $\ce{CO3^2- (aq) + 2H+ (aq) -> CO2 (g) + H2O (ℓ)}$
+	  ↪ $\ce{SO3^2- (aq) + 2H+ (aq) -> SO2 (g) + H2O (ℓ)}$
 
 > [!warning]
 > The sulphate and carbonate ions would react with $\ce{Ag+(aq)}$ to form white precipitates. Addition of excess dilute nitric acid can prevent formation.
-> ↪️ $\ce{CO3^2- (aq) + 2Ag+ (aq) -> Ag2CO3 (s)}$
-> ↪️ $\ce{SO3^2- (aq) + 2Ag+ (aq) -> Ag2SO3 (s)}$
+> ↪ $\ce{CO3^2- (aq) + 2Ag+ (aq) -> Ag2CO3 (s)}$
+> ↪ $\ce{SO3^2- (aq) + 2Ag+ (aq) -> Ag2SO3 (s)}$
 
 > [!tip] Choice of acid for acidification
 > - $\ce{HCl(aq)}$ contains $\ce{Cl-(aq)}$, which would interfere with the test.

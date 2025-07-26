@@ -21,7 +21,7 @@
 [[Concentration and molarity of solution]]:
 - **Concentrated solution**: A concentrated solution is a solution with a <span class="hi-green"><u>high amount</u></span> of <span class="hi-blue">solute</span> dissolved in the <span class="hi-blue">solvent</span>.
 - **Saturated solution**: A saturated solution is a solution that has <u>dissolved all the solute</u> it can <span class="hi-green">at a given temperature</span>.
-↪️ *See also: [[Crystallization]]*
+↪ *See also: [[Crystallization]]*
 
 [[pH scale, acidity and alkalinity]] / [[Acid-base Indicators]]:
 - **Acidic environment**: $\ce{[H+(aq)] > [OH-(aq)]}$

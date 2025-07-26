@@ -19,16 +19,16 @@
 
 # Sources of variations
 1. **Sexual reproduction**
-   ↪️ Produces offspring with a mix of genetic materials from parents.
+   ↪ Produces offspring with a mix of genetic materials from parents.
 
 2. [[Independent assortment]]
-   ↪️ Results in different combinations of chromosomes.
+   ↪ Results in different combinations of chromosomes.
 
 3. [[Crossing over]]
-   ↪️ Results in new combinations of alleles in chromosomes.
+   ↪ Results in new combinations of alleles in chromosomes.
 
 4. **Random fusion of gametes at fertilization**
-   ↪️ Results in zygote with different combinations of genetic materials.
+   ↪ Results in zygote with different combinations of genetic materials.
 
 5. [[Mutations]]
-   ↪️ Results in new alleles.
+   ↪ Results in new alleles.

@@ -53,4 +53,4 @@
 Atom economy and percentage yield do not show any relationships.
 - The calculation of atom economy is <u>based on a 100% complete reaction</u>.
 - However, <u>most of the reactions do not go to completion</u>, and the yield is related to the <u>extent of reaction</u>.
-↪️ See also: HKDSE 2013 Paper 2 Q1(c)(iv)
+↪ See also: HKDSE 2013 Paper 2 Q1(c)(iv)

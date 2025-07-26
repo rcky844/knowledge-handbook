@@ -53,7 +53,7 @@ liver, fish-liver oil, milk, cheese, egg yolk
 
 *Functions*:
 Helps the <span class="hi-green">absorption of calcium and phosphate ions</span> from the intestine.
-↪️ For <span class="hi-blue">bone formation / development</span>
+↪ For <span class="hi-blue">bone formation / development</span>
 
 *Deficiency symptoms / diseases*:
 - <span class="hi-blue">Rickets</span> (affects bone development in children)

@@ -82,7 +82,7 @@ The reaction between calcium and water is least vigorous than potassium and sodi
 
 > [!note]
 > <u>Very dilute</u> $\ce{HNO3 (aq)}$ can be used to form soluble substances with calcium and lead.
-> ↪️ $\ce{Pb (s) + 2HNO3 (aq) -> Pb(NO3)2 (aq) + H2 (g)}$
+> ↪ $\ce{Pb (s) + 2HNO3 (aq) -> Pb(NO3)2 (aq) + H2 (g)}$
 
 # Displacement reaction
 **Displacement reaction** is a reaction between a more reactive metal species and a less reactive metallic ion containing solution. It can be used to deduce the reactivity of metals.

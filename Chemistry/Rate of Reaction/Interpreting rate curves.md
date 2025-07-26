@@ -15,14 +15,14 @@
 
 - **Identification of chemical species**
   The <span class="hi-green">reactant will decrease in amount</span> while the <span class="hi-green">product will increase in amount</span> during the reaction.
-  ↪️ $\ce{Q(g)}$ is a reactant, while $\ce{P(g)}$ is a product.
+  ↪ $\ce{Q(g)}$ is a reactant, while $\ce{P(g)}$ is a product.
 
 > [!note]
 > In completed irreversible reactions, no limiting reagent is left.
 
 - **Ratio of change of chemical species**
   Rate curves have to follow the stochiometric ratio of a chemical equation. In the above example, $\ce{Q(g) -> 2P(g)}$.
-  ↪️ The <span class="hi-green">change</span> (increase) in amount of $\ce{P}$ double the <span class="hi-green">change</span> (decrease) in amount of $\ce{Q}$.
+  ↪ The <span class="hi-green">change</span> (increase) in amount of $\ce{P}$ double the <span class="hi-green">change</span> (decrease) in amount of $\ce{Q}$.
 
 ---
 

@@ -49,7 +49,7 @@ Energy transfer between different trophic levels is <u>inefficient</u>, only a s
 ## Representations
 ### Food chains
 *Example*: grass → grasshopper → sparrow
-↪️ Represents the <u>direction of energy flow</u> from one organism to the next.
+↪ Represents the <u>direction of energy flow</u> from one organism to the next.
 
 ### Food webs
 *Example*: (formed by multiple food chains)

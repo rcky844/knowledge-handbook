@@ -80,7 +80,7 @@ Chromosome number (Meiosis II) ⤴
    - [[Independent assortment]] (or random segregation)
    - [[Crossing over]]
    - Random fusion of gametes at fertilisation
-   ↪️ See also: [[Mendel's laws of inheritance#Mendal's laws]]
+   ↪ See also: [[Mendel's laws of inheritance#Mendal's laws]]
 
 # Non-disjunction
 ## Anaphase I

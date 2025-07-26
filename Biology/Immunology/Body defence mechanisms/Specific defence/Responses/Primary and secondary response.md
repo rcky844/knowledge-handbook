@@ -37,4 +37,4 @@ The pathogen has time to <span class="hi-green">reproduce</span> and cause harm.
 **Disease symptoms**: May not appear
 The pathogens are killed before they can reproduce and cause harm.
 
-↪️ The individual is referred to as immune to the disease in a secondary response.
+↪ The individual is referred to as immune to the disease in a secondary response.

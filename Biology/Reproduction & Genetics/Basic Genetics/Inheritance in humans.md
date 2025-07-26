@@ -36,7 +36,7 @@ $r$: recessive allele for red-green color blindness
 |  $X^R Y$  |         Normal male         |
 |  $X^r Y$  |          Sick male          |
 - Males have only one X chromosome, and if their X chromosome carries the recessive allele, they will suffer from the disorder.
-  ↪️ <u>X-linked recessive inheritance is more common in males than females.</u>
+  ↪ <u>X-linked recessive inheritance is more common in males than females.</u>
 
 ![[genetic_diagram3.webp|450]]
 

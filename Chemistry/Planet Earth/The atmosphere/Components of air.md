@@ -13,8 +13,8 @@
 > [!info] Noble gases
 > They are all *chemically inert* and do not react with other substances easily.
 > - **Helium** ($\ce{He}$): Lower density than air
->   ↪️ Fill helium balloons
+>   ↪ Fill helium balloons
 > - **Neon** ($\ce{Ne}$): Glows and lights when electricity passes through
->   ↪️ Fill neon light tubes / advertising signs
+>   ↪ Fill neon light tubes / advertising signs
 > - **Argon** ($\ce{Ar}$)
->   ↪️ Fill light bulbs as it doesn't react with the metal (tungsten) filament
+>   ↪ Fill light bulbs as it doesn't react with the metal (tungsten) filament

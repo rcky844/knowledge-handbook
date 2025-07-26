@@ -10,7 +10,7 @@ They are mainly obtained from <span class="hi-blue">left over embryos after IVF<
 
 ## Adult stem cells
 **Adult stem cells** are undifferentiated cells found in various tissues, such as the <u>bone marrow, blood and skin</u>.
-↪️ *Tissue-specific* - Produce new cells to replace the dead or damaged cells in the tissues they are found.
+↪ *Tissue-specific* - Produce new cells to replace the dead or damaged cells in the tissues they are found.
 
 These cells can only develop into a limited number of cell types, and are described as <span class="hi-blue">multipotent</span> stem cells. They see limited usage.
 

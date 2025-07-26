@@ -12,7 +12,7 @@
 *Underlying principles*:
 - Water boils at 100°C while the salts do not.
 - Water vapour condenses to liquid in the condenser.
-↪️ **See also**: HKDSE 2013 Paper 1B Q1(b)(i)
+↪ **See also**: HKDSE 2013 Paper 1B Q1(b)(i)
 
 # 'Quickfit' set-up
 ![[simple_distillation_quickfit.webp|550]]

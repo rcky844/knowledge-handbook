@@ -83,7 +83,7 @@ To reach the <span class="hi-green">opaque / turbid stage</span> of the reaction
 - The initial rate can only be approximated as it is <span class="hi-green">difficult to determine the time to reach the opaque stage</span>.
 
 *Example*: $\ce{S2O3^2-(aq) + 2H+(aq) → SO2(aq) + H2O(ℓ) + S(s)}$
-↪️ $\ce{S2O3^2-(aq)}$: thiosulphate ion
+↪ $\ce{S2O3^2-(aq)}$: thiosulphate ion
 
 > [!note]
 > - This method is not suitable for applying to reactions which is rapid, since it is not possible to measure the time for the precipitate to form. One example of such reaction is <span class="hi-blue">precipitation</span>.

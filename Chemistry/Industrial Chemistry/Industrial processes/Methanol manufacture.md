@@ -33,7 +33,7 @@ Suggest why methanol is an important compound to chemical industry.
 
 > [!tip] Production & composition of town gas
 > In Hong Kong, town gas is not made from coal but from <span class="hi-blue">naphtha</span> ($\ce{C5H12}$ & $\ce{C6H14}$) by steam reforming.
-> ↪️ *Advantages for using naphtha*: Less air pollutants are produced compared to coal.
+> ↪ *Advantages for using naphtha*: Less air pollutants are produced compared to coal.
 > 
 > Town gas contains both <span class="hi-green">combustible</span> ($\ce{H2, CH4, CO}$) and <span class="hi-green">non-combustible components</span> ($\ce{CO2}$).
 

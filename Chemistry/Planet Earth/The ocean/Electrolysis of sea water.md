@@ -5,7 +5,7 @@ When electricity is passed through sea water, chemical reactions are forced to o
 - Chlorine gas ($\ce{Cl2 (g)}$) is formed at the positive electrode.
 - Hydrogen gas ($\ce{H2 (g)}$) is formed at the negative electrode.
 - The solution in the set-up (sea water) becomes sodium hydroxide solution ($\ce{NaOH}$).
-↪️ $\ce{sea water ->[electrolysis] hydrogen + chloride + sodium hydroxide}$
+↪ $\ce{sea water ->[electrolysis] hydrogen + chloride + sodium hydroxide}$
 
 # Uses of products of electrolysis of sea water
 ## Hydrogen
@@ -19,7 +19,7 @@ When electricity is passed through sea water, chemical reactions are forced to o
 - To make <span class="hi-blue">PVC</span>
 - To make solvents (e.g. $\ce{CCl4}$)
 - To make <span class="hi-blue">chlorine bleach</span> by dissolving in sodium hydroxide
-  ↪️ $\ce{2NaOH(aq) + Cl2(g) → NaCl(aq) + NaClO(aq) + H2O(ℓ)}$
+  ↪ $\ce{2NaOH(aq) + Cl2(g) → NaCl(aq) + NaClO(aq) + H2O(ℓ)}$
 - To make <span class="hi-blue">hydrochloric acid</span> with hydrogen gas
 
 ## Sodium hydroxide

@@ -13,21 +13,21 @@ To demonstrate their acid-base properties, add them to water or react with anoth
 ## Sodium oxide ($\ce{Na2O}$)
 - **Reaction with water (very vigorous)**
   $\ce{Na2O(s) + H2O(ℓ) -> 2NaOH(aq)}$
-  ↪️ $\ce{NaOH}$ is alkaline.
+  ↪ $\ce{NaOH}$ is alkaline.
 
 - **Reaction with acid**
   $\ce{Na2O(s) + 2HCl(aq) -> 2NaCl(aq) + H2O(ℓ)}$
-  ↪️ The reaction is a neutralization reaction, producing salt and water only.
+  ↪ The reaction is a neutralization reaction, producing salt and water only.
 
 ## Aluminium oxide ($\ce{Al2O3}$)
 $\ce{Al2O3}$ is <span class="hi-blue">amphoteric</span>. It shows both acidic and basic properties.
 - **Reaction with acid**
   $\ce{Al2O3(s) + 3H2SO4(aq) -> Al2(SO4)3(aq) + 3H2O(ℓ)}$
-  ↪️ The reaction is a neutralization reaction, producing salt and water only.
+  ↪ The reaction is a neutralization reaction, producing salt and water only.
 
 - **Reaction with alkali**
   $\ce{Al2O3(s) + NaOH(aq) + 3H2O(ℓ) -> NaAl(OH)4(aq)}$
-  ↪️ $\ce{NaAl(OH)4}$ is called sodium tetrahydroxoaluminate.
+  ↪ $\ce{NaAl(OH)4}$ is called sodium tetrahydroxoaluminate.
 
 ## Sulphur dioxide ($\ce{SO2}$)
 > [!note]
@@ -58,7 +58,7 @@ $\ce{Al2O3}$ is <span class="hi-blue">amphoteric</span>. It shows both acidic an
 
 - **Reaction with alkali**
   $\ce{SiO2(s) + 2NaOH(aq) ⇌ Na2SiO3(aq) + H2O(ℓ)}$
-  ↪️ The reaction is a neutralization reaction, producing salt (sodium silicate) and water only.
+  ↪ The reaction is a neutralization reaction, producing salt (sodium silicate) and water only.
 
 - **Ionic equation of neutralization**
   $\ce{SiO2(s) + 2OH-(aq) ⇌ SiO3^2-(aq) + H2O(ℓ)}$

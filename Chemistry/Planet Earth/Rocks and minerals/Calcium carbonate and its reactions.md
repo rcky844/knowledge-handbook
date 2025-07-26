@@ -11,7 +11,7 @@ Limestone is one of the most common types of rock found in Earth’s crust. It i
 
 *Differences in strength between chalk, limestone and marble*:
 Higher pressure and heat cause chalk to turn into much harder limestone. Even higher pressure and heat would turn limestone into marble.
-↪️ Strength: marble > limestone > chalk
+↪ Strength: marble > limestone > chalk
 
 # Chemical reactions of calcium carbonate
 ![[caco3_cycle.svg]]
@@ -19,31 +19,31 @@ Higher pressure and heat cause chalk to turn into much harder limestone. Even hi
 
 1. **Thermal decomposition of calcium carbonate**
    Calcium carbonate will be decomposed on strong heating into calcium oxide (quicklime) and carbon dioxide.
-   ↪️ $\ce{CaCO3 (s) -> CaO (s) + CO2 (g)}$
+   ↪ $\ce{CaCO3 (s) -> CaO (s) + CO2 (g)}$
 
 2. **Addition of little water to calcium oxide**
    When a few drops of water is added to calcium oxide (quicklime), it becomes crumbled and water is absorbed. Calcium hydroxide (slaked lime) is formed.
-   ↪️ $\ce{CaO (s) + H2O (ℓ) -> Ca(OH)2 (s)}$
+   ↪ $\ce{CaO (s) + H2O (ℓ) -> Ca(OH)2 (s)}$
 
 3. **Addition of excess water to calcium hydroxide**
    When calcium hydroxide is added into excess amount of water, the amount of water is sufficient to dissolve the slightly soluble calcium hydroxide. Soluble aqueous calcium hydroxide (limewater) is formed. It is a colourless solution.
-   ↪️ $\ce{Ca(OH)2 (s) ->[dissolve] Ca(OH)2 (aq)}$
+   ↪ $\ce{Ca(OH)2 (s) ->[dissolve] Ca(OH)2 (aq)}$
 	  - Saturated limewater is used to for chemical tests, it can be produced by adding excess slaked lime ($\ce{Ca(OH)2 (s)}$) into water, and filtered off to remove the excess undissolved solid.
 
 4. **Addition of excess carbon dioxide to limewater**
    *See also: [[Test for carbon dioxide gas]]*
    Passing carbon dioxide gas into limewater turns it <u>from colourless to milky</u> due to the formation of insoluble calcium carbonate.
-   ↪️ $\ce{Ca(OH)2 (aq) + CO2 (g) -> CaCO3 (s) + H2O (ℓ)}$
+   ↪ $\ce{Ca(OH)2 (aq) + CO2 (g) -> CaCO3 (s) + H2O (ℓ)}$
 
 ## Additional chemical reactions
 - When <u><span class="hi-blue">excess</span> carbon dioxide is passed into limewater</u>, the solution turns <u>from milky to colourless</u> due to the formation of water soluble calcium hydrogencarbonate ($\ce{Ca(HCO3)2 (aq)}$).
-  ↪️ $\ce{CaCO3 (s) + H2O (ℓ) + CO2 (g) -> Ca(HCO3)2 (aq)}$
+  ↪ $\ce{CaCO3 (s) + H2O (ℓ) + CO2 (g) -> Ca(HCO3)2 (aq)}$
 
 - Calcium can also react with carbonic acid ($\ce{H2CO3}$) to form calcium hydrogencarbonate ($\ce{Ca(HCO3)2 (aq)}$).
-  ↪️ $\ce{CaCO3 (s) + H2CO3 (aq) -> Ca(HCO3)2 (aq)}$
+  ↪ $\ce{CaCO3 (s) + H2CO3 (aq) -> Ca(HCO3)2 (aq)}$
 
 - Calcium can also react with hydrochloric acid ($\ce{HCl (aq)}$) to give a dissolved salt of $\ce{CaCl2 (aq)}$, colourless gas bubble of $\ce{CO2 (g)}$ and $\ce{H2O (ℓ)}$.
-  ↪️ $\ce{CaCO3 (s) + 2HCl (aq) -> CaCl2 (aq) + CO2 (g) + H2O (ℓ)}$
+  ↪ $\ce{CaCO3 (s) + 2HCl (aq) -> CaCl2 (aq) + CO2 (g) + H2O (ℓ)}$
 
 ## Uses of products
 *Limestone*:

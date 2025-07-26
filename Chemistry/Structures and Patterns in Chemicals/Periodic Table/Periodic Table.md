@@ -21,7 +21,7 @@ The atoms of elements in the same period have the same number of occupied electr
 Moving across the Periodic Table from left to right, some patterns can be observed.
 - Elements change from metal to metalloid (semi-metal) to non-metal across a period.
 - Melting points of elements of elements increase then decrease across a period.
-↪️ These patterns are referred to as [[periodicity]].
+↪ These patterns are referred to as [[periodicity]].
 
 # Duplet / octet rule
 All noble gases are chemically inert and chemically stable as they have a fully occupied outermost shell electron shell.

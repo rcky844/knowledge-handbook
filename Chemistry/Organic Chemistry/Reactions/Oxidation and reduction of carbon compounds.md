@@ -21,7 +21,7 @@
 	{\color{green}carboxylic acid}
 \end{document}
 ```
-↪️ **Application**: breathalyser
+↪ **Application**: breathalyser
 
 *For 2° alcohol*:
 ```tikz

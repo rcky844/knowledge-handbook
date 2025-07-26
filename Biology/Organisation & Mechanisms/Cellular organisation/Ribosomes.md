@@ -8,4 +8,4 @@
 - They are produced in the [[nucleus|nucleolus]].
 
 - They can be free ribosomes or attached to rough ER.
-  ↪️ *See also: [[Gene expression and protein synthesis#Translation]]*
+  ↪ *See also: [[Gene expression and protein synthesis#Translation]]*

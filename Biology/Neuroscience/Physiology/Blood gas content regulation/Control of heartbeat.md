@@ -75,7 +75,7 @@ A **cardiac cycle** is a sequence of events starting from one contraction of the
 
 - **Strength of ventricular contraction**
   It determines the maximum volume of blood pumped out of the heart in each heartbeat.
-↪️ *See also*: HKDSE 2014 Paper 2 Q1(b)(ii)
+↪ *See also*: HKDSE 2014 Paper 2 Q1(b)(ii)
 
 ## Nervous control
 *Factors influencing control of cardiac output*:

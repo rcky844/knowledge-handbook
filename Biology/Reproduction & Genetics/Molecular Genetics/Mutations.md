@@ -10,13 +10,13 @@ A **gene mutation** is a <span class="hi-green">change in the base sequence of D
 - **Inversion**: A sequence of bases is reversed.
 
 Insertion or deletion of bases by a number other than a multiple of three will <u>shift the reading frame</u>. Every codon after the point of mutation will be affected. The protein produced have a <u>different sequence of amino acids and usually cannot function</u>.
-↪️ See also: [[Genetic code]] (*Triplet code*)
+↪ See also: [[Genetic code]] (*Triplet code*)
 
 Substitution or inversion of bases does not cause a reading frame shift, but changes one codon for another. It may cause several effects on the amino acid sequence:
 
 - **Codon codes for the same amino acid** (silent mutation)
   Amino acid sequence remains the same.
-  ↪️ See also: [[Genetic code]] (*Degenerate code*)
+  ↪ See also: [[Genetic code]] (*Degenerate code*)
 
 - **Codon codes for a different amino acid**
   Amino acid sequence is changed, the polypeptide may fold into a protein with a <u>different conformation</u>, the protein may not function properly.
@@ -39,7 +39,7 @@ A **chromosome mutation** is a <span class="hi-green">change in the structure</s
 - **Duplication**: A segment of a chromosome is inserted to the homologous chromosome.
 - **Inversion**: A segment of a chromosome breaks off and rotates through 180° before rejoining.
 - **Translocation**: A segment of a chromosome breaks off and becomes attached to a non-homologous chromosome.
-↪️ These changes often arise from errors during the [[crossing over]] of chromosomes in meiosis.
+↪ These changes often arise from errors during the [[crossing over]] of chromosomes in meiosis.
 
 ## Change in number
 **Non-disjunction** is when the <u>members of a pair of homologous chromosomes fail to separate</u> during [[Meiotic cell division|meiosis]] I, and they end up in the same gamete. Alternatively, sister chromatids may fail to separate during [[Meiotic cell division|meiosis]] II.

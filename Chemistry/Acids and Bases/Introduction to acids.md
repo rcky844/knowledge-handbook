@@ -21,7 +21,7 @@ An **acid** ionizes in water to give hydrogen as the only cation.
 # Reactions
 1. **With metals**
    Products: salt + hydrogen
-   ↪️ Main article: [[Reactivity of metals]]
+   ↪ Main article: [[Reactivity of metals]]
 
 2. **With oxides / hydroxides**
    Products: salt + water

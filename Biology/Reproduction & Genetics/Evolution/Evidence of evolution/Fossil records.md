@@ -4,7 +4,7 @@
 - Burial of dead organisms in <span class="hi-blue">sediments</span>
 - Preservation of dead organisms by <span class="hi-blue">freezing</span> (in permafrost)
 - Organisms <span class="hi-blue">trapped in resin</span>
-↪️ See also: [[Hydrocarbons]]
+↪ See also: [[Hydrocarbons]]
 
 # Fossil records and evolution
 For fossils found in sedimentary rocks:

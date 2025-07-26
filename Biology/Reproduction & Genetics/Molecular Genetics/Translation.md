@@ -16,7 +16,7 @@
 
 # Synthesis of a polypeptide
 *Pre-context: [[Genetic code]]*
-↪️ Some triplet codes serve as 'start signal' or 'stop signals' for protein synthesis.
+↪ Some triplet codes serve as 'start signal' or 'stop signals' for protein synthesis.
 (Start: AUG; End: UAA / UAG / UGA)
 
 - First, molecule of mRNA binds to a [[Ribosomes|ribosome]]. tRNA in the cytoplasm complementary to the codons <u>binds to the start codon on the mRNA</u>, carrying amino acid.

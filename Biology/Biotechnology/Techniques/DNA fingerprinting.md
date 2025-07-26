@@ -70,7 +70,7 @@ The phenomenon of <span class="hi-orange">length polymorphism</span> can be expl
 
 > [!note]
 > DNA fingerprints of a pair of identical twins show the same band patterns, so it can be used to determine whether both twins are identical or fraternal.
-> ↪️ *See also*: [[Development of embryo and fetus#Formation of twins]]
+> ↪ *See also*: [[Development of embryo and fetus#Formation of twins]]
 
 3. **Victim identification**
    DNA fingerprinting can be used to identify the <span class="hi-green">remains of victims</span> in natural disasters, especially when the body is badly decomposed or if only parts of the body is found. DNA samples recovered from personal items are used for comparison.

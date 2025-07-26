@@ -18,7 +18,7 @@ Consider the <span style="color: violet">electrolysis of dilute or concentrated 
 **Points to note**:
 - Mole ratio of $\ce{H2(g) : Cl2(g)}$ = Volume ratio of $\ce{H2(g) : Cl2(g)}$ = $1:1$
 - The volume of chlorine collected may be significantly smaller than the theoretical volume, as part of the $\ce{Cl2(g)}$ dissolves / reacts with water.
-  ↪️ $\ce{Cl2(g) + H2O(ℓ) <=> HCl(aq) + HOCl(aq)}$
+  ↪ $\ce{Cl2(g) + H2O(ℓ) <=> HCl(aq) + HOCl(aq)}$
 
 **Observation with universal indicator**:
 *Anode*:

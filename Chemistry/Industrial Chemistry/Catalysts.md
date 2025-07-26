@@ -3,7 +3,7 @@
 	- Catalyst may undergo chemical change during reaction, but it must be <span class="hi-blue">regenerated</span> after the reaction.
 
 2. **Catalyst** increases the rate of reaction by <u>providing an alternative reaction pathway with lower activation energy</u>.
-   ↪️ See also: [[Activation energy and energy profiles]]
+   ↪ See also: [[Activation energy and energy profiles]]
 
 3. A **catalyst** is needed in a very small amount.
 
@@ -11,7 +11,7 @@
 
 5. A **catalyst** is easily <span class="hi-blue">poisoned</span> by a small amount of impurities. The catalytic effect will be decreased once the catalyst is contaminated.
 	- $\ce{Pt}$ catalyst in catalytic converter in motor cars is easily <span class="hi-green">poisoned by lead compounds</span>, leaded fuels cannot be used.
-	  ↪️ See also: [[Combustion#Catalytic converters]]
+	  ↪ See also: [[Combustion#Catalytic converters]]
 
 6. The **catalytic effect** will be <u>increased when the surface area of the catalyst is increased</u> (e.g. using porous / finely divided catalysts).
 	- Increasing the surface area of a catalyst will <span class="hi-green">increase the collision frequency</span> between the catalyst and reactant particles.

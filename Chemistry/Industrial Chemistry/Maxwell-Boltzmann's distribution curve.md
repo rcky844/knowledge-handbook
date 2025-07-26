@@ -24,7 +24,7 @@ The shaded region under the curve shows the number of particles having energy eq
 - An increase in temperature can increase the (average) kinetic energy of molecules.
 - There is a larger portion of molecules having kinetic energy equal to or greater than activation energy.
 - The collision frequency and hence the effective collisions per unit time increase. Rate of reaction increases.
-↪️ See also: HKDSE 2013 Paper 2 Q1(a)
+↪ See also: HKDSE 2013 Paper 2 Q1(a)
 
 # Presence of catalyst
 ![[maxwell_boltzmann_catalyst.avif|450]]
@@ -32,4 +32,4 @@ The shaded region under the curve shows the number of particles having energy eq
 *Explanation*:
 - Catalyst increases the rate of reaction by providing an alternative reaction pathway with <u>lower activation energy</u>.
 - More molecules will have energy equal or greater than $E_a$, effective collisions per unit time increases.
-↪️ See also: HKDSE 2021 Paper 2 Q1(b)
+↪ See also: HKDSE 2021 Paper 2 Q1(b)

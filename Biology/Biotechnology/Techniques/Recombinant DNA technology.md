@@ -44,7 +44,7 @@
 - <span class="hi-green">Induce</span> the expression of the gene to encode the protein product.
 - <span class="hi-green">Extract</span> and <span class="hi-green">purify</span> the proteins produced.
 
-↪️ *Example*: [[Production of human insulin]]
+↪ *Example*: [[Production of human insulin]]
 
 # Applications
 *Medicine*:

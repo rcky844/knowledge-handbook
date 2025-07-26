@@ -35,7 +35,7 @@ In **tin-plating**, the iron surface is <u>completely</u> coated by tin.
 > Zinc ions are poisonous, they are not used for coating food cans.
 
 - When the tin metal is incomplete (e.g. being scratched), part of the iron will be exposed. Since tin is less reactive than iron, and iron is now in contact with tin, iron will rust even faster than without contacting tin.
-  ↪️ Therefore, tin-plated food can should not be consumed when it is scratched or deformed.
+  ↪ Therefore, tin-plated food can should not be consumed when it is scratched or deformed.
 
 ## Galvanization
 **Galvanization** is <u>zinc-plating</u>, zinc loses electrons more readily than iron to prevent rusting.

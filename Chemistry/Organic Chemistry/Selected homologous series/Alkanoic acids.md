@@ -24,7 +24,7 @@
 > \end{document}
 > ```
 > 
-> ↪️ The relative molecular mass of alkanoic acid is multiplied by 2.
+> ↪ The relative molecular mass of alkanoic acid is multiplied by 2.
 > e.g. $\ce{CH3COOH}$
 > $12\times2 + 16\times2 + 1\times4 = 60$ (=> 120)
 

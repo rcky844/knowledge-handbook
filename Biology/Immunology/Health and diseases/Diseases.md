@@ -21,7 +21,7 @@
 - Adopting healthy lifestyles
 - Maintaining good personal hygiene
 
-↪️ Reduces the chances of getting infectious and non-infectious diseases.
+↪ Reduces the chances of getting infectious and non-infectious diseases.
 (e.g. cancer & heart diseases)
 
 ## Community health

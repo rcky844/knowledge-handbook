@@ -3,7 +3,7 @@
 *Goals of osmoregulation*:
 - Keeping the [[Osmosis|water potential]] of the blood and tissue fluid constant (water balance)
 - Maintaining a stable environment for cells to function properly
-↪️ Achieved by <u>actively retaining or releasing water</u> in urine
+↪ Achieved by <u>actively retaining or releasing water</u> in urine
 
 # Mechanism
 **Osmoregulation** is controlled by a [[negative feedback mechanism]]. This involves urine production, which is brought about by <span class="hi-blue">antidiuretic hormone (ADH)</span>.

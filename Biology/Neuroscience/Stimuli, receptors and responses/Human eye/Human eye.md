@@ -88,7 +88,7 @@ The eyeball is divided into two chambers by the lens internally.
 - **Posterior chamber**
 	- Space between the lens and the retina, filled with <span class="hi-blue">vitreous humour</span>, a clear and jelly-like fluid secreted by the <span class="hi-blue">ciliary body</span>.
 
-↪️ These chambers help <span class="hi-green">keep the shape of the eyeball</span> by maintaining the intraocular pressure and inflates the globe of the eye, and <span class="hi-green">refract and focus light</span> onto the retina.
+↪ These chambers help <span class="hi-green">keep the shape of the eyeball</span> by maintaining the intraocular pressure and inflates the globe of the eye, and <span class="hi-green">refract and focus light</span> onto the retina.
 
 # Optics of the eye
 ![[eye_optics.webp|450]]

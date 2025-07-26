@@ -6,4 +6,4 @@ The **cell wall** is a thick, rigid layer made up of <span class="hi-blue">cellu
 
 > [!tip] Composition of cell wall
 > The cell wall in some organisms is not made up of cellulose, but peptidoglycan, chitin or other compounds.
-> ↪️ *See also: [[Eubacteria]] / [[Archaebacteria]] / [[Fungi]]*
+> ↪ *See also: [[Eubacteria]] / [[Archaebacteria]] / [[Fungi]]*

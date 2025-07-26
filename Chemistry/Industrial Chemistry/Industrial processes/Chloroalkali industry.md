@@ -5,7 +5,7 @@
 > [!note]
 > - In industrial production, sea water is not used as the feedstock directly, as it contains not only $\ce{NaCl}$, but also other dissolved minerals.
 > - However, seawater can be purified to obtain conc. $\ce{NaCl}$ solution.
-> ↪️ *See also*: HKDSE 2015 Paper 2 Q1(c)(i - iv)
+> ↪ *See also*: HKDSE 2015 Paper 2 Q1(c)(i - iv)
 
 # Working principle
 ![[electrolysis_brine.webp|300]]
@@ -21,7 +21,7 @@
 *Resulting electrolyte*:
 - $\ce{H+(aq)}$ ions are preferentially discharged, the ions left will be $\ce{Na+(aq)}$ ions. The equilibrium position of self-ionization of water ($\ce{H2O(ℓ) <=> H+(aq) + OH-(aq)}$) will shift to the product side to produce more $\ce{H+(aq)}$ (together with $\ce{OH-(aq)}$ ions).
 - $\ce{Cl-(aq)}$ ions are preferentially discharged, the ions left will be $\ce{OH-(aq)}$.
-↪️ Sodium hydroxide solution ($\ce{NaOH}$) is formed.
+↪ Sodium hydroxide solution ($\ce{NaOH}$) is formed.
 
 *Overall equation*:
 $\ce{2NaCl(aq) + 2H2O(ℓ) -> 2NaOH(aq) + H2(g) + Cl2(g)}$

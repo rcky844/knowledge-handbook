@@ -3,7 +3,7 @@
 - A **solute** is a substance to be dissolved by the solvent.
 - A **solvent** is a substance to dissolve the solute.
 - A **solution** is formed when the <u>solute dissolves in the solvent</u>.
-↪️ solute + solvent → solution
+↪ solute + solvent → solution
 
 ## Solubility
 - Substances that can dissolve in the solvent are **soluble**.

@@ -14,7 +14,7 @@
 
 # Atomic number and mass number
 Atoms of different elements have different number of protons.
-↪️ The number of protons of an element is referred to the atomic number.
+↪ The number of protons of an element is referred to the atomic number.
 
 The mass number of an atom is the sum of the number of protons and atoms in an atom. The number of electrons is not counted as their mass is negligible.
 - The number of neutrons in an atoms can be deduced by subtracting the mass number by the atomic number.
