@@ -16,5 +16,5 @@
 	- **Enthalpy change of formation** is the enthalpy change when <span class="hi-green">1 mole of substance is formed from its <u>constituent elements</u></span> under constant pressure.
 	- **Enthalpy change of reaction** is the enthalpy change when the reactants react according to the molar quantity stated in a specific equation under constant pressure (/ standard conditions).
 
-[[Hess's law]]:
+[[Hess's Law]]:
 - The total enthalpy change of a chemical reaction is <span class="hi-green">independent of the pathway</span> between the initial and final states. (HKDSE 2017 Paper 1B Q7(b))
