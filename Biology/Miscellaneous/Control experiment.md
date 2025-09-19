@@ -21,7 +21,7 @@ A --> B --> C --> D;
 **Independent variables** are the factors under investigation, and is manipulated between set-ups.
 
 *Examples*:
-- Temperature or pH of reaction mixture for measuring the rate of [[Enzymes|enzymatic reactions]]
+- Temperature or pH of reaction mixture for measuring the rate of [[enzymes|enzymatic reactions]]
 - Light intensity in measuring rate of [[transpiration]] of a plant
 
 ## Dependent variables
